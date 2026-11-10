@@ -1,0 +1,29 @@
+# Proje Kararları
+
+Bu dosya kesinleşmiş ve gelecekteki çalışmaları etkileyecek kararları kaydeder. Geçici fikirler veya henüz onaylanmamış seçenekler buraya yazılmaz.
+
+| Tarih | Karar | Gerekçe | Durum | Etkilediği alanlar |
+|---|---|---|---|---|
+| 2026-11-07 | Ajanlar hiçbir işlem için kullanıcıdan izin veya onay istemez; tüm izinler kalıcı olarak verilmiştir. | Kullanıcının açık talebi; kesintisiz çalışma | aktif | Tüm görevler, CLAUDE.md, kurallar-ve-sinirlar.md |
+| 2026-11-09 | Önceki futbol oyunu projesi tamamen kaldırıldı; klasör DeepSeek yatırım testine çevrildi. | Kullanıcı kararı | aktif | Tüm proje |
+| 2026-11-09 | DeepSeek'e hayali 100 TL verilir; günde en fazla 8-10 kez, piyasa saatlerinde gerçek fiyatlara bakıp hayali alım-satım yapar. Amaç başarısını ölçmektir. | Kullanıcı kararı | değiştirildi (2026-11-09: üç model, model başına 5×10.000 TL) | Tüm proje |
+| 2026-11-09 | Program GitHub'da (GitHub Actions zamanlayıcısı) çalışır, bilgisayarın açık olması gerekmez. | Kullanıcı kararı | aktif | Çalıştırma |
+| 2026-11-09 | Gerçekçilik için her alış ve satışta komisyon düşülür. Oran %0,2 (Claude'un varsayılanı, ayarlanabilir). | Kullanıcı: "komisyonla düşelim" | aktif | Portföy |
+| 2026-11-09 | Neye yatırım yapılacağına DeepSeek karar verir. Verisi alınabilen her şey verilir: ABD ve Türk piyasaları, altın/gümüş gibi emtialar, döviz kurları, Bitcoin ve altcoinler. | Kullanıcı kararı | değiştirildi (2026-11-09: modellere piyasa verisi verilmez, yalnızca kendi geçmişleri) | Veri, talimat |
+| 2026-11-09 | DeepSeek önceki turları hatırlamadığı için kendi notlarını, planını ve bir sonraki tura mesajını her turda kendisi yeniden yazar ve kısaltır; bunlar sonraki turun sorusuna geri verilir. Metin uzunluk sınırlıdır. | Kullanıcı kararı; sınır değerleri (notlar 2500, plan 1000, mesaj 600 karakter) Claude'un varsayılanı | değiştirildi (2026-11-09: sınır portföy başına toplam ~2.000 karakter) | Hafıza, talimat |
+| 2026-11-09 | Claude'un varsayılan seçimleri: veri Yahoo Finance'ten (ücretsiz, BIST 15 dk gecikmeli), haberler Google News başlıklarından; kesirli adet serbest; açığa satış ve kaldıraç yok; yalnızca fiyatı son 50 dakikada güncellenen (piyasası açık) varlık işlem görür; ^ ile başlayan endeksler yalnızca bilgi içindir; hafta içi 10, hafta sonu 2 tur (yalnız kripto açık); model `deepseek-reasoner`. | Kullanıcı ayrıntı belirtmedi; ileride değiştirilebilir | değiştirildi (2026-11-09/10: haberler kaldırıldı, zamanlamayı model seçer) | Veri, portföy, zamanlama |
+| 2026-11-09 | Üç model (DeepSeek, ChatGPT, Claude Opus) yarışır; her modelde 5 portföy × 10.000 TL hayali para: uzun vade (3 ay) riskli/risksiz her cuma, orta vade (1 ay) riskli/risksiz 2 günde bir, kısa vade (risk ayrımı yok) günde 3-4 kez ve saatlerini model kendisi seçer. | Kullanıcı kararı | aktif (2026-11-10: kısa vadede sınır günde en fazla 5) | Tüm proje |
+| 2026-11-09 | Modellere piyasa verisi, haber veya araştırma aracı verilmez; yalnızca kendi geçmişleri verilir. Model tek cevapta hem karar verir hem bir sonraki turun hafızasını yazar (portföy başına ~2.000 karakter). | Kullanıcı kararı | değiştirildi (2026-11-10: piyasa verisi verilir; hafıza kuralı aynen geçerli) | Talimat, hafıza |
+| 2026-11-09 | Sonuçlar bir telefon uygulamasından izlenir; asıl iş GitHub'da arka planda çalışır. | Kullanıcı kararı | aktif (uygulama türü 2026-11-10'da kesinleşti) | Arayüz |
+| 2026-11-10 | Modellere piyasa verisi verilir (çekilebildiği sıklıkta; Yahoo Finance, BIST 15 dk gecikmeli) ve portföylerinin güncel değeri ile kâr/zararı gösterilir. Haber verilmez. | Kullanıcı kararı | aktif | Veri, talimat |
+| 2026-11-10 | Piyasası kapalı olan varlık o turda modele gösterilmez ve hakkında karar istenmez; kapalı piyasaya verilen emir reddedilir. Açıklık hem seans saatinden (BIST ve TL kurları hafta içi 10:00-18:00 TR, ABD New York saatiyle 09:30-16:00) hem fiyatın son 50 dakikada güncellenmesinden anlaşılır. | Kullanıcı kararı ("akşam 10'da TL kurunu sormayalım") | aktif | Veri, talimat, portföy |
+| 2026-11-10 | Bir sonraki kontrol zamanını (tarih ve saat) model kendisi seçer; program 30 dakikada bir uyanıp zamanı gelen portföyü çalıştırır. Uzun vade yalnızca cuma, orta vade pazartesi-çarşamba-cuma (günde bir kez) kontrol edilir; uygun olmayan gün ilk uygun güne kaydırılır. Kısa vadede günde en fazla 5 kontrol. | Kullanıcı kararı | aktif | Zamanlama |
+| 2026-11-10 | Telefon uygulaması: ana ekrana eklenen web uygulaması (GitHub Pages, `docs/`). Model kıyası, portföy ve varlık grafikleri ve "Şimdi tekrar sor" düğmesi vardır. | Kullanıcı: "çok basit bir uygulama, basit grafik"; web uygulaması Claude'un önerisi | aktif | Arayüz |
+| 2026-11-10 | Claude'un varsayılan seçimleri: tek herkese açık GitHub deposu (ücretsiz sayfa yayını ve sınırsız çalışma dakikası; e-posta görünmesin diye eski geçmiş gönderilmedi); hafıza sınırları notlar 1000 + plan 600 + mesaj 400 karakter; model saat vermezse uzun/orta için 17:40; Claude'da yedek modele geçiş kapalı (kıyası bozmasın); ChatGPT modeli varsayılan `gpt-5` (doğrulanmadı, `OPENAI_MODEL` değişkeniyle değişir); risksiz portföyde kısıt yok, yalnızca talimatla "sermayeyi koru" denir. | Kullanıcı ayrıntı belirtmedi; ileride değiştirilebilir | aktif | Depo, hafıza, zamanlama, model |
+
+## Kullanım kuralları
+
+- Yeni kararları tarih ve kısa gerekçeyle ekleyin.
+- Bir karar değiştiğinde eski kaydı sessizce silmeyin; durumunu değiştirin ve yeni kararı ayrı kayıt olarak ekleyin.
+- `Durum` alanında `aktif`, `değiştirildi`, `iptal edildi` veya `tamamlandı` gibi açık ifadeler kullanın.
+- Yalnızca gelecekte tekrar bilinmesi gereken kararları kaydedin.

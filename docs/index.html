@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Yatırım Yarışı</title>
+<meta name="theme-color" content="#0f1115">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Yarış">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="ikon-192.png">
+<link rel="apple-touch-icon" href="ikon-180.png">
+<style>
+:root{--bg:#0f1115;--kart:#181b22;--kart2:#20242d;--yazi:#e8eaf0;--soluk:#8b91a1;--cizgi:#2a2f3a;
+--art:#3ecf8e;--eksi:#ff6b6b;--deepseek:#5b7cff;--chatgpt:#19c37d;--claude:#e08a62;--kiyas:#6b7280}
+@media (prefers-color-scheme: light){:root{--bg:#f4f5f8;--kart:#fff;--kart2:#eef0f4;--yazi:#15171c;--soluk:#5f6675;--cizgi:#dde0e7;--art:#0f9d58;--eksi:#d93025}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--yazi);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+padding:calc(env(safe-area-inset-top) + 12px) 16px calc(env(safe-area-inset-bottom) + 24px)}
+main{max-width:720px;margin:0 auto}
+header>div:last-child{white-space:nowrap}
+header{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:12px}
+h1{font-size:20px;margin:0}
+h2{font-size:15px;margin:22px 0 8px;color:var(--soluk);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+button{font:inherit;border:0;border-radius:10px;padding:8px 12px;background:var(--kart2);color:var(--yazi);cursor:pointer}
+button.ana{background:var(--deepseek);color:#fff}
+.soluk{color:var(--soluk);font-size:13px}
+.kart{background:var(--kart);border-radius:14px;padding:14px;margin-bottom:10px}
+.liderler{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.uc{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin-top:4px;font-size:14px}
+html,body{overflow-x:hidden}
+.lider{background:var(--kart);border-radius:14px;padding:12px;border-top:3px solid var(--r)}
+.lider b{display:block;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--soluk);font-weight:600}
+.lider .deger{font-size:18px;font-weight:700;margin-top:2px}
+.art{color:var(--art)}.eksi{color:var(--eksi)}
+.sekmeler{display:flex;gap:6px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}
+.sekmeler button{white-space:nowrap;font-size:13px}
+.sekmeler button.secili{background:var(--yazi);color:var(--bg)}
+.satir{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 0;border-top:1px solid var(--cizgi)}
+.satir:first-child{border-top:0}
+.model-satir{cursor:pointer}
+.nokta{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:8px;background:var(--r)}
+.sag{text-align:right}
+svg{display:block;width:100%;height:auto}
+.efsane{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12px;color:var(--soluk);margin-top:6px}
+.efsane span::before{content:"";display:inline-block;width:10px;height:3px;border-radius:2px;background:var(--r);margin-right:5px;vertical-align:middle}
+.kiyaslar{display:flex;flex-wrap:wrap;gap:6px}
+.kiyaslar span{background:var(--kart);border-radius:8px;padding:4px 8px;font-size:13px}
+#detay{position:fixed;inset:0;background:var(--bg);overflow-y:auto;display:none;
+padding:calc(env(safe-area-inset-top) + 12px) 16px calc(env(safe-area-inset-bottom) + 24px)}
+#detay.acik{display:block}
+.metin{white-space:pre-wrap;font-size:14px}
+.islem{font-size:13px;padding:8px 0;border-top:1px solid var(--cizgi)}
+.islem:first-child{border-top:0}
+.poz{cursor:pointer}
+.uyari{background:#5b4a00;color:#ffe9a8;border-radius:10px;padding:8px 12px;font-size:13px;margin-bottom:10px}
+input{font:inherit;width:100%;padding:10px;border-radius:10px;border:1px solid var(--cizgi);background:var(--kart2);color:var(--yazi)}
+details summary{cursor:pointer;color:var(--soluk);font-size:14px}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div><h1>Yatırım Yarışı</h1><div class="soluk" id="guncelleme">Yükleniyor…</div></div>
+    <div><button id="ayarBtn" aria-label="Ayarlar">⚙︎</button> <button id="yenileBtn">Yenile</button></div>
+  </header>
+  <div id="icerik"></div>
+</main>
+<div id="detay"><main id="detayIcerik"></main></div>
+
+<script>
+const RENK = {deepseek: "var(--deepseek)", chatgpt: "var(--chatgpt)", claude: "var(--claude)"};
+const KIYAS_RENK = ["#9aa0ad", "#7c8596", "#c9a227", "#f7931a", "#5f9e6e"];
+let V = null, secili = "hepsi";
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const tl = v => v == null ? "-" : v.toLocaleString("tr-TR", {maximumFractionDigits: 0}) + " TL";
+const yz = v => v == null ? "-" : `<span class="${v >= 0 ? "art" : "eksi"}">${v >= 0 ? "+" : ""}${v.toFixed(2)}%</span>`;
+const zaman = iso => iso ? new Date(iso).toLocaleString("tr-TR", {day:"2-digit", month:"2-digit", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Istanbul"}) : "-";
+const ayar = (k, v) => { try { if (v === undefined) return localStorage.getItem(k) || ""; localStorage.setItem(k, v); } catch (e) { return ""; } };
+
+async function yukle() {
+  $("#guncelleme").textContent = "Yükleniyor…";
+  try {
+    const r = await fetch("veri/ozet.json?t=" + Date.now());
+    V = await r.json();
+    ciz();
+  } catch (e) {
+    $("#guncelleme").textContent = "Veri alınamadı. İnternet bağlantını kontrol et.";
+  }
+}
+
+function modelOzet(kod) {
+  let deger = 0, n = 0;
+  for (const p of V.portfoy_tanimlari) {
+    const d = V.portfoyler[kod + "/" + p.kod];
+    if (d && d.basladi) { deger += d.deger; n++; }
+  }
+  return n ? {deger, getiri: (deger / (V.baslangic_tl * n) - 1) * 100, n} : null;
+}
+
+// Çizgi grafiği: seriler = [{ad, renk, kesik, noktalar:[[ms, deger]]}]
+function grafik(seriler, {yukseklik = 180, birim = ""} = {}) {
+  seriler = seriler.filter(s => s.noktalar.length);
+  if (!seriler.length || seriler.every(s => s.noktalar.length < 2))
+    return `<div class="soluk">Grafik için henüz yeterli veri yok.</div>`;
+  const G = 640, H = yukseklik * 1.6, sol = 8, sag = 96, ust = 14, alt = 30;
+  const xs = seriler.flatMap(s => s.noktalar.map(n => n[0])), ys = seriler.flatMap(s => s.noktalar.map(n => n[1]));
+  let x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+  if (x1 === x0) x1 = x0 + 1;
+  const pay = (y1 - y0) * 0.08 || Math.abs(y0) * 0.01 || 1; y0 -= pay; y1 += pay;
+  const X = x => sol + (x - x0) / (x1 - x0) * (G - sol - sag), Y = y => ust + (1 - (y - y0) / (y1 - y0)) * (H - ust - alt);
+  const fmt = v => Math.abs(v) >= 1000 ? v.toLocaleString("tr-TR", {maximumFractionDigits: 0}) : v.toLocaleString("tr-TR", {maximumFractionDigits: 2});
+  let s = `<svg viewBox="0 0 ${G} ${H}" role="img">`;
+  for (let i = 0; i <= 3; i++) {
+    const y = y0 + (y1 - y0) * i / 3;
+    s += `<line x1="${sol}" x2="${G - sag}" y1="${Y(y)}" y2="${Y(y)}" stroke="var(--cizgi)"/>`;
+    s += `<text x="${G - sag + 6}" y="${Y(y) + 7}" font-size="20" fill="var(--soluk)">${fmt(y)}${birim}</text>`;
+  }
+  const g = d => new Date(d).toLocaleDateString("tr-TR", {day: "2-digit", month: "2-digit"});
+  s += `<text x="${sol}" y="${H - 4}" font-size="20" fill="var(--soluk)">${g(x0)}</text>`;
+  s += `<text x="${G - sag}" y="${H - 4}" font-size="20" fill="var(--soluk)" text-anchor="end">${g(x1)}</text>`;
+  for (const se of seriler) {
+    const d = se.noktalar.map((n, i) => (i ? "L" : "M") + X(n[0]).toFixed(1) + " " + Y(n[1]).toFixed(1)).join(" ");
+    s += `<path d="${d}" fill="none" stroke="${se.renk}" stroke-width="${se.kesik ? 2 : 4}" ${se.kesik ? 'stroke-dasharray="4 4"' : ""} stroke-linejoin="round"/>`;
+  }
+  s += `</svg><div class="efsane">${seriler.map(se => `<span style="--r:${se.renk}">${esc(se.ad)}</span>`).join("")}</div>`;
+  return s;
+}
+
+function degerSerisi(anahtar) {
+  return V.degerler.filter(d => d[1][anahtar] != null).map(d => [Date.parse(d[0]), d[1][anahtar]]);
+}
+
+function toplamSeri(kod) {
+  const pler = V.portfoy_tanimlari.map(p => kod + "/" + p.kod);
+  return V.degerler.map(d => {
+    const v = pler.filter(k => d[1][k] != null).map(k => d[1][k]);
+    return v.length ? [Date.parse(d[0]), (v.reduce((a, b) => a + b, 0) / (V.baslangic_tl * v.length) - 1) * 100] : null;
+  }).filter(Boolean);
+}
+
+function kiyasSerileri(yuzde) {
+  return V.kiyaslar.map((ad, i) => ({ad, renk: KIYAS_RENK[i % 5], kesik: true,
+    noktalar: V.degerler.filter(d => d[2][ad] != null).map(d => [Date.parse(d[0]), yuzde ? (d[2][ad] / V.baslangic_tl - 1) * 100 : d[2][ad]])}));
+}
+
+function ciz() {
+  $("#guncelleme").textContent = "Güncelleme: " + zaman(V.guncelleme) + (V.deneme ? " · DENEME VERİSİ" : "");
+  let h = "";
+  const pasif = V.modeller.filter(m => !m.aktif);
+  if (pasif.length) h += `<div class="uyari">Henüz başlamayan: ${pasif.map(m => esc(m.ad)).join(", ")} (API anahtarı bekleniyor)</div>`;
+
+  h += `<div class="liderler">` + V.modeller.map(m => {
+    const o = modelOzet(m.kod);
+    return `<div class="lider" style="--r:${RENK[m.kod]}"><b>${esc(m.ad)}</b>
+      <div class="deger">${o ? yz(o.getiri) : "-"}</div><div class="soluk">${o ? tl(o.deger) : "başlamadı"}</div></div>`;
+  }).join("") + `</div>`;
+
+  const son = V.degerler.length ? V.degerler[V.degerler.length - 1][2] : {};
+  h += `<h2>Kıyas · al ve bekle</h2><div class="kiyaslar">` +
+    V.kiyaslar.map(ad => `<span>${esc(ad)} ${son[ad] != null ? yz((son[ad] / V.baslangic_tl - 1) * 100) : "-"}</span>`).join("") + `</div>`;
+
+  h += `<h2>Portföyler</h2><div class="sekmeler">` +
+    [{kod: "hepsi", ad: "Genel"}, ...V.portfoy_tanimlari].map(p =>
+      `<button data-sekme="${p.kod}" class="${secili === p.kod ? "secili" : ""}">${esc(p.ad)}</button>`).join("") + `</div>`;
+
+  if (secili === "hepsi") {
+    h += `<div class="kart"><div class="soluk" style="margin-bottom:6px">Modellerin 5 portföyünün ortalama getirisi (%)</div>` +
+      grafik([...V.modeller.map(m => ({ad: m.ad, renk: RENK[m.kod], noktalar: toplamSeri(m.kod)})), ...kiyasSerileri(true)], {birim: "%"}) + `</div>`;
+    h += `<div class="kart">` + V.portfoy_tanimlari.map(p => `<div class="satir" data-sekme="${p.kod}" style="display:block;cursor:pointer"><div>${esc(p.ad)} ›</div><div class="uc">` +
+      V.modeller.map(m => { const d = V.portfoyler[m.kod + "/" + p.kod];
+        return `<div><span class="nokta" style="--r:${RENK[m.kod]}"></span>${d && d.basladi ? yz(d.getiri) : "-"}</div>`; }).join("") +
+      `</div></div>`).join("") + `</div>`;
+  } else {
+    const p = V.portfoy_tanimlari.find(x => x.kod === secili);
+    h += `<div class="soluk" style="margin:8px 0">Kontrol: ${esc(p.kontrol)}</div>`;
+    h += `<div class="kart">` + grafik([...V.modeller.map(m => ({ad: m.ad, renk: RENK[m.kod], noktalar: degerSerisi(m.kod + "/" + p.kod)})),
+      ...kiyasSerileri(false)], {birim: ""}) + `</div>`;
+    h += `<div class="kart">` + V.modeller.map(m => {
+      const d = V.portfoyler[m.kod + "/" + p.kod];
+      return `<div class="satir model-satir" data-ac="${m.kod}/${p.kod}"><div><span class="nokta" style="--r:${RENK[m.kod]}"></span>${esc(m.ad)}
+        <div class="soluk">${d && d.basladi ? "Sonraki kontrol: " + zaman(d.sonraki_kontrol) : "başlamadı"}</div></div>
+        <div class="sag">${d && d.basladi ? `<b>${tl(d.deger)}</b><br>${yz(d.getiri)}` : "-"} ›</div></div>`;
+    }).join("") + `</div>`;
+  }
+  $("#icerik").innerHTML = h;
+}
+
+function detay(anahtar) {
+  const d = V.portfoyler[anahtar], m = V.modeller.find(x => x.kod === d.model), p = V.portfoy_tanimlari.find(x => x.kod === d.portfoy);
+  let h = `<header><div><h1>${esc(m.ad)}</h1><div class="soluk">${esc(p.ad)} · ${esc(m.model_adi)}</div></div><button id="kapat">Kapat</button></header>`;
+  if (!d.basladi) { $("#detayIcerik").innerHTML = h + `<div class="kart">Bu portföy henüz başlamadı.</div>`; return ac(); }
+  h += `<div class="kart"><div style="font-size:24px;font-weight:700">${tl(d.deger)} ${yz(d.getiri)}</div>
+    <div class="soluk">Nakit ${tl(d.nakit)} · Komisyon ${tl(d.komisyon)} · ${d.tur_sayisi} tur · Başlangıç ${zaman(d.baslangic)}</div>
+    <div style="margin-top:10px">${grafik([{ad: "Portföy değeri", renk: RENK[d.model], noktalar: degerSerisi(anahtar)}])}</div></div>`;
+  h += `<div class="kart"><b>Sonraki kontrol:</b> ${zaman(d.sonraki_kontrol)}<div class="soluk">${esc(d.sonraki_neden)}</div>
+    <div style="margin-top:10px"><button class="ana" id="sorBtn">Şimdi tekrar sor</button> <span class="soluk" id="sorDurum"></span></div></div>`;
+  h += `<h2>Elindekiler</h2><div class="kart">` + (d.pozisyonlar.length ? d.pozisyonlar.map(x =>
+    `<div class="satir poz" data-sembol="${esc(x.sembol)}"><div><b>${esc(x.sembol)}</b><div class="soluk">${x.adet.toLocaleString("tr-TR", {maximumSignificantDigits: 6})} adet · ${x.acik ? "piyasa açık" : "piyasa kapalı"}</div></div>
+     <div class="sag">${tl(x.deger)}<br>${yz(x.kar_yuzde)} ›</div></div><div class="poz-grafik" data-icin="${esc(x.sembol)}"></div>`).join("")
+    : `<div class="soluk">Pozisyon yok, tamamı nakit.</div>`) + `</div>`;
+  h += `<h2>Son yorumu</h2><div class="kart metin">${esc(d.yorum) || "-"}</div>`;
+  h += `<h2>Planı</h2><div class="kart metin">${esc(d.plan) || "-"}</div>`;
+  h += `<div class="kart"><details><summary>Notları ve kendine mesajı</summary><div class="metin" style="margin-top:8px">${esc(d.notlar)}\n\n— ${esc(d.mesaj)}</div></details>
+    <details style="margin-top:8px"><summary>Son turun sonuçları</summary><div class="metin" style="margin-top:8px">${esc(d.son_sonuclar.join("\n"))}</div></details></div>`;
+  h += `<h2>İşlemler</h2><div class="kart">` + (d.islemler.length ? d.islemler.map(i =>
+    `<div class="islem"><span class="soluk">${zaman(i.zaman)}</span> ${esc(i.sonuc)}${i.neden ? `<div class="soluk">${esc(i.neden)}</div>` : ""}</div>`).join("")
+    : `<div class="soluk">Henüz işlem yok.</div>`) + `</div>`;
+  $("#detayIcerik").innerHTML = h;
+  $("#sorBtn").onclick = () => tekrarSor(d.model, d.portfoy);
+  ac();
+}
+
+function ac() { $("#detay").classList.add("acik"); $("#detay").scrollTop = 0; $("#kapat").onclick = () => $("#detay").classList.remove("acik"); }
+
+async function tekrarSor(model, portfoy) {
+  const token = ayar("gh_token"), depo = V.depo;
+  if (!depo) { $("#sorDurum").textContent = "Depo bilgisi yok."; return; }
+  if (!token) { window.open(`https://github.com/${depo}/actions/workflows/tur.yml`, "_blank"); return; }
+  $("#sorDurum").textContent = "Gönderiliyor…";
+  try {
+    const r = await fetch(`https://api.github.com/repos/${depo}/actions/workflows/tur.yml/dispatches`, {
+      method: "POST", headers: {Authorization: "Bearer " + token, Accept: "application/vnd.github+json"},
+      body: JSON.stringify({ref: "main", inputs: {model, portfoy, zorla: "true"}})});
+    $("#sorDurum").textContent = r.status === 204 ? "Soruldu. Cevap birkaç dakika içinde gelir; sonra Yenile'ye bas." : "Olmadı (" + r.status + "). Ayarlardaki anahtarı kontrol et.";
+  } catch (e) { $("#sorDurum").textContent = "Gönderilemedi."; }
+}
+
+document.addEventListener("click", e => {
+  const s = e.target.closest("[data-sekme]"); if (s) { secili = s.dataset.sekme; ciz(); return; }
+  const a = e.target.closest("[data-ac]"); if (a) { detay(a.dataset.ac); return; }
+  const p = e.target.closest("[data-sembol]");
+  if (p) {
+    const kutu = document.querySelector(`.poz-grafik[data-icin="${CSS.escape(p.dataset.sembol)}"]`);
+    if (kutu.innerHTML) { kutu.innerHTML = ""; return; }
+    const sr = V.seriler[p.dataset.sembol];
+    kutu.innerHTML = sr ? `<div style="padding:6px 0 10px">${grafik([{ad: p.dataset.sembol + " günlük kapanış (" + sr.para_birimi + ")", renk: "var(--soluk)", noktalar: sr.seri.map(n => [Date.parse(n[0]), n[1]])}], {yukseklik: 150})}</div>` : `<div class="soluk">Fiyat geçmişi yok.</div>`;
+  }
+});
+$("#yenileBtn").onclick = yukle;
+$("#ayarBtn").onclick = () => {
+  $("#detayIcerik").innerHTML = `<header><h1>Ayarlar</h1><button id="kapat">Kapat</button></header>
+    <div class="kart"><b>"Şimdi tekrar sor" düğmesi</b><p class="soluk">Anahtar girmezsen düğme GitHub'daki çalıştırma sayfasını açar; orada "Run workflow"a basarsın.
+    İstersen yalnızca bu depoda "Actions: yazma" izni olan bir GitHub erişim anahtarı (fine-grained token) gir; düğme doğrudan çalışır.
+    Anahtar yalnızca bu telefonda saklanır.</p>
+    <input id="tokenGir" type="password" placeholder="github_pat_..." value="${esc(ayar("gh_token"))}">
+    <div style="margin-top:10px"><button class="ana" id="tokenKaydet">Kaydet</button> <span class="soluk" id="tokenDurum"></span></div></div>`;
+  ac();
+  $("#tokenKaydet").onclick = () => { ayar("gh_token", $("#tokenGir").value.trim()); $("#tokenDurum").textContent = "Kaydedildi."; };
+};
+yukle().then(() => { const m = location.hash.match(/^#ac=(.+)$/); if (m && V) detay(decodeURIComponent(m[1])); });
+</script>
+</body>
+</html>
