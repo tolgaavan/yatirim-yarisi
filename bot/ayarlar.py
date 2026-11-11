@@ -7,6 +7,7 @@ from pathlib import Path
 KOK = Path(os.environ.get("YATIRIM_CIKTI") or Path(__file__).resolve().parent.parent)
 DURUM = KOK / "durum"
 UYGULAMA_VERI = KOK / "docs" / "veri"
+DEPO = "tolgaavan/yatirim-yarisi"   # GitHub dışında çalışırken "Şimdi tekrar sor" düğmesi için
 
 BASLANGIC_NAKIT_TL = 10_000.0
 KOMISYON_ORANI = 0.002          # her alış ve satışta %0,2

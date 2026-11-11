@@ -70,7 +70,7 @@ def ozet(simdi, fiyatlar, aktif_modeller, deneme):
     degerler = [[d["zaman"], d["portfoyler"], d.get("kiyaslar", {})] for d in _satirlar(durum / "degerler.jsonl")]
     return {
         "guncelleme": simdi.isoformat(), "deneme": deneme, "baslangic_tl": ayarlar.BASLANGIC_NAKIT_TL,
-        "komisyon_orani": ayarlar.KOMISYON_ORANI, "depo": os.environ.get("GITHUB_REPOSITORY", ""),
+        "komisyon_orani": ayarlar.KOMISYON_ORANI, "depo": os.environ.get("GITHUB_REPOSITORY") or ayarlar.DEPO,
         "modeller": [{"kod": m, "ad": t["ad"], "model_adi": "deneme" if deneme else modeller.model_adi(m),
                       "aktif": m in aktif_modeller} for m, t in ayarlar.MODELLER.items()],
         "portfoy_tanimlari": [{"kod": p, "ad": t["ad"], "kontrol": t["kontrol"]} for p, t in ayarlar.PORTFOYLER.items()],
