@@ -31,9 +31,13 @@ dolar "al ve bekle" kıyaslarıyla karşılaştırılır.
 ## Mevcut durum
 
 2026-11-10: Kod üç model × 5 portföy yapısına çevrildi, telefon uygulaması yazıldı; birim testleri ve sahte kararla
-(`--deneme`) gerçek piyasa verisi üzerinde deneme geçti. Gerçek modellerle henüz hiç tur yapılmadı: üç API anahtarı
-(DeepSeek, OpenAI, Anthropic) bekleniyor. Anahtarı olmayan model atlanır; portföyleri anahtar gelince başlar.
-ChatGPT model adı (`gpt-5` varsayılan) ve DeepSeek model adı (`deepseek-reasoner`) gerçek API ile doğrulanmadı.
+(`--deneme`) gerçek piyasa verisi üzerinde deneme geçti.
+
+2026-11-11: Üç API anahtarı geldi ve ücretsiz model listesi sorgusuyla geçerli oldukları doğrulandı. Modeller:
+DeepSeek `deepseek-v4-pro`, ChatGPT `gpt-5.5`, Claude `claude-opus-5-5` (üçü de hesaplarda mevcut). Deneme turunda
+Yahoo'nun bazı sembolleri ara sıra boş döndürdüğü görüldü; eksikler artık yeniden isteniyor. GitHub deposu henüz
+oluşturulmadı (herkese açık depo oluşturma izin sistemine takıldı); anahtarlar GitHub'a henüz kaydedilmedi.
+Gerçek modellerle henüz hiç tur yapılmadı; kullanıcı önce test ekranını görüp onay verecek.
 
 ## Kullanıcıya bildirilenler ve açık kalan noktalar
 

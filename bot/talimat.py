@@ -84,7 +84,10 @@ def _yuzde(x):
 def _satir(s, d):
     tl = f" (= {d['fiyat_tl']:.4f} TL)" if d.get("fiyat_tl") and d["para_birimi"] != "TRY" and d.get("islem", True) else ""
     bilgi = " | yalnızca bilgi, alınamaz" if not d.get("islem", True) else ""
-    return (f"{s}: {d['fiyat']:.4f} {d['para_birimi']}{tl} | gün {_yuzde(d['gun_%'])}% hafta {_yuzde(d['hafta_%'])}% "
+    # Endeks değerinin birimi yoktur; ^TNX ve ^VIX birer orandır.
+    birim = {"^TNX": "% (ABD 10 yıllık tahvil faizi)", "^VIX": "puan (oynaklık endeksi)"}.get(
+        s, "puan" if s.startswith("^") else d['para_birimi'])
+    return (f"{s}: {d['fiyat']:.4f} {birim}{tl} | gün {_yuzde(d['gun_%'])}% hafta {_yuzde(d['hafta_%'])}% "
             f"ay {_yuzde(d['ay_%'])}% 3ay {_yuzde(d['3ay_%'])}%{bilgi}")
 
 

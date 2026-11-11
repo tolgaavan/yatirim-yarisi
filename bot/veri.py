@@ -94,6 +94,33 @@ def _seri(tablo, sembol):
     return None
 
 
+def _indir(semboller: list[str], *, period: str, interval: str, deneme: int = 3) -> dict:
+    """Sembol -> kapanış serisi. Yahoo toplu indirmede bazı sembolleri ara sıra boş döndürür;
+    eksik kalanlar birkaç kez yeniden istenir."""
+    import time
+
+    import yfinance as yf
+
+    sonuc = {}
+    eksik = list(semboller)
+    for i in range(deneme):
+        if not eksik:
+            break
+        if i:
+            time.sleep(2 * i)
+        try:
+            tablo = yf.download(eksik, period=period, interval=interval, group_by="ticker", progress=False,
+                                threads=len(eksik) > 1, auto_adjust=False, multi_level_index=True)
+        except Exception:
+            continue
+        for s in eksik:
+            seri = _seri(tablo, s)
+            if seri is not None and not seri.empty:
+                sonuc[s] = seri
+        eksik = [s for s in eksik if s not in sonuc]
+    return sonuc
+
+
 def fiyatlar(semboller: list[str], simdi: dt.datetime) -> dict[str, dict]:
     """Her sembol için güncel fiyat, değişimler, TL karşılığı, piyasanın açık olup olmadığı ve günlük kapanış serisi.
 
@@ -107,15 +134,13 @@ def fiyatlar(semboller: list[str], simdi: dt.datetime) -> dict[str, dict]:
     kurlar = {k for s in semboller if s in pb for k in [_kur_sembolu(pb[s])[0]] if k}
     tumu = sorted(set(semboller) | kurlar)
 
-    gun_ici = yf.download(tumu, period="5d", interval="15m", group_by="ticker",
-                          progress=False, threads=True, auto_adjust=False, multi_level_index=True)
-    gunluk = yf.download(tumu, period="6mo", interval="1d", group_by="ticker",
-                         progress=False, threads=True, auto_adjust=False, multi_level_index=True)
+    gun_ici = _indir(tumu, period="5d", interval="15m")
+    gunluk = _indir(tumu, period="6mo", interval="1d")
 
     ham: dict[str, dict] = {}
     for s in tumu:
-        gi = _seri(gun_ici, s)
-        gn = _seri(gunluk, s)
+        gi = gun_ici.get(s)
+        gn = gunluk.get(s)
         if (gi is None or gi.empty) and (gn is None or gn.empty):
             continue
         if gi is not None and not gi.empty:

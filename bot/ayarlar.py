@@ -25,9 +25,9 @@ IZLEME_SINIRI = 15
 # Model adı GitHub değişkeniyle (ör. OPENAI_MODEL) değiştirilebilir.
 MODELLER = {
     "deepseek": {"ad": "DeepSeek", "anahtar": "DEEPSEEK_API_KEY", "model_degiskeni": "DEEPSEEK_MODEL",
-                 "varsayilan_model": "deepseek-reasoner"},
+                 "varsayilan_model": "deepseek-v4-pro"},
     "chatgpt": {"ad": "ChatGPT", "anahtar": "OPENAI_API_KEY", "model_degiskeni": "OPENAI_MODEL",
-                "varsayilan_model": "gpt-5"},
+                "varsayilan_model": "gpt-5.5"},
     "claude": {"ad": "Claude Opus", "anahtar": "ANTHROPIC_API_KEY", "model_degiskeni": "CLAUDE_MODEL",
                "varsayilan_model": "claude-opus-5-5"},
 }
