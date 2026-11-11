@@ -1,0 +1,20 @@
+{
+ "notlar": "Strateji: Düşük riskli orta vade (1 ay) portföy. Öncelik sermaye koruma. İlk günlerde piyasa gözlemlenip, düşüş trendinin devam edip etmediğine bakılacak. Kriptodan kesinlikle uzak durulacak. Emtia (altın) da şu an düşüşte, acele edilmeyecek. Nakit faiz getirmese de belirsizlikte en güvenli liman olarak görülüyor.",
+ "plan": "Cuma günü saat 17:30'da açık piyasalar ve USDTRY (eğer açıksa) kontrol edilecek. Eğer düşüş sürüyorsa nakitte kalınacak. Toparlanma sinyali (özellikle altında günlük pozitif ve hacimli yükseliş) görülürse düşük riskli bir emtia/fon alımı değerlendirilecek. BIST/ABD hisseleri açık olduğunda SPY, GLD, XU100.IS gibi düşük maliyetli araçlar incelenecek.",
+ "sonraki_tura_mesaj": "İlk turda işlem yapılmadı. Piyasalar düşüş eğiliminde; altın haftalık %-2, aylık %-4.5 civarında. Düşük risk gereği nakit korunuyor. Cuma günü piyasa toparlanma sinyali var mı bak; yoksa beklemeye devam et.",
+ "izleme_listesi": [
+  "GC=F",
+  "BTC-USD",
+  "USDTRY=X",
+  "XU100.IS",
+  "SPY",
+  "GLD",
+  "TLT",
+  "CL=F",
+  "EURUSD=X"
+ ],
+ "son_yorum": "İlk turdayız; emtia ve kripto piyasaları çoğunlukla negatif seyrediyor. Altın, gümüş ve petrol haftalık/aylık bazda düşüşte. Kripto varlıklar da dalgalı ve yüksek riskli. USDTRY şu an açık olmadığından dolar pozisyonu alınamıyor. Düşük risk stratejisi gereği nakit en güvenli seçenek; alım için piyasada toparlanma işareti beklenmeli.",
+ "son_tur_sonuclari": [
+  "Sonraki kontrol: 2026-11-13 17:30"
+ ]
+}

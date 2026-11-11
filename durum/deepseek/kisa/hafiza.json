@@ -1,17 +1,18 @@
 {
- "notlar": "Başlangıç 10,000 TL nakit. Kısa vade al-sat stratejisi: momentum ve kırılımlarda alıp hedefe ulaşınca satmak. Şu an net sinyal yok, alım yapılmadı. İzlenecekler: SPY, QQQ, GLD, BTC-USD, ETH-USD, XU100.IS. ABD piyasası açık; kripto 7/24. Komisyon %0.2, gereksiz işlemden kaçınıyorum.",
- "plan": "SPY/QQQ günlük güç devam ederse veya BTC-USD 75-76K üzerine hacimle kırılırsa portföyün %20-30 kadarıyla alım yap. Altında 3950 altı zayıflık; düşüş bıçağı tutma. XU100 yarın sabah açılışında değerlendirilecek. Net kırılım yoksa nakitle bekle.",
- "sonraki_tura_mesaj": "Portföy hala nakit; ABD seansı açık. SPY/QQQ günlük güç sürüyor mu ve BTC 75-76K üzerinde tutunuyor mu bak. Momentum yoksa almaya zorlanma.",
+ "notlar": "Başlangıç 10,000 TL nakit. Kısa vade al-sat momentum stratejisi. BTC 75-76K üzerine hacimli kırılım olmadıkça veya SPY/QQQ günlük güç göstermedikçe alım yok. BTC 74.5K, ETH 2078 zayıf. Altın 3990 üzerinde ama negatif. Komisyon %0.2, gereksiz işlem yok. İzlenecekler: SPY, QQQ, BTC-USD, ETH-USD, XU100.IS, GLD, GC=F.",
+ "plan": "BTC 75-76K üzerinde saatlik kapanış ve hacim artışı görürsem portföyün %20'siyle BTC almayı düşün. SPY/QQQ yarın ABD açılışında (16:30 İstanbul) güçlü olursa %20-30 ile SPY/QQQ al. XU100 yarın 10:00'da pozitif açılış ve hacim olursa değerlendir. Altın 3950 altına sarkarsa kısa düşünme, düşüş bıçağı tutma.",
+ "sonraki_tura_mesaj": "ABD kapalı, kripto/emtia açık. BTC 75-76K üzerinde mi? SPY/QQQ son kapanış momentum verisi yarın bak. XU100 açılışta güçlü mü? Nakitteyim, sinyal yoksa almaya zorlanma.",
  "izleme_listesi": [
   "SPY",
   "QQQ",
-  "GLD",
   "BTC-USD",
   "ETH-USD",
-  "XU100.IS"
+  "XU100.IS",
+  "GLD",
+  "GC=F"
  ],
- "son_yorum": "ABD endeksleri günlük güçlü, VIX düşüyor; risk iştahı kısa vadede toparlanıyor. Kriptoda BTC/ETH günlük pozitif ancak aylık eğilim zayıf. Emtia ve altın baskı altında. İlk turda nakit tutarak net bir yön beklemek ve komisyon maliyetinden kaçınmak istiyorum; izleme listesini kurup fırsatları takip edeceğim.",
+ "son_yorum": "ABD seansı yeni kapandı; SPY/QQQ verisi yok. BTC 74.5K ile 75K altında, hacimli kırılım yok. ETH/SOL günlük tepki gösterse de haftalık/aylık eğilim zayıf. Altın 3990 ama gün -0.98%, momentum yok. Net alım sinyali olmadığından nakitte kalmak en doğrusu.",
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-12 00:16 (istediğin: 2026-11-12 00:16; en az 30 dakika sonrası olmalı)"
+  "Sonraki kontrol: 2026-11-12 10:00"
  ]
 }

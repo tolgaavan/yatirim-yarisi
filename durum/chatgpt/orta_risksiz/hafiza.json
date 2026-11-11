@@ -1,0 +1,23 @@
+{
+ "notlar": "Portföy düşük riskli ve 1 aylık. Öncelik büyük düşüşlerden kaçınmak. İlk turda açık piyasalar çok oynak olduğu için nakitte kalındı. Nakit TL nominal korur ama faiz getirmez; uygun saatte USD/ kısa vadeli tahvil ETF / sınırlı altın gibi daha dengeli seçenekler değerlendirilecek.",
+ "plan": "Cuma US+BIST/FX kesişiminde düşük riskli sepet kur: ağırlık nakit ve/veya USDTRY; uygunsa SGOV/BIL gibi kısa vadeli ABD tahvil ETF; altına sınırlı pay. Kripto, petrol, gümüş gibi oynak varlıklardan kaçın. Komisyon nedeniyle gereksiz al-sat yapma.",
+ "sonraki_tura_mesaj": "Düşük risk: acele etme. Önce açık piyasalarda USDTRY, SGOV/BIL/SHV, GLD ve BIST verilerine bak. Amaç 1 ayda TL bazında istikrarlı getiri; kripto ve yüksek oynak emtiadan uzak dur.",
+ "izleme_listesi": [
+  "USDTRY=X",
+  "EURTRY=X",
+  "GC=F",
+  "GLD",
+  "SGOV",
+  "BIL",
+  "SHV",
+  "SPY",
+  "XU100.IS",
+  "XU030.IS",
+  "THYAO.IS",
+  "BTC-USD"
+ ],
+ "son_yorum": "Gece seansında yalnızca emtia, sınırlı döviz ve kripto açık. Kripto ve gümüş yüksek oynak; altın son haftalarda zayıf. Düşük risk profili için acele işlem ve komisyon ödemek uygun değil.",
+ "son_tur_sonuclari": [
+  "Sonraki kontrol: 2026-11-13 17:35"
+ ]
+}

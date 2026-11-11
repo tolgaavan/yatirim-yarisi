@@ -1,0 +1,22 @@
+{
+ "baslangic": "2026-11-11T21:12:25+00:00",
+ "nakit_tl": 982.0,
+ "pozisyonlar": {
+  "BTC-USD": {
+   "adet": 0.001201902931381346,
+   "maliyet_tl": 4509.0,
+   "son_fiyat_tl": 3744062.754575491
+  },
+  "ETH-USD": {
+   "adet": 0.028747801252166992,
+   "maliyet_tl": 3006.0,
+   "son_fiyat_tl": 104355.80702972412
+  },
+  "SOL-USD": {
+   "adet": 0.35177204349044644,
+   "maliyet_tl": 1503.0,
+   "son_fiyat_tl": 4264.125099642086
+  }
+ },
+ "odenen_komisyon_tl": 18.0
+}

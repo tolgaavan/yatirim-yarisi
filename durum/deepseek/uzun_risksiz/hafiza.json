@@ -1,0 +1,14 @@
+{
+ "notlar": "Strateji: düşük risk, sermaye koruma. Uzun vade 3 ay. Oynak kripto/emtia vadelilerden kaçın. Tercih: USD cinsi düşük riskli varlıklar (BIL gibi) ile TL nakit dengesi. Komisyon %0.2. Şu an 100% TL nakit.",
+ "plan": "Cuma 17:00 İstanbul'da ABD ve BIST açık olacak. O turda BIL ve USDTRY=X verilerine bak. BIL uygunsa (spread/komisyon makul) portföyün ~80-100% ile al; kalan TL nakit kalsın. USDTRY=X da açık ve alınabilirse dolar tutmak için değerlendir. Hedef: USD cinsi istikrarlı getiri.",
+ "sonraki_tura_mesaj": "Cuma ABD açılışında BIL/USDTRY al. BIL yoksa USDTRY düşün. Komisyonu unutma.",
+ "izleme_listesi": [
+  "BIL",
+  "USDTRY=X",
+  "GLD"
+ ],
+ "son_yorum": "Saat 00:12 itibarıyla BIST ve ABD piyasaları kapalı; yalnızca emtia, kripto ve EURUSD açık. Düşük risk hedefim için bu varlıkların oynaklığı yüksek, bu yüzden şu an işlem yapmıyorum. Nakit kalıp cuma ABD açılışında kısa vadeli Hazine ETF'i (BIL) veya USDTRY almayı planlıyorum.",
+ "son_tur_sonuclari": [
+  "Sonraki kontrol: 2026-11-13 17:00"
+ ]
+}

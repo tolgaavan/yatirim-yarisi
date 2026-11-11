@@ -1,29 +1,19 @@
 {
- "notlar": "İlk tur: kısa vadeli al-sat portföyü. Risk iştahı yüksekken kripto ağırlıklı momentum denemesi yapıldı: BTC ana pozisyon, SOL yüksek beta, ETH tamamlayıcı. SI=F ile küçük emtia momentum payı eklendi. Nakit bir miktar komisyon ve esneklik için bırakıldı.",
- "plan": "30-60 dk içinde tepki sürüyor mu kontrol et. BTC/SOL hız kaybeder veya toplam portföy hızlı eksiye dönerse azalt. Kriptoda ivme devam ederse kazananı taşı, zayıf ETH/SI azaltılabilir. ABD kapanışı sonrası likidite düşüşüne dikkat.",
- "sonraki_tura_mesaj": "Yeni alınan BTC/SOL/ETH/SI pozisyonlarının ivmesini kontrol et. SOL yüksek beta; tersine dönerse önce onu azalt. Komisyonu unutma, gereksiz sık işlem yapma.",
+ "notlar": "Kısa vadeli al-sat portföyü. Risk iştahı yüksekken kripto ağırlıklı momentum denemesi yapıldı: BTC ana pozisyon, SOL yüksek beta, ETH tamamlayıcı. SI=F ile küçük emtia momentum payı eklendi. Nakit esneklik için tutuluyor. İlk kontrol: fiyatlar büyük ölçüde yatay, komisyon nedeniyle portföy hafif ekside; acele işlem yok.",
+ "plan": "30-60 dk içinde tekrar kontrol. BTC güçlü kalırsa pozisyon taşınacak. SOL yüksek beta olduğu için tersine dönerse önce azaltılacak. ETH zayıf kalırsa küçültülebilir. SI=F gün içi ivmesini kaybederse veya -1% civarı portföy baskısı yaratırsa satılabilir. Gereksiz al-sat komisyonundan kaçın.",
+ "sonraki_tura_mesaj": "BTC/SOL/ETH ve SI ivmesini kontrol et. Portföy hâlâ sadece komisyon kaynaklı hafif eksideyse sabırlı ol. SOL ters dönerse önce onu azalt; BTC güçlü kalırsa ana pozisyonu taşı.",
  "izleme_listesi": [
   "BTC-USD",
-  "ETH-USD",
   "SOL-USD",
+  "ETH-USD",
+  "SI=F",
   "BNB-USD",
   "XRP-USD",
-  "SI=F",
   "GC=F",
-  "CL=F",
-  "HG=F",
-  "EURUSD=X",
-  "SPY",
-  "QQQ",
-  "GLD",
-  "USDTRY=X"
+  "CL=F"
  ],
- "son_yorum": "ABD endeksleri güçlü kapanışa gidiyor, VIX düşmüş; risk iştahı kısa vadede toparlanıyor. Kriptoda gün içi tepki var ama haftalık/aylık trend zayıf. Momentum için sınırlı riskli giriş uygun.",
+ "son_yorum": "İlk alımdan sonra portföy komisyon etkisiyle hafif ekside; BTC/SOL/ETH gün içi artıda ama haftalık-aylık trend zayıf. SI gün içi artıda olmasına rağmen pozisyon hafif geride. Şimdilik dönüş sinyali yok, gereksiz komisyon yaratmadan izlemek daha iyi.",
  "son_tur_sonuclari": [
-  "ALINDI: BTC-USD 0.00106972 adet, birim 3739303.7086 TL, tutar 4000.00 TL + komisyon 8.00 TL",
-  "ALINDI: SOL-USD 0.586197 adet, birim 4264.7749 TL, tutar 2500.00 TL + komisyon 5.00 TL",
-  "ALINDI: ETH-USD 0.0143714 adet, birim 104374.2223 TL, tutar 1500.00 TL + komisyon 3.00 TL",
-  "ALINDI: SI=F 0.38417 adet, birim 2603.0144 TL, tutar 1000.00 TL + komisyon 2.00 TL",
-  "Sonraki kontrol: 2026-11-12 00:20"
+  "Sonraki kontrol: 2026-11-12 00:55"
  ]
 }

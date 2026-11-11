@@ -1,0 +1,31 @@
+{
+ "notlar": "Başlangıçta riskli 1 aylık hedef için nakdi büyük ölçüde kripto ağırlıklı kullandım. Ana fikir: BTC daha likit çekirdek, SOL/ETH yüksek beta tepki; SI=F ve az GC=F ile emtia çeşitlendirmesi. Komisyon nedeniyle gereksiz sık işlemden kaçın. Performans TL bazlı; USD hareketi de etkiler.",
+ "plan": "Cuma ABD ve BIST açıkken kontrol et. Kripto tepki güçlenirse pozisyonu koru; BTC/SOL/ETH haftalıkta sert bozulursa ağırlığı azaltıp altın/gümüş veya güçlü hisse/ETF’ye geç. BIST/ABD’de güçlü momentum varsa portföyün bir kısmını NVDA/QQQ veya seçili BIST hisselerine kaydır.",
+ "sonraki_tura_mesaj": "Portföy yeni kuruldu: BTC 35%, SOL 25%, ETH 15%, gümüş 15%, altın 10% civarı. Cuma 17:35’te ABD+BIST açıkken momentum ve zarar kes ihtiyacını değerlendir.",
+ "izleme_listesi": [
+  "BTC-USD",
+  "ETH-USD",
+  "SOL-USD",
+  "SI=F",
+  "GC=F",
+  "THYAO.IS",
+  "GARAN.IS",
+  "ASELS.IS",
+  "XU100.IS",
+  "AAPL",
+  "NVDA",
+  "QQQ",
+  "SPY",
+  "USDTRY=X",
+  "GLD"
+ ],
+ "son_yorum": "Açık piyasalarda kripto son ay sert düşmüşken bugün hafif tepki veriyor; riskli 1 aylık portföy için tepki alımı fırsatı görüyorum. Gümüş/altın da baskı altında, gümüş yüksek beta toparlanma adayı.",
+ "son_tur_sonuclari": [
+  "ALINDI: BTC-USD 0.000934813 adet, birim 3744062.7546 TL, tutar 3500.00 TL + komisyon 7.00 TL",
+  "ALINDI: SOL-USD 0.586287 adet, birim 4264.1251 TL, tutar 2500.00 TL + komisyon 5.00 TL",
+  "ALINDI: ETH-USD 0.0143739 adet, birim 104355.8070 TL, tutar 1500.00 TL + komisyon 3.00 TL",
+  "ALINDI: SI=F 0.57768 adet, birim 2596.5915 TL, tutar 1500.00 TL + komisyon 3.00 TL",
+  "ALINDI: GC=F 0.00488972 adet, birim 200420.3947 TL, tutar 980.00 TL + komisyon 1.96 TL",
+  "Sonraki kontrol: 2026-11-13 17:35"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "notlar": "İlk tur. Uzun vade 3 ay, riskli portföy. Cuma günleri karar verilecek. Amaç TL bazında yüksek getiri; gerekirse kripto/teknoloji/Türkiye hisselerinde yüksek oynaklık kabul edilecek. İlk işlem için daha geniş piyasa açıkken veri bekleniyor.",
+ "plan": "Cuma 17:35'te BIST kapanmadan ve ABD açılmışken agresif tahsis yap: güçlü momentum varsa BTC/SOL/QQQ/THYAO/ASELS gibi riskli varlıklara yayıl; zayıflık sürerse kademeli gir ve bir miktar nakit/altın bırak.",
+ "sonraki_tura_mesaj": "Cuma ilk gerçek tahsisi yap. BIST ve ABD aynı anda açıkken riskli ama dengeli portföy kur; komisyonu unutma, çok küçük işlemlerden kaçın.",
+ "izleme_listesi": [
+  "BTC-USD",
+  "ETH-USD",
+  "SOL-USD",
+  "QQQ",
+  "SPY",
+  "MSTR",
+  "GLD",
+  "GC=F",
+  "SI=F",
+  "USDTRY=X",
+  "THYAO.IS",
+  "ASELS.IS",
+  "KCHOL.IS",
+  "TUPRS.IS",
+  "XU100.IS"
+ ],
+ "son_yorum": "Bugün kontrol günü değil; yalnızca cuma işlem yapma disiplinini koruyorum. Açık piyasalarda kripto ve değerli metaller son 1-3 ayda zayıf, bugün sınırlı tepki var. İlk gerçek tahsisi cuma BIST/ABD/kripto birlikte açıkken yapmak daha sağlıklı.",
+ "son_tur_sonuclari": [
+  "Sonraki kontrol: 2026-11-13 17:35"
+ ]
+}
