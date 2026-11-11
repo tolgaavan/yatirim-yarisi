@@ -1,0 +1,17 @@
+{
+ "notlar": "Başlangıç 10,000 TL nakit. Kısa vade al-sat stratejisi: momentum ve kırılımlarda alıp hedefe ulaşınca satmak. Şu an net sinyal yok, alım yapılmadı. İzlenecekler: SPY, QQQ, GLD, BTC-USD, ETH-USD, XU100.IS. ABD piyasası açık; kripto 7/24. Komisyon %0.2, gereksiz işlemden kaçınıyorum.",
+ "plan": "SPY/QQQ günlük güç devam ederse veya BTC-USD 75-76K üzerine hacimle kırılırsa portföyün %20-30 kadarıyla alım yap. Altında 3950 altı zayıflık; düşüş bıçağı tutma. XU100 yarın sabah açılışında değerlendirilecek. Net kırılım yoksa nakitle bekle.",
+ "sonraki_tura_mesaj": "Portföy hala nakit; ABD seansı açık. SPY/QQQ günlük güç sürüyor mu ve BTC 75-76K üzerinde tutunuyor mu bak. Momentum yoksa almaya zorlanma.",
+ "izleme_listesi": [
+  "SPY",
+  "QQQ",
+  "GLD",
+  "BTC-USD",
+  "ETH-USD",
+  "XU100.IS"
+ ],
+ "son_yorum": "ABD endeksleri günlük güçlü, VIX düşüyor; risk iştahı kısa vadede toparlanıyor. Kriptoda BTC/ETH günlük pozitif ancak aylık eğilim zayıf. Emtia ve altın baskı altında. İlk turda nakit tutarak net bir yön beklemek ve komisyon maliyetinden kaçınmak istiyorum; izleme listesini kurup fırsatları takip edeceğim.",
+ "son_tur_sonuclari": [
+  "Sonraki kontrol: 2026-11-12 00:16 (istediğin: 2026-11-12 00:16; en az 30 dakika sonrası olmalı)"
+ ]
+}

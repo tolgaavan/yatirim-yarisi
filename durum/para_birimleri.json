@@ -1,0 +1,23 @@
+{
+ "BNB-USD": "USD",
+ "BTC-USD": "USD",
+ "CL=F": "USD",
+ "ETH-USD": "USD",
+ "EURTRY=X": "TRY",
+ "EURUSD=X": "USD",
+ "GC=F": "USD",
+ "HG=F": "USD",
+ "QQQ": "USD",
+ "SI=F": "USD",
+ "SOL-USD": "USD",
+ "SPY": "USD",
+ "USDTRY=X": "TRY",
+ "XRP-USD": "USD",
+ "XU030.IS": "TRY",
+ "XU100.IS": "TRY",
+ "^DJI": "USD",
+ "^GSPC": "USD",
+ "^IXIC": "USD",
+ "^TNX": "USD",
+ "^VIX": "USD"
+}

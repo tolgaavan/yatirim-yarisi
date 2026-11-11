@@ -1,0 +1,28 @@
+{
+ "notlar": "Başlangıç 11.11.2026. Strateji: kısa vadeli al-sat ve TL nakdi atıl bırakmamak, çünkü TL değer kaybı USD varlıklara rüzgâr sağlıyor. Komisyon %0.2: gereksiz sık işlemden kaçın. Pozisyonlar: QQQ 3500 TL ve SPY 2500 TL, 11.11 23:46'da ABD toparlanma günü alındı (SPX 7625, NDX 25500). Nakit ~4000 TL, BIST fırsatı için ayrıldı. Altın, gümüş ve kripto aylık düşüş trendinde. Dipten dönüş teyidi olmadan girme.",
+ "plan": "12.11 sabah: BIST açılışına bak. XU100 güçlüyse veya bankalar ve THYAO momentumluysa nakdin bir kısmıyla gir. ABD pozisyonlarında %-4 zarar kes, %+5 ve üzerinde kısmi kâr al. Toparlanma sürerse tut. BTC 72k altına düşerse uzak dur. 78k üzerine çıkarsa küçük pozisyon düşün. Altın 3900 desteğini izle.",
+ "sonraki_tura_mesaj": "QQQ ve SPY'yi ABD toparlanma gününde aldın, ~4000 TL nakit var. Sabah BIST'e bak: XU100 ve banka momentumu iyiyse nakdin bir kısmını kullan. ABD pozisyonlarını -4% stop, +5% kâr kuralına göre yönet. Fazla işlem yapma, komisyon var.",
+ "izleme_listesi": [
+  "QQQ",
+  "SPY",
+  "XU100.IS",
+  "XU030.IS",
+  "THYAO.IS",
+  "GARAN.IS",
+  "AKBNK.IS",
+  "ASELS.IS",
+  "USDTRY=X",
+  "BTC-USD",
+  "ETH-USD",
+  "GC=F",
+  "NVDA",
+  "GLD",
+  "TUPRS.IS"
+ ],
+ "son_yorum": "ABD endeksleri aylık düşüşten sonra güçlü toparlandı (Nasdaq +1.7%). VIX %10 düştü, risk iştahı dönüyor olabilir. Altın, gümüş ve kripto aylık düşüş trendinde. Zımni USDTRY ≈50.2. TL nakit faiz getirmiyor, kurun yükselmesi dolar bazlı varlıklara ek getiri sağlıyor. ABD seansının kapanmasına 14 dk var. BIST yarın açılacak.",
+ "son_tur_sonuclari": [
+  "ALINDI: QQQ 0.100812 adet, birim 34718.0289 TL, tutar 3500.00 TL + komisyon 7.00 TL",
+  "ALINDI: SPY 0.0654625 adet, birim 38189.7812 TL, tutar 2500.00 TL + komisyon 5.00 TL",
+  "Sonraki kontrol: 2026-11-12 10:30"
+ ]
+}

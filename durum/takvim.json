@@ -1,0 +1,14 @@
+{
+ "deepseek/kisa": {
+  "sonraki": "2026-11-12T00:16:53+03:00",
+  "neden": "ABD seansı ilerlerken momentumun sürdüğünü görmek için 30 dakika sonra tekrar bak."
+ },
+ "chatgpt/kisa": {
+  "sonraki": "2026-11-12T00:20:00+03:00",
+  "neden": "ABD kapanışı sonrası kripto momentumunun devam edip etmediğini ve ilk pozisyon riskini erken görmek için"
+ },
+ "claude/kisa": {
+  "sonraki": "2026-11-12T10:30:00+03:00",
+  "neden": "BIST açılış sonrası ilk yön netleşince nakdi değerlendirmek için."
+ }
+}
