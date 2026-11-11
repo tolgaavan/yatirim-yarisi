@@ -33,17 +33,18 @@ dolar "al ve bekle" kıyaslarıyla karşılaştırılır.
 2026-11-10: Kod üç model × 5 portföy yapısına çevrildi, telefon uygulaması yazıldı; birim testleri ve sahte kararla
 (`--deneme`) gerçek piyasa verisi üzerinde deneme geçti.
 
-2026-11-11: Üç API anahtarı geldi ve ücretsiz model listesi sorgusuyla geçerli oldukları doğrulandı. Modeller:
-DeepSeek `deepseek-v4-pro`, ChatGPT `gpt-5.5`, Claude `claude-opus-5-5` (üçü de hesaplarda mevcut). Deneme turunda
-Yahoo'nun bazı sembolleri ara sıra boş döndürdüğü görüldü; eksikler artık yeniden isteniyor. GitHub deposu henüz
-oluşturulmadı (herkese açık depo oluşturma izin sistemine takıldı); anahtarlar GitHub'a henüz kaydedilmedi.
-Gerçek modellerle henüz hiç tur yapılmadı; kullanıcı önce test ekranını görüp onay verecek.
+2026-11-11: Üç API anahtarı geldi ve ücretsiz model listesi sorgusuyla doğrulandı. Modeller: DeepSeek
+`deepseek-v4-pro`, ChatGPT `gpt-5.5`, Claude `claude-opus-5-5`. Yahoo'nun ara sıra boş döndürdüğü semboller artık
+yeniden isteniyor. Depo (`tolgaavan/yatirim-yarisi`, herkese açık) açıldı, anahtarlar GitHub gizli ayarlarında,
+telefon sayfası GitHub Pages'te. Mini test (her modele yalnızca kısa vade, 3 soru) yerelde geçti: soru başına
+~1.800-2.800 girdi ve ~600-1.700 çıktı token. Zamanlayıcı açıldı, yarış başladı. Diğer 4 portföyün ilk turu
+GitHub Actions/Pages kesintisi nedeniyle sırada bekliyordu (2026-11-11 gece).
 
 ## Kullanıcıya bildirilenler ve açık kalan noktalar
 
 - ChatGPT Plus ve Claude abonelikleri API'yi kapsamaz; platform.openai.com ve console.anthropic.com'da ayrı API kredisi gerekir. DeepSeek API ucuzdur ama ücretlidir.
 - API anahtarları sohbete yazılmaz; `gh secret set DEEPSEEK_API_KEY` (ve `OPENAI_API_KEY`, `ANTHROPIC_API_KEY`) ile GitHub gizli ayarlarına kaydedilir.
-- Tahmini masraf doğrulanmadı; ilk haftanın gerçek token kullanımıyla (`kararlar.jsonl` içindeki `kullanim`) kontrol edilecek. Hafıza sınırı da ilk haftaya bakılıp ayarlanabilir.
+- Para karşılığı masraf doğrulanmadı (token sayıları mini testte ölçüldü); ilk haftanın gerçek token kullanımıyla (`kararlar.jsonl` içindeki `kullanim`) kontrol edilecek. Hafıza sınırı da ilk haftaya bakılıp ayarlanabilir.
 - Vade bitince (3 ay / 1 ay) ne olacağı belirlenmedi; şimdilik portföyler çalışmaya devam eder.
 - Risksiz portföylerde TL nakit faiz getirmez (Türkiye'de mevduat/para piyasası fonu Yahoo'da yok).
 
