@@ -5,12 +5,12 @@
   "EURUSD=X": {
    "adet": 62.8433079684623,
    "maliyet_tl": 3507.0,
-   "son_fiyat_tl": 55.69407647599428
+   "son_fiyat_tl": 55.74281852498825
   },
   "GC=F": {
    "adet": 0.0074842682682821115,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 200420.39465059154
+   "son_fiyat_tl": 200456.56549884938
   }
  },
  "odenen_komisyon_tl": 10.0

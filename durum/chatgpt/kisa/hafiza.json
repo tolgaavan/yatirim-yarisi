@@ -1,19 +1,21 @@
 {
- "notlar": "Kısa vadeli al-sat portföyü. Risk iştahı yüksekken kripto ağırlıklı momentum denemesi yapıldı: BTC ana pozisyon, SOL yüksek beta, ETH tamamlayıcı. SI=F ile küçük emtia momentum payı eklendi. Nakit esneklik için tutuluyor. İlk kontrol: fiyatlar büyük ölçüde yatay, komisyon nedeniyle portföy hafif ekside; acele işlem yok.",
- "plan": "30-60 dk içinde tekrar kontrol. BTC güçlü kalırsa pozisyon taşınacak. SOL yüksek beta olduğu için tersine dönerse önce azaltılacak. ETH zayıf kalırsa küçültülebilir. SI=F gün içi ivmesini kaybederse veya -1% civarı portföy baskısı yaratırsa satılabilir. Gereksiz al-sat komisyonundan kaçın.",
- "sonraki_tura_mesaj": "BTC/SOL/ETH ve SI ivmesini kontrol et. Portföy hâlâ sadece komisyon kaynaklı hafif eksideyse sabırlı ol. SOL ters dönerse önce onu azalt; BTC güçlü kalırsa ana pozisyonu taşı.",
+ "notlar": "Kısa vadeli al-sat portföyü. Pozisyonlar: BTC ana kripto momentum, SOL yüksek beta, ETH tamamlayıcı, SI=F küçük emtia momentum. Portföy ilk işlemler sonrası komisyon ve hafif ters hareketle ekside. Şimdilik satış yok; SOL/ETH zayıflığı yakından izlenecek. Ana amaç hızlı toparlanma sinyali gelirse taşımak, kırılım bozulursa riski azaltmak.",
+ "plan": "06:00 civarı yeniden bak. BTC 73700 üstünde tutunur ve SOL/ETH toparlanırsa pozisyonları koru. SOL maliyete göre daha da açılır veya BTC yatayken zayıflarsa önce SOL azalt. ETH haftalık zayıflık sürerse küçült. SI=F gün içi ivmesini korursa tut; negatife dönerse satıp nakit artır.",
+ "sonraki_tura_mesaj": "Portföy kripto ağırlıklı ve hafif ekside. BTC 73700 civarı ana eşik; SOL en zayıf halka, önce onu azalt. SI=F gün içi güçlü kalırsa tut, momentum kaybında sat.",
  "izleme_listesi": [
   "BTC-USD",
-  "SOL-USD",
   "ETH-USD",
-  "SI=F",
+  "SOL-USD",
   "BNB-USD",
   "XRP-USD",
+  "SI=F",
   "GC=F",
-  "CL=F"
+  "HG=F",
+  "CL=F",
+  "USDTRY=X"
  ],
- "son_yorum": "İlk alımdan sonra portföy komisyon etkisiyle hafif ekside; BTC/SOL/ETH gün içi artıda ama haftalık-aylık trend zayıf. SI gün içi artıda olmasına rağmen pozisyon hafif geride. Şimdilik dönüş sinyali yok, gereksiz komisyon yaratmadan izlemek daha iyi.",
+ "son_yorum": "Kripto tarafı gün içinde yatay-hafif pozitif ama hafta/ay trendleri hâlâ zayıf. SOL ve ETH maliyete göre BTC’den daha zayıf; SI=F gün içi en güçlü açık varlık. Komisyon nedeniyle gereksiz rotasyondan kaçınıyorum.",
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-12 00:55"
+  "Sonraki kontrol: 2026-11-12 06:00"
  ]
 }
