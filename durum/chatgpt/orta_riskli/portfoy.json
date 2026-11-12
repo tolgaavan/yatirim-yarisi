@@ -1,0 +1,22 @@
+{
+ "baslangic": "2026-11-12T17:11:50+00:00",
+ "nakit_tl": 4489.0,
+ "pozisyonlar": {
+  "QQQ": {
+   "adet": 0.08643330947788888,
+   "maliyet_tl": 3006.0,
+   "son_fiyat_tl": 34708.8410489182
+  },
+  "EURUSD=X": {
+   "adet": 26.988682797461,
+   "maliyet_tl": 1503.0,
+   "son_fiyat_tl": 55.578851745262455
+  },
+  "BTC-USD": {
+   "adet": 0.00027773303042003043,
+   "maliyet_tl": 1002.0,
+   "son_fiyat_tl": 3600580.0191919804
+  }
+ },
+ "odenen_komisyon_tl": 11.0
+}

@@ -1,0 +1,17 @@
+{
+ "baslangic": "2026-11-12T17:11:50+00:00",
+ "nakit_tl": 5992.0,
+ "pozisyonlar": {
+  "SPY": {
+   "adet": 0.05753783327660887,
+   "maliyet_tl": 2204.4,
+   "son_fiyat_tl": 38235.71161297755
+  },
+  "QQQ": {
+   "adet": 0.05185998568673333,
+   "maliyet_tl": 1803.6,
+   "son_fiyat_tl": 34708.8410489182
+  }
+ },
+ "odenen_komisyon_tl": 8.0
+}

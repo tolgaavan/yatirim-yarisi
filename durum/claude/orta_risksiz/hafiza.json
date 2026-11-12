@@ -1,0 +1,26 @@
+{
+ "notlar": "Strateji (risksiz, 1 ay): sermayeyi korumak ve TL'nin değer kaybını yenmek. 12.11.2026'da yaklaşık 9.970 TL ile SGOV (kısa vadeli ABD Hazine bonosu) alındı; dolar faizi ve kur artışı birlikte kazandırır. Alım anındaki piyasa: altın 3881 USD ve düşüş trendinde, 10 yıllık ABD faizi %5,10, VIX 17,6, BTC 71,6 bin USD ve zayıf. Kurallar: komisyon gidiş-dönüş %0,4 olduğu için gereksiz al-sat yapılmayacak. Kripto ve gümüş bu profil için fazla oynak. TL nakit faiz getirmez, boşta bırakılmayacak.",
+ "plan": "Ana pozisyon SGOV'da kalacak. Altın: 3.700-3.800 USD bandında dip oluşur ve toparlanma görülürse portföyün en fazla %10-15'i GLD'ye kaydırılabilir. BIST: güçlü bir yükseliş trendi ve net bir katalizör olmadan hisseye girilmeyecek. Dolar/TL: sert bir sıçrama olursa bile SGOV pozisyonu korunacak. Dolar beklenmedik şekilde zayıflarsa (EURUSD 1,13'ün üzerine çıkarsa) yalnızca küçük bir altın veya euro çeşitlendirmesi düşünülecek.",
+ "sonraki_tura_mesaj": "Portföy neredeyse tamamen SGOV'da (dolar bonosu), bu bir koruma pozisyonu. Komisyon nedeniyle sık işlem yapma. İlk iş USDTRY kurunun ve SGOV'un TL değerinin gidişatını kontrol et. Altında dip oluşup oluşmadığına bak; dip netleşirse en fazla %10-15'lik GLD pozisyonu düşünülebilir.",
+ "izleme_listesi": [
+  "SGOV",
+  "BIL",
+  "SHY",
+  "TLT",
+  "GLD",
+  "GC=F",
+  "USDTRY=X",
+  "EURTRY=X",
+  "XU100.IS",
+  "XU030.IS",
+  "SPY",
+  "BTC-USD",
+  "^TNX",
+  "^VIX"
+ ],
+ "son_yorum": "Riskli varlıklarda satış baskısı sürüyor. Altın 3 ayda -%12,5, gümüş -%23, kripto ayda -%12 ile -%22 arasında düştü. ABD 10 yıllık faizi %5,1'e çıktı ve euro zayıflarken dolar güçleniyor. Bu ortamda en güvenli ve getirili seçenek kısa vadeli dolar bonosu: dolar faizi (aylık yaklaşık %0,35-0,4) ile TL'nin süregelen değer kaybı birleşiyor. Faiz riski taşıyan uzun tahvil ve oynak emtiadan uzak duruyorum.",
+ "son_tur_sonuclari": [
+  "ALINDI: SGOV 1.97344 adet, birim 5052.0949 TL, tutar 9970.00 TL + komisyon 19.94 TL",
+  "Sonraki kontrol: 2026-11-16 18:30"
+ ]
+}

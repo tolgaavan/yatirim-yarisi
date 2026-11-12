@@ -1,0 +1,30 @@
+{
+ "notlar": "Başlangıçta riskli ama disiplinli dağılım: QQQ ile ABD büyüme betası, EURUSD ile geçici döviz zorunluluğu, küçük BTC ile asimetrik tepki arayışı; BIST kapalı olduğu için Türk ayağı ilk açık turda tamamlanacak.",
+ "plan": "Yarın 17:35 civarı BIST ve ABD birlikte açıkken Türk piyasası alımı yap; güçlü likidite için THYAO, AKBNK, KCHOL veya XU030.IS değerlendir. USDTRY açılırsa EURUSD pozisyonunu gerçek USD/TRY döviz nakdine çevirmeyi düşün.",
+ "sonraki_tura_mesaj": "Zorunlu Türk piyasası eksik; BIST açıkken mutlaka tamamla, EURUSD geçici olabilir ve USDTRY açılırsa sade döviz nakdine dön.",
+ "izleme_listesi": [
+  "QQQ",
+  "SPY",
+  "USDTRY=X",
+  "EURTRY=X",
+  "EURUSD=X",
+  "THYAO.IS",
+  "AKBNK.IS",
+  "KCHOL.IS",
+  "XU030.IS",
+  "BTC-USD",
+  "ETH-USD",
+  "GC=F",
+  "SI=F",
+  "CL=F",
+  "^VIX"
+ ],
+ "son_yorum": "ABD endeksleri haftalık güçlü toparlanmış, VIX gevşemiş ancak 10 yıllık faiz %5 üzeri kaldığı için büyüme hisselerinde risk sürüyor; altın ve kripto zayıf, bu yüzden kriptoyu sınırlı tuttum.",
+ "son_tur_sonuclari": [
+  "ALINDI: QQQ 0.0864333 adet, birim 34708.8410 TL, tutar 3000.00 TL + komisyon 6.00 TL",
+  "ALINDI: EURUSD=X 26.9887 adet, birim 55.5789 TL, tutar 1500.00 TL + komisyon 3.00 TL",
+  "ALINDI: BTC-USD 0.000277733 adet, birim 3600580.0192 TL, tutar 1000.00 TL + komisyon 2.00 TL",
+  "UYARI: zorunlu çeşitlilik eksik: Türk hissesi/fonu. Piyasası açık olduğu ilk turda tamamla.",
+  "Sonraki kontrol: 2026-11-13 17:35"
+ ]
+}
