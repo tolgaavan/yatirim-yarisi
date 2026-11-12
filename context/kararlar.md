@@ -26,6 +26,7 @@ Bu dosya kesinleşmiş ve gelecekteki çalışmaları etkileyecek kararları kay
 | 2026-11-12 | Riskli uzun ve orta vade portföylerinde zorunlu çeşitlilik: döviz nakit (TL'den çevrilen yabancı para, ör. USDTRY=X, EURTRY=X), en az bir Türk hissesi/fonu ve en az bir ABD hissesi bulunur; oranı model seçer (çok küçük olabilir). TL nakit, altın/gümüş, kaldıraçsız vadeli kontratlar serbest. Program zorla alım yapmaz; eksikse modele hatırlatır ve uygulamada gösterir. Opsiyon yok. | Kullanıcı kararı; yaptırım biçimi Claude'un önerisi | aktif | Talimat, uygulama |
 | 2026-11-12 | Kısa vade zorunlu çeşitliliğe dahil değil; mümkünse aynı anda 1-2 varlıkta yoğunlaşır ve kriptoya mecbur olmadan borsa saatlerinde hisselerde de al-sat yapabilir. | Kullanıcı kararı | aktif | Talimat |
 | 2026-11-12 | 2026-11-11'deki turlar test sayıldı; tüm portföyler sıfırlanıp yarış yeni kurallarla baştan başlatıldı. | Kullanıcı kararı | aktif | Durum verisi |
+| 2026-11-12 | Android APK: ekran (docs/index.html) APK'nın içindedir, internetten yalnızca veri (ozet.json) çekilir; son veri telefonda saklanır ve internet yokken gösterilir. APK GitHub Actions'ta yalnızca elle derlenir. İmza anahtarı bilgisayarda (C:/Users/Tolga/dev/yatirim-imza) durur; imza gizli bilgileri yalnızca derleme sırasında GitHub'a konur, sonra silinir. APK'lar Desktop/apk klasörüne indirilir. | Kullanıcı kararı | aktif | Uygulama, derleme |
 
 ## Kullanım kuralları
 
