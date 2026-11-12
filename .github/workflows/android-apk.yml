@@ -1,12 +1,10 @@
-# Telefon uygulamasının Android APK'sı: GitHub Pages'teki sayfayı açan basit kabuk.
-# android/ klasörü değişince veya elle çalıştırılınca derlenir, imzalanır ve
-# "apk" adlı sürüm sayfasına (Releases) konur. Aynı imza: telefonda üzerine güncellenir.
+# Telefon uygulamasının Android APK'sı. Ekran (docs/index.html) APK'nın içine konur; internetten
+# yalnızca veri çekilir ve son veri telefonda saklanır. Yalnızca elle çalıştırılır.
+# İmza için APK_IMZA_B64 ve APK_IMZA_SIFRESI gizli bilgileri gerekir; kullanıcının isteğiyle
+# derlemeden sonra silinir. Anahtar bilgisayarda durur (aynı imza = telefonda üzerine güncelleme).
 name: Android APK
 
 on:
-  push:
-    branches: [main]
-    paths: ['android/**', '.github/workflows/android-apk.yml']
   workflow_dispatch:
 
 permissions:
@@ -28,6 +26,13 @@ jobs:
         env:
           IMZA_DOSYASI_B64: ${{ secrets.APK_IMZA_B64 }}
         run: echo "$IMZA_DOSYASI_B64" | base64 --decode > "$RUNNER_TEMP/yatirim.jks"
+      - name: Ekranı APK'ya koy
+        run: |
+          mkdir -p android/app/src/main/assets
+          cp docs/ikon-*.png docs/manifest.webmanifest android/app/src/main/assets/
+          sed '0,/<script>/s##<script>window.VERI_ADRESI = "https://tolgaavan.github.io/yatirim-yarisi/veri/ozet.json";</script>\n<script>#' \
+            docs/index.html > android/app/src/main/assets/index.html
+          grep -q "VERI_ADRESI = " android/app/src/main/assets/index.html
       - name: APK derle
         working-directory: android
         env:

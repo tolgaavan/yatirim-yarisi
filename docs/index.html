@@ -93,14 +93,23 @@ const yz = v => v == null ? "-" : `<span class="${v >= 0 ? "art" : "eksi"}">${v 
 const zaman = iso => iso ? new Date(iso).toLocaleString("tr-TR", {day:"2-digit", month:"2-digit", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Istanbul"}) : "-";
 const ayar = (k, v) => { try { if (v === undefined) return localStorage.getItem(k) || ""; localStorage.setItem(k, v); } catch (e) { return ""; } };
 
+// Android uygulaması sayfayı kendi içinden açar ve veriyi bu adresten çeker (window.VERI_ADRESI).
+// Son alınan veri telefonda saklanır; internet yokken o gösterilir.
 async function yukle() {
-  $("#guncelleme").textContent = "Yükleniyor…";
+  const sakli = ayar("son_veri");
+  if (!V && sakli) { try { V = JSON.parse(sakli); ciz(); } catch (e) {} }
+  $("#guncelleme").textContent = V ? "Güncelleme: " + zaman(V.guncelleme) + " · yenileniyor…" : "Yükleniyor…";
   try {
-    const r = await fetch("veri/ozet.json?t=" + Date.now());
-    V = await r.json();
+    const r = await fetch((window.VERI_ADRESI || "veri/ozet.json") + "?t=" + Date.now(), {cache: "no-store"});
+    if (!r.ok) throw new Error(r.status);
+    const metin = await r.text();
+    V = JSON.parse(metin);
+    ayar("son_veri", metin);
     ciz();
   } catch (e) {
-    $("#guncelleme").textContent = "Veri alınamadı. İnternet bağlantını kontrol et.";
+    $("#guncelleme").textContent = V
+      ? "İnternet yok · son veri: " + zaman(V.guncelleme)
+      : "Veri alınamadı. İnternet bağlantını kontrol et.";
   }
 }
 

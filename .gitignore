@@ -4,3 +4,5 @@ __pycache__/
 android/.gradle/
 android/app/build/
 android/build/
+android/app/src/main/assets/
+android/app/src/main/assets/
