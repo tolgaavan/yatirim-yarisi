@@ -46,6 +46,11 @@ telefon sayfası https://tolgaavan.github.io/yatirim-yarisi/ yayında.
 hissesi) ve kısa vadeye 1-2 varlık yönergesi getirildi. 3 soruluk gerçek testten sonra önceki turlar test sayılıp
 tüm portföyler sıfırlandı ve yarış 2026-11-12 akşamı baştan başladı.
 
+2026-11-12 (gece): Haftalık değerlendirme, başlangıç kurgusu, teknik/temel veri, haber başlıkları, fırsat tablosu ve kısa
+vadeye 15 dakikalık veri eklendi; gerçek modellerle bulutta deneme yapıldı (`.github/workflows/deneme.yml`, yarışa
+sayılmaz). Yarış yeniden sıfırlanıp 2026-11-12 23:37'de baştan başladı; ilk turda 15 portföy hatasız çalıştı.
+Tur başına girdi yaklaşık 4-7 bin token; DeepSeek çıktısı 5,7-7 bin token ile en yüksek.
+
 ## Kullanıcıya bildirilenler ve açık kalan noktalar
 
 - ChatGPT Plus ve Claude abonelikleri API'yi kapsamaz; platform.openai.com ve console.anthropic.com'da ayrı API kredisi gerekir. DeepSeek API ucuzdur ama ücretlidir.
