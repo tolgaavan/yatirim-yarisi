@@ -1,0 +1,100 @@
+{
+"AMD": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "Advanced Micro Devices, Inc.",
+"fk": 125.1,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 14.04,
+"piyasa_degeri": 959943081984,
+"sektor": "Technology",
+"temettu_%": 0.0,
+"tur": "EQUITY"
+}
+},
+"AVGO": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "Broadcom Inc.",
+"fk": 46.5,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 17.45,
+"piyasa_degeri": 1739319803904,
+"sektor": "Technology",
+"temettu_%": 0.75,
+"tur": "EQUITY"
+}
+},
+"NVDA": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "NVIDIA Corporation",
+"fk": 21.0,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 17.53,
+"piyasa_degeri": 4012989743104,
+"sektor": "Technology",
+"temettu_%": 0.58,
+"tur": "EQUITY"
+}
+},
+"QQQ": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "Invesco QQQ Trust, Series 1",
+"fk": 28.3,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 1.92,
+"piyasa_degeri": 463833595904,
+"sektor": null,
+"temettu_%": 0.45,
+"tur": "ETF"
+}
+},
+"SMH": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "VanEck Semiconductor ETF",
+"fk": 27.1,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": null,
+"piyasa_degeri": 66438197248,
+"sektor": null,
+"temettu_%": 0.21,
+"tur": "ETF"
+}
+},
+"SPY": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "State Street SPDR S&P 500 ETF T",
+"fk": 24.1,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 1.76,
+"piyasa_degeri": 796865200128,
+"sektor": null,
+"temettu_%": 1.0,
+"tur": "ETF"
+}
+},
+"XLE": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "State Street Energy Select Sect",
+"fk": 16.1,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 1.23,
+"piyasa_degeri": 46373699584,
+"sektor": null,
+"temettu_%": 2.18,
+"tur": "ETF"
+}
+}
+}
