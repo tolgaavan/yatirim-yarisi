@@ -57,6 +57,19 @@ padding:calc(env(safe-area-inset-top) + 12px) 16px calc(env(safe-area-inset-bott
 .uyari{background:#5b4a00;color:#ffe9a8;border-radius:10px;padding:8px 12px;font-size:13px;margin-bottom:10px}
 input{font:inherit;width:100%;padding:10px;border-radius:10px;border:1px solid var(--cizgi);background:var(--kart2);color:var(--yazi)}
 details summary{cursor:pointer;color:var(--soluk);font-size:14px}
+.tur{padding:12px 0;border-top:1px solid var(--cizgi)}
+.tur:first-child{border-top:0;padding-top:0}
+.tur-ozet{margin:2px 0 6px;font-weight:600}
+.tur-islem{display:grid;grid-template-columns:auto 1fr;gap:2px 8px;font-size:14px;margin-top:6px}
+.tur-islem .neden{grid-column:2;color:var(--soluk);font-size:13px}
+.etiket{font-size:11px;font-weight:700;letter-spacing:.04em;border-radius:6px;padding:2px 6px;align-self:start;margin-top:2px}
+.etiket.al{background:color-mix(in srgb,var(--art) 18%,transparent);color:var(--art)}
+.etiket.sat{background:color-mix(in srgb,var(--claude) 22%,transparent);color:var(--claude)}
+.etiket.red{background:color-mix(in srgb,var(--eksi) 18%,transparent);color:var(--eksi)}
+.tur-uyari{font-size:13px;color:#d9a400;margin-top:6px}
+.kural{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.kural span{font-size:12px;border-radius:999px;padding:3px 9px;background:var(--kart2)}
+.kural .var{color:var(--art)} .kural .yok{color:var(--eksi)}
 </style>
 </head>
 <body>
@@ -181,7 +194,8 @@ function ciz() {
     h += `<div class="kart">` + V.modeller.map(m => {
       const d = V.portfoyler[m.kod + "/" + p.kod];
       return `<div class="satir model-satir" data-ac="${m.kod}/${p.kod}"><div><span class="nokta" style="--r:${RENK[m.kod]}"></span>${esc(m.ad)}
-        <div class="soluk">${d && d.basladi ? "Sonraki kontrol: " + zaman(d.sonraki_kontrol) : "başlamadı"}</div></div>
+        <div class="soluk">${d && d.basladi ? "Sonraki kontrol: " + zaman(d.sonraki_kontrol) : "başlamadı"}</div>
+        ${d && d.basladi && d.zorunlu && d.eksik.length ? `<div class="soluk" style="color:var(--eksi)">Eksik: ${esc(d.eksik.join(", "))}</div>` : ""}</div>
         <div class="sag">${d && d.basladi ? `<b>${tl(d.deger)}</b><br>${yz(d.getiri)}` : "-"} ›</div></div>`;
     }).join("") + `</div>`;
   }
@@ -197,6 +211,11 @@ function detay(anahtar) {
     <div style="margin-top:10px">${grafik([{ad: "Portföy değeri", renk: RENK[d.model], noktalar: degerSerisi(anahtar)}])}</div></div>`;
   h += `<div class="kart"><b>Sonraki kontrol:</b> ${zaman(d.sonraki_kontrol)}<div class="soluk">${esc(d.sonraki_neden)}</div>
     <div style="margin-top:10px"><button class="ana" id="sorBtn">Şimdi tekrar sor</button> <span class="soluk" id="sorDurum"></span></div></div>`;
+  if (d.zorunlu) {
+    const gruplar = ["döviz nakit", "Türk hissesi/fonu", "ABD hissesi"];
+    h += `<div class="kart"><b>Zorunlu çeşitlilik</b> <span class="soluk">${d.eksik.length ? "eksik var" : "tamam"}</span><div class="kural">` +
+      gruplar.map(g => d.eksik.includes(g) ? `<span class="yok">✕ ${esc(g)}</span>` : `<span class="var">✓ ${esc(g)}</span>`).join("") + `</div></div>`;
+  }
   h += `<h2>Elindekiler</h2><div class="kart">` + (d.pozisyonlar.length ? d.pozisyonlar.map(x =>
     `<div class="satir poz" data-sembol="${esc(x.sembol)}"><div><b>${esc(x.sembol)}</b><div class="soluk">${x.adet.toLocaleString("tr-TR", {maximumSignificantDigits: 6})} adet · ${x.acik ? "piyasa açık" : "piyasa kapalı"}</div></div>
      <div class="sag">${tl(x.deger)}<br>${yz(x.kar_yuzde)} ›</div></div><div class="poz-grafik" data-icin="${esc(x.sembol)}"></div>`).join("")
@@ -205,12 +224,30 @@ function detay(anahtar) {
   h += `<h2>Planı</h2><div class="kart metin">${esc(d.plan) || "-"}</div>`;
   h += `<div class="kart"><details><summary>Notları ve kendine mesajı</summary><div class="metin" style="margin-top:8px">${esc(d.notlar)}\n\n— ${esc(d.mesaj)}</div></details>
     <details style="margin-top:8px"><summary>Son turun sonuçları</summary><div class="metin" style="margin-top:8px">${esc(d.son_sonuclar.join("\n"))}</div></details></div>`;
-  h += `<h2>İşlemler</h2><div class="kart">` + (d.islemler.length ? d.islemler.map(i =>
-    `<div class="islem"><span class="soluk">${zaman(i.zaman)}</span> ${esc(i.sonuc)}${i.neden ? `<div class="soluk">${esc(i.neden)}</div>` : ""}</div>`).join("")
-    : `<div class="soluk">Henüz işlem yok.</div>`) + `</div>`;
+  h += `<h2>Geçmiş</h2><div class="kart">` + (d.gecmis.length ? d.gecmis.map(turKarti).join("")
+    : `<div class="soluk">Henüz tur yok.</div>`) + `</div>`;
   $("#detayIcerik").innerHTML = h;
   $("#sorBtn").onclick = () => tekrarSor(d.model, d.portfoy);
   ac();
+}
+
+// "ALINDI: BTC-USD 0.0012 adet, ..., tutar 4500.00 TL + ..." -> etiket + kısa satır
+function islemSatiri(i) {
+  const s = i.sonuc || "";
+  let et = "red", ad = "RED", metin = s.replace(/^REDDEDİLDİ:\s*/, "");
+  const sembol = (s.match(/^(?:ALINDI|SATILDI):\s*(\S+)/) || [])[1];
+  const para = v => Number(v).toLocaleString("tr-TR", {maximumFractionDigits: 0}) + " TL";
+  if (s.startsWith("ALINDI")) { et = "al"; ad = "AL"; const m = s.match(/tutar ([\d.]+) TL/); metin = sembol + (m ? " · " + para(m[1]) : ""); }
+  else if (s.startsWith("SATILDI")) { et = "sat"; ad = "SAT"; const m = s.match(/eline geçen ([\d.]+) TL, kâr\/zarar ([-+\d.]+) TL/);
+    metin = sembol + (m ? ` · ${para(m[1])} (kâr/zarar ${Number(m[2]) >= 0 ? "+" : ""}${para(m[2])})` : ""); }
+  return `<div class="tur-islem"><span class="etiket ${et}">${ad}</span><span>${esc(metin)}</span>${i.neden ? `<span class="neden">${esc(i.neden)}</span>` : ""}</div>`;
+}
+
+function turKarti(tr) {
+  return `<div class="tur"><div class="soluk">${zaman(tr.zaman)}</div>
+    <div class="tur-ozet">${esc(tr.ozet) || (tr.islemler.length ? "" : "İşlem yapmadı.")}</div>` +
+    tr.islemler.map(islemSatiri).join("") +
+    (tr.uyarilar || []).filter(u => u.includes("zorunlu")).map(u => `<div class="tur-uyari">${esc(u)}</div>`).join("") + `</div>`;
 }
 
 function ac() { $("#detay").classList.add("acik"); $("#detay").scrollTop = 0; $("#kapat").onclick = () => $("#detay").classList.remove("acik"); }

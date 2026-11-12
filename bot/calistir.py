@@ -75,7 +75,9 @@ def _sahte_karar(simdi, portfoy):
                  {"islem": "al", "sembol": "THYAO.IS", "tutar_tl": 2000, "neden": "deneme (kapalıysa reddedilir)"},
                  {"islem": "al", "sembol": "OLMAYAN-SEMBOL", "tutar_tl": 500, "neden": "reddedilmeli"}]
     sonraki = (simdi.astimezone(veri.ISTANBUL) + dt.timedelta(hours=2)).strftime("%Y-%m-%d %H:%M")
-    return json.dumps({"piyasa_yorumu": "deneme turu", "islemler": islemler, "notlar": "deneme notu " * 200,
+    islemler += [{"islem": "al", "sembol": "USDTRY=X", "tutar_tl": 300, "neden": "deneme döviz"},
+                 {"islem": "al", "sembol": "AAPL", "tutar_tl": 300, "neden": "deneme ABD hissesi"}]
+    return json.dumps({"tur_ozeti": "deneme turu özeti", "piyasa_yorumu": "deneme turu", "islemler": islemler, "notlar": "deneme notu " * 200,
                        "plan": "deneme planı", "izleme_listesi": ["AAPL", "ASELS.IS"],
                        "sonraki_tura_mesaj": "deneme mesajı", "sonraki_kontrol": sonraki,
                        "sonraki_kontrol_nedeni": "deneme"}), {}
@@ -159,7 +161,8 @@ def calistir(deneme=False, zorla=False, model_suzgeci=None, portfoy_suzgeci=None
         sorular[k] = (talimat.sistem(p), talimat.mesaj(
             simdi_tr=zaman_metni, gecen_gun=gecen, portfoy=portfoy, toplam=toplam, satirlar=satir,
             fiyatlar=fiyatlar, hafiza=hafiza, son_islemler=satirlar(_yol(m, p, "islemler.jsonl"))[-8:],
-            son_degerler=gecmis[-12:], onceki_sonuclar=hafiza.get("son_tur_sonuclari", [])))
+            son_degerler=gecmis[-12:], onceki_sonuclar=hafiza.get("son_tur_sonuclari", []),
+            zorunlu=talimat.zorunlu_mu(p)))
 
     # 2) Modellere aynı anda sor
     def sor(gorev):
@@ -248,6 +251,12 @@ def calistir(deneme=False, zorla=False, model_suzgeci=None, portfoy_suzgeci=None
                     str(s).strip().upper() for s in izleme if str(s).strip()))[: ayarlar.IZLEME_SINIRI]
             hafiza["son_yorum"] = str(karar.get("piyasa_yorumu") or "")[:600]
 
+        if talimat.zorunlu_mu(p):
+            eksik_grup = talimat.eksik_gruplar(portfoy["pozisyonlar"])
+            if eksik_grup:
+                sonuclar.append("UYARI: zorunlu çeşitlilik eksik: " + ", ".join(eksik_grup) +
+                                ". Piyasası açık olduğu ilk turda tamamla.")
+
         gecmis = satirlar(_yol(m, p, "gecmis.jsonl"))
         sonraki, duzeltme = takvim.sonraki(p, karar.get("sonraki_kontrol"), simdi,
                                            [g["zaman"] for g in gecmis] + [simdi.isoformat()])
@@ -261,6 +270,7 @@ def calistir(deneme=False, zorla=False, model_suzgeci=None, portfoy_suzgeci=None
         ekle(_yol(m, p, "gecmis.jsonl"), {"zaman": simdi.isoformat(), "deger_tl": round(toplam, 2),
                                           "nakit_tl": round(portfoy["nakit_tl"], 2)})
         ekle(_yol(m, p, "kararlar.jsonl"), {"zaman": simdi.isoformat(), "model": model_adi, "kullanim": kullanim,
+                                            "ozet": str(karar.get("tur_ozeti") or "")[:500],
                                             "soru_uzunlugu": len(sorular[k][1]), "cevap": ham, "sonuclar": sonuclar})
         yaz(_yol(m, p, "portfoy.json"), portfoy)
         yaz(_yol(m, p, "hafiza.json"), hafiza)

@@ -6,7 +6,7 @@ import datetime as dt
 import json
 import os
 
-from . import ayarlar, modeller, portfoy as pf
+from . import ayarlar, modeller, portfoy as pf, talimat
 from .veri import ISTANBUL
 
 
@@ -26,6 +26,26 @@ def _satirlar(yol):
 
 def _tr(iso):
     return dt.datetime.fromisoformat(iso).astimezone(ISTANBUL).strftime("%d.%m.%Y %H:%M") if iso else "-"
+
+
+GECMIS_TUR_SAYISI = 40
+
+
+def gecmis(klasor):
+    """Telefondaki Geçmiş bölümü: en yeni tur başta; her turda tek cümlelik özet ve işlemler gerekçeleriyle."""
+    islemler = {}
+    for i in _satirlar(klasor / "islemler.jsonl"):
+        islemler.setdefault(i["zaman"], []).append({"sonuc": i["sonuc"], "neden": i.get("neden", "")})
+    turlar = []
+    for k in _satirlar(klasor / "kararlar.jsonl")[-GECMIS_TUR_SAYISI:]:
+        if k.get("hata"):
+            turlar.append({"zaman": k["zaman"], "ozet": "Model bu turda cevap veremedi; 30 dakika sonra yeniden sorulacak.",
+                           "hata": True, "islemler": []})
+            continue
+        uyarilar = [s for s in k.get("sonuclar", []) if s.startswith(("UYARI", "HATA"))]
+        turlar.append({"zaman": k["zaman"], "ozet": k.get("ozet", ""), "islemler": islemler.get(k["zaman"], []),
+                       "uyarilar": uyarilar})
+    return list(reversed(turlar))
 
 
 def ozet(simdi, fiyatlar, aktif_modeller, deneme):
@@ -50,7 +70,6 @@ def ozet(simdi, fiyatlar, aktif_modeller, deneme):
                 pozisyonlar.append({"sembol": r["sembol"], "adet": r["adet"], "deger": round(r["deger_tl"], 2),
                                     "maliyet": round(r["maliyet_tl"], 2), "kar_yuzde": round(r["kar_%"], 2),
                                     "acik": bool(d.get("acik"))})
-            islemler = _satirlar(durum / m / p / "islemler.jsonl")[-25:]
             turlar = _satirlar(durum / m / p / "gecmis.jsonl")
             plan = takvim.get(k, {})
             portfoyler[k] = {
@@ -64,8 +83,9 @@ def ozet(simdi, fiyatlar, aktif_modeller, deneme):
                 "yorum": hafiza.get("son_yorum", ""), "plan": hafiza.get("plan", ""),
                 "notlar": hafiza.get("notlar", ""), "mesaj": hafiza.get("sonraki_tura_mesaj", ""),
                 "son_sonuclar": hafiza.get("son_tur_sonuclari", []),
-                "islemler": [{"zaman": i["zaman"], "sonuc": i["sonuc"], "neden": i.get("neden", "")}
-                             for i in reversed(islemler)],
+                "gecmis": gecmis(durum / m / p),
+                "zorunlu": talimat.zorunlu_mu(p),
+                "eksik": talimat.eksik_gruplar(kayit["pozisyonlar"]) if talimat.zorunlu_mu(p) else [],
             }
     degerler = [[d["zaman"], d["portfoyler"], d.get("kiyaslar", {})] for d in _satirlar(durum / "degerler.jsonl")]
     return {

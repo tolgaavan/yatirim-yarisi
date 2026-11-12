@@ -41,6 +41,11 @@ telefon sayfası GitHub Pages'te. Mini test (her modele yalnızca kısa vade, 3 
 2026-11-11 gece GitHub'da hatasız çalıştı (bir GitHub Actions/Pages kesintisi bitince). 15 portföyün hepsi başladı;
 telefon sayfası https://tolgaavan.github.io/yatirim-yarisi/ yayında.
 
+2026-11-12: Kullanıcının isteğiyle modellere kıdemli portföy yöneticisi rolü verildi, telefona Geçmiş bölümü (tur
+özeti ve işlem gerekçeleri) eklendi, riskli uzun/orta portföylerine zorunlu çeşitlilik (döviz nakit, Türk ve ABD
+hissesi) ve kısa vadeye 1-2 varlık yönergesi getirildi. 3 soruluk gerçek testten sonra önceki turlar test sayılıp
+tüm portföyler sıfırlandı ve yarış 2026-11-12 akşamı baştan başladı.
+
 ## Kullanıcıya bildirilenler ve açık kalan noktalar
 
 - ChatGPT Plus ve Claude abonelikleri API'yi kapsamaz; platform.openai.com ve console.anthropic.com'da ayrı API kredisi gerekir. DeepSeek API ucuzdur ama ücretlidir.
