@@ -70,6 +70,9 @@ details summary{cursor:pointer;color:var(--soluk);font-size:14px}
 .kural{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
 .kural span{font-size:12px;border-radius:999px;padding:3px 9px;background:var(--kart2)}
 .kural .var{color:var(--art)} .kural .yok{color:var(--eksi)}
+.hafta{padding:12px 0;border-top:1px solid var(--cizgi)}
+.hafta:first-child{border-top:0;padding-top:0}
+.hafta-ust{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:6px}
 </style>
 </head>
 <body>
@@ -218,6 +221,7 @@ function detay(anahtar) {
   h += `<div class="kart"><div style="font-size:24px;font-weight:700">${tl(d.deger)} ${yz(d.getiri)}</div>
     <div class="soluk">Nakit ${tl(d.nakit)} · Komisyon ${tl(d.komisyon)} · ${d.tur_sayisi} tur · Başlangıç ${zaman(d.baslangic)}</div>
     <div style="margin-top:10px">${grafik([{ad: "Portföy değeri", renk: RENK[d.model], noktalar: degerSerisi(anahtar)}])}</div></div>`;
+  h += brifing(d);
   h += `<div class="kart"><b>Sonraki kontrol:</b> ${zaman(d.sonraki_kontrol)}<div class="soluk">${esc(d.sonraki_neden)}</div>
     <div style="margin-top:10px"><button class="ana" id="sorBtn">Şimdi tekrar sor</button> <span class="soluk" id="sorDurum"></span></div></div>`;
   if (d.zorunlu) {
@@ -233,8 +237,6 @@ function detay(anahtar) {
   h += `<h2>Planı</h2><div class="kart metin">${esc(d.plan) || "-"}</div>`;
   h += `<div class="kart"><details><summary>Notları ve kendine mesajı</summary><div class="metin" style="margin-top:8px">${esc(d.notlar)}\n\n— ${esc(d.mesaj)}</div></details>
     <details style="margin-top:8px"><summary>Son turun sonuçları</summary><div class="metin" style="margin-top:8px">${esc(d.son_sonuclar.join("\n"))}</div></details></div>`;
-  h += `<h2>Geçmiş</h2><div class="kart">` + (d.gecmis.length ? d.gecmis.map(turKarti).join("")
-    : `<div class="soluk">Henüz tur yok.</div>`) + `</div>`;
   $("#detayIcerik").innerHTML = h;
   $("#sorBtn").onclick = () => tekrarSor(d.model, d.portfoy);
   ac();
@@ -257,6 +259,43 @@ function turKarti(tr) {
     <div class="tur-ozet">${esc(tr.ozet) || (tr.islemler.length ? "" : "İşlem yapmadı.")}</div>` +
     tr.islemler.map(islemSatiri).join("") +
     (tr.uyarilar || []).filter(u => u.includes("zorunlu")).map(u => `<div class="tur-uyari">${esc(u)}</div>`).join("") + `</div>`;
+}
+
+const gun = iso => new Date(iso).toLocaleDateString("tr-TR", {day: "numeric", month: "short", timeZone: "Europe/Istanbul"});
+const isaretli = v => (v >= 0 ? "+" : "") + tl(v);
+
+// Portföyün brifingi: modelin strateji kurgusu, haftalık değerlendirmeleri ve bu haftanın turları.
+function brifing(d) {
+  const haftalar = d.haftalar || [], turlar = d.gecmis || [];
+  let h = "";
+  if (d.kurgu) {
+    const eski = d.kurgu_gecmisi || [];
+    h += `<h2>Strateji</h2><div class="kart"><div class="metin">${esc(d.kurgu.metin)}</div>
+      <div class="soluk" style="margin-top:6px">${zaman(d.kurgu.zaman)}${d.kurgu.neden ? " · değiştirme nedeni: " + esc(d.kurgu.neden) : ""}</div>` +
+      (eski.length ? `<details style="margin-top:8px"><summary>Önceki stratejiler (${eski.length})</summary>` +
+        eski.slice().reverse().map(k => `<div class="tur"><div class="soluk">${zaman(k.zaman)}</div><div class="metin">${esc(k.metin)}</div></div>`).join("") +
+        `</details>` : "") + `</div>`;
+  }
+  const sonHafta = haftalar.length ? haftalar[0].son : "";
+  const buHafta = turlar.filter(t => t.zaman > sonHafta);
+  h += `<h2>Bu hafta</h2><div class="kart">` + (buHafta.length
+    ? buHafta.slice(0, 5).map(turKarti).join("") + (buHafta.length > 5
+      ? `<details style="margin-top:8px"><summary>Önceki turlar (${buHafta.length - 5})</summary>${buHafta.slice(5).map(turKarti).join("")}</details>` : "")
+    : `<div class="soluk">Bu hafta henüz tur yok.</div>`) + `</div>`;
+  if (haftalar.length) {
+    h += `<h2>Haftalık değerlendirmeler</h2><div class="kart">` + haftalar.map((w, i) => {
+      // en eski haftaya portföyün ilk turu da (zamanı başlangıçla aynı) dahildir
+      const ilk = i === haftalar.length - 1;
+      const icinde = turlar.filter(t => (t.zaman > w.bas || (ilk && t.zaman >= w.bas)) && t.zaman <= w.son);
+      const kiyas = Object.entries(w.kiyaslar || {}).map(([a, v]) => `${esc(a)} ${v >= 0 ? "+" : ""}${v.toFixed(1)}%`).join(" · ");
+      return `<div class="hafta"><div class="hafta-ust"><b>${gun(w.bas)} – ${gun(w.son)}</b>
+        <span class="${w.degisim_tl >= 0 ? "art" : "eksi"}">${isaretli(w.degisim_tl)} (${w.degisim_yuzde >= 0 ? "+" : ""}${w.degisim_yuzde.toFixed(2)}%)</span></div>
+        <div class="metin">${esc(w.ozet)}</div>
+        ${kiyas ? `<div class="soluk" style="margin-top:6px">Aynı dönemde: ${kiyas}</div>` : ""}
+        ${icinde.length ? `<details style="margin-top:8px"><summary>Bu haftanın turları (${icinde.length})</summary>${icinde.map(turKarti).join("")}</details>` : ""}</div>`;
+    }).join("") + `</div>`;
+  }
+  return h;
 }
 
 function ac() { $("#detay").classList.add("acik"); $("#detay").scrollTop = 0; $("#kapat").onclick = () => $("#detay").classList.remove("acik"); }

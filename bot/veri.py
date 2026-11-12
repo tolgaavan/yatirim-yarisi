@@ -6,7 +6,7 @@ import datetime as dt
 import json
 from zoneinfo import ZoneInfo
 
-from . import ayarlar
+from . import analiz, ayarlar
 
 ISTANBUL = ZoneInfo("Europe/Istanbul")
 NEW_YORK = ZoneInfo("America/New_York")
@@ -86,16 +86,17 @@ def _kur_sembolu(pb: str) -> tuple[str | None, float]:
 
 
 def _seri(tablo, sembol):
+    """Sembolün tablosu (Open, High, Low, Close, Volume); kapanışı olmayan satırlar atılır."""
     try:
         if sembol in tablo.columns.get_level_values(0):
-            return tablo[sembol]["Close"].dropna()
+            return tablo[sembol].dropna(subset=["Close"])
     except Exception:
         pass
     return None
 
 
 def _indir(semboller: list[str], *, period: str, interval: str, deneme: int = 3) -> dict:
-    """Sembol -> kapanış serisi. Yahoo toplu indirmede bazı sembolleri ara sıra boş döndürür;
+    """Sembol -> fiyat tablosu (Close, Volume vb.). Yahoo toplu indirmede bazı sembolleri ara sıra boş döndürür;
     eksik kalanlar birkaç kez yeniden istenir."""
     import time
 
@@ -139,8 +140,9 @@ def fiyatlar(semboller: list[str], simdi: dt.datetime) -> dict[str, dict]:
 
     ham: dict[str, dict] = {}
     for s in tumu:
-        gi = gun_ici.get(s)
-        gn = gunluk.get(s)
+        gi_tablo = gun_ici.get(s)
+        gi = gi_tablo["Close"] if gi_tablo is not None else None
+        gn = gunluk[s]["Close"] if s in gunluk else None
         if (gi is None or gi.empty) and (gn is None or gn.empty):
             continue
         if gi is not None and not gi.empty:
@@ -179,6 +181,10 @@ def fiyatlar(semboller: list[str], simdi: dt.datetime) -> dict[str, dict]:
             "para_birimi": pb.get(s, _para_birimi_tahmini(s) or "?"),
             "seri": [[i.strftime("%Y-%m-%d"), round(float(v), 6)] for i, v in gn.tail(90).items()]
             if gn is not None else [],
+            # Göstergeler: son günlük çubuk bugünse dışarıda bırakılır, fiyat ayrıca eklenir.
+            "teknik": analiz.gunluk_teknik(
+                [float(v) for i, v in gn.items() if i.date() < zaman.date()], fiyat) if gn is not None else {},
+            "gun_ici": analiz.gun_ici(gi_tablo) if gi_tablo is not None else {},
         }
 
     sonuc = {}

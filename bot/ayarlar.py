@@ -21,6 +21,8 @@ NOT_SINIRI = 1000
 PLAN_SINIRI = 600
 MESAJ_SINIRI = 400
 IZLEME_SINIRI = 15
+KURGU_SINIRI = 600              # başlangıç kurgusu
+HAFTALIK_SINIRI = 900           # haftalık değerlendirme
 
 # Yarışan modeller. Anahtarı tanımlı olmayan model atlanır (portföyleri anahtar gelince başlar).
 # Model adı GitHub değişkeniyle (ör. OPENAI_MODEL) değiştirilebilir.
@@ -57,6 +59,19 @@ GENEL_SEMBOLLER = {
     "Döviz": ["USDTRY=X", "EURTRY=X", "EURUSD=X"],
     "Kripto": ["BTC-USD", "ETH-USD", "SOL-USD", "BNB-USD", "XRP-USD"],
 }
+
+# Fırsat tablosu: her turda bu listelerden, piyasası açık olanların günün en çok yükselen ve düşenleri gösterilir.
+# Listede olmayan her şey yine alınabilir; bu yalnızca modelin göremediği fırsatları fark etmesi için bir tarama.
+FIRSAT_EVRENI = {
+    "Borsa İstanbul büyük hisseler": [s + ".IS" for s in (
+        "AKBNK ALARK ARCLK ASELS ASTOR BIMAS EKGYO ENKAI EREGL FROTO GARAN HEKTS ISCTR KCHOL KONTR KRDMD MGROS "
+        "PETKM PGSUS SAHOL SASA SISE TAVHL TCELL THYAO TOASO TTKOM TUPRS YKBNK").split()],
+    "ABD büyük şirketler": ("AAPL MSFT NVDA AMZN GOOGL META TSLA AVGO JPM V MA UNH XOM LLY WMT COST NFLX AMD ORCL "
+                            "CRM KO PEP BAC PLTR INTC MU DIS").split(),
+    "ABD sektör fonları": "XLK XLF XLE XLV XLI XLY XLP XLU XLB XLRE XLC SMH".split(),
+    "Kripto": [s + "-USD" for s in "BTC ETH SOL BNB XRP DOGE ADA AVAX LINK DOT LTC".split()],
+}
+FIRSAT_SAYISI = 4               # her listeden en çok yükselen ve en çok düşen kaç tane
 
 # Kıyas: 10.000 TL ilk günden bunlara yatırılıp hiç dokunulmasaydı
 KIYASLAR = {

@@ -6,7 +6,7 @@ import datetime as dt
 import json
 import os
 
-from . import ayarlar, modeller, portfoy as pf, talimat
+from . import ayarlar, haftalik, modeller, portfoy as pf, talimat
 from .veri import ISTANBUL
 
 
@@ -28,16 +28,18 @@ def _tr(iso):
     return dt.datetime.fromisoformat(iso).astimezone(ISTANBUL).strftime("%d.%m.%Y %H:%M") if iso else "-"
 
 
-GECMIS_TUR_SAYISI = 40
+GECMIS_GUN = 35          # uygulamada turların ayrıntısı bu kadar gün tutulur; daha eskiler yalnızca haftalık özetle
+GECMIS_EN_FAZLA = 250
 
 
-def gecmis(klasor):
-    """Telefondaki Geçmiş bölümü: en yeni tur başta; her turda tek cümlelik özet ve işlemler gerekçeleriyle."""
+def gecmis(klasor, simdi):
+    """Telefondaki turlar: en yeni tur başta; her turda tek cümlelik özet ve işlemler gerekçeleriyle."""
     islemler = {}
     for i in _satirlar(klasor / "islemler.jsonl"):
         islemler.setdefault(i["zaman"], []).append({"sonuc": i["sonuc"], "neden": i.get("neden", "")})
     turlar = []
-    for k in _satirlar(klasor / "kararlar.jsonl")[-GECMIS_TUR_SAYISI:]:
+    sinir = (simdi - dt.timedelta(days=GECMIS_GUN)).isoformat()
+    for k in [k for k in _satirlar(klasor / "kararlar.jsonl") if k["zaman"] >= sinir][-GECMIS_EN_FAZLA:]:
         if k.get("hata"):
             turlar.append({"zaman": k["zaman"], "ozet": "Model bu turda cevap veremedi; 30 dakika sonra yeniden sorulacak.",
                            "hata": True, "islemler": []})
@@ -83,7 +85,12 @@ def ozet(simdi, fiyatlar, aktif_modeller, deneme):
                 "yorum": hafiza.get("son_yorum", ""), "plan": hafiza.get("plan", ""),
                 "notlar": hafiza.get("notlar", ""), "mesaj": hafiza.get("sonraki_tura_mesaj", ""),
                 "son_sonuclar": hafiza.get("son_tur_sonuclari", []),
-                "gecmis": gecmis(durum / m / p),
+                "gecmis": gecmis(durum / m / p, simdi),
+                "kurgu": hafiza.get("kurgu"),
+                "kurgu_gecmisi": hafiza.get("kurgu_gecmisi", []),
+                "haftalar": [{a: h.get(a) for a in ("hafta", "bas", "son", "ozet", "deger_bas", "deger_son",
+                                                    "degisim_tl", "degisim_yuzde", "kiyaslar", "tur_sayisi")}
+                             for h in reversed(haftalik.kayitlar(durum / m / p)) if h.get("ozet") and not h.get("hata")],
                 "zorunlu": talimat.zorunlu_mu(p),
                 "eksik": talimat.eksik_gruplar(kayit["pozisyonlar"]) if talimat.zorunlu_mu(p) else [],
             }

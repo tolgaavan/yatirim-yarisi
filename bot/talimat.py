@@ -6,7 +6,7 @@ import datetime as dt
 import json
 import re
 
-from . import ayarlar
+from . import ayarlar, bilgi
 from .veri import ISTANBUL
 
 _RISK = {
@@ -44,7 +44,10 @@ ZORUNLU_METIN = """ZORUNLU ÇEŞİTLİLİK (bu portföyde her zaman bulunmalı; 
 
 KISA_METIN = """KISA VADE YAKLAŞIMI: Az sayıda varlıkta yoğunlaş; mümkünse aynı anda bir ya da iki varlık tut. Al-sat için
 7/24 açık kriptoya mecbur değilsin: Borsa İstanbul (hafta içi 10:00-18:00) ve ABD hisselerinde (kışın 17:30-24:00)
-seans saatlerinde de al-sat yapabilirsin. Kontrol saatlerini işlem yapmak istediğin piyasanın açık olduğu saatlere göre seç."""
+seans saatlerinde de al-sat yapabilirsin. Kontrol saatlerini işlem yapmak istediğin piyasanın açık olduğu saatlere göre seç.
+Portföyündeki ve izleme listendeki varlıklar için son 4 saatin 15 dakikalık fiyat seyrini, günün açılış/en yüksek/en düşük
+seviyesini, 15 dakikalık RSI'ı ve son bir saatin hacminin normale oranını da görürsün (Borsa İstanbul verisi yaklaşık
+15 dakika gecikmelidir)."""
 
 
 def zorunlu_mu(portfoy_kodu: str) -> bool:
@@ -93,6 +96,21 @@ Kurallar:
   Sınırlar: notlar {ayarlar.NOT_SINIRI}, plan {ayarlar.PLAN_SINIRI}, mesaj {ayarlar.MESAJ_SINIRI} karakter. Aşarsan sondan kesilir.
 - Bir sembolün verisini sonraki turlarda görmek istersen izleme_listesi'ne ekle (en fazla {ayarlar.IZLEME_SINIRI}).
 - İşlem yapmamak da bir karardır. Komisyonu unutma.
+- SIFIRDAN TESTİ: Her turda kendine sor: "Bugün elimde yalnızca nakit olsaydı bu portföyü yine böyle mi kurardım?"
+  Cevabın hayırsa, komisyonu da hesaba katarak daha iyi fırsata geç; bir varlığı sırf daha önce aldın diye tutma.
+  Cevabın evetse bekle; her küçük hareketin peşinden koşma.
+- Sana verilen bilgiler: fiyatlar ve değişimleri; portföyündeki ve izleme listendeki varlıklar için teknik göstergeler
+  (RSI, 20 ve 50 günlük ortalamaya uzaklık, 6 aylık zirve ve dibe uzaklık, yıllık oynaklık), temel veriler (F/K, PD/DD,
+  piyasa değeri, temettü verimi; Yahoo verisidir, özellikle Borsa İstanbul'da hatalı olabilir, mantıksız görünen
+  değere güvenme), son haber başlıkları (yalnızca başlık; tek bir başlığa dayanarak büyük karar verme) ve fırsat
+  tablosu (geniş bir listeden günün en iyi ve en kötü gidenleri). Fırsat tablosunda ilgini çekeni izleme listene
+  ekleyebilir veya doğrudan alabilirsin. Haber ve temel veri kaynağı bazen cevap vermez; o zaman o bölüm görünmez.
+- BAŞLANGIÇ KURGUSU: Mesajda BAŞLANGIÇ KURGUN bölümü "(henüz yazmadın)" diyorsa, "baslangic_kurgusu" alanına bu
+  portföyü nasıl kurduğunu ve hangi stratejiyi izlediğini yatırımcıya anlatır gibi, birinci tekil şahısla 2-4 cümle
+  yaz. Sonraki turlarda bu alanı boş bırak; yalnızca stratejini köklü biçimde değiştirirsen yeniden yaz ve
+  "kurgu_degisim_nedeni" alanına nedenini ekle. En fazla {ayarlar.KURGU_SINIRI} karakter.
+- Her cuma gecesi bu haftanın kayıtlarından sana haftalık bir değerlendirme yazdırılır; son haftalık
+  değerlendirmen mesajında görünür.
 - Kararların, yatırımcının telefonundaki geçmiş ekranında gösterilir. Her işlemin "neden" alanına TEK CÜMLE yaz:
   bu varlığı neden seçtiğini ve en yakın alternatifini (adını vererek) neden seçmediğini söyle. "tur_ozeti" alanına
   da bu turdaki kararının tek cümlelik özetini yaz; işlem yapmadıysan neden beklediğini söyle.
@@ -100,6 +118,8 @@ Kurallar:
 Cevabını SADECE aşağıdaki biçimde, geçerli tek bir JSON nesnesi olarak ver, başka metin yazma:
 {{
   "tur_ozeti": "bu turdaki kararının tek cümlelik özeti",
+  "baslangic_kurgusu": "yalnızca ilk turda veya strateji köklü biçimde değişince; yoksa boş",
+  "kurgu_degisim_nedeni": "kurguyu yeniden yazdıysan nedeni; yoksa boş",
   "piyasa_yorumu": "şu anki duruma kısa bakışın (en fazla 400 karakter)",
   "islemler": [
     {{"islem": "sat", "sembol": "XXX", "yuzde": 50, "neden": "tek cümle: neden bu, neden alternatifi değil"}},
@@ -159,10 +179,99 @@ def _satir(s, d):
             f"ay {_yuzde(d['ay_%'])}% 3ay {_yuzde(d['3ay_%'])}%{bilgi}")
 
 
+def _sayi(x):
+    """Büyük sayıları okunur kısalt: 437.8 mlr, 5.2 trn."""
+    if not isinstance(x, (int, float)):
+        return "-"
+    for bolen, ek in ((1e12, " trn"), (1e9, " mlr"), (1e6, " mn")):
+        if abs(x) >= bolen:
+            return f"{x / bolen:.1f}{ek}"
+    return f"{x:,.0f}"
+
+
+def _teknik_metni(t):
+    if not t:
+        return ""
+    p = []
+    if t.get("rsi14") is not None:
+        p.append(f"RSI14 {t['rsi14']:.0f}")
+    for alan, ad in (("ort20_%", "20 günlük ortalamaya"), ("ort50_%", "50 günlük ortalamaya")):
+        if t.get(alan) is not None:
+            p.append(f"{ad} göre {_yuzde(t[alan])}%")
+    if t.get("zirve_%") is not None:
+        p.append(f"6 ay zirvesine {_yuzde(t['zirve_%'])}%, dibine {_yuzde(t['dip_%'])}%")
+    if t.get("oynaklik_%") is not None:
+        p.append(f"yıllık oynaklık %{t['oynaklik_%']:.0f}")
+    return "teknik: " + " | ".join(p)
+
+
+def _temel_metni(v):
+    if not v:
+        return ""
+    p = []
+    if v.get("fk"):
+        p.append(f"F/K {v['fk']} ({v['fk_tur']})")
+    if v.get("pddd"):
+        p.append(f"PD/DD {v['pddd']}")
+    if v.get("piyasa_degeri"):
+        ad = "fon büyüklüğü" if v.get("tur") == "ETF" else "piyasa değeri"
+        p.append(f"{ad} {_sayi(v['piyasa_degeri'])} {v.get('para_birimi') or ''}".rstrip())
+    if v.get("temettu_%"):
+        p.append(f"temettü verimi %{v['temettu_%']}")
+    return ("temel: " + " | ".join(p)) if p else ""
+
+
+def _gun_ici_metni(g):
+    if not g or not g.get("seri"):
+        return ""
+    p = ["15dk son 4 saat: " + " ".join(str(x) for x in g["seri"]),
+         f"bugün açılış {g['acilis']}, yüksek {g['yuksek']}, düşük {g['dusuk']}"]
+    if g.get("rsi14") is not None:
+        p.append(f"RSI(15dk) {g['rsi14']:.0f}")
+    if g.get("ort20_%") is not None:
+        p.append(f"15dk 20 çubuk ortalamasına göre {_yuzde(g['ort20_%'])}%")
+    if g.get("hacim_kat") is not None:
+        p.append(f"son 1 saat hacmi normalin {g['hacim_kat']} katı")
+    return " | ".join(p)
+
+
+def _firsat_kisa(s, d):
+    r = (d.get("teknik") or {}).get("rsi14")
+    return (f"{s} gün {_yuzde(d['gun_%'])}% hafta {_yuzde(d['hafta_%'])}% ay {_yuzde(d['ay_%'])}%"
+            + (f" RSI {r:.0f}" if r is not None else ""))
+
+
+def firsat_tablosu(fiyatlar, adet=None) -> list[str]:
+    """Fırsat evreninden, piyasası açık olanların günün en çok yükselen ve düşenleri."""
+    adet = adet or ayarlar.FIRSAT_SAYISI
+    b = []
+    for grup, semboller in ayarlar.FIRSAT_EVRENI.items():
+        acik = [(s, fiyatlar[s]) for s in semboller
+                if fiyatlar.get(s, {}).get("piyasa_acik") and fiyatlar[s].get("gun_%") is not None]
+        if len(acik) < 2:
+            continue
+        acik.sort(key=lambda x: x[1]["gun_%"], reverse=True)
+        yukselen = acik[:adet]
+        dusen = [x for x in reversed(acik[-adet:]) if x not in yukselen]
+        metin = f"{grup}:\n  günün en iyileri: " + "; ".join(_firsat_kisa(s, d) for s, d in yukselen)
+        if dusen:
+            metin += "\n  günün en kötüleri: " + "; ".join(_firsat_kisa(s, d) for s, d in dusen)
+        b.append(metin)
+    return b
+
+
 def mesaj(*, simdi_tr, gecen_gun, portfoy, toplam, satirlar, fiyatlar, hafiza, son_islemler, son_degerler,
-          onceki_sonuclar, zorunlu=False) -> str:
+          onceki_sonuclar, zorunlu=False, kisa=False, son_hafta=None, temel=None, haberler=None) -> str:
+    temel = temel or {}
+    haberler = haberler or {}
     b = [f"ŞU AN: {simdi_tr} (İstanbul saati). Portföyün başlangıcından bu yana {gecen_gun} gün geçti."]
     b.append(f"\n=== GEÇEN TURDAN KENDİNE MESAJ ===\n{hafiza.get('sonraki_tura_mesaj') or '(ilk tur)'}")
+    kurgu = (hafiza.get("kurgu") or {}).get("metin")
+    b.append("\n=== BAŞLANGIÇ KURGUN ===\n" + (kurgu or "(henüz yazmadın; bu turda baslangic_kurgusu alanına yaz)"))
+    if son_hafta:
+        b.append(f"\n=== GEÇEN HAFTAKİ DEĞERLENDİRMEN ({_tr(son_hafta['bas'])} - {_tr(son_hafta['son'])}) ===\n"
+                 f"Portföy {son_hafta['deger_bas']:,.0f} TL -> {son_hafta['deger_son']:,.0f} TL "
+                 f"({_yuzde(son_hafta['degisim_yuzde'])}%).\n{son_hafta['ozet']}")
     b.append(f"\n=== NOTLARIN ===\n{hafiza.get('notlar') or '(henüz not yok)'}")
     b.append(f"\n=== PLANIN ===\n{hafiza.get('plan') or '(henüz plan yok)'}")
     if onceki_sonuclar:
@@ -187,25 +296,45 @@ def mesaj(*, simdi_tr, gecen_gun, portfoy, toplam, satirlar, fiyatlar, hafiza, s
         b.append("\n=== SON İŞLEMLERİN ===\n" + "\n".join(
             f"{_tr(i['zaman'])} {i['sonuc']}" for i in son_islemler))
 
-    gosterilen, kapali = set(), []
+    gosterilen = set()
     for grup, semboller in ayarlar.GENEL_SEMBOLLER.items():
         acik = [s for s in semboller if fiyatlar.get(s, {}).get("piyasa_acik")]
         gosterilen.update(semboller)
         if acik:
             b.append(f"\n=== {grup.upper()} (açık piyasalar) ===\n" + "\n".join(_satir(s, fiyatlar[s]) for s in acik))
-    ozel = [s for s in dict.fromkeys(list(portfoy["pozisyonlar"]) + hafiza.get("izleme_listesi", []))
-            if s not in gosterilen]
-    acik_ozel = []
-    for s in ozel:
-        if fiyatlar.get(s, {}).get("piyasa_acik"):
-            acik_ozel.append(s)
-        else:
-            kapali.append(s)
+    kendi = list(dict.fromkeys(list(portfoy["pozisyonlar"]) + hafiza.get("izleme_listesi", [])))
+    acik_kendi = [s for s in kendi if fiyatlar.get(s, {}).get("piyasa_acik")]
+    kapali = [s for s in kendi if s not in acik_kendi]
+    acik_ozel = [s for s in acik_kendi if s not in gosterilen]
     if acik_ozel:
         b.append("\n=== PORTFÖYÜN VE İZLEME LİSTEN (açık piyasalar) ===\n" +
                  "\n".join(_satir(s, fiyatlar[s]) for s in acik_ozel))
+    if acik_kendi:
+        analiz = []
+        for s in acik_kendi:
+            d = fiyatlar[s]
+            v = temel.get(s) or {}
+            baslik = s
+            if v.get("ad"):
+                baslik += f" ({v['ad']}" + (f", {v['sektor']}" if v.get("sektor") else "") + ")"
+            satir = [baslik]
+            for metin in (_teknik_metni(d.get("teknik")), _temel_metni(v),
+                          _gun_ici_metni(d.get("gun_ici")) if kisa else ""):
+                if metin:
+                    satir.append("  " + metin)
+            for h in (haberler.get("semboller") or {}).get(s, []):
+                satir.append("  haber: " + bilgi.haber_satiri(h))
+            analiz.append("\n".join(satir))
+        b.append("\n=== ANALİZ: PORTFÖYÜN VE İZLEME LİSTEN ===\n" + "\n".join(analiz))
     if kapali:
         b.append("\nŞu an piyasası kapalı veya verisi olmadığı için gösterilmeyenler: " + ", ".join(kapali))
+    firsat = firsat_tablosu(fiyatlar)
+    if firsat:
+        b.append("\n=== FIRSAT TABLOSU: günün öne çıkanları (açık piyasalar) ===\n" + "\n".join(firsat))
+    genel = haberler.get("genel") or {}
+    if genel:
+        b.append("\n=== HABER BAŞLIKLARI ===\n" + "\n".join(
+            f"{ad}:\n" + "\n".join("  " + bilgi.haber_satiri(h) for h in liste) for ad, liste in genel.items()))
     b.append("\nKararını JSON olarak ver.")
     return "\n".join(b)
 
