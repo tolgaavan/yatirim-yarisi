@@ -1,27 +1,27 @@
 {
  "baslangic": "2026-11-11T20:46:53+00:00",
- "nakit_tl": 982.0,
+ "nakit_tl": 681.5799126483989,
  "pozisyonlar": {
   "BTC-USD": {
    "adet": 0.00106971787041786,
    "maliyet_tl": 4008.0,
-   "son_fiyat_tl": 3705022.2357613742
+   "son_fiyat_tl": 3684852.249730706
   },
   "SOL-USD": {
-   "adet": 0.5861974160421842,
-   "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 4191.606739537354
+   "adet": 0.2930987080210921,
+   "maliyet_tl": 1252.5,
+   "son_fiyat_tl": 4167.127831869875
   },
   "ETH-USD": {
    "adet": 0.014371364569663753,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 103293.989619595
+   "son_fiyat_tl": 102573.55966946576
   },
-  "SI=F": {
-   "adet": 0.3841699875358596,
-   "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 2595.450110665741
+  "XU030.IS": {
+   "adet": 0.16826892423967751,
+   "maliyet_tl": 2505.0,
+   "son_fiyat_tl": 14857.169921875
   }
  },
- "odenen_komisyon_tl": 18.0
+ "odenen_komisyon_tl": 27.41799581693066
 }

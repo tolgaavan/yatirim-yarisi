@@ -1,28 +1,25 @@
 {
- "notlar": "Başlangıç 11.11.2026. Strateji: kısa vadeli al-sat ve TL nakdi atıl bırakmamak, çünkü TL değer kaybı USD varlıklara rüzgâr sağlıyor. Komisyon %0.2: gereksiz sık işlemden kaçın. Pozisyonlar: QQQ 3500 TL ve SPY 2500 TL, 11.11 23:46'da ABD toparlanma günü alındı (SPX 7625, NDX 25500). Nakit ~4000 TL, BIST fırsatı için ayrıldı. Altın, gümüş ve kripto aylık düşüş trendinde. Dipten dönüş teyidi olmadan girme.",
- "plan": "12.11 sabah: BIST açılışına bak. XU100 güçlüyse veya bankalar ve THYAO momentumluysa nakdin bir kısmıyla gir. ABD pozisyonlarında %-4 zarar kes, %+5 ve üzerinde kısmi kâr al. Toparlanma sürerse tut. BTC 72k altına düşerse uzak dur. 78k üzerine çıkarsa küçük pozisyon düşün. Altın 3900 desteğini izle.",
- "sonraki_tura_mesaj": "QQQ ve SPY'yi ABD toparlanma gününde aldın, ~4000 TL nakit var. Sabah BIST'e bak: XU100 ve banka momentumu iyiyse nakdin bir kısmını kullan. ABD pozisyonlarını -4% stop, +5% kâr kuralına göre yönet. Fazla işlem yapma, komisyon var.",
+ "notlar": "Başlangıç 11.11.2026. Strateji: kısa vadeli al-sat, TL nakdi atıl bırakmamak. Komisyon %0.2, sık işlemden kaçın. Pozisyonlar: QQQ 3500 TL ve SPY 2500 TL, 11.11 23:46'da alındı (SPX 7625, NDX 25500). THYAO 1500 TL (~320 TL'den) ve GARAN 1300 TL (~154.2 TL'den) 12.11 13:15'te alındı; BIST'te 3 aylık düşüşten toparlanma momentumuna oynuyorum (XU100 11836). Nakit ~1180 TL. Altın, gümüş ve kripto aylık düşüş trendinde. Dönüş teyidi olmadan girme. BTC 73.3k.",
+ "plan": "Tüm pozisyonlarda -4% stop, +5% ve üzerinde kısmi kâr al, momentum sürerse kalanı tut. BIST: THYAO 307 altı stop, 336 üstü kısmi kâr. GARAN 148 altı stop, 162 üstü kısmi kâr. XU100 11500 altına inerse BIST'i azalt. ABD: QQQ ve SPY kuralı aynı. BTC 78k üstüne çıkarsa küçük pozisyon, 70k altında uzak dur. Altın 3900 desteğini kırarsa uzak dur.",
+ "sonraki_tura_mesaj": "THYAO ve GARAN 12.11 öğlen alındı (320 / 154.2). QQQ ve SPY 11.11'den beri elde. Nakit ~1180 TL. ABD açılışında QQQ ve SPY'ye bak, BIST kapanışa yakın THYAO ve GARAN durumunu kontrol et. Kurallar: -4% stop, +5% kısmi kâr. Gereksiz işlem yapma.",
  "izleme_listesi": [
-  "QQQ",
-  "SPY",
-  "XU100.IS",
-  "XU030.IS",
   "THYAO.IS",
   "GARAN.IS",
   "AKBNK.IS",
   "ASELS.IS",
-  "USDTRY=X",
-  "BTC-USD",
-  "ETH-USD",
-  "GC=F",
+  "TUPRS.IS",
+  "QQQ",
+  "SPY",
   "NVDA",
   "GLD",
-  "TUPRS.IS"
+  "BTC-USD",
+  "XU100.IS",
+  "GC=F"
  ],
- "son_yorum": "ABD endeksleri aylık düşüşten sonra güçlü toparlandı (Nasdaq +1.7%). VIX %10 düştü, risk iştahı dönüyor olabilir. Altın, gümüş ve kripto aylık düşüş trendinde. Zımni USDTRY ≈50.2. TL nakit faiz getirmiyor, kurun yükselmesi dolar bazlı varlıklara ek getiri sağlıyor. ABD seansının kapanmasına 14 dk var. BIST yarın açılacak.",
+ "son_yorum": "BIST haftalık bazda güçlü toparlanıyor: XU100 gün +1.46%, hafta +4.44%. 3 aylık düşüşten dönüş sinyali var. THYAO ve GARAN aylık momentumda lider. Kripto, altın ve gümüş düşüş trendini sürdürüyor, uzak duruyorum. Dolar/TL yatay. ABD piyasası kapalı.",
  "son_tur_sonuclari": [
-  "ALINDI: QQQ 0.100812 adet, birim 34718.0289 TL, tutar 3500.00 TL + komisyon 7.00 TL",
-  "ALINDI: SPY 0.0654625 adet, birim 38189.7812 TL, tutar 2500.00 TL + komisyon 5.00 TL",
-  "Sonraki kontrol: 2026-11-12 10:30"
+  "ALINDI: THYAO.IS 4.6875 adet, birim 320.0000 TL, tutar 1500.00 TL + komisyon 3.00 TL",
+  "ALINDI: GARAN.IS 8.43061 adet, birim 154.2000 TL, tutar 1300.00 TL + komisyon 2.60 TL",
+  "Sonraki kontrol: 2026-11-12 17:45"
  ]
 }

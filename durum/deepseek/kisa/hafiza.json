@@ -1,18 +1,22 @@
 {
- "notlar": "Başlangıç 10,000 TL nakit. Kısa vade al-sat momentum stratejisi. BTC 75-76K üzerine hacimli kırılım olmadıkça veya SPY/QQQ günlük güç göstermedikçe alım yok. BTC 74.5K, ETH 2078 zayıf. Altın 3990 üzerinde ama negatif. Komisyon %0.2, gereksiz işlem yok. İzlenecekler: SPY, QQQ, BTC-USD, ETH-USD, XU100.IS, GLD, GC=F.",
- "plan": "BTC 75-76K üzerinde saatlik kapanış ve hacim artışı görürsem portföyün %20'siyle BTC almayı düşün. SPY/QQQ yarın ABD açılışında (16:30 İstanbul) güçlü olursa %20-30 ile SPY/QQQ al. XU100 yarın 10:00'da pozitif açılış ve hacim olursa değerlendir. Altın 3950 altına sarkarsa kısa düşünme, düşüş bıçağı tutma.",
- "sonraki_tura_mesaj": "ABD kapalı, kripto/emtia açık. BTC 75-76K üzerinde mi? SPY/QQQ son kapanış momentum verisi yarın bak. XU100 açılışta güçlü mü? Nakitteyim, sinyal yoksa almaya zorlanma.",
+ "notlar": "Başlangıç 10k TL. Kısa vade momentum stratejisi. XU100.IS'ten 2000 TL alındı (giriş ~11836). Hedef +%2 veya güç kaybında sat. BTC 75-76K üzeri hacimli kırılım olmadıkça alınmaz; şu an 73.3K zayıf. SPY/QQQ ABD açılışında güçlü ise %20-30 alınabilir. Komisyon %0.2, gereksiz işlem yok.",
+ "plan": "XU100 11.750 altında saatlik kapanış yaparsa veya +%2 hedefe ulaşırsa sat. ABD açılışı 17:30'da SPY/QQQ güçlü ise 2000-3000 TL ile al. BTC 75-76K üzerinde hacimli kırılım olursa %20 BTC. Altın 3950 altında ise dokunma.",
+ "sonraki_tura_mesaj": "XU100 alındı: 2000 TL ~11836. ABD 17:30'da açılıyor; SPY/QQQ ilk momentumu güçlü mü? XU100 kapanışı güçlü mü? BTC 75-76K altında, zorlama. Nakit 8000 TL.",
  "izleme_listesi": [
   "SPY",
   "QQQ",
   "BTC-USD",
   "ETH-USD",
   "XU100.IS",
+  "XU030.IS",
   "GLD",
-  "GC=F"
+  "GC=F",
+  "USDTRY=X",
+  "CL=F"
  ],
- "son_yorum": "ABD seansı yeni kapandı; SPY/QQQ verisi yok. BTC 74.5K ile 75K altında, hacimli kırılım yok. ETH/SOL günlük tepki gösterse de haftalık/aylık eğilim zayıf. Altın 3990 ama gün -0.98%, momentum yok. Net alım sinyali olmadığından nakitte kalmak en doğrusu.",
+ "son_yorum": "ABD kapalı, SPY/QQQ verisi yok. BIST güçlü: XU100 günlük +%1.46, haftalık +%4.44; kısa vadeli momentum alımı için uygun. BTC 73.3K ile 75-76K altında zayıf, emtia negatif. Dolayısıyla %20 XU100 alıp kalan nakitle bekliyorum.",
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-12 10:00"
+  "ALINDI: XU100.IS 0.168973 adet, birim 11836.2305 TL, tutar 2000.00 TL + komisyon 4.00 TL",
+  "Sonraki kontrol: 2026-11-12 17:45"
  ]
 }

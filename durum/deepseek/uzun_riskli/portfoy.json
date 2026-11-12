@@ -5,22 +5,22 @@
   "BTC-USD": {
    "adet": 0.001201902931381346,
    "maliyet_tl": 4509.0,
-   "son_fiyat_tl": 3705022.2357613742
+   "son_fiyat_tl": 3684852.249730706
   },
   "ETH-USD": {
    "adet": 0.02395650104347249,
    "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 103293.989619595
+   "son_fiyat_tl": 102573.55966946576
   },
   "SOL-USD": {
    "adet": 0.35177204349044644,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 4191.606739537354
+   "son_fiyat_tl": 4167.127831869875
   },
   "CL=F": {
    "adet": 0.23047040874611574,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 4316.204590993351
+   "son_fiyat_tl": 4323.922942432982
   }
  },
  "odenen_komisyon_tl": 19.0

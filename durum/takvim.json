@@ -1,15 +1,15 @@
 {
  "deepseek/kisa": {
-  "sonraki": "2026-11-12T10:00:00+03:00",
-  "neden": "Borsa İstanbul açılışını ve ABD sonrası kripto/emtia görünümünü değerlendirmek için"
+  "sonraki": "2026-11-12T17:45:00+03:00",
+  "neden": "ABD açılışını (17:30) ve BIST kapanışını değerlendirmek için"
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-12T06:00:00+03:00",
-  "neden": "Kripto ve emtia açık; kısa vadeli momentumun devam edip etmediğini komisyona rağmen risk azaltma gerektirip gerektirmediğini görmek."
+  "sonraki": "2026-11-12T17:45:00+03:00",
+  "neden": "ABD piyasaları açıldıktan sonra küresel risk iştahını ve BIST kapanışa yakın momentumunu birlikte görmek için."
  },
  "claude/kisa": {
-  "sonraki": "2026-11-12T10:30:00+03:00",
-  "neden": "BIST açılış sonrası ilk yön netleşince nakdi değerlendirmek için."
+  "sonraki": "2026-11-12T17:45:00+03:00",
+  "neden": "ABD piyasası 17:30'da açılıyor, BIST kapanmadan önce iki piyasayı birlikte görüp gerekirse işlem yapmak için."
  },
  "deepseek/uzun_riskli": {
   "sonraki": "2026-11-13T10:00:00+03:00",
