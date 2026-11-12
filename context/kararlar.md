@@ -32,6 +32,7 @@ Bu dosya kesinleşmiş ve gelecekteki çalışmaları etkileyecek kararları kay
 | 2026-11-12 | Modellere program tarafından, üçüne eşit biçimde ek bilgi verilir: teknik göstergeler (RSI, 20/50 günlük ortalama, 6 ay zirve/dip, oynaklık), temel veriler (F/K, PD/DD, piyasa değeri, temettü; Yahoo), haber başlıkları (Yahoo; Türkçe için Google Haberler), fırsat tablosu (BIST büyükleri, ABD büyükleri, sektör fonları, kripto arasında günün en iyi/kötüleri) ve "sıfırdan başlasam" kuralı. Modellere kendi internet araması verilmez. | Kullanıcı kararı; adil kıyas ve sabit maliyet | aktif | Bot, talimat |
 | 2026-11-12 | Yalnızca kısa vade portföyüne 15 dakikalık veri verilir: son 4 saatin seyri, gün içi açılış/yüksek/düşük, 15 dk RSI, hacmin normale oranı. | Kullanıcı kararı | aktif | Bot, talimat |
 | 2026-11-12 | Yeni veri paketinden sonra yarış ikinci kez sıfırlanıp 2026-11-12 23:37'de (İstanbul) baştan başlatıldı. | Kullanıcı kararı | aktif | Durum verisi |
+| 2026-11-12 | Depo (`tolgaavan/yatirim-yarisi`) herkese açık kalır: içinde gizli bilgi yok (API anahtarları GitHub gizli bilgi kasasında), görünen yalnızca hayali portföyler ve gerekçeler. Herkese açık depo sayesinde GitHub Pages ve Actions ücretsiz kalır. | Kullanıcı kararı | aktif | Depo, dağıtım |
 
 ## Kullanım kuralları
 

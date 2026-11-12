@@ -59,6 +59,8 @@ Tur başına girdi yaklaşık 4-7 bin token; DeepSeek çıktısı 5,7-7 bin toke
 - Para karşılığı masraf doğrulanmadı (token sayıları mini testte ölçüldü); ilk haftanın gerçek token kullanımıyla (`kararlar.jsonl` içindeki `kullanim`) kontrol edilecek. Hafıza sınırı da ilk haftaya bakılıp ayarlanabilir.
 - Vade bitince (3 ay / 1 ay) ne olacağı belirlenmedi; şimdilik portföyler çalışmaya devam eder.
 - Risksiz portföylerde TL nakit faiz getirmez (Türkiye'de mevduat/para piyasası fonu Yahoo'da yok).
+- (2026-11-12) GitHub zamanlayıcısı güvenilir çalışmıyor: 30 dakikada bir çalışması gerekirken 2026-11-12 boyunca yalnızca 2 kez kendiliğinden çalıştı (diğer turlar elle başlatıldı). Kullanıcıya iki çözüm sunuldu, karar bekleniyor: (1) GitHub içinde sürekli çalışan "nöbetçi" görev, (2) cron-job.org gibi dış zamanlayıcı.
+- (2026-11-12) Yeni ekranlı (Strateji, Bu hafta, Haftalık değerlendirmeler) APK henüz derlenmedi: imza bilgilerini geçici olarak GitHub'a yazmak için kullanıcı izni bekleniyor. `Desktop/apk/yatirim-yarisi-1.0.2.apk` eski ekranı gösterir; site yeni haliyle çalışır.
 
 ## Önemli konumlar
 
@@ -68,6 +70,11 @@ Tur başına girdi yaklaşık 4-7 bin token; DeepSeek çıktısı 5,7-7 bin toke
 - `bot/talimat.py`: modellere giden talimat ve mesaj, cevabın okunması
 - `bot/modeller.py`: DeepSeek / OpenAI / Anthropic çağrıları
 - `bot/portfoy.py`: hayali portföy, alış/satış, değerleme
+- `bot/analiz.py`: teknik göstergeler ve kısa vade için 15 dakikalık özet
+- `bot/bilgi.py`: temel veriler (Yahoo, günde bir kez `durum/temel.json`) ve haber başlıkları (Yahoo, Google Haberler)
+- `bot/haftalik.py`: cuma gecesi haftalık değerlendirme (`durum/<model>/<portföy>/haftalik.jsonl`)
+- `android/` ve `.github/workflows/android-apk.yml`: APK (elle derlenir; imza anahtarı `C:/Users/Tolga/dev/yatirim-imza`)
+- `.github/workflows/deneme.yml`: gerçek modellerle yarışa sayılmayan deneme (sonuç yalnızca indirilebilir dosya olur)
 - `bot/calistir.py`: bir çalışma (`python -m bot.calistir`, `--deneme`, `--zorla`, `--model`, `--portfoy`)
 - `bot/rapor.py`: `README.md` ve uygulama verisi `docs/veri/ozet.json`
 - `docs/`: telefon uygulaması (GitHub Pages: https://tolgaavan.github.io/yatirim-yarisi/)

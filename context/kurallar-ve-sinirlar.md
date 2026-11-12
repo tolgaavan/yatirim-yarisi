@@ -16,7 +16,8 @@ Bu dosya projede her zaman dikkate alınması gereken kalıcı kuralları, sın�
 
 ## Hukuki, güvenlik ve gizlilik sınırları
 
-<!-- Kişisel veriler, lisanslar, sözleşmeler veya güvenlik gereklilikleri. -->
+- (2026-11-12, kullanıcı kararı) APK imza bilgileri (`APK_IMZA_B64`, `APK_IMZA_SIFRESI`) GitHub'da kalıcı tutulmaz: yalnızca derleme sırasında konur, derleme bitince silinir. GitHub'da kalıcı duran gizli bilgiler yalnızca üç model API anahtarıdır (yarışın çalışması için şart).
+- İmza anahtarı yalnızca bilgisayarda, `C:/Users/Tolga/dev/yatirim-imza` klasöründedir; silinmemeli (aynı imza olmadan yeni APK telefondakinin üzerine kurulamaz). Depoya konmaz.
 
 ## Kullanıcı onayı gerektiren işlemler
 
