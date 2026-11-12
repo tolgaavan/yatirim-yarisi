@@ -1,0 +1,34 @@
+plugins { id "com.android.application" }
+
+def env = System.getenv()
+
+android {
+    namespace "io.github.tolgaavan.yatirim"
+    compileSdk 35
+    defaultConfig {
+        applicationId "io.github.tolgaavan.yatirim"
+        minSdk 24
+        targetSdk 34
+        // Her derleme bir öncekinden büyük olsun ki telefonda üzerine güncellensin.
+        versionCode((env.GITHUB_RUN_NUMBER ?: "1") as int)
+        versionName "1.0." + (env.GITHUB_RUN_NUMBER ?: "0")
+    }
+    signingConfigs {
+        surum {
+            storeFile env.IMZA_DOSYASI ? file(env.IMZA_DOSYASI) : null
+            storePassword env.IMZA_SIFRESI
+            keyAlias "yatirim"
+            keyPassword env.IMZA_SIFRESI
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig env.IMZA_DOSYASI ? signingConfigs.surum : signingConfigs.debug
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

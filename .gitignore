@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .env
+android/.gradle/
+android/app/build/
+android/build/

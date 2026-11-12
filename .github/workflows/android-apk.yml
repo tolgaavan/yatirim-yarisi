@@ -1,0 +1,49 @@
+# Telefon uygulamasının Android APK'sı: GitHub Pages'teki sayfayı açan basit kabuk.
+# android/ klasörü değişince veya elle çalıştırılınca derlenir, imzalanır ve
+# "apk" adlı sürüm sayfasına (Releases) konur. Aynı imza: telefonda üzerine güncellenir.
+name: Android APK
+
+on:
+  push:
+    branches: [main]
+    paths: ['android/**', '.github/workflows/android-apk.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.11.1'
+      - name: İmza dosyasını hazırla
+        env:
+          IMZA_DOSYASI_B64: ${{ secrets.APK_IMZA_B64 }}
+        run: echo "$IMZA_DOSYASI_B64" | base64 --decode > "$RUNNER_TEMP/yatirim.jks"
+      - name: APK derle
+        working-directory: android
+        env:
+          IMZA_DOSYASI: ${{ runner.temp }}/yatirim.jks
+          IMZA_SIFRESI: ${{ secrets.APK_IMZA_SIFRESI }}
+        run: gradle --no-daemon assembleRelease
+      - name: Dosya adı
+        run: cp android/app/build/outputs/apk/release/app-release.apk "yatirim-yarisi-1.0.${{ github.run_number }}.apk"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: yatirim-yarisi-apk
+          path: yatirim-yarisi-*.apk
+      - name: Sürüm sayfasına koy
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete apk --yes --cleanup-tag || true
+          gh release create apk yatirim-yarisi-*.apk --title "Android uygulaması" \
+            --notes "Telefona kurmak için .apk dosyasını indirip aç. Önceki sürüm yüklüyse üzerine güncellenir."
