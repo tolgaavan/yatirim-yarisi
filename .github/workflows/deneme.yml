@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     env:
-      YATIRIM_CIKTI: ${{ github.workspace }}/../deneme-cikti
+      YATIRIM_CIKTI: ${{ runner.temp }}/deneme-cikti
       DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -52,4 +52,4 @@ jobs:
         if: always()
         with:
           name: deneme-cikti
-          path: ${{ github.workspace }}/../deneme-cikti
+          path: ${{ runner.temp }}/deneme-cikti
