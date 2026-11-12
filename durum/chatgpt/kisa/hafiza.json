@@ -1,22 +1,29 @@
 {
- "notlar": "Başlangıçta 8000 TL ile CL=F alındı; tez, riskli varlıklar ve metaller satılırken petrolün gün içi relatif güç göstermesi. Şu an petrol güçlü ama 15 dk RSI yüksek ve hacim zayıf; küçük geri çekilmede inat edilmemeli. Komisyon gidiş-dönüş yaklaşık %0.4, bu yüzden yalnızca belirgin tez bozulursa çık.",
- "plan": "CL=F 88.6 altına sarkar veya gün içi momentum kaybolursa satıp nakde geç. 89.15 üzeri hacimli kırılım olursa taşımaya devam et. Kriptoda dip avı ancak BTC/ETH/SOL hacimli toparlanma ve 15 dk RSI yükselişiyle düşünülecek; metallerde şu an düşen bıçak yakalanmayacak.",
- "sonraki_tura_mesaj": "CL=F 88.6 altına indi mi veya 89.15 üstü hacimli kırdı mı kontrol et; zayıflarsa komisyonu düşünmeden nakde geç, kriptoda dönüş teyidi yoksa acele etme.",
+ "notlar": "Başlangıçta 8000 TL ile CL=F alındı; tez, riskli varlıklar ve metaller satılırken petrolün relatif güç göstermesiydi. 13.11 01:01'de 89.15 üzeri hacimli kırılım gelmedi, fiyat 88.6 stopuna yaklaştı ve son saat hacmi zayıf kaldı; pozisyon kapatıldı. Kısa vadede nakit de pozisyondur; sırf piyasada olmak için işlem yapılmayacak.",
+ "plan": "Sabah BIST açılışında güçlü hacimli lider hisseler ve XU100 momentumu izlenecek. Kriptoda BTC/ETH/SOL ancak gün içi dipten hacimli dönüş, 15 dk RSI toparlanması ve yatay kırılım sonrası değerlendirilecek. Emtialarda GC/SI düşen bıçak; CL tekrar 89.15 üstü hacimli kalıcılık göstermeden alınmayacak.",
+ "sonraki_tura_mesaj": "Nakitteyiz; açılışta BIST liderliği ve hacim teyidi ara, CL=F 89.15 üstü kalıcı değilse geri alma, kriptoda sadece hacimli dönüş varsa düşün.",
  "izleme_listesi": [
   "CL=F",
   "GC=F",
   "SI=F",
   "BTC-USD",
   "ETH-USD",
-  "SOL-USD"
+  "SOL-USD",
+  "THYAO.IS",
+  "AKBNK.IS",
+  "ASELS.IS",
+  "EREGL.IS",
+  "XU100.IS",
+  "USDTRY=X"
  ],
- "son_yorum": "Risk iştahı zayıf: kripto ve metaller satıcılı, petrol ise gün içinde net pozitif ayrışıyor. CL=F 15 dk RSI 73 ile kısa vadede ısınmış olsa da fiyat gün zirvesine yakın ve alternatiflerde dönüş teyidi yok.",
+ "son_yorum": "Risk iştahı zayıf: kripto ve metaller baskı altında, petrol ise gün içi güçlü kalmasına rağmen 89.15 tepesinden geri dönüp düşük hacimle momentum kaybediyor. Bu saatte en iyi pozisyon nakit.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-13 01:00"
+  "SATILDI: CL=F 1.78918 adet (%100), birim 4461.0184 TL, eline geçen 7965.61 TL, kâr/zarar -50.39 TL",
+  "Sonraki kontrol: 2026-11-13 10:10"
  ]
 }
