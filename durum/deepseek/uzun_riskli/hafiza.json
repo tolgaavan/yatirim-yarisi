@@ -1,0 +1,27 @@
+{
+ "notlar": "Pozisyonlar: 3000 TL QQQ, 1000 TL BTC-USD, ~5992 TL nakit. Strateji: 3 aylık riskli portföy; enflasyona karşı TL'yi USD varlıklara ve BIST'e yay. 13 Kasım'da USDTRY ve XU030/THYAO alınacak. BTC RSI 30, küçük tut. Komisyon %0.2.",
+ "plan": "13 Kasım 17:30'da USDTRY (yaklaşık 1500 TL) ve XU030.IS (yaklaşık 2500 TL) alarak zorunlu çeşitliliği tamamla. BIST/ABD açıkken tek seferde dengele. QQQ/BTC %10'dan fazla düşerse stop/artır değerlendir.",
+ "sonraki_tura_mesaj": "Önce USDTRY ve XU030.IS al, zorunlu çeşitliliği tamamla. QQQ 3000 TL ve BTC 1000 TL var, nakit ~5992 TL. Komisyonu unutma.",
+ "izleme_listesi": [
+  "USDTRY=X",
+  "EURTRY=X",
+  "XU030.IS",
+  "THYAO.IS",
+  "QQQ",
+  "BTC-USD",
+  "GC=F",
+  "SPY"
+ ],
+ "son_yorum": "ABD borsaları yükselen tahvil faizleri ve Nvidia CEO sürpriziyle baskı altında; VIX 18.5. Altın ve kriptoda sert satış var, BTC RSI 30 ile aşırı satım bölgesinde. BIST küresel satışlara dirençli kapanmış. TCMB aralıkta faiz indirimi beklenirken TL zayıf kalabilir; döviz varlıklarını önceliyorum.",
+ "kurgu": {
+  "metin": "Portföyü TL değer kaybına karşı ABD hissesi, döviz ve BIST endeksiyle dengeli kurup kriptoyla riski artırıyorum. Enflasyon ve faiz indirimi beklentisi nedeniyle TL'de kalmak yerine USD cinsi varlıkları ağırlıklandırıyorum. BIST'te endeks fonu, ABD'de QQQ ile büyüme, BTC ile küçük oynaklık alıyorum. Disiplinli haftalık kontrolle komisyonu düşük tutacağım.",
+  "zaman": "2026-11-12T20:38:12+00:00",
+  "neden": ""
+ },
+ "son_tur_sonuclari": [
+  "ALINDI: QQQ 0.0868473 adet, birim 34543.4048 TL, tutar 3000.00 TL + komisyon 6.00 TL",
+  "ALINDI: BTC-USD 0.000278816 adet, birim 3586591.6473 TL, tutar 1000.00 TL + komisyon 2.00 TL",
+  "UYARI: zorunlu çeşitlilik eksik: döviz nakit, Türk hissesi/fonu. Piyasası açık olduğu ilk turda tamamla.",
+  "Sonraki kontrol: 2026-11-13 17:30"
+ ]
+}

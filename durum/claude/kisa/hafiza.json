@@ -1,0 +1,31 @@
+{
+ "notlar": "Başlangıç 12.11.2026: 10.000 TL nakit. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş, her pozisyonda %3-4 zarar-kes. Makro tablo: ABD 10 yıllık faizi %5,1 ve yükseliyor, NVDA'da CEO şoku var, kripto ve altında düşüş trendi sürüyor. BIST 12.11'de küresel satışa direndi. TCMB'den aralıkta 100 baz puan indirim bekleniyor; bu bankalar için pozitif. BIST verisi 15 dakika gecikmeli, açılışın ilk dakikalarını kovalama. Komisyon tur başına %0,4, küçük hareket için işlem yapma.",
+ "plan": "Yarın 10:45: BIST 100/30 güçlü açılış yapar, 15 dakikalık RSI 70'in altında ve hacim normalin üstündeyse XU100.IS ya da güçlü bir banka (GARAN/AKBNK) hissesine portföyün %60-90'ıyla gir. Zarar-kes %3, hedef %4-6. BIST zayıfsa nakitte kal. Kriptoda yalnızca BTC 4 saatlikte dip yapıp RSI 40'ın üstüne dönerse küçük bir tepki alımı düşün. NVDA'da düşen bıçağı tutma.",
+ "sonraki_tura_mesaj": "Henüz pozisyon yok, tamamı nakit. Sabah ilk iş BIST'in dünkü göreli gücü sürüyor mu ona bak: XU100 ve bankalar hacimli yükseliyorsa gir, yoksa bekle. ABD faizi ve kripto trendini kontrol et, düşen bıçak tutma.",
+ "izleme_listesi": [
+  "XU100.IS",
+  "XU030.IS",
+  "GARAN.IS",
+  "AKBNK.IS",
+  "THYAO.IS",
+  "ASELS.IS",
+  "USDTRY=X",
+  "BTC-USD",
+  "ETH-USD",
+  "SOL-USD",
+  "GC=F",
+  "NVDA",
+  "AMD",
+  "AVGO",
+  "XLU"
+ ],
+ "son_yorum": "ABD 10 yıllık faizi %5,1'e çıktı ve Nvidia CEO'sunun ayrılığı çip rallisini sarstı; risk iştahı zayıf. BTC ile SOL'da günlük RSI 23-30 bandında, yani aşırı satım var ama dönüş sinyali henüz yok. Altın da faiz baskısıyla %2,8 düştü. BIST ise küresel teknoloji satışına direnip güçlü kapandı. TCMB'den aralıkta faiz indirimi beklentisi bankalar için destekleyici.",
+ "kurgu": {
+  "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
+  "zaman": "2026-11-12T20:38:12+00:00",
+  "neden": ""
+ },
+ "son_tur_sonuclari": [
+  "Sonraki kontrol: 2026-11-13 10:45"
+ ]
+}

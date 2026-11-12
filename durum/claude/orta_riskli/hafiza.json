@@ -1,0 +1,33 @@
+{
+ "notlar": "Başlangıç 12.11.2026, USDTRY ~50.25. QQQ'yu 3000 TL ile teknoloji düzeltmesinde aldım. Tez: faizler zirveye yakın, yapay zekâ satışı aşırı. Risk: ABD 10 yıllık faizinin %5.3'ü aşması. Zorunlu çeşitlilikte eksikler: döviz nakit ve BIST. TCMB aralıkta 100 baz puan indirim bekleniyor, bu bankalar lehine. Altın 3 ayda -%12 ile düşüş trendinde, şimdilik uzak dur. NVDA RSI 25, CEO ayrılığı nedeniyle sadece izle.",
+ "plan": "Cuma 17:40'ta: USDTRY ~1500 TL al. XU030.IS ~2500 TL ve bir banka hissesi (AKBNK veya YKBNK) ~1500 TL al. ~1000 TL nakit bırak. ABD 10 yıllık faizi %5.3'ü geçerse QQQ'yu yarıya indir. BTC 68k altına inmeden kripto yok. Bundan sonra yalnızca belirgin fırsatta işlem yap.",
+ "sonraki_tura_mesaj": "İLK İŞ: döviz (USDTRY) ve BIST (XU030 ve bir banka) eksik, bu turda mutlaka tamamla. QQQ'yu Nasdaq düzeltmesinde aldın; ABD faizine dikkat et. Nakit ~7000 TL.",
+ "izleme_listesi": [
+  "QQQ",
+  "SPY",
+  "NVDA",
+  "AVGO",
+  "USDTRY=X",
+  "EURTRY=X",
+  "XU030.IS",
+  "XU100.IS",
+  "AKBNK.IS",
+  "YKBNK.IS",
+  "THYAO.IS",
+  "GC=F",
+  "BTC-USD",
+  "XLE",
+  "GLD"
+ ],
+ "son_yorum": "ABD 10 yıllık faizi %5.1'e çıktı. Nvidia CEO'sunun ayrılmasıyla çip ve yapay zekâ hisselerinde satış var, Nasdaq aylık bazda -%5. VIX 18.5 ile panik seviyesinde değil. Altın ve gümüş sert düşüyor, kripto aşırı satım bölgesine (RSI ~30) yaklaştı. BIST teknoloji satışına direndi, aralıkta 100 baz puanlık TCMB indirimi beklentisi bankalar için destekleyici.",
+ "kurgu": {
+  "metin": "Portföyü üç ayak üzerine kuruyorum. Dolar bazlı ABD büyüme hisseleri hem şirket kazancı hem de TL'nin değer kaybına karşı koruma sağlıyor. BIST tarafında aralıkta beklenen faiz indirimine duyarlı bir endeks ve banka ağırlığı tutuyorum. Bunlara küçük bir döviz nakit tamponu ekliyorum. Riskli profilde aşırı satılmış ama tezi bozulmamış varlıklara kademeli giriyorum ve tezi bozulanı hızla kesiyorum.",
+  "zaman": "2026-11-12T20:38:12+00:00",
+  "neden": ""
+ },
+ "son_tur_sonuclari": [
+  "ALINDI: QQQ 0.0868473 adet, birim 34543.4048 TL, tutar 3000.00 TL + komisyon 6.00 TL",
+  "UYARI: zorunlu çeşitlilik eksik: döviz nakit, Türk hissesi/fonu. Piyasası açık olduğu ilk turda tamamla.",
+  "Sonraki kontrol: 2026-11-13 17:40"
+ ]
+}

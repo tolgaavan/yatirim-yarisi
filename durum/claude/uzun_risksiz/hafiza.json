@@ -1,0 +1,29 @@
+{
+ "notlar": "Strateji: düşük risk, 3 ay. Çekirdek SGOV (ABD T-bill, ~%5 USD faiz + USDTRY artışı). TL nakit faiz getirmez, uzun süre nakit tutma. Oynak varlıklardan (kripto, gümüş, tekil çip hisseleri) uzak dur. 12.11: 10Y %5,1, altın 3 ayda -%12, BTC 71k (RSI 30), VIX 18,5. TCMB aralıkta 100bp indirim beklentisi (ING). Komisyon %0,2: küçük hareketler için işlem yapma. Kur riski: TL reel değer kazanırsa SGOV'un TL getirisi düşer; izle.",
+ "plan": "13.11: kalan ~1500 TL nakdi değerlendir. Seçenekler: SGOV'u artırmak; altın dipte stabilize olursa (RSI<35 ve günlük toparlanma) %5-10 GLD; çok defansif BIST seçeneği. TLT'ye, 10Y faiz %5'in üstünde zirve yapıp dönmedikçe girme. Hisse payı en fazla %15, yalnızca defansif (XLP/XLU) ve ucuzsa.",
+ "sonraki_tura_mesaj": "SGOV %85 çekirdek, ~1500 TL nakit duruyor; bunu bugün (BIST ve ABD birlikte açıkken) değerlendir. Altın düşüşü durduysa küçük GLD, yoksa SGOV'u artır. USDTRY trendine bak.",
+ "izleme_listesi": [
+  "SGOV",
+  "BIL",
+  "SHY",
+  "TLT",
+  "GLD",
+  "GC=F",
+  "USDTRY=X",
+  "XU100.IS",
+  "XLP",
+  "XLU",
+  "SPY",
+  "BTC-USD"
+ ],
+ "son_yorum": "ABD 10 yıllık faiz %5,1 ile baskı yapıyor. Nvidia CEO çıkışıyla çip rallisi kırılgan, kriptoda satış sürüyor (BTC RSI 30), altın ve gümüş yüksek faizle düşüşte. TCMB ihtiyatlı ama aralıkta indirim beklentisi var. TL nakit sıfır getirili olduğundan, düşük riskli doğru yer dolar cinsi kısa vadeli devlet kâğıdı. Uzun tahvil ve emtia için acele yok.",
+ "kurgu": {
+  "metin": "Önceliğim sermayeyi korumak ve TL'nin değer kaybına karşı istikrarlı getiri sağlamak. Kuralda TL nakit faiz getirmiyor. Bu yüzden portföyün çekirdeğini %5 civarı faiz ödeyen ABD kısa vadeli hazine bonosu fonuna (SGOV) koydum; böylece hem dolar faizi hem kur getirisi alıyorum. Hisse, kripto ve gümüş gibi oynak varlıklara ya hiç girmiyorum ya da çok sınırlı ve yalnızca net bir fırsat olduğunda giriyorum.",
+  "zaman": "2026-11-12T20:38:12+00:00",
+  "neden": ""
+ },
+ "son_tur_sonuclari": [
+  "ALINDI: SGOV 1.68268 adet, birim 5051.4619 TL, tutar 8500.00 TL + komisyon 17.00 TL",
+  "Sonraki kontrol: 2026-11-13 17:45"
+ ]
+}

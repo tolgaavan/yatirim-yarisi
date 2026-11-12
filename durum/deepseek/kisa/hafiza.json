@@ -1,0 +1,27 @@
+{
+ "notlar": "Strateji: kısa vadeli, 1-2 pozisyon, %0.2 komisyon, nakitte olmak da pozisyondur. İzleme: NVDA (RSI 25, CEO belirsizliği), AMD (güçlü ama aşırı), XLE (petrol güçlü), BTC/ETH/SOL aşırı satım bölgesinde. BIST yarın açılacak; USDTRY kapalı olduğundan TL'yi koruma imkanı yok.",
+ "plan": "1) 13.11 10:00'da BIST açılışını kontrol; BIST100 güçlü ve hacimli yükselişte ise THYAO.IS/XU100.IS almayı değerlendir. 2) ABD'de NVDA kapanışı ve haber akışına bak; tepki alımı netleşirse küçük pozisyon aç. 3) Kriptoda BTC/ETH/SOL dönüş sinyali verirse sınırlı alım düşün. 4) USDTRY açıldığında güçlü TL değer kaybı varsa koruma aracı ara.",
+ "sonraki_tura_mesaj": "ABD gece kapanışı nasıl oldu? NVDA düşüşe devam mı yoksa alım fırsatı mı? BIST açılışta güçlü mü? USDTRY ne durumda? Yüksek olasılık yoksa nakitte kalmaya devam et.",
+ "izleme_listesi": [
+  "NVDA",
+  "AMD",
+  "SMH",
+  "XLE",
+  "SPY",
+  "QQQ",
+  "BTC-USD",
+  "ETH-USD",
+  "SOL-USD",
+  "THYAO.IS",
+  "USDTRY=X"
+ ],
+ "son_yorum": "ABD endeksleri satıcılı; 10 yıllık tahvil faizi %5.1, VIX 18.5. Nvidia CEO haberi yarıiletkenleri vuruyor, AMD müspet ayrışıyor. BIST kapalı. Kripto genel düşüşte. Risk-getiri şu an yetersiz, nakitteyim.",
+ "kurgu": {
+  "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
+  "zaman": "2026-11-12T20:38:12+00:00",
+  "neden": ""
+ },
+ "son_tur_sonuclari": [
+  "Sonraki kontrol: 2026-11-13 10:00"
+ ]
+}

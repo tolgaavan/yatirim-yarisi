@@ -1,0 +1,20 @@
+{
+ "notlar": "Pozisyon: 9900 TL BIL. Tez: TL nakit faizsiz; enflasyona karşı dolar cinsi kısa vadeli Hazine faizi korur. Düşük riskli portföy; hisse/kripto/emtia almıyorum. Komisyon %0.2, gereksiz işlem yok.",
+ "plan": "Önümüzdeki kontrol Cuma: BIL fiyatı ve USDTRY seyrine bak. Eğer BIL'de anormal düşüş yoksa ve USDTRY'de keskin değer kaybı yoksa pozisyonu koru. Oynak varlıklara girme. Stop yok.",
+ "sonraki_tura_mesaj": "BIL aldın; bu bir dolar nakit vekilidir. Sakın heyecanla hisse/kripto alma. Sadece kur ve BIL fiyat stabilitesini izle.",
+ "izleme_listesi": [
+  "BIL",
+  "SGOV",
+  "USDTRY=X"
+ ],
+ "son_yorum": "ABD tahvil faizleri yükselirken hisse piyasaları kırılgan; düşük riskli portföy için ABD kısa vadeli Hazine ETF'i BIL ile dolar cinsi nakit getirisi hedefliyorum, TL nakit enflasyon karşısında getiri sağlamıyor.",
+ "kurgu": {
+  "metin": "TL nakitin faiz getirmediği ve enflasyon karşısında eridiği bir ortamda, düşük riskli portföy için sermayenin büyük kısmını ABD kısa vadeli Hazine ETF'i BIL'de tutarak dolar cinsi nakit getirisi ve kur koruması hedefliyorum. Oynak varlıklardan (hisse, kripto, emtia) kaçınıyorum; komisyon maliyetlerini ve oynaklığı minimize eden tek bir likit enstrüman seçiyorum.",
+  "zaman": "2026-11-12T20:38:12+00:00",
+  "neden": ""
+ },
+ "son_tur_sonuclari": [
+  "ALINDI: BIL 2.15301 adet, birim 4598.2044 TL, tutar 9900.00 TL + komisyon 19.80 TL",
+  "Sonraki kontrol: 2026-11-13 18:00"
+ ]
+}
