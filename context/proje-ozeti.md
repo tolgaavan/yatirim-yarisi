@@ -59,8 +59,8 @@ Tur başına girdi yaklaşık 4-7 bin token; DeepSeek çıktısı 5,7-7 bin toke
 - Para karşılığı masraf doğrulanmadı (token sayıları mini testte ölçüldü); ilk haftanın gerçek token kullanımıyla (`kararlar.jsonl` içindeki `kullanim`) kontrol edilecek. Hafıza sınırı da ilk haftaya bakılıp ayarlanabilir.
 - Vade bitince (3 ay / 1 ay) ne olacağı belirlenmedi; şimdilik portföyler çalışmaya devam eder.
 - Risksiz portföylerde TL nakit faiz getirmez (Türkiye'de mevduat/para piyasası fonu Yahoo'da yok).
-- (2026-11-12) GitHub zamanlayıcısı güvenilir çalışmıyor: 30 dakikada bir çalışması gerekirken 2026-11-12 boyunca yalnızca 2 kez kendiliğinden çalıştı (diğer turlar elle başlatıldı). Kullanıcıya iki çözüm sunuldu, karar bekleniyor: (1) GitHub içinde sürekli çalışan "nöbetçi" görev, (2) cron-job.org gibi dış zamanlayıcı.
-- (2026-11-12) Yeni ekranlı (Strateji, Bu hafta, Haftalık değerlendirmeler) APK henüz derlenmedi: imza bilgilerini geçici olarak GitHub'a yazmak için kullanıcı izni bekleniyor. `Desktop/apk/yatirim-yarisi-1.0.2.apk` eski ekranı gösterir; site yeni haliyle çalışır.
+- (2026-11-12) GitHub zamanlayıcısı 2026-11-12 boyunca yalnızca 2 kez kendiliğinden çalıştı. Çözüm: 2026-11-13'te kullanıcı cron-job.org'da 15 dakikalık dış zamanlayıcı kurdu; 00:00 ve 00:15 tetiklemeleri doğrulandı, 00:15'te ChatGPT'nin seçtiği kısa vade kontrolü zamanında çalıştı. cron-job.org'daki GitHub anahtarının süresi (kullanıcı en uzununu seçti, genellikle 1 yıl) bitince yenilenmeli; yenilenmezse turlar yalnızca GitHub'ın güvenilmez zamanlayıcısına kalır.
+- (2026-11-13) Yeni ekranlı APK `Desktop/apk/yatirim-yarisi-1.0.3.apk` olarak derlendi (aynı imza, eskisinin üzerine kurulur); imza bilgileri GitHub'dan silindi. Telefonda kurulumu henüz denenmedi.
 
 ## Önemli konumlar
 

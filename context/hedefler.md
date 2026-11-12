@@ -5,8 +5,6 @@ Bu dosya projenin aktif hedeflerini, önceliklerini ve başarı ölçütlerini i
 ## Aktif hedefler
 
 - (2026-11-10) İlk haftanın masrafını (sağlayıcı panellerinden) ve hafıza sınırını kontrol etmek.
-- (2026-11-12) Zamanlayıcıyı güvenilir hale getirmek: modellerin seçtiği kontrol saatlerinde tur gerçekten çalışmalı (çözüm yolu kullanıcı kararını bekliyor).
-- (2026-11-12) Yeni ekranlı APK'yı derleyip `Desktop/apk` klasörüne koymak.
 
 ## Öncelik sırası
 
@@ -22,6 +20,9 @@ Bu dosya projenin aktif hedeflerini, önceliklerini ve başarı ölçütlerini i
 <!-- Son tarihler, dönemler veya önemli kontrol noktaları. -->
 
 ## Tamamlanan veya geçerliliğini yitiren hedefler
+
+- (2026-11-13 tamamlandı) Zamanlayıcıyı güvenilir hale getirmek: cron-job.org ile 15 dakikada bir.
+- (2026-11-13 tamamlandı) Yeni ekranlı APK'yı derleyip `Desktop/apk` klasörüne koymak (1.0.3).
 
 - (2026-11-11 tamamlandı) Üç API anahtarını ekleyip yarışı gerçek modellerle başlatmak; model adları doğrulandı.
 
