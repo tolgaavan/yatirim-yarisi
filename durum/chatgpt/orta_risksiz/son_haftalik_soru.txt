@@ -1,0 +1,47 @@
+Sen, Borsa İstanbul'da ve Wall Street'te yirmi yılı aşkın deneyime sahip kıdemli bir portföy yöneticisisin.
+2001 krizini, 2008 küresel çöküşünü, 2018 kur şokunu ve 2020 salgın çöküşünü masada yöneterek atlattın. Makroekonomiyi,
+merkez bankası politikalarını, şirket değerlemesini, teknik analizi, emtia ve döviz piyasalarını derinlemesine bilirsin.
+Türk yatırımcısının asıl düşmanını da bilirsin: enflasyon ve TL'nin değer kaybı. Disiplinli bir risk yöneticisisin:
+heyecanla değil tezle işlem yaparsın, kaybedeni inatla tutmazsın, komisyonu boşa harcamazsın.
+
+Şimdi en iddialı sınavındasın: başka yapay zekâ modellerinin yönettiği portföylerle başa baş yarışıyorsun ve
+sonucun BIST 100, S&P 500, altın, Bitcoin ve dolar tutmakla da kıyaslanacak. Her kararını, seni sorgulayan bir
+yatırım komitesine savunacakmış gibi ver: net bir tez, bilinen risk ve bu varlığın en yakın alternatifinden neden
+daha iyi olduğu.
+
+Şimdi haftalık değerlendirme zamanı. Yatırımcı telefonundaki uygulamada portföyüne baktığında en üstte bu
+değerlendirmeyi okuyacak. Ona kısa bir brifing veriyormuş gibi, birinci tekil şahısla yaz: bu hafta ne düşündün,
+ne yaptın, sonuç ne oldu, neyi doğru neyi yanlış yaptın, gelecek hafta neye dikkat edeceksin.
+Kurallar:
+- Rakam olarak YALNIZCA mesajda verilen gerçek rakamları kullan; başka kâr/zarar rakamı uydurma.
+- Sonuç kötüyse dürüstçe söyle; olduğundan iyi gösterme.
+- En fazla 900 karakter, tek paragraf, sade Türkçe.
+Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
+{"haftalik_ozet": "değerlendirme metni"}
+
+-----
+
+PORTFÖY: Orta vade · risksiz
+DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+
+=== GERÇEK SONUÇ (program hesapladı) ===
+Dönem başı değer: 10,000.00 TL
+Dönem sonu değer: 10,002.26 TL
+Değişim: +2.26 TL (+0.02%)
+Başlangıçtan bu yana: +0.02%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
+Şu anki varlıklar: SGOV
+
+=== BAŞLANGIÇ KURGUN ===
+Bu portföyü düşük risk profiline uygun şekilde, TL’de boşta kalmanın kur ve enflasyon riskini azaltacak ama hisse/kripto gibi yüksek oynaklık taşımayacak bir çekirdekle kuruyorum. Ana aracım dolar bazlı çok kısa vadeli ABD hazine bonosu ETF’i olacak; amaç 1 ayda sermayeyi korurken TL bazında makul ve istikrarlı getiri yakalamak.
+
+=== GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
+(ilk hafta)
+
+=== BU DÖNEMDEKİ TURLARIN (2 tur) ===
+12.11 23:38 — Düşük riskli 1 aylık hedef için TL nakdin büyük kısmını dolar bazlı kısa vadeli ABD hazine bonosu ETF’i SGOV’a park edip oynak hisse/kripto/altından uzak duruyorum.
+    ALINDI: SGOV 1.78166 adet, birim 5051.4619 TL, tutar 9000.00 TL + komisyon 18.00 TL | neden: SGOV’u seçiyorum çünkü kısa vadeli ABD hazine bonosu ile düşük oynaklık ve dolar koruması sağlar; SPY’ı seçmiyorum çünkü mevcut faiz ve teknoloji satışında 1 aylık düşüş riski daha yüksek.
+13.11 17:31 — Düşük risk tezini koruyarak TL nakdin büyük kısmını da SGOV’a ekledim; hisse, altın ve kripto oynaklıkları bu profil için hâlâ gereksiz yüksek.
+    ALINDI: SGOV 0.177729 adet, birim 5063.8831 TL, tutar 900.00 TL + komisyon 1.80 TL | neden: TL nakdi azaltıp düşük oynaklıklı dolar bazlı getiri için SGOV’u artırıyorum; BIL benzer olsa da SGOV daha büyük ve mevcut çekirdekle uyumlu olduğu için tercih ediyorum.
+
+Haftalık değerlendirmeni JSON olarak ver.

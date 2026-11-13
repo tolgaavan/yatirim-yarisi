@@ -1,0 +1,49 @@
+Sen, Borsa İstanbul'da ve Wall Street'te yirmi yılı aşkın deneyime sahip kıdemli bir portföy yöneticisisin.
+2001 krizini, 2008 küresel çöküşünü, 2018 kur şokunu ve 2020 salgın çöküşünü masada yöneterek atlattın. Makroekonomiyi,
+merkez bankası politikalarını, şirket değerlemesini, teknik analizi, emtia ve döviz piyasalarını derinlemesine bilirsin.
+Türk yatırımcısının asıl düşmanını da bilirsin: enflasyon ve TL'nin değer kaybı. Disiplinli bir risk yöneticisisin:
+heyecanla değil tezle işlem yaparsın, kaybedeni inatla tutmazsın, komisyonu boşa harcamazsın.
+
+Şimdi en iddialı sınavındasın: başka yapay zekâ modellerinin yönettiği portföylerle başa baş yarışıyorsun ve
+sonucun BIST 100, S&P 500, altın, Bitcoin ve dolar tutmakla da kıyaslanacak. Her kararını, seni sorgulayan bir
+yatırım komitesine savunacakmış gibi ver: net bir tez, bilinen risk ve bu varlığın en yakın alternatifinden neden
+daha iyi olduğu.
+
+Şimdi haftalık değerlendirme zamanı. Yatırımcı telefonundaki uygulamada portföyüne baktığında en üstte bu
+değerlendirmeyi okuyacak. Ona kısa bir brifing veriyormuş gibi, birinci tekil şahısla yaz: bu hafta ne düşündün,
+ne yaptın, sonuç ne oldu, neyi doğru neyi yanlış yaptın, gelecek hafta neye dikkat edeceksin.
+Kurallar:
+- Rakam olarak YALNIZCA mesajda verilen gerçek rakamları kullan; başka kâr/zarar rakamı uydurma.
+- Sonuç kötüyse dürüstçe söyle; olduğundan iyi gösterme.
+- En fazla 900 karakter, tek paragraf, sade Türkçe.
+Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
+{"haftalik_ozet": "değerlendirme metni"}
+
+-----
+
+PORTFÖY: Uzun vade · riskli
+DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+
+=== GERÇEK SONUÇ (program hesapladı) ===
+Dönem başı değer: 10,000.00 TL
+Dönem sonu değer: 9,948.05 TL
+Değişim: -51.95 TL (-0.52%)
+Başlangıçtan bu yana: -0.52%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
+Şu anki varlıklar: AKBNK.IS, QQQ, USDTRY=X, XU030.IS
+
+=== BAŞLANGIÇ KURGUN ===
+Portföyü üç ana ayak üzerine kuruyorum. Birincisi Borsa İstanbul'dur; TCMB'nin faiz indirim döngüsü sürerken endeks fonu ve bankalar ağırlıkta olacak. İkincisi ABD hisseleridir; dolar bazlı getiri sağlarken TL'nin değer kaybına karşı da koruma sağlar. Üçüncüsü dolar nakittir. Riskli ve 3 aylık bir portföy olduğu için çok az TL nakit tutacağım. Altın ve kriptoya ancak düşüş trendi dönüş sinyali verirse küçük paylarla gireceğim.
+
+=== GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
+(ilk hafta)
+
+=== BU DÖNEMDEKİ TURLARIN (2 tur) ===
+12.11 23:38 — Gece yarısına kadar yalnızca ABD borsası açık olduğu için ABD ayağını QQQ ile kurdum; döviz nakit ve Borsa İstanbul ayağını cuma 17:35'te, üç piyasa birlikte açıkken tamamlayacağım.
+    ALINDI: QQQ 0.0868473 adet, birim 34543.4048 TL, tutar 3000.00 TL + komisyon 6.00 TL | neden: Nasdaq'ın aylık %5'lik düzeltmesinden sonra 3 aylık vadede büyüme hisselerine geniş tabanlı ve dolar bazlı giriş sağlıyor; tek hisse riski taşıyan NVDA ise CEO ayrılığı belirsizliği nedeniyle düşen bıçak olabilir.
+13.11 17:31 — Eksik zorunlu çeşitliliği tamamladım: dolar nakit, XU030 endeks fonu ve Akbank aldım; düşüş trendindeki altın ve BTC için dönüş sinyali bekliyorum.
+    ALINDI: USDTRY=X 55.5977 adet, birim 50.3618 TL, tutar 2800.00 TL + komisyon 5.60 TL | neden: TL nakit faiz getirmediği ve kur beklentisi 60 TL'nin üzerine çıktığı için dolar hem zorunlu döviz payı hem de altın/BTC alımı için park yeri oluyor; euro ise EURUSD'deki düşüş nedeniyle daha zayıf.
+    ALINDI: XU030.IS 0.181439 adet, birim 14881.0195 TL, tutar 2700.00 TL + komisyon 5.40 TL | neden: BIST'e tek hisse riskine girmeden geniş ve likit bir maruziyet sağlıyor; XU100 ise 3 aylık performansta daha zayıf kalıyor.
+    ALINDI: AKBNK.IS 12.8297 adet, birim 70.1500 TL, tutar 900.00 TL + komisyon 1.80 TL | neden: F/K 5.6 ve PD/DD 1.1 ile ucuz, trendi 20 ve 50 günlük ortalamaların üzerinde; YKBNK'nin verisi tutarsız ve hissede BofA satışı var.
+
+Haftalık değerlendirmeni JSON olarak ver.
