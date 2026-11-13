@@ -237,6 +237,20 @@
 "tur": "ETF"
 }
 },
+"SHY": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "iShares 1-3 Year Treasury Bond ",
+"fk": 3690.5,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 0.94,
+"piyasa_degeri": 27439355904,
+"sektor": null,
+"temettu_%": 3.61,
+"tur": "ETF"
+}
+},
 "SMH": {
 "tarih": "2026-11-13",
 "v": {

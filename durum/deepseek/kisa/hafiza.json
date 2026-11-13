@@ -1,24 +1,24 @@
 {
- "notlar": "Kısa vadeli al-sat, komisyon %0.2. Kripto günlük aşırı satımda ama düşüş trendi; 15dk toparlanma zayıf. ETH 15dk RSI 55, fiyat 20 çubuk üzerinde, hacim 1.2x idi ama günlük düşüş trendinde risk/ödül yetersiz, işlem yapmadım. BIST pozitif, THYAO günlük RSI 72 ama 15dk hacim 0.3x, teyit yok. USDTRY yatay aşırı alım. ABD açılışı 17:30'da Nvidia belirsizliği.",
- "plan": "17:45 kontrol: ABD açılışının ilk 15 dakikasında Nvidia/S&P tepkisini izle. Kriptoda (ETH/SOL) 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ olursa %20 al; THYAO 15dk RSI 55 üzeri ve hacim 1.5+ olursa %20 al. Aksi halde nakit kal.",
- "sonraki_tura_mesaj": "ETH/SOL 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ mi? THYAO 15dk RSI 55 üzeri ve hacim 1.5+ mi? ABD açılışı Nvidia/S&P tepkisi? USDTRY geriledi mi?",
+ "notlar": "Kısa vadeli al-sat, komisyon %0.2. 13.11 17:45: ABD açılışı zayıf, Nvidia düşüyor, tahvil faizi 5.16%. Kripto günlük aşırı satım (BTC RSI26, ETH26, SOL22) ama 15dk RSI/hacim teyit yok. THYAO 15dk hacim 0.4x, teyit yok. USDTRY RSI95 aşırı alım. Nakitte kal.",
+ "plan": "Pazartesi 10:00'da BIST ve kripto açılışını izle. Kriptoda 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ olursa ETH/SOL %20 al. THYAO 15dk RSI 55+ ve hacim 1.5+ olursa %20 al. Aksi halde nakit.",
+ "sonraki_tura_mesaj": "ETH/SOL 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ mi? THYAO 15dk RSI 55 üzeri ve hacim 1.5+ mi? ABD seansı Nvidia/S&P tepkisi? USDTRY geriledi mi?",
  "izleme_listesi": [
   "THYAO.IS",
   "ADA-USD",
-  "XRP-USD",
-  "XU100.IS",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
-  "USDTRY=X"
+  "XRP-USD",
+  "USDTRY=X",
+  "XU100.IS"
  ],
- "son_yorum": "BIST pozitif, THYAO günlük güçlü ama 15dk hacim çok düşük (0.3x). Kriptoda ETH/SOL 15dk toparlanıyor ancak günlük aşırı satım ve düşüş trendi sürüyor; Nvidia belirsizliği risk iştahını baskılıyor. USDTRY aşırı alım ve yatay. Yüksek olasılıklı kurulum yok.",
+ "son_yorum": "ABD açılışı yumuşak: S&P eksi, Nvidia %1.9 düşük, 10y tahvil faizi %5.16. Kriptoda günlük aşırı satım var ama 15dk RSI'lar ETH 55, SOL 58, BTC 45 ve hacimler yetersiz. THYAO 15dk RSI 49, hacim normalin 0.4 katı. USDTRY aşırı alım yatay.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-13 17:45"
+  "Sonraki kontrol: 2026-11-16 10:00"
  ]
 }

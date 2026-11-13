@@ -1,12 +1,12 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 1483.0,
+ "nakit_tl": 481.0,
  "pozisyonlar": {
   "SGOV": {
-   "adet": 1.6826812203064938,
-   "maliyet_tl": 8517.0,
-   "son_fiyat_tl": 5063.883094747434
+   "adet": 1.8801473053120221,
+   "maliyet_tl": 9519.0,
+   "son_fiyat_tl": 5064.160764477623
   }
  },
- "odenen_komisyon_tl": 17.0
+ "odenen_komisyon_tl": 19.0
 }
