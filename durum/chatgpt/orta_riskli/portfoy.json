@@ -5,22 +5,22 @@
   "EURUSD=X": {
    "adet": 26.99360007658898,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 55.66085153819586
+   "son_fiyat_tl": 55.6697249031231
   },
   "GOOGL": {
    "adet": 0.1659620792000781,
    "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 15045.629119873047
+   "son_fiyat_tl": 15046.364188194275
   },
   "XLE": {
    "adet": 0.4630102346812175,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 3238.776140473783
+   "son_fiyat_tl": 3238.9343739196192
   },
   "BTC-USD": {
    "adet": 0.0002788162406925585,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 3488106.810698509
+   "son_fiyat_tl": 3485704.312890768
   }
  },
  "odenen_komisyon_tl": 13.0

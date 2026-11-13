@@ -139,6 +139,20 @@
 "tur": "EQUITY"
 }
 },
+"PGSUS.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "PEGASUS",
+"fk": 461.2,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 0.59,
+"piyasa_degeri": 78400004096,
+"sektor": "Industrials",
+"temettu_%": 0.0,
+"tur": "EQUITY"
+}
+},
 "QQQ": {
 "tarih": "2026-11-13",
 "v": {
@@ -191,6 +205,20 @@
 "pddd": 18.93,
 "piyasa_degeri": 437758394368,
 "sektor": "Industrials",
+"temettu_%": 0.0,
+"tur": "EQUITY"
+}
+},
+"TTKOM.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "TURK TELEKOM",
+"fk": 6.6,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 0.63,
+"piyasa_degeri": 181475000320,
+"sektor": "Communication Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"
 }

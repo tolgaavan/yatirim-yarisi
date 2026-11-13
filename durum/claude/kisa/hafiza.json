@@ -1,31 +1,31 @@
 {
- "notlar": "Başlangıç 12.11.2026: 10.000 TL nakit. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş, zarar-kes %3-4, hedef %4-6, gidiş-dönüş komisyon %0,4. Makro: ABD 10 yıllık faizi %5,1. Kripto ve altın düşüşte (BTC 69 bin dolar, RSI 26). TCMB Kasım anketi: enflasyon beklentisi %30'un üstünde, dolar beklentisi 60,77 TL, aralık indirimi için olumsuz. THYAO'da BofA iki günde 2,4 milyar TL aldı; hisse güçlü ama 20 günlük ortalamanın %16 üstünde, RSI 72. MSCI, ASTOR ve SAHOL'u endeksten çıkarıyor, uzak dur. 13.11 öğle: BIST artıda ama hacim çok düşük. Nvidia'da CEO değişikliği haberi var, ABD'de oynaklık beklenebilir.",
- "plan": "15:45 kontrolü: BIST 100 11.900 üstünde ve hacim normalin en az 1 katıysa XU030'a %50 ile gir; değilse hafta sonuna nakitte gir. THYAO 323 üstünü normalin en az 1 katı hacimle kırarsa %50 ile gir, zarar-kes 309; hacim yoksa girme. Pazartesi sabahı açılış yönüne ve hacme bak, THYAO 316-318'e geri çekilip tutunursa %50-60 ile gir. Kriptoda RSI dönüşü ve 70 bin dolar üstünde kapanış görmeden alım yapma.",
- "sonraki_tura_mesaj": "Nakitteyiz. 15:45'te önce BIST'in kapanışa doğru hacimle güçlenip güçlenmediğine bak; hacim normalin 1 katının altındaysa hafta sonuna nakitte gir. THYAO'da yalnızca 323'ün hacimli kırılımı giriş sebebidir. PGSUS ve TTKOM göreli güç adayları. Cuma riskini unutma.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL nakit. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş, zarar-kes %3-4, hedef %4-6, gidiş-dönüş komisyon %0,4. 13.11 kapanışa doğru durum: BIST 100 11.889 (gün zirvesi 11.936), XU030 14.916, hacim zayıf. THYAO 322,75 (zirve 323,5), RSI 72, 20 günlük ortalamanın %16 üstünde; BofA iki günde 2,4 milyar TL aldı. PGSUS RSI 71, aşırı uzamış. TTKOM gün +%2,5, göreli güçlü. ASELS 3. çeyrek bilançosu sonrası hacim normalin 1,4 katı, F/K 35 pahalı. Makro: dolar endeksi 19 ayın zirvesinde; BTC 69 bin dolar, RSI 26; altın 3.896 dolar, 6 ay dibinde. TCMB anketi aralık indirimine olumsuz. Dolar tutmak haftalık ~%0,4 getirir, bu da gidiş-dönüş komisyonu kadar; değmez. ASTOR ve SAHOL'u MSCI çıkarıyor, uzak dur.",
+ "plan": "Pazartesi 10:45'te açılış yönüne ve hacme bak. BIST 100 11.900 üstünde tutunur ve hacim normalin en az 1 katıysa XU030'a %50 ile gir. THYAO 316-318'e geri çekilip tutunursa ya da 323,5'i normalin en az 1 katı hacimle kırarsa %50 ile gir, zarar-kes 309. TTKOM 52,15 üstünü hacimle kırarsa ikinci aday, zarar-kes 50. Kriptoda RSI dönüşü ve 70 bin dolar üstünde kapanış görmeden alma.",
+ "sonraki_tura_mesaj": "Hafta sonunu nakitte geçirdik. Pazartesi 10:45'te önce açılış boşluğuna ve hacme bak (BIST verisi 15 dakika gecikmeli). Giriş için hacim normalin en az 1 katı olmalı. THYAO'da 316-318'e geri çekilme ya da 323,5'in hacimli kırılımı, TTKOM'da 52,15'in kırılımı giriş sebebidir. Hacimsiz yükselişe girme.",
  "izleme_listesi": [
   "XU100.IS",
   "XU030.IS",
+  "THYAO.IS",
+  "PGSUS.IS",
+  "TTKOM.IS",
+  "ASELS.IS",
   "GARAN.IS",
   "AKBNK.IS",
   "ISCTR.IS",
-  "THYAO.IS",
-  "ASELS.IS",
-  "PGSUS.IS",
-  "TTKOM.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
   "GC=F",
-  "NVDA",
-  "SPY"
+  "SPY",
+  "NVDA"
  ],
- "son_yorum": "BIST 100 %0,5 artıda ve 20 günlük ortalamanın %4 üstünde, ama yükseliş hacimsiz. TCMB anketinde enflasyon beklentisi %30'u, yıl sonu dolar beklentisi 60 TL'yi aştı; bu, aralıkta faiz indirimi umudunu zayıflatır. Kripto düşüşte, RSI 26 ama dip teyidi yok. ABD vadelileri Nvidia'daki yönetim değişikliği ve yaklaşan enflasyon verisi öncesinde eksi. Altın 6 ayın dibinde.",
+ "son_yorum": "BIST günü %0,7 artıda geçiriyor ama 11.936 zirvesinden geri çekildi ve hacim zayıf; VİOP akşam seansına satışla başladı. Dolar endeksi 19 ayın zirvesinde, bu da kripto ve altını baskılıyor. TCMB anketinde enflasyon beklentisi %30'un, dolar beklentisi 60 TL'nin üstünde. Hacimsiz bir yükselişe cuma kapanışında girmek, hafta sonu riskini karşılığı olmadan almak olur.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-13 15:45"
+  "Sonraki kontrol: 2026-11-16 10:45"
  ]
 }
