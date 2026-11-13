@@ -1,35 +1,32 @@
 {
- "notlar": "İlk kurgu: TL’ye karşı döviz bazlı riskli sepet. Alınanlar: QQQ ABD büyüme omurgası, BTC yüksek beta toparlanma, GC=F kriz/emtia dengesi, EURUSD euro nakit/döviz ayağı. BIST kapalı olduğu için Türk hisse/fon zorunluluğu eksik; ilk uygun ortak seansta tamamlanacak. Tek hisse riskini başlangıçta sınırladım.",
- "plan": "13.11 Cuma 17:35’te BIST-ABD-kur ortak açıklığında Türk piyasa ayağını tamamla; adaylar THYAO.IS veya XU030.IS. QQQ aşırı bozulursa SPY’ye indir, BTC’de günlük panik devam eder ama RSI dipte kalırsa ekleme değil bekleme. TL nakdi BIST ve gerekirse USDTRY için kullan.",
- "sonraki_tura_mesaj": "Önce zorunlu Türk piyasa ayağını tamamla; sıfırdan testini yap, sadece elde var diye QQQ/BTC/altını tutma.",
+ "notlar": "Strateji: 3 ayda TL bazlı getiriyi maksimize etmek için portföyü döviz bazlı riskli varlıklar ağırlıklı kur; QQQ ABD büyüme omurgası, BTC yüksek beta, GC=F kriz/emtia dengesi, EURUSD euro döviz nakdi, THYAO BIST yüksek beta/relatif güçlü hisse. Zorunlu çeşitlilik tamamlandı: döviz nakit + Türk hissesi + ABD hissesi/fonu var. Sıfırdan testi: bugün nakitte olsam benzer sepeti kurar, yalnız BIST ayağını THYAO ile tamamlardım.",
+ "plan": "Haftalık kontrol et. QQQ 50 günlük ortalama üstüne toparlarsa tut; bozulma derinleşir ve faiz yükselişi sürerse SPY’ye indir. BTC RSI aşırı satımda ama trend zayıf; ekleme için günlük panik sonrası toparlanma bekle, 3 ay dibine kırarsa azalt. THYAO’da RSI aşırı ısınır ve BIST zayıflarsa XU030’a geç. TL nakdi fırsat ve komisyon tamponu olarak tut.",
+ "sonraki_tura_mesaj": "Zorunlu çeşitlilik tamamlandı; sıfırdan testini yap, THYAO’yu sadece momentum sürüyorsa tut, BTC’de düşen bıçağa ekleme yapma.",
  "izleme_listesi": [
+  "QQQ",
+  "BTC-USD",
+  "GC=F",
   "EURUSD=X",
   "USDTRY=X",
   "THYAO.IS",
   "XU030.IS",
-  "QQQ",
   "SPY",
   "NVDA",
   "GOOGL",
-  "BTC-USD",
   "ETH-USD",
-  "GC=F",
   "SI=F",
   "TLT",
-  "XLE"
+  "XLE",
+  "ALARK.IS"
  ],
- "son_yorum": "ABD’de tahvil faizi %5 üzeri ve Nasdaq zayıf; buna rağmen VIX aşırı panik seviyesinde değil. Altın ve kripto sert geri çekilmiş, bu yüzden kademeli risk almak mantıklı; BIST güçlü kapanmış ama şu an kapalı.",
+ "son_yorum": "ABD’de soğuk PPI risk iştahını destekliyor ama 10 yıllık faizin %5 üstü büyüme hisseleri için baskı; BIST kısa vadede tepki veriyor, TL’de değer kaybı beklentisi sürüyor. BTC ve altın aşırı satıma yakın, bu yüzden panikle azaltmıyorum.",
  "kurgu": {
   "metin": "Bu portföyü 3 aylık riskli yarış için TL erimesine karşı döviz bazlı varlık ağırlıklı, fakat tek temaya aşırı bağımlı olmayan şekilde kuruyorum. İlk aşamada ABD büyüme hisseleri, sınırlı kripto ve emtia koruması alıp BIST kapalı olduğu için Türk hisse payını ilk ortak açık seansta tamamlayacağım. Komisyonu azaltmak için sık al-sat değil, tez bozulunca rotasyon yapacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: QQQ 0.101322 adet, birim 34543.4048 TL, tutar 3500.00 TL + komisyon 7.00 TL",
-  "ALINDI: BTC-USD 0.000418224 adet, birim 3586591.6473 TL, tutar 1500.00 TL + komisyon 3.00 TL",
-  "ALINDI: GC=F 0.00511691 adet, birim 195430.3954 TL, tutar 1000.00 TL + komisyon 2.00 TL",
-  "ALINDI: EURUSD=X 35.9915 adet, birim 55.5687 TL, tutar 2000.00 TL + komisyon 4.00 TL",
-  "UYARI: zorunlu çeşitlilik eksik: Türk hissesi/fonu. Piyasası açık olduğu ilk turda tamamla.",
-  "Sonraki kontrol: 2026-11-13 17:35"
+  "ALINDI: THYAO.IS 4.68019 adet, birim 320.5000 TL, tutar 1500.00 TL + komisyon 3.00 TL",
+  "Sonraki kontrol: 2026-11-20 17:35"
  ]
 }

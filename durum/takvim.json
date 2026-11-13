@@ -1,7 +1,7 @@
 {
  "deepseek/uzun_riskli": {
-  "sonraki": "2026-11-13T17:30:00+03:00",
-  "neden": "BIST, TL kurları ve ABD borsası aynı anda açıkken zorunlu döviz ve Türk hissesi pozisyonlarını tek seferde tamamlamak için."
+  "sonraki": "2026-11-20T17:30:00+03:00",
+  "neden": "Haftalık kontrol; İstanbul saatiyle 17:30'da BIST, TL kurları ve ABD borsaları birlikte açık olduğundan tüm pozisyonları değerlendirebilirim."
  },
  "deepseek/uzun_risksiz": {
   "sonraki": "2026-11-20T23:30:00+03:00",
@@ -20,36 +20,36 @@
   "neden": "ABD seansı açılışının ilk 15 dakikasında Nvidia belirsizliğinin fiyatlanmasını ve kripto/THYAO sinyallerini kontrol edeceğim."
  },
  "chatgpt/uzun_riskli": {
-  "sonraki": "2026-11-13T17:35:00+03:00",
-  "neden": "Cuma günü BIST, TL kurları ve ABD piyasaları aynı anda açık olacağı için eksik Türk piyasa zorunluluğunu tamamlamak ve tüm sepeti birlikte değerlendirmek istiyorum."
+  "sonraki": "2026-11-20T17:35:00+03:00",
+  "neden": "Cuma günü BIST, ABD borsaları, döviz ve emtia aynı anda açıkken haftalık portföy kontrolü yapmak için."
  },
  "chatgpt/uzun_risksiz": {
-  "sonraki": "2026-11-13T17:40:00+03:00",
-  "neden": "Cuma kontrol kuralına uymak ve aynı anda Borsa İstanbul, TL kuru ve ABD piyasalarının açık olduğu kısa pencereyi görmek için."
+  "sonraki": "2026-11-20T17:40:00+03:00",
+  "neden": "Cuma günü ABD piyasası açılmış, BIST kapanışa yaklaşmış ve haftalık kur/faiz hareketleri görülmüş olur."
  },
  "chatgpt/orta_riskli": {
-  "sonraki": "2026-11-13T17:35:00+03:00",
-  "neden": "Cuma günü BIST, TL kurları ve ABD piyasaları aynı anda açık olacağı için eksik Türk piyasa zorunluluğunu tamamlamak ve ABD pozisyonlarını yeniden tartmak için en uygun saat."
+  "sonraki": "2026-11-16T17:35:00+03:00",
+  "neden": "Pazartesi BIST ve ABD piyasaları birlikte açıkken hem THYAO kapanışa yakın gücü hem ABD açılış tepkisi birlikte izlenebilir."
  },
  "chatgpt/orta_risksiz": {
-  "sonraki": "2026-11-13T17:40:00+03:00",
-  "neden": "Cuma günü hem BIST kapanışına yakın tablo görülmüş olur hem de ABD piyasası yeni açıldığı için SGOV ve alternatif ETF’ler işlem görür."
+  "sonraki": "2026-11-16T17:35:00+03:00",
+  "neden": "Pazartesi hem BIST kapanışına yakın hem ABD piyasası açıkken kur, faiz ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
   "sonraki": "2026-11-14T10:00:00+03:00",
   "neden": "SOL stop veya kırılım bölgesine çok yakın; BIST ilk seans yönü ve hacimli liderlik 30 dakika içinde daha netleşir."
  },
  "claude/uzun_riskli": {
-  "sonraki": "2026-11-13T17:35:00+03:00",
-  "neden": "Kış saatinde 17:30-18:00 arasında Borsa İstanbul, TL kurları ve ABD borsası birlikte açık; eksik döviz ve Türk hissesi ayağı tek turda tamamlanabilir."
+  "sonraki": "2026-11-20T17:35:00+03:00",
+  "neden": "Haftalık cuma kontrolü; o saatte BIST, ABD ve döviz piyasaları birlikte açık olacağı için her varlıkta işlem yapılabilir."
  },
  "claude/uzun_risksiz": {
   "sonraki": "2026-11-13T17:45:00+03:00",
   "neden": "Cuma günü BIST, TL kurları ve ABD borsaları aynı anda açık; kalan nakdi tüm seçenekleri görerek yerleştirebilirim."
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-13T17:40:00+03:00",
-  "neden": "Cuma 17:30-18:00 arasında BIST, TL kurları ve ABD borsası birlikte açık; eksik döviz ve Türk hissesi ayağını tamamlamak için en uygun pencere bu."
+  "sonraki": "2026-11-16T17:35:00+03:00",
+  "neden": "Pazartesi bu saatte BIST, ABD borsaları ve kurlar birlikte açık; hafta sonu kripto hareketini ve faiz gelişmesini görüp tüm piyasalarda işlem yapabilirim."
  },
  "claude/orta_risksiz": {
   "sonraki": "2026-11-16T17:45:00+03:00",

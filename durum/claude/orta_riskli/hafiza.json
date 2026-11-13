@@ -1,7 +1,7 @@
 {
- "notlar": "Başlangıç 12.11.2026, USDTRY ~50.25. QQQ'yu 3000 TL ile teknoloji düzeltmesinde aldım. Tez: faizler zirveye yakın, yapay zekâ satışı aşırı. Risk: ABD 10 yıllık faizinin %5.3'ü aşması. Zorunlu çeşitlilikte eksikler: döviz nakit ve BIST. TCMB aralıkta 100 baz puan indirim bekleniyor, bu bankalar lehine. Altın 3 ayda -%12 ile düşüş trendinde, şimdilik uzak dur. NVDA RSI 25, CEO ayrılığı nedeniyle sadece izle.",
- "plan": "Cuma 17:40'ta: USDTRY ~1500 TL al. XU030.IS ~2500 TL ve bir banka hissesi (AKBNK veya YKBNK) ~1500 TL al. ~1000 TL nakit bırak. ABD 10 yıllık faizi %5.3'ü geçerse QQQ'yu yarıya indir. BTC 68k altına inmeden kripto yok. Bundan sonra yalnızca belirgin fırsatta işlem yap.",
- "sonraki_tura_mesaj": "İLK İŞ: döviz (USDTRY) ve BIST (XU030 ve bir banka) eksik, bu turda mutlaka tamamla. QQQ'yu Nasdaq düzeltmesinde aldın; ABD faizine dikkat et. Nakit ~7000 TL.",
+ "notlar": "Başlangıç 12.11.2026, USDTRY ~50.3. QQQ 3000 TL (12.11, ~686$): tez faizlerin zirveye yakın olması ve yapay zekâ satışının aşırı olması; ABD10Y %5.3'ü geçerse yarıya indir. 13.11'de USDTRY 3000, XU030 2500, AKBNK 1000 aldım; nakit ~480 TL. BIST tezi aralıkta TCMB indirimi, ancak enflasyon beklentisi %30'u aştı; indirim beklentisi söner veya XU030 -%7 düşerse banka payını kes. Altın 6 ayın dibinde, Fed artırım korkusu var; uzak dur. NVDA'da CEO değişti (Kress geldi), RSI 27; yalnızca izle. TL ayda ~%2 eriyor, TL nakit tutma.",
+ "plan": "ABD10Y >%5.3 olursa QQQ'yu yarıya indir. BTC 68k altına inip RSI toparlanırsa dolardan ~1000 TL'lik kısmı BTC'ye çevir. NVDA 20 günlük ortalamayı yukarı keserse küçük pozisyon aç. TCMB aralık indirimine dair sinyal zayıflarsa AKBNK'yi sat ve parayı THYAO'ya veya dolara aktar. Belirgin fırsat yoksa bekle, komisyonu boşa harcama.",
+ "sonraki_tura_mesaj": "Çeşitlilik tamam (USD, XU030, AKBNK, QQQ). Önce ABD10Y'ye bak (>%5.3 ise QQQ'yu yarıla), sonra BTC 68k altında mı, sonra TCMB indirim beklentisinin durumunu kontrol et. Nakit ~480 TL.",
  "izleme_listesi": [
   "QQQ",
   "SPY",
@@ -16,18 +16,19 @@
   "THYAO.IS",
   "GC=F",
   "BTC-USD",
-  "XLE",
-  "GLD"
+  "XLF",
+  "GOOGL"
  ],
- "son_yorum": "ABD 10 yıllık faizi %5.1'e çıktı. Nvidia CEO'sunun ayrılmasıyla çip ve yapay zekâ hisselerinde satış var, Nasdaq aylık bazda -%5. VIX 18.5 ile panik seviyesinde değil. Altın ve gümüş sert düşüyor, kripto aşırı satım bölgesine (RSI ~30) yaklaştı. BIST teknoloji satışına direndi, aralıkta 100 baz puanlık TCMB indirimi beklentisi bankalar için destekleyici.",
+ "son_yorum": "ABD'de ılımlı ÜFE ve VIX düşüşü olumlu, ancak 10 yıllık faiz %5.15 ile tehlikeli bölgede. BIST üç ayda sert düştü ve son haftada toparlanıyor. TCMB anketinde enflasyon beklentisinin %30'u aşması aralık indirimini riske atıyor. TL ayda yaklaşık %2 değer kaybediyor, bu yüzden faizsiz TL nakit yerine dolar tutmak daha mantıklı. Altın ve kripto düşüş trendinde.",
  "kurgu": {
   "metin": "Portföyü üç ayak üzerine kuruyorum. Dolar bazlı ABD büyüme hisseleri hem şirket kazancı hem de TL'nin değer kaybına karşı koruma sağlıyor. BIST tarafında aralıkta beklenen faiz indirimine duyarlı bir endeks ve banka ağırlığı tutuyorum. Bunlara küçük bir döviz nakit tamponu ekliyorum. Riskli profilde aşırı satılmış ama tezi bozulmamış varlıklara kademeli giriyorum ve tezi bozulanı hızla kesiyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: QQQ 0.0868473 adet, birim 34543.4048 TL, tutar 3000.00 TL + komisyon 6.00 TL",
-  "UYARI: zorunlu çeşitlilik eksik: döviz nakit, Türk hissesi/fonu. Piyasası açık olduğu ilk turda tamamla.",
-  "Sonraki kontrol: 2026-11-13 17:40"
+  "ALINDI: USDTRY=X 59.5689 adet, birim 50.3618 TL, tutar 3000.00 TL + komisyon 6.00 TL",
+  "ALINDI: XU030.IS 0.167999 adet, birim 14881.0195 TL, tutar 2500.00 TL + komisyon 5.00 TL",
+  "ALINDI: AKBNK.IS 14.2552 adet, birim 70.1500 TL, tutar 1000.00 TL + komisyon 2.00 TL",
+  "Sonraki kontrol: 2026-11-16 17:35"
  ]
 }

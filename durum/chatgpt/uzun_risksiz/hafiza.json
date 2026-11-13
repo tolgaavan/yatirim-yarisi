@@ -1,12 +1,11 @@
 {
- "notlar": "Strateji: düşük riskli 3 ayda TL nakitte erimek yerine USD bazlı kısa vadeli devlet tahvili taşı; ana pozisyon SGOV, amaç dolar koruması + kısa vadeli faiz. Kripto, tekil teknoloji hissesi ve uzun vadeli tahvil düşük risk profiline uygun değil. Sıfırdan testi: bugün yalnız nakit olsaydı portföyü yine SGOV ağırlıklı kurardım.",
- "plan": "Her cuma kontrol et: SGOV’u ana omurga tut. USDTRY’de sert düşüş ve ABD faizlerinde hızlı gevşeme yoksa pozisyonu bozma. Altın %10-15’e ancak düşüş durulup faiz baskısı hafiflerse eklenebilir. Hisse ETF’lerine yalnızca VIX gevşer, faiz düşer ve endekslerde toparlanma teyidi gelirse sınırlı geç.",
- "sonraki_tura_mesaj": "Önce SGOV’un sakinliğini ve USDTRY yönünü kontrol et; düşük risk hedefini bozma, hisse/altın/kriptoya ancak net risk-ödül üstünlüğü varsa geç.",
+ "notlar": "Strateji: düşük riskli 3 ayda TL nakitte erimek yerine USD bazlı kısa vadeli devlet tahvili taşı; ana pozisyon SGOV, amaç dolar koruması + kısa vadeli faiz. BIL benzer ama geçiş komisyonu farkı anlamsız kılar. GLD trend olarak zayıf, SPY/XLU/XLP daha oynak, TLT faiz riski taşıyor, kripto düşük risk profiline uygun değil. Sıfırdan testi: bugün yalnız nakit olsaydı portföyü yine SGOV ağırlıklı kurardım.",
+ "plan": "Her cuma kontrol et: SGOV’u ana omurga tut. USDTRY’de sert düşüş ve ABD kısa faizinde hızlı gevşeme yoksa pozisyonu bozma. Altın %10-15’e ancak düşüş durulup faiz baskısı hafiflerse eklenebilir. Hisse ETF’lerine yalnızca VIX gevşer, faizler düşer ve endekslerde toparlanma teyidi gelirse sınırlı geç.",
+ "sonraki_tura_mesaj": "Önce SGOV’un sakinliğini, USDTRY yönünü ve ABD faizlerini kontrol et; düşük risk hedefini bozma, hisse/altın/kriptoya ancak net risk-ödül üstünlüğü varsa geç.",
  "izleme_listesi": [
   "SGOV",
   "BIL",
   "GLD",
-  "GC=F",
   "SPY",
   "XLP",
   "XLU",
@@ -15,14 +14,13 @@
   "EURUSD=X",
   "BTC-USD"
  ],
- "son_yorum": "ABD endeksleri zayıf, VIX yükselmiş ve 10 yıllık faiz %5.10’a çıkmış durumda; altın ve kripto da sert baskı altında, bu nedenle düşük riskli portföy için hisse/emtia kovalamak yerine kısa vadeli USD faizine park etmek daha rasyonel.",
+ "son_yorum": "USDTRY yukarı eğilimde, ABD 10 yıllık faiz %5 üzerindeyken hisse ve uzun tahvil riski düşük risk profiline pahalı geliyor; altın ve kriptoda düşüş trendi sürüyor. SGOV kısa vadeli dolar faizi ve kur korumasıyla en sakin seçenek.",
  "kurgu": {
   "metin": "Bu düşük riskli 3 aylık portföyde ana omurgayı kısa vadeli ABD hazine bonosu ETF’i SGOV ile kuruyorum: TL enflasyonu ve değer kaybına karşı USD bazlı kalıp hisse senedi, altın ve kripto oynaklığından uzak duracağım. Getiriyi büyük ölçüde doların TL karşısındaki korunması ve kısa vadeli dolar faizinden almayı, riskli varlıklara ancak belirgin fırsat ve sınırlı ağırlıkla girmeyi hedefliyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: SGOV 1.97567 adet, birim 5051.4619 TL, tutar 9980.00 TL + komisyon 19.96 TL",
-  "Sonraki kontrol: 2026-11-13 17:40"
+  "Sonraki kontrol: 2026-11-20 17:40"
  ]
 }

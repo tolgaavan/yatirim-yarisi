@@ -1,27 +1,32 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 1984.0,
+ "nakit_tl": 481.0,
  "pozisyonlar": {
   "QQQ": {
    "adet": 0.10132180130555515,
    "maliyet_tl": 3507.0,
-   "son_fiyat_tl": 34661.28411235404
+   "son_fiyat_tl": 34559.29988518171
   },
   "BTC-USD": {
    "adet": 0.00041822436103883774,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 3496134.465137124
+   "son_fiyat_tl": 3484552.185760379
   },
   "GC=F": {
    "adet": 0.005116911306908809,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 195303.06873193476
+   "son_fiyat_tl": 195751.42823538557
   },
   "EURUSD=X": {
    "adet": 35.99146676878531,
    "maliyet_tl": 2004.0,
-   "son_fiyat_tl": 55.6697249031231
+   "son_fiyat_tl": 55.66074192045835
+  },
+  "THYAO.IS": {
+   "adet": 4.6801872074882995,
+   "maliyet_tl": 1503.0,
+   "son_fiyat_tl": 320.5
   }
  },
- "odenen_komisyon_tl": 16.0
+ "odenen_komisyon_tl": 19.0
 }

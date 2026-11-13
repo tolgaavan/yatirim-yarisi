@@ -69,6 +69,20 @@
 "tur": "EQUITY"
 }
 },
+"BIL": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "State Street SPDR Bloomberg 1-3",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "USD",
+"pddd": null,
+"piyasa_degeri": 48510820352,
+"sektor": null,
+"temettu_%": 3.66,
+"tur": "ETF"
+}
+},
 "EREGL.IS": {
 "tarih": "2026-11-13",
 "v": {
@@ -94,6 +108,34 @@
 "piyasa_degeri": 643860004864,
 "sektor": "Financial Services",
 "temettu_%": 3.45,
+"tur": "EQUITY"
+}
+},
+"GLD": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "SPDR Gold Shares",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "USD",
+"pddd": 2.1,
+"piyasa_degeri": 131009642496,
+"sektor": null,
+"temettu_%": 0.0,
+"tur": "ETF"
+}
+},
+"GOOGL": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "Alphabet Inc.",
+"fk": 15.8,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 5.64,
+"piyasa_degeri": 3722746003456,
+"sektor": "Communication Services",
+"temettu_%": 0.29,
 "tur": "EQUITY"
 }
 },
@@ -167,6 +209,34 @@
 "tur": "ETF"
 }
 },
+"SGOV": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "iShares 0-3 Month Treasury Bond",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "USD",
+"pddd": null,
+"piyasa_degeri": 116836941824,
+"sektor": null,
+"temettu_%": 3.64,
+"tur": "ETF"
+}
+},
+"SHV": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "iShares 0-1 Year Treasury Bond ",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "USD",
+"pddd": null,
+"piyasa_degeri": 21425623040,
+"sektor": null,
+"temettu_%": 3.63,
+"tur": "ETF"
+}
+},
 "SMH": {
 "tarih": "2026-11-13",
 "v": {
@@ -209,6 +279,20 @@
 "tur": "EQUITY"
 }
 },
+"TLT": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "iShares 20+ Year Treasury Bond ",
+"fk": -3964.3,
+"fk_tur": "ileriye dönük",
+"para_birimi": "USD",
+"pddd": 0.53,
+"piyasa_degeri": 47518568448,
+"sektor": null,
+"temettu_%": 4.76,
+"tur": "ETF"
+}
+},
 "TTKOM.IS": {
 "tarih": "2026-11-13",
 "v": {
@@ -223,6 +307,20 @@
 "tur": "EQUITY"
 }
 },
+"TUPRS.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "TUPRAS",
+"fk": 5.4,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 1.33,
+"piyasa_degeri": 697500041216,
+"sektor": "Energy",
+"temettu_%": 3.78,
+"tur": "EQUITY"
+}
+},
 "XLE": {
 "tarih": "2026-11-13",
 "v": {
@@ -234,6 +332,20 @@
 "piyasa_degeri": 46373699584,
 "sektor": null,
 "temettu_%": 2.18,
+"tur": "ETF"
+}
+},
+"XLP": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "State Street Consumer Staples S",
+"fk": 24.6,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 1.34,
+"piyasa_degeri": 15027510272,
+"sektor": null,
+"temettu_%": 2.46,
 "tur": "ETF"
 }
 },

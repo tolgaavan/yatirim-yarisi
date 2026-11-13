@@ -1,12 +1,27 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 6994.0,
+ "nakit_tl": 481.0,
  "pozisyonlar": {
   "QQQ": {
    "adet": 0.08684725826190443,
    "maliyet_tl": 3006.0,
-   "son_fiyat_tl": 34661.28411235404
+   "son_fiyat_tl": 34559.29988518171
+  },
+  "USDTRY=X": {
+   "adet": 59.56891253436776,
+   "maliyet_tl": 3006.0,
+   "son_fiyat_tl": 50.361839294433594
+  },
+  "XU030.IS": {
+   "adet": 0.16799924190342092,
+   "maliyet_tl": 2505.0,
+   "son_fiyat_tl": 14881.01953125
+  },
+  "AKBNK.IS": {
+   "adet": 14.255167188144563,
+   "maliyet_tl": 1002.0,
+   "son_fiyat_tl": 70.1500015258789
   }
  },
- "odenen_komisyon_tl": 6.0
+ "odenen_komisyon_tl": 19.0
 }
