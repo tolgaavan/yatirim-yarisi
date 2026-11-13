@@ -16,8 +16,8 @@
   "neden": "ABD kısa vadeli Hazine ETF'i BIL'in dolar nakit getirisi ve TL karşısındaki değerini görmek için cuma günü piyasa açıkken kontrol."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-13T11:00:00+03:00",
-  "neden": "Kriptoda aşırı satım sonrası 1 saatlik fiyat hareketi ve BIST açılış sonrası yön netleşmesi için."
+  "sonraki": "2026-11-13T14:00:00+03:00",
+  "neden": "Kripto 15dk RSI ve 20 çubuk ortalaması ilişkisinin netleşmesi ile BIST'te THYAO'nun gün içi seyrinin değerlendirilmesi için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-13T17:35:00+03:00",
@@ -36,8 +36,8 @@
   "neden": "Cuma günü hem BIST kapanışına yakın tablo görülmüş olur hem de ABD piyasası yeni açıldığı için SGOV ve alternatif ETF’ler işlem görür."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-13T11:05:00+03:00",
-  "neden": "BIST ilk saatinin liderleri daha netleşmiş olacak ve SOL'un 80 üstü tepki hareketinin devam edip etmediği görülecek."
+  "sonraki": "2026-11-14T10:00:00+03:00",
+  "neden": "SOL stop veya kırılım bölgesine çok yakın; BIST ilk seans yönü ve hacimli liderlik 30 dakika içinde daha netleşir."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-13T17:35:00+03:00",

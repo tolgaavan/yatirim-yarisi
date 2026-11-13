@@ -1,31 +1,31 @@
 {
- "notlar": "Başlangıçta CL=F denemesi 89.15 üstü kalıcılık gelmeyince kapatıldı; zarar küçük tutuldu. 13.11 10:01'de nakdin yaklaşık %60'ı SOL-USD'ye alındı: tez, sert kripto satışından sonra SOL'un BTC/ETH'ye göre daha güçlü intraday dip dönüşü yapması ve 15 dk RSI'ın toparlanması. 10:31 sıfırdan testinde SOL hâlâ 80 üstünde, 15 dk fiyat dizisi yukarı ve kripto majörleri içinde daha dirençli; BIST'te KONTR/ASTOR güçlü görünse de detaylı veri olmadan kovalanmadı.",
- "plan": "SOL 80 üstünde kalır ve 80.6-81 üstüne hacimle atarsa taşı; 79.5 altına iner veya BTC yeniden gün içi dibe sarkarsa SOL'u azalt/kapat. BIST ilk saat sonunda KONTR/ASTOR/THYAO tarafında hacimli liderlik netleşirse SOL ile sıfırdan test yapıp daha güçlü olana geç. CL=F 89.15 üstü kalıcılık olmadan geri alınmayacak.",
- "sonraki_tura_mesaj": "SOL ana karar: 80.6-81 üstü hacimli kırılım varsa taşı; 79.5 altı zayıflıkta çık. BIST'te KONTR/ASTOR/THYAO detaylarını SOL'a karşı sıfırdan testiyle kıyasla; chase etme, hacim ve 15 dk trend iste.",
+ "notlar": "Başlangıçta CL=F denemesi 89.15 üstü kalıcılık gelmeyince kapatıldı; zarar küçük tutuldu. 13.11 10:01'de nakdin yaklaşık %60'ı SOL-USD'ye alındı: tez, sert kripto satışından sonra SOL'un BTC/ETH'ye göre daha güçlü intraday dip dönüşü yapması ve 15 dk RSI toparlanması. 11:01'de SOL 80.6 üstü kırılımı yapamadı ama 79.5 stopu da tetiklemedi; BIST'te ASTOR hacimli geri verdiği, THYAO ise endeks zayıflığında yeterince net lider olmadığı için geçiş yapılmadı.",
+ "plan": "SOL 79.5 altına sarkar veya BTC gün içi dibine yaklaşırsa SOL'u kapat. SOL 80.6-81 üstüne hacimli çıkar ve 15 dk kapanışlarla tutunursa taşımaya devam et. BIST’te THYAO/TUPRS/ALARK tarafında endekse rağmen hacimli yukarı trend netleşirse SOL ile sıfırdan test yap. ASTOR'u 172-173 üstü geri kazanılmadan kovalamama.",
+ "sonraki_tura_mesaj": "SOL ana karar: 79.5 altı stop, 80.6-81 üstü hacimli kırılım taşıma. BIST'te ASTOR yüksek hacimli geri verdi; 172-173 geri alınmadan alma. THYAO/TUPRS/ALARK endekse rağmen trendliyse SOL’a karşı sıfırdan test et.",
  "izleme_listesi": [
   "SOL-USD",
   "BTC-USD",
   "ETH-USD",
   "AVAX-USD",
-  "DOT-USD",
+  "XRP-USD",
   "THYAO.IS",
-  "KONTR.IS",
   "ASTOR.IS",
+  "TUPRS.IS",
+  "ALARK.IS",
   "AKBNK.IS",
   "ASELS.IS",
   "EREGL.IS",
   "XU100.IS",
   "CL=F",
-  "GC=F",
   "USDTRY=X"
  ],
- "son_yorum": "BIST yatay-zayıf açıldı; THYAO güçlü ama ilk saat oynak, bankalar zayıf. Kriptoda genel baskı sürse de SOL 78 dip dönüşünden sonra 80 üstünde ve 15 dk RSI toparlanmış durumda. Emtia tarafında hacim zayıf, altın/gümüş hâlâ net dönüş vermiyor.",
+ "son_yorum": "Kriptoda ana tablo zayıf; SOL gün içi dipten toparlansa da 80.6-81 kırılımını başaramadı. BIST yatay-negatif, ASTOR yüksek hacimli geri dönüşle riskli, THYAO pozitif ama endeks desteği sınırlı. Şimdilik en iyi karar stopa sadık kalmak.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-13 11:05"
+  "Sonraki kontrol: 2026-11-14 10:00 (istediğin: 2026-11-13 11:35; o gün için 5 kontrol sınırı doldu, ertesi gün sabaha alındı)"
  ]
 }

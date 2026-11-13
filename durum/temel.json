@@ -41,6 +41,20 @@
 "tur": "EQUITY"
 }
 },
+"ASTOR.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "ASTOR ENERJI",
+"fk": 18.2,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 4.17,
+"piyasa_degeri": 170258808832,
+"sektor": "Industrials",
+"temettu_%": 1.24,
+"tur": "EQUITY"
+}
+},
 "AVGO": {
 "tarih": "2026-11-13",
 "v": {
@@ -80,6 +94,20 @@
 "piyasa_degeri": 643860004864,
 "sektor": "Financial Services",
 "temettu_%": 3.45,
+"tur": "EQUITY"
+}
+},
+"KONTR.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "KONTROLMATIK TEKNOLOJI",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": 0.59,
+"piyasa_degeri": 3094000128,
+"sektor": "Industrials",
+"temettu_%": 0.0,
 "tur": "EQUITY"
 }
 },

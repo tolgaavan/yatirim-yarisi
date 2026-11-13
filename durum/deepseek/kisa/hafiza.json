@@ -1,20 +1,24 @@
 {
- "notlar": "Strateji: kısa vade, 1-2 pozisyon, %0.2 komisyon. Kripto aşırı satımda (BTC RSI 26, ETH 26, SOL 22) ancak düşüş trendi devam ediyor; Jensen Huang Nvidia'dan ayrıldı haberi piyasayı sarstı. BIST açılışta zayıf, güçlü alım yok. USDTRY RSI 95 aşırı alım, günlük oynaklık düşük, al-sat için uygun değil. ABD kapalı, açılış 17:30. Kriptoda 15dk RSI'lar toparlansa da saatlik henüz net değil.",
- "plan": "11:00'de kripto 15dk RSI ve fiyatın 20 çubuk ortalaması üzerinde kalıp kalmadığını kontrol et; BTC/ETH/SOL'da 15dk RSI 55 üzeri ve fiyat yükseliş eğilimindeyse küçük (%20-30) alım düşün. BIST'te THYAO.IS/XU100.IS ancak güçlü hacimli yükselişte alınır. ABD açılışına kadar kripto dışında işlem yapma.",
- "sonraki_tura_mesaj": "Kriptoda dönüş sinyali var mı? BTC/ETH/SOL 15dk RSI 55 üzeri ve fiyat 20 çubuk üzerinde mi? BIST güçlendi mi? USDTRY gerileme var mı? Sinyal yoksa nakitte kal.",
+ "notlar": "Strateji: kısa vade, 1-2 pozisyon, %0.2 komisyon. Kripto aşırı satım (BTC RSI 25, ETH 25), düşüş trendi sürüyor; Jensen Huang haberi risk iştahını bozdu. BIST zayıf (XU100 15dk RSI 43), THYAO günlük güçlü (RSI 71) ama 15dk nötr (51). USDTRY RSI 95 aşırı alım, kısa vade al-sat oynaklığı düşük. ABD açılışı 17:30. XRP 15dk RSI 56 ama hacim normalin yarısı, güvenilmez.",
+ "plan": "14:00'da kontrol: BTC/ETH/SOL 15dk RSI 55 üzeri ve fiyat 20 çubuk üzerinde ise küçük (%20-30) alım; XRP hacim normalin üzerinde ve 15dk RSI 55 üzerinde ise alternatif. BIST'te THYAO 15dk RSI 55 üzeri ve hacim 1.5 üzeri güçlü alım varsa %20 al. ABD açılışı 17:30'a kadar kripto dışı işlem yapma.",
+ "sonraki_tura_mesaj": "BTC/ETH/SOL 15dk RSI 55 üzeri ve fiyat 20 çubuk üzerinde mi? XRP hacmi arttı mı? THYAO 15dk RSI 55 üzeri mi? USDTRY geriledi mi?",
  "izleme_listesi": [
   "THYAO.IS",
-  "XU100.IS",
   "ADA-USD",
-  "XRP-USD"
+  "XRP-USD",
+  "XU100.IS",
+  "BTC-USD",
+  "ETH-USD",
+  "SOL-USD",
+  "USDTRY=X"
  ],
- "son_yorum": "Jensen Huang haberiyle risk iştahı zayıf; BIST sınırlı düşüşte, kripto sert satışta. Kripto RSI'ları aşırı satımda ancak düşüş trendi sürüyor; USDTRY aşırı alımlı, günlük oynaklık düşük. Yüksek olasılık görmüyorum.",
+ "son_yorum": "BIST zayıf (XU100 15dk RSI 43), THYAO günlük güçlü fakat 15dk nötr; kripto geneli aşırı satımda ancak XRP dışında 15dk toparlanma net değil, XRP hacmi düşük. USDTRY aşırı alım, komisyonla al-sat zor. Bekliyorum.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-13 11:00"
+  "Sonraki kontrol: 2026-11-13 14:00"
  ]
 }
