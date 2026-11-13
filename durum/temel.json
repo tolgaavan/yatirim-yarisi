@@ -97,6 +97,20 @@
 "tur": "EQUITY"
 }
 },
+"ISCTR.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "IS BANKASI (C)",
+"fk": 5.3,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 0.74,
+"piyasa_degeri": 340750008320,
+"sektor": "Financial Services",
+"temettu_%": 3.96,
+"tur": "EQUITY"
+}
+},
 "KONTR.IS": {
 "tarih": "2026-11-13",
 "v": {
@@ -235,6 +249,20 @@
 "sektor": null,
 "temettu_%": null,
 "tur": "INDEX"
+}
+},
+"YKBNK.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "YAPI VE KREDI BANK.",
+"fk": 632.3,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 1.08,
+"piyasa_degeri": 320481099776,
+"sektor": "Financial Services",
+"temettu_%": 0.0,
+"tur": "EQUITY"
 }
 }
 }
