@@ -5,22 +5,22 @@
   "QQQ": {
    "adet": 0.10132180130555515,
    "maliyet_tl": 3507.0,
-   "son_fiyat_tl": 34658.16762693273
+   "son_fiyat_tl": 34658.64803124056
   },
   "BTC-USD": {
    "adet": 0.00041822436103883774,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 3481864.4830218554
+   "son_fiyat_tl": 3471505.2075826824
   },
   "GC=F": {
    "adet": 0.005116911306908809,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 196203.4010293726
+   "son_fiyat_tl": 196412.60361402296
   },
   "EURUSD=X": {
    "adet": 35.99146676878531,
    "maliyet_tl": 2004.0,
-   "son_fiyat_tl": 55.76658118042633
+   "son_fiyat_tl": 55.72416285810641
   }
  },
  "odenen_komisyon_tl": 16.0
