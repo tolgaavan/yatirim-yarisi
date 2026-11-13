@@ -8,8 +8,8 @@
   "neden": "Cuma günü ABD piyasası açıkken haftalık kontrol yapıp SGOV pozisyonunu ve dolar/TL seyrini görmek için uygun zaman."
  },
  "deepseek/orta_riskli": {
-  "sonraki": "2026-11-13T17:00:00+03:00",
-  "neden": "BIST, TL kurları ve ABD borsası aynı anda açık olduğu için zorunlu döviz ve Türk hissesi alımının en uygun saati."
+  "sonraki": "2026-11-16T17:30:00+03:00",
+  "neden": "Tüm zorunlu piyasalar ve ABD borsası açık; BTC teyidi ve QQQ durumu değerlendirilebilir."
  },
  "deepseek/orta_risksiz": {
   "sonraki": "2026-11-13T18:00:00+03:00",

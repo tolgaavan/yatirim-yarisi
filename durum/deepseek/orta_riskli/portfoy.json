@@ -1,12 +1,22 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 4990.0,
+ "nakit_tl": 481.0,
  "pozisyonlar": {
   "QQQ": {
    "adet": 0.14474543043650737,
    "maliyet_tl": 5010.0,
    "son_fiyat_tl": 34661.28411235404
+  },
+  "USDTRY=X": {
+   "adet": 39.71059004864526,
+   "maliyet_tl": 2004.0,
+   "son_fiyat_tl": 50.36439895629883
+  },
+  "THYAO.IS": {
+   "adet": 7.77000777000777,
+   "maliyet_tl": 2505.0,
+   "son_fiyat_tl": 321.75
   }
  },
- "odenen_komisyon_tl": 10.0
+ "odenen_komisyon_tl": 19.0
 }
