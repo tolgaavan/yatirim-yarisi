@@ -16,8 +16,8 @@
   "neden": "ABD kısa vadeli Hazine ETF'i BIL'in dolar nakit getirisi ve TL karşısındaki değerini görmek için cuma günü piyasa açıkken kontrol."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-13T10:00:00+03:00",
-  "neden": "BIST ve TL kurları açılıyor; ABD gece kapanışı netleşmiş olacak, en likit piyasada fırsat değerlendirilecek."
+  "sonraki": "2026-11-13T11:00:00+03:00",
+  "neden": "Kriptoda aşırı satım sonrası 1 saatlik fiyat hareketi ve BIST açılış sonrası yön netleşmesi için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-13T17:35:00+03:00",
@@ -36,8 +36,8 @@
   "neden": "Cuma günü hem BIST kapanışına yakın tablo görülmüş olur hem de ABD piyasası yeni açıldığı için SGOV ve alternatif ETF’ler işlem görür."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-13T10:10:00+03:00",
-  "neden": "BIST açıldıktan sonra ilk fiyat keşfi ve hacimli liderlik oluşumunu görmek için."
+  "sonraki": "2026-11-13T10:35:00+03:00",
+  "neden": "BIST'in ilk yarım saat hacim ve yön teyidini görmek, ayrıca SOL tepki işlemini gecikmeden yönetmek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-13T17:35:00+03:00",

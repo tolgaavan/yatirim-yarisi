@@ -1,29 +1,29 @@
 {
- "notlar": "Başlangıçta 8000 TL ile CL=F alındı; tez, riskli varlıklar ve metaller satılırken petrolün relatif güç göstermesiydi. 13.11 01:01'de 89.15 üzeri hacimli kırılım gelmedi, fiyat 88.6 stopuna yaklaştı ve son saat hacmi zayıf kaldı; pozisyon kapatıldı. Kısa vadede nakit de pozisyondur; sırf piyasada olmak için işlem yapılmayacak.",
- "plan": "Sabah BIST açılışında güçlü hacimli lider hisseler ve XU100 momentumu izlenecek. Kriptoda BTC/ETH/SOL ancak gün içi dipten hacimli dönüş, 15 dk RSI toparlanması ve yatay kırılım sonrası değerlendirilecek. Emtialarda GC/SI düşen bıçak; CL tekrar 89.15 üstü hacimli kalıcılık göstermeden alınmayacak.",
- "sonraki_tura_mesaj": "Nakitteyiz; açılışta BIST liderliği ve hacim teyidi ara, CL=F 89.15 üstü kalıcı değilse geri alma, kriptoda sadece hacimli dönüş varsa düşün.",
+ "notlar": "Başlangıçta CL=F denemesi 89.15 üstü kalıcılık gelmeyince kapatıldı; zarar küçük tutuldu. 13.11 10:01'de nakdin yaklaşık %60'ı SOL-USD'ye alındı: tez, sert kripto satışından sonra SOL'un BTC/ETH'ye göre daha güçlü intraday dip dönüşü yapması ve 15 dk RSI'ın toparlanması. Bu bir tepki işlemi, evlilik değil; momentum sönerse komisyonu kabullenip çıkılacak. Nakit, BIST açılışı sonrası liderlik fırsatları için korunuyor.",
+ "plan": "SOL 80 üstünde kalıp hacimle yeni gün içi zirve denerse taşınabilir; 79 altına sarkıp toparlanamazsa pozisyon azalt/kapat. BIST ilk 30-60 dakikada güçlü hacimli lider verirse SOL kâr/zarar durumuna bakmadan daha iyi fırsata geçilebilir. CL=F 89.15 üstü hacimli kalıcılık olmadan geri alınmayacak; GC/SI hâlâ düşen bıçak.",
+ "sonraki_tura_mesaj": "SOL tepki işlemi: 80 üstü ve hacim sürüyorsa taşı, 79 altı zayıflarsa çık. BIST verisi geldiyse ilk liderleri SOL'a karşı sıfırdan testiyle kıyasla; sırf pozisyon var diye tutma.",
  "izleme_listesi": [
+  "SOL-USD",
+  "BTC-USD",
+  "ETH-USD",
   "CL=F",
   "GC=F",
   "SI=F",
-  "BTC-USD",
-  "ETH-USD",
-  "SOL-USD",
+  "USDTRY=X",
   "THYAO.IS",
   "AKBNK.IS",
   "ASELS.IS",
   "EREGL.IS",
-  "XU100.IS",
-  "USDTRY=X"
+  "XU100.IS"
  ],
- "son_yorum": "Risk iştahı zayıf: kripto ve metaller baskı altında, petrol ise gün içi güçlü kalmasına rağmen 89.15 tepesinden geri dönüp düşük hacimle momentum kaybediyor. Bu saatte en iyi pozisyon nakit.",
+ "son_yorum": "Küresel risk iştahı zayıf, kriptoda sert satış sonrası tepki var; SOL 15 dk bazda BTC/ETH'ye göre daha güçlü toparlanıyor. BIST güne yatay negatif başlamış, ilk yarım saatte yön ve hacim teyidi beklemek daha sağlıklı.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: CL=F 1.78918 adet (%100), birim 4461.0184 TL, eline geçen 7965.61 TL, kâr/zarar -50.39 TL",
-  "Sonraki kontrol: 2026-11-13 10:10"
+  "ALINDI: SOL-USD 1.48363 adet, birim 4044.1330 TL, tutar 6000.00 TL + komisyon 12.00 TL",
+  "Sonraki kontrol: 2026-11-13 10:35"
  ]
 }

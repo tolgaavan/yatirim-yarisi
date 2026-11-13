@@ -1,4 +1,18 @@
 {
+"AKBNK.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "AKBANK",
+"fk": 5.6,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 1.11,
+"piyasa_degeri": 364519981056,
+"sektor": "Financial Services",
+"temettu_%": 3.14,
+"tur": "EQUITY"
+}
+},
 "AMD": {
 "tarih": "2026-11-13",
 "v": {
@@ -13,6 +27,20 @@
 "tur": "EQUITY"
 }
 },
+"ASELS.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "ASELSAN",
+"fk": 35.3,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 4.69,
+"piyasa_degeri": 1572060004352,
+"sektor": "Industrials",
+"temettu_%": 0.12,
+"tur": "EQUITY"
+}
+},
 "AVGO": {
 "tarih": "2026-11-13",
 "v": {
@@ -24,6 +52,20 @@
 "piyasa_degeri": 1739319803904,
 "sektor": "Technology",
 "temettu_%": 0.75,
+"tur": "EQUITY"
+}
+},
+"EREGL.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "EREGLI DEMIR CELIK",
+"fk": 23.4,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 0.67,
+"piyasa_degeri": 215503355904,
+"sektor": "Basic Materials",
+"temettu_%": 1.72,
 "tur": "EQUITY"
 }
 },
@@ -83,6 +125,20 @@
 "tur": "ETF"
 }
 },
+"THYAO.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "TURK HAVA YOLLARI",
+"fk": 4.4,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": 18.93,
+"piyasa_degeri": 437758394368,
+"sektor": "Industrials",
+"temettu_%": 0.0,
+"tur": "EQUITY"
+}
+},
 "XLE": {
 "tarih": "2026-11-13",
 "v": {
@@ -95,6 +151,20 @@
 "sektor": null,
 "temettu_%": 2.18,
 "tur": "ETF"
+}
+},
+"XU100.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "BIST 100",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": null,
+"piyasa_degeri": null,
+"sektor": null,
+"temettu_%": null,
+"tur": "INDEX"
 }
 }
 }
