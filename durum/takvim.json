@@ -12,8 +12,8 @@
   "neden": "Tüm zorunlu piyasalar ve ABD borsası açık; BTC teyidi ve QQQ durumu değerlendirilebilir."
  },
  "deepseek/orta_risksiz": {
-  "sonraki": "2026-11-13T18:00:00+03:00",
-  "neden": "ABD kısa vadeli Hazine ETF'i BIL'in dolar nakit getirisi ve TL karşısındaki değerini görmek için cuma günü piyasa açıkken kontrol."
+  "sonraki": "2026-11-16T17:45:00+03:00",
+  "neden": "TL kuru ve ABD piyasası aynı anda açıkken BIL ve kur riskini değerlendirmek için en uygun zaman."
  },
  "deepseek/kisa": {
   "sonraki": "2026-11-16T10:00:00+03:00",

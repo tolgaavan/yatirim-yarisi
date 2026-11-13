@@ -5,22 +5,22 @@
   "QQQ": {
    "adet": 0.08684725826190443,
    "maliyet_tl": 3006.0,
-   "son_fiyat_tl": 34471.938323419075
+   "son_fiyat_tl": 34293.5882950325
   },
   "BTC-USD": {
    "adet": 0.0002788162406925585,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 3476995.6294542253
+   "son_fiyat_tl": 3470529.791468054
   },
   "USDTRY=X": {
    "adet": 29.78445626718388,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 50.36259841918945
+   "son_fiyat_tl": 50.36249923706055
   },
   "XU030.IS": {
    "adet": 0.16799924190342092,
    "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 14874.08984375
+   "son_fiyat_tl": 14866.2099609375
   }
  },
  "odenen_komisyon_tl": 16.0
