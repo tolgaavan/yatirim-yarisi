@@ -69,6 +69,20 @@
 "tur": "EQUITY"
 }
 },
+"GARAN.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "GARANTI BANKASI",
+"fk": 5.2,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 1.24,
+"piyasa_degeri": 643860004864,
+"sektor": "Financial Services",
+"temettu_%": 3.45,
+"tur": "EQUITY"
+}
+},
 "NVDA": {
 "tarih": "2026-11-13",
 "v": {
@@ -151,6 +165,34 @@
 "sektor": null,
 "temettu_%": 2.18,
 "tur": "ETF"
+}
+},
+"XLU": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "State Street Utilities Select S",
+"fk": 18.0,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 0.68,
+"piyasa_degeri": 24252790784,
+"sektor": null,
+"temettu_%": 2.79,
+"tur": "ETF"
+}
+},
+"XU030.IS": {
+"tarih": "2026-11-13",
+"v": {
+"ad": "BIST 30",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": null,
+"piyasa_degeri": null,
+"sektor": null,
+"temettu_%": null,
+"tur": "INDEX"
 }
 },
 "XU100.IS": {
