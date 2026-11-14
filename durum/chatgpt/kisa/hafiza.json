@@ -1,24 +1,24 @@
 {
- "notlar": "CL=F denemesi teyit gelmeyince küçük zararla kapatıldı. SOL-USD 79.5 stopu kırınca disiplinle kapatıldı; ders: aşırı satım tek başına alım sebebi değil, relatif güç ve hacim şart. Şu an nakit korunuyor; amaç kaybı büyütmeden yalnız teyitli momentum almak.",
- "plan": "BTC 67.8-68.2k üstüne hacimle çıkar ve 15 dk RSI 50 üzerine yerleşirse en güçlü relatif coin'e sınırlı giriş bak. BTC 66.5k altına sarkarsa kriptoya girme. SOL ancak 76.8-77.5 üstünü hacimle geri alırsa değerlendir. BIST açılınca THYAO/TUPRS/ALARK/ASTOR sıfırdan test edilecek.",
- "sonraki_tura_mesaj": "Nakit pozisyon avantajdır; sadece BTC 67.8-68.2k üstü hacimli toparlanma ve altcoinde relatif güç varsa işlem aç, yoksa bekle. İntikam işlemi yapma.",
+ "notlar": "CL=F denemesi teyit gelmeyince küçük zararla kapatıldı. SOL-USD stop sonrası disiplinle kapatıldı; ders: aşırı satım tek başına alım sebebi değil, relatif güç ve hacim şart. Şu an nakit korunuyor; sıfırdan testte bu portföyü yine nakit kurardım çünkü BTC tetik seviyesinin altında ve altcoin hacmi zayıf.",
+ "plan": "BTC 67.8-68.2k üstüne hacimle çıkar, 15 dk RSI 50 üzerinde kalırsa ETH/BNB veya relatif güçlü coin'e %40-60 giriş bak. BTC 66.5k altına sarkarsa işlem yok. SOL ancak 76.8-77.5 üstünü hacimle geri alırsa yeniden değerlendir. Komisyonu telafi edecek net momentum olmadan işlem açma.",
+ "sonraki_tura_mesaj": "Nakit avantajdır; BTC 67.8-68.2k üstü hacimli kapanışlar ve 15 dk RSI>50 yoksa işlem açma. ETH güçlü kalsa bile BTC teyidi olmadan agresifleşme.",
  "izleme_listesi": [
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
+  "BNB-USD",
   "AVAX-USD",
   "LTC-USD",
   "LINK-USD",
-  "XRP-USD",
-  "BNB-USD"
+  "XRP-USD"
  ],
- "son_yorum": "Kriptoda satış baskısı sürüyor; günlük RSI'lar aşırı satımda olsa da 15 dk fiyatlar son saatte tekrar zayıfladı ve hacim teyidi yok. Aşırı satım tek başına alım sebebi değil.",
+ "son_yorum": "Kripto genelinde günlük RSI'lar aşırı satımda ama bu henüz dönüş teyidi değil; BTC yatay-düşük hacimli ve 67.8k altında, SOL/AVAX/LINK toparlanmaları zayıf hacimli. ETH göreceli en iyi görünse de BTC liderliği olmadan alım risk/ödül yeterli değil.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-14 13:15"
+  "Sonraki kontrol: 2026-11-14 16:30"
  ]
 }

@@ -80,10 +80,10 @@ Satışlar alışlardan önce yapılır. Türkçe yaz.
 
 -----
 
-ŞU AN: 14.11.2026 Cumartesi 10:45 (İstanbul saati). Portföyün başlangıcından bu yana 1 gün geçti.
+ŞU AN: 14.11.2026 Cumartesi 13:15 (İstanbul saati). Portföyün başlangıcından bu yana 1 gün geçti.
 
 === GEÇEN TURDAN KENDİNE MESAJ ===
-SOL kapandı; intikam işlemi yapma. Önce BTC 67.8-68.2k üstü hacimli toparlanma var mı bak. Güç yoksa nakit kal; AVAX/LTC ancak relatif güç + hacimle alınır.
+Nakit pozisyon avantajdır; sadece BTC 67.8-68.2k üstü hacimli toparlanma ve altcoinde relatif güç varsa işlem aç, yoksa bekle. İntikam işlemi yapma.
 
 === BAŞLANGIÇ KURGUN ===
 Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.
@@ -93,21 +93,20 @@ Portföy 10,000 TL -> 9,876 TL (-1.24%).
 Bu dönem kısa vadeli momentum aradım ama sonuç zayıf oldu: portföy 10,000.00 TL’den 9,875.89 TL’ye indi; değişim -124.11 TL (-1.24%). BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04% ve Dolar +0.22% karşısında geride kaldım; yalnız Bitcoin -3.84% olduğu için ondan iyi kaldım. Petrolde pozitif ayrışmayı doğru okudum ama hareket teyitlenmeyince zararı büyütmeden çıktım; bu risk yönetimi doğruydu. Hata, SOL-USD’de dip dönüşünü erken denemek ve kripto genelindeki zayıf risk iştahını yeterince ağır basmamak oldu. Şu an SOL-USD taşıyorum; gelecek hafta ilk önceliğim bu pozisyonun gerçekten güçlenip güçlenmediğini görmek, teyit yoksa inat etmeyip nakde dönmek olacak.
 
 === NOTLARIN ===
-CL=F denemesi teyit gelmeyince küçük zararla kapatıldı. SOL-USD 13.11'de dip dönüşü teziyle alındı ancak 79.5 stopu hafta sonu boşluğunda net kırıldı; 14.11'de disiplin gereği kapatıldı. Ders: aşırı satım tek başına alım sebebi değil, özellikle kriptoda relatif güç ve hacim teyidi şart. Kısa vadede az sayıda varlık, stopa uyum ve komisyon disiplinine devam.
+CL=F denemesi teyit gelmeyince küçük zararla kapatıldı. SOL-USD 79.5 stopu kırınca disiplinle kapatıldı; ders: aşırı satım tek başına alım sebebi değil, relatif güç ve hacim şart. Şu an nakit korunuyor; amaç kaybı büyütmeden yalnız teyitli momentum almak.
 
 === PLANIN ===
-Nakitte bekle. BTC 67.8-68.2k üzerine hacimli toparlanır ve 15 dk RSI güçlenirse en güçlü relatif coin'e bak: öncelik AVAX/LTC, SOL ancak 76.8-77.5 üstünü hacimle geri alırsa yeniden değerlendirilebilir. BTC 66.5k altına sarkarsa kriptoya yeni giriş yapma. BIST açıldığında THYAO/TUPRS/ALARK ve ASTOR'u yeniden sıfırdan test et.
+BTC 67.8-68.2k üstüne hacimle çıkar ve 15 dk RSI 50 üzerine yerleşirse en güçlü relatif coin'e sınırlı giriş bak. BTC 66.5k altına sarkarsa kriptoya girme. SOL ancak 76.8-77.5 üstünü hacimle geri alırsa değerlendir. BIST açılınca THYAO/TUPRS/ALARK/ASTOR sıfırdan test edilecek.
 
 === GEÇEN TURUN SONUÇLARI ===
-SATILDI: SOL-USD 1.48363 adet (%100), birim 3809.0802 TL, eline geçen 5639.97 TL, kâr/zarar -372.03 TL
-Sonraki kontrol: 2026-11-14 10:45
+Sonraki kontrol: 2026-11-14 13:15
 
 === PORTFÖY ===
 Toplam değer: 9,577.58 TL (başlangıç 10,000 TL, -4.22%)
 Nakit: 9,577.58 TL | Ödenen toplam komisyon: 55.27 TL
 
 === PORTFÖY DEĞERİ GEÇMİŞİ ===
-12.11 23:38=9,984, 13.11 00:15=9,992, 13.11 01:01=9,950, 13.11 10:01=9,938, 13.11 10:31=9,952, 13.11 11:01=9,898, 14.11 09:57=9,578
+12.11 23:38=9,984, 13.11 00:15=9,992, 13.11 01:01=9,950, 13.11 10:01=9,938, 13.11 10:31=9,952, 13.11 11:01=9,898, 14.11 09:57=9,578, 14.11 10:45=9,578
 
 === SON İŞLEMLERİN ===
 12.11 23:38 ALINDI: CL=F 1.78918 adet, birim 4471.3164 TL, tutar 8000.00 TL + komisyon 16.00 TL
@@ -116,74 +115,74 @@ Nakit: 9,577.58 TL | Ödenen toplam komisyon: 55.27 TL
 14.11 09:57 SATILDI: SOL-USD 1.48363 adet (%100), birim 3809.0802 TL, eline geçen 5639.97 TL, kâr/zarar -372.03 TL
 
 === KRIPTO (açık piyasalar) ===
-BTC-USD: 66988.9922 USD (= 3372540.7056 TL) | gün -1.85% hafta -10.95% ay -17.08% 3ay -13.31%
-ETH-USD: 1890.9600 USD (= 95199.8117 TL) | gün -1.90% hafta -11.28% ay -19.74% 3ay -25.14%
-SOL-USD: 75.0100 USD (= 3776.3560 TL) | gün -3.95% hafta -13.33% ay -26.66% 3ay -26.31%
-BNB-USD: 614.2900 USD (= 30926.2446 TL) | gün -2.41% hafta -10.98% ay -16.84% 3ay -15.56%
-XRP-USD: 0.9809 USD (= 49.3831 TL) | gün -2.83% hafta -10.58% ay -24.46% 3ay -28.22%
+BTC-USD: 67185.4688 USD (= 3382432.2591 TL) | gün -1.56% hafta -10.69% ay -16.84% 3ay -13.05%
+ETH-USD: 1905.4800 USD (= 95930.8177 TL) | gün -1.15% hafta -10.60% ay -19.12% 3ay -24.56%
+SOL-USD: 75.7000 USD (= 3811.0936 TL) | gün -3.07% hafta -12.54% ay -25.98% 3ay -25.63%
+BNB-USD: 617.0500 USD (= 31065.1964 TL) | gün -1.97% hafta -10.58% ay -16.47% 3ay -15.18%
+XRP-USD: 0.9886 USD (= 49.7708 TL) | gün -2.06% hafta -9.88% ay -23.86% 3ay -27.66%
 
 === PORTFÖYÜN VE İZLEME LİSTEN (açık piyasalar) ===
-AVAX-USD: 7.9820 USD (= 401.8514 TL) | gün -2.91% hafta -7.54% ay -11.18% 3ay +7.85%
-LTC-USD: 48.0660 USD (= 2419.8684 TL) | gün -2.55% hafta -6.30% ay -15.62% 3ay -10.39%
-LINK-USD: 9.5450 USD (= 480.5402 TL) | gün -2.91% hafta -10.25% ay -17.82% 3ay -17.03%
+AVAX-USD: 8.0260 USD (= 404.0666 TL) | gün -2.37% hafta -7.03% ay -10.69% 3ay +8.45%
+LTC-USD: 48.3360 USD (= 2433.4613 TL) | gün -2.00% hafta -5.78% ay -15.15% 3ay -9.89%
+LINK-USD: 9.6200 USD (= 484.3160 TL) | gün -2.15% hafta -9.55% ay -17.18% 3ay -16.38%
 
 === ANALİZ: PORTFÖYÜN VE İZLEME LİSTEN ===
 BTC-USD
-  teknik: RSI14 23 | 20 günlük ortalamaya göre -12.50% | 50 günlük ortalamaya göre -16.80% | 6 ay zirvesine -22.60%, dibine +14.40% | yıllık oynaklık %36
-  15dk son 4 saat: 66531.0 66791.0 67019.0 67015.0 67141.0 67052.0 66842.0 67162.0 67232.0 67294.0 67248.0 67307.0 67345.0 67187.0 66970.0 66989.0 | bugün açılış 67027.0, yüksek 67391.0, düşük 66748.0 | RSI(15dk) 40 | 15dk 20 çubuk ortalamasına göre -0.12% | son 1 saat hacmi normalin 1.0 katı
-  haber: [13.11 21:09] Bitcoin falls as Strategy faces MSCI index shake-up (Yahoo Finance Video)
-  haber: [13.11 20:00] MSCI Boots Strategy, and Trump picks his next crypto regulatory referees (Yahoo Finance Video)
+  teknik: RSI14 24 | 20 günlük ortalamaya göre -12.30% | 50 günlük ortalamaya göre -16.60% | 6 ay zirvesine -22.40%, dibine +14.70% | yıllık oynaklık %36
+  15dk son 4 saat: 67294.0 67248.0 67307.0 67345.0 67187.0 66970.0 67104.0 67214.0 67179.0 67076.0 66935.0 67131.0 67104.0 67104.0 67346.0 67185.0 | bugün açılış 67027.0, yüksek 67452.0, düşük 66748.0 | RSI(15dk) 48 | 15dk 20 çubuk ortalamasına göre +0.05% | son 1 saat hacmi normalin 1.1 katı
+  haber: [14.11 10:49] Twenty One Capital CEO Says ‘A Balance Sheet Is Not A Business’ After $1 Billion Bitcoin-Driven Gain (Stocktwits)
+  haber: [14.11 09:40] Strive CEO Says Bitcoin Could ‘Go To A Penny’ And The Company Would Still Survive Because It Has No Debt (Stocktwits)
 ETH-USD
-  teknik: RSI14 24 | 20 günlük ortalamaya göre -14.70% | 50 günlük ortalamaya göre -21.70% | 6 ay zirvesine -31.90%, dibine +20.80% | yıllık oynaklık %49
-  15dk son 4 saat: 1884.3 1891.1 1897.5 1897.1 1898.9 1899.3 1894.6 1904.1 1903.5 1905.8 1900.8 1903.3 1901.4 1895.9 1890.9 1891.0 | bugün açılış 1897.7, yüksek 1909.1, düşük 1889.1 | RSI(15dk) 39 | 15dk 20 çubuk ortalamasına göre -0.31% | son 1 saat hacmi normalin 0.5 katı
+  teknik: RSI14 24 | 20 günlük ortalamaya göre -14.00% | 50 günlük ortalamaya göre -21.10% | 6 ay zirvesine -31.40%, dibine +21.80% | yıllık oynaklık %49
+  15dk son 4 saat: 1905.8 1900.8 1903.3 1901.4 1895.9 1890.9 1896.4 1900.3 1903.3 1899.5 1893.2 1902.5 1903.2 1907.1 1911.6 1905.5 | bugün açılış 1897.7, yüksek 1915.6, düşük 1889.1 | RSI(15dk) 52 | 15dk 20 çubuk ortalamasına göre +0.23% | son 1 saat hacmi normalin 1.4 katı
   haber: [13.11 22:00] Sofi brings stablecoins to Polygon (Yahoo Finance Video)
   haber: [14.11 07:00] Should Ethereum Tax Its Apps to Prove Its Security Is Worth It? (Unchained)
 SOL-USD
-  teknik: RSI14 18 | 20 günlük ortalamaya göre -18.30% | 50 günlük ortalamaya göre -27.80% | 6 ay zirvesine -38.50%, dibine +20.60% | yıllık oynaklık %41
-  15dk son 4 saat: 75.21 75.33 75.52 75.48 75.49 75.49 75.63 75.92 75.83 75.65 75.4 75.65 75.45 75.38 75.01 75.01 | bugün açılış 75.48, yüksek 76.09, düşük 74.95 | RSI(15dk) 33 | 15dk 20 çubuk ortalamasına göre -0.60% | son 1 saat hacmi normalin 0.2 katı
-  haber: [13.11 20:00] MSCI Boots Strategy, and Trump picks his next crypto regulatory referees (Yahoo Finance Video)
+  teknik: RSI14 18 | 20 günlük ortalamaya göre -17.50% | 50 günlük ortalamaya göre -27.10% | 6 ay zirvesine -38.00%, dibine +21.70% | yıllık oynaklık %41
+  15dk son 4 saat: 75.65 75.4 75.65 75.45 75.38 75.01 75.18 75.32 75.43 75.28 75.18 75.54 75.64 75.63 75.86 75.7 | bugün açılış 75.48, yüksek 76.15, düşük 74.94 | RSI(15dk) 49 | 15dk 20 çubuk ortalamasına göre +0.25% | son 1 saat hacmi normalin 0.2 katı
   haber: [14.11 01:00] DeFi Technologies Inc. Q3 2026 Earnings Call Summary (Moby)
+  haber: [13.11 22:54] Akash Opens One-Way AKT Migration to Solana (Bankless)
 AVAX-USD
-  teknik: RSI14 39 | 20 günlük ortalamaya göre -6.20% | 50 günlük ortalamaya göre -17.10% | 6 ay zirvesine -31.30%, dibine +35.20% | yıllık oynaklık %59
-  15dk son 4 saat: 8.041 8.088 8.116 8.096 8.088 8.083 8.057 8.108 8.1 8.121 8.088 8.094 8.045 8.0 7.986 7.982 | bugün açılış 8.103, yüksek 8.132, düşük 7.956 | RSI(15dk) 33 | 15dk 20 çubuk ortalamasına göre -1.11% | son 1 saat hacmi normalin 0.9 katı
+  teknik: RSI14 39 | 20 günlük ortalamaya göre -5.70% | 50 günlük ortalamaya göre -16.60% | 6 ay zirvesine -31.00%, dibine +35.90% | yıllık oynaklık %59
+  15dk son 4 saat: 8.121 8.088 8.094 8.045 8.0 7.986 7.998 8.039 8.032 8.019 8.014 8.04 8.036 8.028 8.048 8.026 | bugün açılış 8.103, yüksek 8.132, düşük 7.956 | RSI(15dk) 43 | 15dk 20 çubuk ortalamasına göre -0.27% | son 1 saat hacmi normalin 0.3 katı
   haber: [12.11 17:19] Bitcoin Gained 7% in September, but NEAR and Arbitrum Reportedly Surged 187% and 137% (24/7 Wall St.)
   haber: [11.11 23:58] Sam Altman’s ChatGPT AI Predicts a Post New York Stock Exchange Parabolic Rally for AVAX (99bitcoins)
 LTC-USD
-  teknik: RSI14 30 | 20 günlük ortalamaya göre -10.50% | 50 günlük ortalamaya göre -20.10% | 6 ay zirvesine -33.80%, dibine +17.70% | yıllık oynaklık %50
-  15dk son 4 saat: 48.289 48.481 48.684 48.71 48.786 48.815 48.765 48.942 48.94 48.904 48.56 48.516 48.366 48.236 48.066 48.066 | bugün açılış 48.718, yüksek 49.06, düşük 47.962 | RSI(15dk) 31 | 15dk 20 çubuk ortalamasına göre -1.09% | son 1 saat hacmi normalin 0.8 katı
+  teknik: RSI14 31 | 20 günlük ortalamaya göre -10.00% | 50 günlük ortalamaya göre -19.60% | 6 ay zirvesine -33.50%, dibine +18.30% | yıllık oynaklık %50
+  15dk son 4 saat: 48.904 48.56 48.516 48.366 48.236 48.066 48.2 48.237 48.186 48.162 48.038 48.149 48.133 48.219 48.469 48.336 | bugün açılış 48.718, yüksek 49.06, düşük 47.962 | RSI(15dk) 46 | 15dk 20 çubuk ortalamasına göre -0.16% | son 1 saat hacmi normalin 0.4 katı
   haber: [12.11 17:19] Bitcoin Gained 7% in September, but NEAR and Arbitrum Reportedly Surged 187% and 137% (24/7 Wall St.)
 LINK-USD
-  teknik: RSI14 31 | 20 günlük ortalamaya göre -12.70% | 50 günlük ortalamaya göre -22.20% | 6 ay zirvesine -38.20%, dibine +32.80% | yıllık oynaklık %62
-  15dk son 4 saat: 9.551 9.59 9.625 9.616 9.626 9.644 9.636 9.674 9.696 9.696 9.63 9.634 9.6 9.589 9.541 9.545 | bugün açılış 9.616, yüksek 9.715, düşük 9.515 | RSI(15dk) 34 | 15dk 20 çubuk ortalamasına göre -0.76% | son 1 saat hacmi normalin 0.4 katı
+  teknik: RSI14 31 | 20 günlük ortalamaya göre -12.00% | 50 günlük ortalamaya göre -21.60% | 6 ay zirvesine -37.70%, dibine +33.80% | yıllık oynaklık %62
+  15dk son 4 saat: 9.696 9.63 9.634 9.6 9.589 9.541 9.564 9.566 9.577 9.57 9.559 9.603 9.606 9.6 9.642 9.62 | bugün açılış 9.616, yüksek 9.715, düşük 9.515 | RSI(15dk) 48 | 15dk 20 çubuk ortalamasına göre +0.08% | son 1 saat hacmi normalin 0.1 katı
   haber: [12.11 17:19] Bitcoin Gained 7% in September, but NEAR and Arbitrum Reportedly Surged 187% and 137% (24/7 Wall St.)
   haber: [11.11 18:17] What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink? (Simply Wall St.)
 XRP-USD
-  teknik: RSI14 19 | 20 günlük ortalamaya göre -18.20% | 50 günlük ortalamaya göre -26.00% | 6 ay zirvesine -37.60%, dibine +0.00% | yıllık oynaklık %44
-  15dk son 4 saat: 0.9889 0.9913 0.9937 0.9951 0.9963 0.9958 0.9923 0.996 0.9968 0.997 0.993 0.9933 0.9908 0.9846 0.9796 0.9809 | bugün açılış 0.9954, yüksek 0.9991, düşük 0.9793 | RSI(15dk) 32 | 15dk 20 çubuk ortalamasına göre -1.15% | son 1 saat hacmi normalin 1.2 katı
+  teknik: RSI14 20 | 20 günlük ortalamaya göre -17.60% | 50 günlük ortalamaya göre -25.40% | 6 ay zirvesine -37.10%, dibine +0.00% | yıllık oynaklık %44
+  15dk son 4 saat: 0.997 0.993 0.9933 0.9908 0.9846 0.9796 0.9819 0.9848 0.9847 0.9849 0.9827 0.9868 0.9879 0.9884 0.9904 0.9886 | bugün açılış 0.9954, yüksek 0.9991, düşük 0.9793 | RSI(15dk) 46 | 15dk 20 çubuk ortalamasına göre -0.04% | son 1 saat hacmi normalin 0.6 katı
   haber: [14.11 03:22] What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? (24/7 Wall St.)
   haber: [14.11 02:19] XRP Price Faces a Potential 20% Drop: Key Levels to Watch (BeInCrypto)
 BNB-USD
-  teknik: RSI14 25 | 20 günlük ortalamaya göre -12.30% | 50 günlük ortalamaya göre -16.00% | 6 ay zirvesine -23.10%, dibine +12.60% | yıllık oynaklık %41
-  15dk son 4 saat: 612.69 613.8 616.11 615.98 618.7 618.6 617.08 620.27 619.7 620.07 617.44 618.51 618.41 616.55 614.21 614.29 | bugün açılış 616.68, yüksek 621.61, düşük 613.81 | RSI(15dk) 36 | 15dk 20 çubuk ortalamasına göre -0.51% | son 1 saat hacmi normalin 0.1 katı
+  teknik: RSI14 25 | 20 günlük ortalamaya göre -11.90% | 50 günlük ortalamaya göre -15.70% | 6 ay zirvesine -22.80%, dibine +13.10% | yıllık oynaklık %41
+  15dk son 4 saat: 620.07 617.44 618.51 618.41 616.55 614.21 615.58 615.96 616.01 614.99 613.92 615.63 615.85 616.11 618.8 617.05 | bugün açılış 616.68, yüksek 621.61, düşük 613.26 | RSI(15dk) 47 | 15dk 20 çubuk ortalamasına göre +0.00% | son 1 saat hacmi normalin 0.5 katı
   haber: [13.11 15:00] Which Coin Led Crypto Each Quarter Since 2025? Grayscale Has the Answer (BeInCrypto)
   haber: [12.11 17:19] Bitcoin Gained 7% in September, but NEAR and Arbitrum Reportedly Surged 187% and 137% (24/7 Wall St.)
 
 === FIRSAT TABLOSU: günün öne çıkanları (açık piyasalar) ===
 Kripto:
-  günün en iyileri: BTC-USD gün -1.85% hafta -10.95% ay -17.08% RSI 23; ETH-USD gün -1.90% hafta -11.28% ay -19.74% RSI 24; BNB-USD gün -2.41% hafta -10.98% ay -16.84% RSI 25; LTC-USD gün -2.55% hafta -6.30% ay -15.62% RSI 30
-  günün en kötüleri: DOT-USD gün -4.30% hafta -8.50% ay -25.43% RSI 24; SOL-USD gün -3.95% hafta -13.33% ay -26.66% RSI 18; ADA-USD gün -3.46% hafta -8.28% ay -21.91% RSI 26; DOGE-USD gün -2.98% hafta -10.60% ay -19.47% RSI 24
+  günün en iyileri: ETH-USD gün -1.15% hafta -10.60% ay -19.12% RSI 24; BTC-USD gün -1.56% hafta -10.69% ay -16.84% RSI 24; BNB-USD gün -1.97% hafta -10.58% ay -16.47% RSI 25; LTC-USD gün -2.00% hafta -5.78% ay -15.15% RSI 31
+  günün en kötüleri: DOT-USD gün -3.75% hafta -7.97% ay -25.00% RSI 24; SOL-USD gün -3.07% hafta -12.54% ay -25.98% RSI 18; ADA-USD gün -2.67% hafta -7.53% ay -21.27% RSI 26; AVAX-USD gün -2.37% hafta -7.03% ay -10.69% RSI 39
 
 === HABER BAŞLIKLARI ===
 ABD ve dünya piyasaları:
   [13.11 21:56] Goldman Sachs sees upside for S&P 500 in 2027 — even as earnings growth slows (Yahoo Finance)
-  [13.11 18:46] Goldman Sachs sees S&P 500 surging 14% to 8,700 in 2027 (Yahoo Finance Video)
-  [14.11 04:20] Is There Any Reason To Invest In Edwards Lifesciences Stock? (Trefis)
-  [14.11 04:13] Cathie Wood buys $15 million of popular AI stock (TheStreet)
+  [14.11 12:30] Prediction: Nov. 18 Will Be a Massive Day for the Stock Market (Motley Fool)
+  [14.11 12:26] New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market (Motley Fool)
+  [14.11 12:04] ‘65% of the S&P Is Basically AI’: Eisman’s Warning as Ramsey Tells Disabled Veteran His $500,000 Is ‘Safe’ (24/7 Wall St.)
 Borsa İstanbul:
-  [14.11 09:58] BIST 100’de haftanın kazanan ve kaybeden hisseleri belli oldu (Hey Haber)
-  [14.11 09:30] Borsada bir haftada kim kazandırdı, kim kaybettirdi? (Ekonomim)
-  [14.11 08:03] Borsa İstanbul'da özel emir mesaisi: 8 hissede 419,5 milyon TL'lik işlem (YatırımX)
-  [14.11 07:56] Haftanın en çok kazandıranı borsa oldu, kaybettireni gram altın: BIST 100 yüzde 3,14 yükseldi (Yeniçağ Gazetesi)
+  [14.11 11:47] BIST 100'de Haftalık Tablo Netleşti: İşte Haftanın En Çok Yükselen ve Düşen Hisseleri (Para Analiz)
+  [14.11 11:34] Borsa İstanbul'da haftalık borsa performansları açıklandı (Yorumla)
+  [14.11 11:22] Borsada haftalık performans netleşti: İşte en çok kazandıran ve kaybettiren 5 hisse (Ekonomist)
+  [14.11 11:19] BIST 100'de haftanın kazandıran ve kaybettiren hisseleri belli oldu! haberi (Borsanın Gündemi)
 Türkiye ekonomisi:
   [13.11 20:22] Üç küresel bankadan faiz, enflasyon ve kur tahmini (Gazete Memur)
   [13.11 20:22] Bankalar Türkiye için faiz ve kur tahminlerini açıkladı (Ege Alternatif)
