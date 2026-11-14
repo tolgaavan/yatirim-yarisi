@@ -1,25 +1,27 @@
 {
- "notlar": "CL=F denemesi teyit gelmeyince küçük zararla kapatıldı. SOL-USD stop sonrası disiplinle kapatıldı; ders: aşırı satım tek başına alım sebebi değil, relatif güç ve hacim şart. Şu an nakit korunuyor; sıfırdan testte bu portföyü yine nakit kurardım çünkü BTC 67.8-68.2k tetik bandının altında, 15 dk RSI zayıf ve altcoinlerde hacimli dönüş yok.",
- "plan": "BTC 67.8-68.2k üstüne hacimle çıkar ve 15 dk RSI 50 üzerinde kalırsa ETH/BNB veya relatif güçlü coin'e %40-60 giriş bak. BTC 66.5k altında kalırsa işlem yok; 65.8k altı yeni panik dalgası sayılır. SOL ancak 76.8-77.5 üstünü hacimle geri alırsa değerlendir.",
- "sonraki_tura_mesaj": "Nakit avantajdır; BTC 67.8-68.2k üstü hacimli kapanışlar ve 15 dk RSI>50 yoksa işlem açma. Aşırı satım tuzağına düşme; önce liderlik ve hacim teyidi iste.",
+ "notlar": "CL=F denemesi teyit gelmeyince küçük zararla kapatıldı. SOL-USD stop sonrası disiplinle kapatıldı; ders: aşırı satım tek başına alım sebebi değil, relatif güç ve hacim şart. Şu an nakit korunuyor; sıfırdan testte bu portföyü yine nakit kurardım çünkü BTC 67.8-68.2k tetik bandının altında, 15 dk RSI 50 altında ve altcoinlerde dönüş yerine zayıf tepki var.",
+ "plan": "BTC 67.8-68.2k üstüne hacimle çıkar ve 15 dk RSI 50 üzerinde kalırsa ETH/BNB veya relatif güçlü coin'e %40-60 giriş bak. BTC 66.5k altında kalırsa işlem yok; 65k altı kapanış yeni satış dalgası sayılır. SOL ancak 76.8-77.5 üstünü hacimle geri alırsa değerlendir.",
+ "sonraki_tura_mesaj": "Nakit pozisyonu koru; BTC 67.8-68.2k üstü hacimli kırılım ve 15 dk RSI>50 yoksa işlem açma. Aşırı satım tek başına alım sebebi değil; önce liderlik, hacim ve higher-low teyidi iste.",
  "izleme_listesi": [
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
   "BNB-USD",
+  "XRP-USD",
   "AVAX-USD",
   "LTC-USD",
   "LINK-USD",
-  "XRP-USD",
-  "DOGE-USD"
+  "DOGE-USD",
+  "ADA-USD",
+  "DOT-USD"
  ],
- "son_yorum": "Kripto piyasasında tepki alımı değil, kontrollü çözülme görüntüsü var: BTC gün içi dibine yakın, 15 dk RSI 29 ve hacim normalin altında. Altcoinlerde aşırı satım var ama liderlik yok; BNB/LTC hacimli düşüyor, bu da henüz dip teyidi vermiyor.",
+ "son_yorum": "Kripto genelinde günlük RSI’lar aşırı satımda ancak 15 dk RSI’lar hâlâ 50 altında; son 1 saat hacim artışı daha çok panik/tepki karışımı görünüyor. BTC 65k civarından sekmiş olsa da 67.8-68.2k bölgesi geri alınmadan risk iştahı teyitli değil.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-14 20:30"
+  "Sonraki kontrol: 2026-11-15 09:30"
  ]
 }
