@@ -1,12 +1,6 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 3937.6117878479963,
- "pozisyonlar": {
-  "SOL-USD": {
-   "adet": 1.4836307159269766,
-   "maliyet_tl": 6012.0,
-   "son_fiyat_tl": 3795.9904462351988
-  }
- },
- "odenen_komisyon_tl": 43.96314987544689
+ "nakit_tl": 9577.577599317818,
+ "pozisyonlar": {},
+ "odenen_komisyon_tl": 55.2656865717792
 }

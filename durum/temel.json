@@ -1,15 +1,29 @@
 {
 "AKBNK.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-14",
 "v": {
 "ad": "AKBANK",
 "fk": 5.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 1.11,
-"piyasa_degeri": 364519981056,
+"piyasa_degeri": 363739971584,
 "sektor": "Financial Services",
-"temettu_%": 3.14,
+"temettu_%": 3.15,
+"tur": "EQUITY"
+}
+},
+"ALARK.IS": {
+"tarih": "2026-11-14",
+"v": {
+"ad": "ALARKO HOLDING",
+"fk": 7.2,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 0.6,
+"piyasa_degeri": 45443076096,
+"sektor": "Industrials",
+"temettu_%": 3.08,
 "tur": "EQUITY"
 }
 },
@@ -28,30 +42,30 @@
 }
 },
 "ASELS.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-14",
 "v": {
 "ad": "ASELSAN",
-"fk": 35.3,
+"fk": 35.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 4.69,
-"piyasa_degeri": 1572060004352,
+"pddd": 4.7,
+"piyasa_degeri": 1575479934976,
 "sektor": "Industrials",
 "temettu_%": 0.12,
 "tur": "EQUITY"
 }
 },
 "ASTOR.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-14",
 "v": {
 "ad": "ASTOR ENERJI",
-"fk": 18.2,
+"fk": 15.9,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 4.17,
-"piyasa_degeri": 170258808832,
+"pddd": 4.0,
+"piyasa_degeri": 163472408576,
 "sektor": "Industrials",
-"temettu_%": 1.24,
+"temettu_%": 1.34,
 "tur": "EQUITY"
 }
 },
@@ -84,16 +98,16 @@
 }
 },
 "EREGL.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-14",
 "v": {
 "ad": "EREGLI DEMIR CELIK",
-"fk": 23.4,
+"fk": 23.5,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.67,
-"piyasa_degeri": 215503355904,
+"pddd": 0.68,
+"piyasa_degeri": 219805351936,
 "sektor": "Basic Materials",
-"temettu_%": 1.72,
+"temettu_%": 1.68,
 "tur": "EQUITY"
 }
 },
@@ -280,14 +294,14 @@
 }
 },
 "THYAO.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-14",
 "v": {
 "ad": "TURK HAVA YOLLARI",
 "fk": 4.4,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 18.93,
-"piyasa_degeri": 437758394368,
+"pddd": 19.01,
+"piyasa_degeri": 439473766400,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -322,16 +336,16 @@
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-14",
 "v": {
 "ad": "TUPRAS",
 "fk": 5.4,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.33,
-"piyasa_degeri": 697500041216,
+"pddd": 1.32,
+"piyasa_degeri": 691719634944,
 "sektor": "Energy",
-"temettu_%": 3.78,
+"temettu_%": 3.76,
 "tur": "EQUITY"
 }
 },
@@ -392,7 +406,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-14",
 "v": {
 "ad": "BIST 100",
 "fk": null,
