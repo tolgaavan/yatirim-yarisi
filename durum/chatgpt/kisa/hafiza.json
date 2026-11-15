@@ -1,7 +1,7 @@
 {
- "notlar": "CL=F ve SOL denemelerinde erken tepki alımının maliyeti görüldü; artık aşırı satımı tek başına alım sebebi sayma. Şu an nakit korunuyor. Sıfırdan test: elimde nakit olsa yine nakit kalırdım; BTC 67.8-68.2k kırılım şartı çalışmadı, 65k altı zayıflık sürüyor.",
- "plan": "BTC 65k üstünü geri alıp 15 dk RSI>55 ve hacim normalin >1.5 katı ile higher-low yaparsa en güçlü relatif coin'e %30-40 deneme. 64k altında yeni dip veya hacimli satışta işlem yok. SOL ancak 72.5 ve sonra 76.8 üstü teyitle izlenir.",
- "sonraki_tura_mesaj": "Nakit avantajını koru; BTC 65k üstünü geri alıp higher-low ve hacim teyidi vermedikçe tepki alımı yapma. En güçlü adayları BNB/AVAX/LINK olarak karşılaştır, ama hacimsiz yeşile atlama.",
+ "notlar": "CL=F ve SOL denemelerinde erken tepki alımının maliyeti görüldü; aşırı satımı tek başına alım sebebi sayma. Şu an nakit korunuyor. Sıfırdan test: elimde nakit olsa yine nakit kalırdım; BTC 65k altındayken ve son 1 saat hacimleri zayıfken altcoin yeşili güvenilir değil. Yeni pozisyon ancak BTC liderliğinde 15dk yapı yukarı dönerse açılacak.",
+ "plan": "BTC 65k üstüne çıkıp orada tutunur, 15dk RSI>55 olur ve son 1 saat hacmi normalin >1.5 katına yükselirse en güçlü relatif coin'e %30-40 deneme yap. Aday sıralaması: LINK/AVAX/BNB; XRP yalnız hacimle gün içi yüksek kırarsa. BTC 63.7k altına sarkarsa işlem yok, 62k-60k panik satışını bekle.",
+ "sonraki_tura_mesaj": "Nakit pozisyonu savun: BTC 65k üstüne hacimli dönmeden işlem açma. LINK/AVAX/BNB relatif güçte mi bak; XRP yeşil ama hacimsizse kovalamama.",
  "izleme_listesi": [
   "BTC-USD",
   "ETH-USD",
@@ -12,15 +12,16 @@
   "LINK-USD",
   "LTC-USD",
   "ADA-USD",
-  "DOT-USD"
+  "DOT-USD",
+  "DOGE-USD"
  ],
- "son_yorum": "Pazar sabahı yalnız kripto açık; BTC 65 bin altında, günlük/haftalık momentum sert negatif ve haber akışı ETF çıkışı-likidasyon baskısını işaret ediyor. 15 dk RSI nötrleşse de bu henüz dönüş değil, düşüş sonrası yataylama.",
+ "son_yorum": "Kripto genelinde günlük RSI'lar aşırı satımda fakat 15 dakikalık yapı hâlâ zayıf; BTC gün içi dipten sınırlı tepki veriyor ama 65 bin altı risk iştahı kırılgan. XRP ve LINK görece iyi görünse de hacim düşük, bu nedenle tepki alımı için teyit yetersiz.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-15 11:00"
+  "Sonraki kontrol: 2026-11-15 14:01"
  ]
 }
