@@ -1,7 +1,7 @@
 {
- "notlar": "CL=F ve SOL denemelerinde erken tepki alımının maliyeti görüldü; aşırı satımı tek başına alım sebebi sayma. Şu an nakit korunuyor. Sıfırdan test: elimde nakit olsa yine nakit kalırdım; BTC 65k üstüne çıksa da hacim 0.9x, altcoinlerde 0.1-0.6x aralığında ve güvenilir kırılım yok. Yeni pozisyon ancak BTC liderliğinde hacimli teyitle açılacak.",
- "plan": "BTC 65k üstünde kalır, gün içi 66k/66.5k bölgesini hacimle zorlar, 15dk RSI>55 ve son 1 saat hacmi >1.5x olursa en güçlü relatif coin'e %30-40 deneme yap. Aday: LINK/ADA/LTC; XRP yalnız gün içi yüksek 0.975 üstünü hacimle kırarsa. BTC 65k altına dönerse işlem yok; 63.7k altı yeniden riskten kaç.",
- "sonraki_tura_mesaj": "Nakit disiplini bozulmasın: BTC 65k üstünde kalıcı mı ve hacim >1.5x mi önce buna bak. Hacimsiz altcoin yeşilini kovalama; kırılım yoksa komisyon harcama.",
+ "notlar": "CL=F ve SOL denemelerinde erken tepki alımının maliyeti görüldü; aşırı satımı tek başına alım sebebi sayma. Şu an nakit korunuyor. Sıfırdan test: elimde nakit olsa yine nakit kalırdım; BTC 65k üstünde ama 66k üstü kalıcılık ve hacim yok, altcoin rallisi düşük hacimli. Yeni pozisyon ancak BTC liderliğinde hacimli teyitle açılacak.",
+ "plan": "BTC 66k/66.5k üstünü hacimle kırar, 15dk RSI>55 kalır ve son 1 saat hacmi >1.5x olursa en güçlü relatif coin'e %30-40 deneme yap. Aday: LINK veya XRP; XRP yalnız 0.978 üstü kalıcı kırılımda. BTC 65k altına dönerse işlem yok; 63.7k altı yeniden sert riskten kaç.",
+ "sonraki_tura_mesaj": "Nakit disiplini korunacak: BTC 66k/66.5k üstünde hacimli mi, yoksa Pazar likiditesiyle sönüyor mu bak. Hacim >1.5x olmadan altcoin yeşilini kovalama.",
  "izleme_listesi": [
   "BTC-USD",
   "ETH-USD",
@@ -15,13 +15,13 @@
   "LTC-USD",
   "DOGE-USD"
  ],
- "son_yorum": "Kriptoda günlük tepki var ama haftalık/aylık trend hâlâ sert negatif; BTC 65k üstünde, 15dk RSI toparlanmış fakat son 1 saat hacmi normalin altında. Altcoinlerde yeşil hareket geniş tabanlı ama hacimsiz olduğu için kısa vadeli dönüşten çok ayı piyasası tepkisi izlenimi veriyor.",
+ "son_yorum": "Kriptoda tepki alımı var; XRP, ADA ve LINK göreli güçlü ancak son 1 saat hacimleri zayıf. BTC 66 bin denemesinden geri çekilmiş, 15dk RSI nötr-pozitif ama hacim 0.5x ile kırılım teyidi vermiyor. Pazar likiditesinde hacimsiz yeşil mumlara atlamak komisyon ve ters dönüş riski yaratır.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-15 16:31"
+  "Sonraki kontrol: 2026-11-15 20:30"
  ]
 }
