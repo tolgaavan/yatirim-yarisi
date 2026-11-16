@@ -1,17 +1,17 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL nakit. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş, zarar-kes %3-4, hedef %4-6, gidiş-dönüş komisyon %0,4. 13.11 kapanışa doğru durum: BIST 100 11.889 (gün zirvesi 11.936), XU030 14.916, hacim zayıf. THYAO 322,75 (zirve 323,5), RSI 72, 20 günlük ortalamanın %16 üstünde; BofA iki günde 2,4 milyar TL aldı. PGSUS RSI 71, aşırı uzamış. TTKOM gün +%2,5, göreli güçlü. ASELS 3. çeyrek bilançosu sonrası hacim normalin 1,4 katı, F/K 35 pahalı. Makro: dolar endeksi 19 ayın zirvesinde; BTC 69 bin dolar, RSI 26; altın 3.896 dolar, 6 ay dibinde. TCMB anketi aralık indirimine olumsuz. Dolar tutmak haftalık ~%0,4 getirir, bu da gidiş-dönüş komisyonu kadar; değmez. ASTOR ve SAHOL'u MSCI çıkarıyor, uzak dur.",
- "plan": "Pazartesi 10:45'te açılış yönüne ve hacme bak. BIST 100 11.900 üstünde tutunur ve hacim normalin en az 1 katıysa XU030'a %50 ile gir. THYAO 316-318'e geri çekilip tutunursa ya da 323,5'i normalin en az 1 katı hacimle kırarsa %50 ile gir, zarar-kes 309. TTKOM 52,15 üstünü hacimle kırarsa ikinci aday, zarar-kes 50. Kriptoda RSI dönüşü ve 70 bin dolar üstünde kapanış görmeden alma.",
- "sonraki_tura_mesaj": "Hafta sonunu nakitte geçirdik. Pazartesi 10:45'te önce açılış boşluğuna ve hacme bak (BIST verisi 15 dakika gecikmeli). Giriş için hacim normalin en az 1 katı olmalı. THYAO'da 316-318'e geri çekilme ya da 323,5'in hacimli kırılımı, TTKOM'da 52,15'in kırılımı giriş sebebidir. Hacimsiz yükselişe girme.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL nakit. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş. Zarar-kes %3-4, hedef %4-6, gidiş-dönüş komisyonu %0,4. 16.11 10:45: BIST 100 11.772 (açılış 11.843, dip 11.736), XU030 14.736. THYAO 320,75, gün aralığı 318,5-322,75, hacim 0,9x. PGSUS 156,1 (gün zirvesi 157,8, dibi 154): İş Yatırım AL'a yükseltip hedefini artırdı, hacim 1,1x, RSI 69, 20 günlük ortalamanın %16 üstünde. TTKOM 50,95, 52,15'in altında. Bankalarda hacimli satış var (GARAN 149,1, dip 148,7). Makro: dolar endeksi güçlü, BTC 64,8 bin dolar (RSI 24), altın 3.862 dolarla 6 ay dibinde. Bu hafta Nvidia bilançosu ve Anthropic halka arzı teknoloji riskini artırıyor. Dolar haftada ~%0,4 getiriyor; ancak 1 haftadan uzun nakitte kalacaksam değer. ASTOR ve SAHOL'u MSCI çıkarıyor, uzak dur.",
+ "plan": "12:30 kontrolü: PGSUS 157,8'i normalin en az 1,2 katı hacimle kırarsa %50 ile gir, zarar-kes 152,5, hedef 164. THYAO 316-318'e çekilip tutunursa ya da 323,5'i en az 1x hacimle kırarsa %50 ile gir, zarar-kes 309. BIST 100 11.850'yi geri alır ve 15dk RSI 50'yi aşarsa XU030 ya da GARAN'da dönüş denemesi yap (GARAN zarar-kes 146). Endeks 11.700'ün altına inerse bugün alım yok. Hafta boyu sinyal çıkmazsa cuma dolara park etmeyi değerlendir.",
+ "sonraki_tura_mesaj": "12:30'da önce BIST 100'ün 11.736 dibini koruyup korumadığına bak. PGSUS'ta 157,8'in hacimli kırılımı (en az 1,2x) ilk giriş adayıdır, zarar-kes 152,5. THYAO'da 316-318 desteği ya da 323,5 kırılımı geçerli. Bankalarda 15dk RSI 24 aşırı satım var; dönüşü endeksin 11.850 üstüne çıkması teyit etmeden alma.",
  "izleme_listesi": [
   "XU100.IS",
   "XU030.IS",
   "THYAO.IS",
   "PGSUS.IS",
   "TTKOM.IS",
-  "ASELS.IS",
   "GARAN.IS",
   "AKBNK.IS",
   "ISCTR.IS",
+  "ASELS.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
@@ -19,13 +19,13 @@
   "SPY",
   "NVDA"
  ],
- "son_yorum": "BIST günü %0,7 artıda geçiriyor ama 11.936 zirvesinden geri çekildi ve hacim zayıf; VİOP akşam seansına satışla başladı. Dolar endeksi 19 ayın zirvesinde, bu da kripto ve altını baskılıyor. TCMB anketinde enflasyon beklentisi %30'un, dolar beklentisi 60 TL'nin üstünde. Hacimsiz bir yükselişe cuma kapanışında girmek, hafta sonu riskini karşılığı olmadan almak olur.",
+ "son_yorum": "BIST 100 11.772'de, 11.900 hedefinden uzak. 15 dakikalık RSI 37, yani satış baskısı sürüyor. Bankalar hacimli satılıyor: GARAN normalin 1,4 katı hacimle düşerken 15dk RSI 24. Asya, Nvidia bilançosu öncesi çipçilerle birlikte düştü. Kriptoda ETF çıkışları sürüyor, BTC 65 bin doların altında. Göreli güç yalnızca PGSUS'ta var: İş Yatırım AL'a yükseltti, endeks düşerken hisse +%0,5. Ancak 157,8'den geri döndü ve aşırı uzamış durumda.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 10:45"
+  "Sonraki kontrol: 2026-11-16 12:30"
  ]
 }

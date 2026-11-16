@@ -154,16 +154,16 @@
 }
 },
 "ISCTR.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-16",
 "v": {
 "ad": "IS BANKASI (C)",
-"fk": 5.3,
+"fk": 5.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.74,
-"piyasa_degeri": 340750008320,
+"pddd": 0.73,
+"piyasa_degeri": 333999996928,
 "sektor": "Financial Services",
-"temettu_%": 3.96,
+"temettu_%": 3.98,
 "tur": "EQUITY"
 }
 },
@@ -196,28 +196,28 @@
 }
 },
 "NVDA": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-16",
 "v": {
 "ad": "NVIDIA Corporation",
-"fk": 21.0,
+"fk": 20.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 17.53,
-"piyasa_degeri": 4012989743104,
+"pddd": 17.17,
+"piyasa_degeri": 3932339044352,
 "sektor": "Technology",
-"temettu_%": 0.58,
+"temettu_%": 0.61,
 "tur": "EQUITY"
 }
 },
 "PGSUS.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-16",
 "v": {
 "ad": "PEGASUS",
-"fk": 461.2,
+"fk": 459.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 0.59,
-"piyasa_degeri": 78400004096,
+"piyasa_degeri": 78050000896,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -294,10 +294,10 @@
 }
 },
 "SPY": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-16",
 "v": {
 "ad": "State Street SPDR S&P 500 ETF T",
-"fk": 24.1,
+"fk": 24.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
 "pddd": 1.76,
@@ -336,14 +336,14 @@
 }
 },
 "TTKOM.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-16",
 "v": {
 "ad": "TURK TELEKOM",
-"fk": 6.6,
+"fk": 6.5,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.63,
-"piyasa_degeri": 181475000320,
+"pddd": 0.62,
+"piyasa_degeri": 178324996096,
 "sektor": "Communication Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -406,7 +406,7 @@
 }
 },
 "XU030.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-16",
 "v": {
 "ad": "BIST 30",
 "fk": null,

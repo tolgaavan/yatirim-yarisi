@@ -1,14 +1,13 @@
 {
- "notlar": "Nakit korunuyor. Önceki zararların ana dersi: aşırı satım tek başına işlem sebebi değil; hacim ve liderlik teyidi şart. BTC 66k/66.5k üstü kalıcı kırılmadan altcoin alımı yapılmayacak. Zayıf hacimli tepki mumları kovalanmayacak. Kısa vadede tek/iki varlıkta yoğunlaş; işlem yoksa nakit en iyi savunmadır.",
- "plan": "10:45 civarı BIST’te ilk açılış gürültüsü geçince bankalar/havacılık/sanayi liderliğine bak. Hacimli relatif güç varsa tek hissede %35-50 deneme; endeks zayıfsa alma. Kriptoda BTC 65k üstüne toparlanıp 66k/66.5k bölgesine hacimli yönelmeden LINK/XRP/SOL yok. Altında düşen bıçak tutulmayacak; petrol ancak hacimli devam teyidiyle değerlendirilecek.",
- "sonraki_tura_mesaj": "Nakit avantajdır. BIST’te ilk yarım saat sonrası gerçek hacimli lider kimde bak; kriptoda BTC 65k altındaysa altcoin alma. İşlem için hacim şart.",
+ "notlar": "Portföy tamamen nakitte. Önceki zararların ana dersi: aşırı satım tek başına işlem sebebi değil; hacim ve liderlik teyidi şart. BTC 66k/66.5k üstü kalıcı kırılmadan altcoin alımı yapılmayacak. BIST’te endeks zayıfken yalnızca açık relatif güç ve hacim varsa işlem yapılacak. THYAO/PGSUS havacılıkta lider aday; bankalarda hacimli satış varken banka alınmayacak.",
+ "plan": "13:15’te BIST’te toparlanma var mı bak: XU100 11.800 üstüne dönüp THYAO/PGSUS gün içi zirveye hacimle giderse %35-45 tek hisse denenebilir. GARAN/AKBNK ancak satış durup RSI/hacim dönüşü gelirse izlenir. BTC 65k üstüne yerleşip 66k’ya hacimli yaklaşmadan kripto yok. Altın/gümüş düşen bıçak; petrol 89.5 üstü hacimli kırılmadan alınmaz.",
+ "sonraki_tura_mesaj": "Nakit elde; işlem için liderlik+hacim şart. Önce XU100 11.800/11.935 bandına tepkisini, THYAO/PGSUS’un gün içi zirve kırıp kırmadığını kontrol et; kriptoda BTC 65k altıysa altcoin alma.",
  "izleme_listesi": [
   "BTC-USD",
   "ETH-USD",
+  "SOL-USD",
   "LINK-USD",
   "XRP-USD",
-  "SOL-USD",
-  "AVAX-USD",
   "USDTRY=X",
   "GC=F",
   "CL=F",
@@ -17,15 +16,16 @@
   "AKBNK.IS",
   "ASELS.IS",
   "TUPRS.IS",
-  "XU100.IS"
+  "PGSUS.IS",
+  "BIMAS.IS"
  ],
- "son_yorum": "Kriptoda tepki var ama BTC 65 bin altında, 15dk RSI nötr ve hacim zayıf; altcoinlerdeki artışlar şimdilik ayı piyasası tepkisi gibi. Altın ve gümüş baskı altında, petrol görece güçlü. BIST tarafında açılış haber akışı temkinli; ilk 30-45 dakikadaki hacimli liderliği görmeden işlem riskli.",
+ "son_yorum": "BIST 100 ilk saatten 11.800 altına sarkmış; GARAN/AKBNK ve ASELS zayıf, THYAO/PGSUS relatif güçlü ama endeks teyidi yok. Kriptoda RSI aşırı satımda olsa da BTC 65 bin altı ve hacim zayıf. Altın/gümüşte düşüş sürüyor, petrol artı ama hacim yetersiz.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 10:45"
+  "Sonraki kontrol: 2026-11-16 13:15"
  ]
 }
