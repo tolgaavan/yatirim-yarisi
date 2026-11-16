@@ -16,8 +16,8 @@
   "neden": "ABD kısa vadeli Hazine ETF'i ve dolar kurunu izlemek için hafta ortası rutin kontrol."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-16T18:15:53+03:00",
-  "neden": "ABD açılış verisi oluşsun; kriptoda ETH/SOL hacim teyidi kontrol edilsin."
+  "sonraki": "2026-11-17T10:00:00+03:00",
+  "neden": "BIST açılışında THYAO şartını kontrol etmek için; ABD gece kapanışı sonrası piyasa netleşsin."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
