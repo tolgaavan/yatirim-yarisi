@@ -1,24 +1,22 @@
 {
- "notlar": "Kısa vadeli al-sat, komisyon %0.2. 16.11 10:01: Kripto günlük aşırı satım (BTC RSI22, ETH25, SOL18) ama 15dk RSI/hacim teyit yok. USDTRY RSI96 aşırı alım. THYAO verisi yok. Nakit.",
- "plan": "12:00'da BIST ve kripto kontrol. ETH/SOL için 15dk RSI 60+, fiyat 20 çubuk üzerinde, hacim 1.2+; THYAO için 15dk RSI 55+ ve hacim 1.5+ şart. Oluşursa %20 al, oluşmazsa ABD açılışına kadar bekle.",
- "sonraki_tura_mesaj": "ETH/SOL 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ mi? THYAO 15dk RSI 55+ ve hacim 1.5+ mi? 12:00'da kontrol et.",
+ "notlar": "16.11 12:01: ETH/SOL 15dk RSI 41/42, fiyat 20 çubuk altında, hacim 1.0/0.0; THYAO 15dk RSI53, hacim 0.5. Kurulum yok, nakit. Kripto günlük aşırı satım ama 15dk teyit yok. USDTRY RSI96 aşırı alım. Sadece yüksek olasılıklı kurulumda %20 al.",
+ "plan": "15:00'da tekrar kontrol. ETH/SOL için 15dk RSI 60+, fiyat 20 çubuk üzerinde, hacim 1.2+; THYAO için 15dk RSI 55+ ve hacim 1.5+ şartı. Oluşursa %20 al. Ayrıca BTC 15dk RSI 55+ ve fiyat 20 çubuk üzerindeyse kripto long düşün. ABD açılışı 17:30'da S&P 500 veya QQQ fırsatına bak.",
+ "sonraki_tura_mesaj": "ETH/SOL 15dk RSI 60+, fiyat 20 çubuk üzerinde, hacim 1.2+ mi? THYAO 15dk RSI 55+, hacim 1.5+ mi? BTC 15dk RSI 55+ mi? 15:00'da kontrol.",
  "izleme_listesi": [
-  "ADA-USD",
+  "THYAO.IS",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
-  "XRP-USD",
-  "USDTRY=X",
-  "THYAO.IS",
-  "XU100.IS"
+  "ADA-USD",
+  "USDTRY=X"
  ],
- "son_yorum": "Asya borsaları ve VİOP zayıf başladı; kripto dünkü sert düşüş sonrası tepki yetersiz, 15dk RSI/hacim teyidi yok. THYAO verisi henüz oluşmadı.",
+ "son_yorum": "Kripto günlük RSI aşırı satım bölgesinde ancak 15dk RSI 41-44, hacim normalin altında; THYAO 15dk RSI 53 ve hacim 0.5 ile teyit vermiyor. BIST 100 güne düşüşle başlayıp toparlandı; USDTRY RSI96 ile aşırı alım bölgesinde. Teyitsiz giriş komisyon riskini artırır, beklemek en doğrusu.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 12:00"
+  "Sonraki kontrol: 2026-11-16 15:00"
  ]
 }
