@@ -97,6 +97,20 @@
 "tur": "ETF"
 }
 },
+"BIMAS.IS": {
+"tarih": "2026-11-16",
+"v": {
+"ad": "BIM MAGAZALAR",
+"fk": 14.4,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 2.15,
+"piyasa_degeri": 475974369280,
+"sektor": "Consumer Defensive",
+"temettu_%": 1.77,
+"tur": "EQUITY"
+}
+},
 "EREGL.IS": {
 "tarih": "2026-11-14",
 "v": {

@@ -1,6 +1,12 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 9577.577599317818,
- "pozisyonlar": {},
- "odenen_komisyon_tl": 55.2656865717792
+ "nakit_tl": 5068.577599317818,
+ "pozisyonlar": {
+  "ASELS.IS": {
+   "adet": 12.552301255230125,
+   "maliyet_tl": 4509.0,
+   "son_fiyat_tl": 358.5
+  }
+ },
+ "odenen_komisyon_tl": 64.2656865717792
 }

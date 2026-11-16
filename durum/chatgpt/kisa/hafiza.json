@@ -1,31 +1,31 @@
 {
- "notlar": "Portföy tamamen nakitte. Önceki zararların ana dersi: aşırı satım tek başına işlem sebebi değil; hacim ve liderlik teyidi şart. BTC 66k/66.5k üstü kalıcı kırılmadan altcoin alımı yapılmayacak. BIST’te endeks zayıfken yalnızca açık relatif güç ve hacim varsa işlem yapılacak. THYAO/PGSUS havacılıkta lider aday; bankalarda hacimli satış varken banka alınmayacak.",
- "plan": "13:15’te BIST’te toparlanma var mı bak: XU100 11.800 üstüne dönüp THYAO/PGSUS gün içi zirveye hacimle giderse %35-45 tek hisse denenebilir. GARAN/AKBNK ancak satış durup RSI/hacim dönüşü gelirse izlenir. BTC 65k üstüne yerleşip 66k’ya hacimli yaklaşmadan kripto yok. Altın/gümüş düşen bıçak; petrol 89.5 üstü hacimli kırılmadan alınmaz.",
- "sonraki_tura_mesaj": "Nakit elde; işlem için liderlik+hacim şart. Önce XU100 11.800/11.935 bandına tepkisini, THYAO/PGSUS’un gün içi zirve kırıp kırmadığını kontrol et; kriptoda BTC 65k altıysa altcoin alma.",
+ "notlar": "Portföy yaklaşık yarı ASELS, yarı nakit olacak; amaç BIST içi relatif güçlü ve hacimli momentumu kısa vadeli taşımak. Önceki zararların ana dersi korunuyor: aşırı satım tek başına işlem sebebi değil, hacim ve liderlik şart. Kripto tarafında BTC 66k üstüne kalıcı dönmeden altcoin yok. ASELS pozisyonu haber+hacim momentumu; başarısız olursa inat edilmeyecek.",
+ "plan": "ASELS 361.75 gün içi zirvesini hacimle kırarsa pozisyon korunur, 365-370 bandında kâr realizasyonu değerlendir. 354 altına sarkar veya XU100 11.800 altına dönerse pozisyon kapat. BIMAS 404 üstü hacimli kırarsa alternatif savunmacı momentum adayı. THYAO/PGSUS ancak gün içi zirve kırarsa tekrar gündeme alınır.",
+ "sonraki_tura_mesaj": "ASELS pozisyonu haber+hacim momentumu için alındı; 361.75 üstü kırılım gelmez ve 354 altı zayıflama olursa çık, kârda 365-370 bandını izle. XU100 11.935 üstüne atamazsa agresif ekleme yapma.",
  "izleme_listesi": [
+  "ASELS.IS",
+  "BIMAS.IS",
+  "THYAO.IS",
+  "PGSUS.IS",
+  "KONTR.IS",
+  "GARAN.IS",
+  "AKBNK.IS",
+  "TUPRS.IS",
+  "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
-  "LINK-USD",
-  "XRP-USD",
-  "USDTRY=X",
   "GC=F",
-  "CL=F",
-  "THYAO.IS",
-  "GARAN.IS",
-  "AKBNK.IS",
-  "ASELS.IS",
-  "TUPRS.IS",
-  "PGSUS.IS",
-  "BIMAS.IS"
+  "CL=F"
  ],
- "son_yorum": "BIST 100 ilk saatten 11.800 altına sarkmış; GARAN/AKBNK ve ASELS zayıf, THYAO/PGSUS relatif güçlü ama endeks teyidi yok. Kriptoda RSI aşırı satımda olsa da BTC 65 bin altı ve hacim zayıf. Altın/gümüşte düşüş sürüyor, petrol artı ama hacim yetersiz.",
+ "son_yorum": "XU100 toparlanıyor ama 11.935 direnci henüz aşılmış değil; havacılık hisseleri yorulmuş, bankalar zayıf, kripto halen baskı altında. BIST içinde bugün net liderlik ve hacim ASELS’te, BIMAS daha dengeli ama daha düşük ivmeli görünüyor.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 13:15"
+  "ALINDI: ASELS.IS 12.5523 adet, birim 358.5000 TL, tutar 4500.00 TL + komisyon 9.00 TL",
+  "Sonraki kontrol: 2026-11-16 14:45"
  ]
 }
