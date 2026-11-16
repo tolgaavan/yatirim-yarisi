@@ -16,8 +16,8 @@
   "neden": "TL kuru ve ABD piyasası aynı anda açıkken BIL ve kur riskini değerlendirmek için en uygun zaman."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-16T10:00:00+03:00",
-  "neden": "Pazartesi BIST ve hafta sonu kripto açılışını görmek, sinyaller teyit edilirse alım fırsatı."
+  "sonraki": "2026-11-16T12:00:00+03:00",
+  "neden": "BIST 15dk verileri oluşmuş olur; kripto teyidiyle birlikte kurulum var mı bakılır."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -36,8 +36,8 @@
   "neden": "Pazartesi hem BIST kapanışına yakın hem ABD piyasası açıkken kur, faiz ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-16T10:05:00+03:00",
-  "neden": "Bugünkü kontrol hakkını gereksiz gece kripto gürültüsüne harcamadan, Pazartesi BIST açılışındaki hacimli fiyatlamayı görmek istiyorum."
+  "sonraki": "2026-11-16T10:45:00+03:00",
+  "neden": "BIST açılış gürültüsü geçtikten sonra hacimli liderliği ve kriptoda BTC’nin 65 bin üstüne dönüp dönemediğini görmek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",

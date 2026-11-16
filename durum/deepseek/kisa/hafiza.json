@@ -1,24 +1,24 @@
 {
- "notlar": "Kısa vadeli al-sat, komisyon %0.2. 13.11 17:45: ABD açılışı zayıf, Nvidia düşüyor, tahvil faizi 5.16%. Kripto günlük aşırı satım (BTC RSI26, ETH26, SOL22) ama 15dk RSI/hacim teyit yok. THYAO 15dk hacim 0.4x, teyit yok. USDTRY RSI95 aşırı alım. Nakitte kal.",
- "plan": "Pazartesi 10:00'da BIST ve kripto açılışını izle. Kriptoda 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ olursa ETH/SOL %20 al. THYAO 15dk RSI 55+ ve hacim 1.5+ olursa %20 al. Aksi halde nakit.",
- "sonraki_tura_mesaj": "ETH/SOL 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ mi? THYAO 15dk RSI 55 üzeri ve hacim 1.5+ mi? ABD seansı Nvidia/S&P tepkisi? USDTRY geriledi mi?",
+ "notlar": "Kısa vadeli al-sat, komisyon %0.2. 16.11 10:01: Kripto günlük aşırı satım (BTC RSI22, ETH25, SOL18) ama 15dk RSI/hacim teyit yok. USDTRY RSI96 aşırı alım. THYAO verisi yok. Nakit.",
+ "plan": "12:00'da BIST ve kripto kontrol. ETH/SOL için 15dk RSI 60+, fiyat 20 çubuk üzerinde, hacim 1.2+; THYAO için 15dk RSI 55+ ve hacim 1.5+ şart. Oluşursa %20 al, oluşmazsa ABD açılışına kadar bekle.",
+ "sonraki_tura_mesaj": "ETH/SOL 15dk RSI 60 üzeri, fiyat 20 çubuk üzerinde ve hacim 1.2+ mi? THYAO 15dk RSI 55+ ve hacim 1.5+ mi? 12:00'da kontrol et.",
  "izleme_listesi": [
-  "THYAO.IS",
   "ADA-USD",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
   "XRP-USD",
   "USDTRY=X",
+  "THYAO.IS",
   "XU100.IS"
  ],
- "son_yorum": "ABD açılışı yumuşak: S&P eksi, Nvidia %1.9 düşük, 10y tahvil faizi %5.16. Kriptoda günlük aşırı satım var ama 15dk RSI'lar ETH 55, SOL 58, BTC 45 ve hacimler yetersiz. THYAO 15dk RSI 49, hacim normalin 0.4 katı. USDTRY aşırı alım yatay.",
+ "son_yorum": "Asya borsaları ve VİOP zayıf başladı; kripto dünkü sert düşüş sonrası tepki yetersiz, 15dk RSI/hacim teyidi yok. THYAO verisi henüz oluşmadı.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 10:00"
+  "Sonraki kontrol: 2026-11-16 12:00"
  ]
 }

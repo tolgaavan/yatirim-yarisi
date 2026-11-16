@@ -1,9 +1,9 @@
 {
 "AKBNK.IS": {
-"tarih": "2026-11-14",
+"tarih": "2026-11-16",
 "v": {
 "ad": "AKBANK",
-"fk": 5.6,
+"fk": 5.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 1.11,
@@ -42,7 +42,7 @@
 }
 },
 "ASELS.IS": {
-"tarih": "2026-11-14",
+"tarih": "2026-11-16",
 "v": {
 "ad": "ASELSAN",
 "fk": 35.2,
@@ -51,7 +51,7 @@
 "pddd": 4.7,
 "piyasa_degeri": 1575479934976,
 "sektor": "Industrials",
-"temettu_%": 0.12,
+"temettu_%": null,
 "tur": "EQUITY"
 }
 },
@@ -112,16 +112,16 @@
 }
 },
 "GARAN.IS": {
-"tarih": "2026-11-13",
+"tarih": "2026-11-16",
 "v": {
 "ad": "GARANTI BANKASI",
 "fk": 5.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.24,
-"piyasa_degeri": 643860004864,
+"pddd": 1.22,
+"piyasa_degeri": 631259987968,
 "sektor": "Financial Services",
-"temettu_%": 3.45,
+"temettu_%": null,
 "tur": "EQUITY"
 }
 },
@@ -164,6 +164,20 @@
 "piyasa_degeri": 340750008320,
 "sektor": "Financial Services",
 "temettu_%": 3.96,
+"tur": "EQUITY"
+}
+},
+"KCHOL.IS": {
+"tarih": "2026-11-16",
+"v": {
+"ad": "KOC HOLDING",
+"fk": 8.2,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 0.62,
+"piyasa_degeri": 526014054400,
+"sektor": "Industrials",
+"temettu_%": 3.29,
 "tur": "EQUITY"
 }
 },
@@ -294,7 +308,7 @@
 }
 },
 "THYAO.IS": {
-"tarih": "2026-11-14",
+"tarih": "2026-11-16",
 "v": {
 "ad": "TURK HAVA YOLLARI",
 "fk": 4.4,
@@ -336,7 +350,7 @@
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-14",
+"tarih": "2026-11-16",
 "v": {
 "ad": "TUPRAS",
 "fk": 5.4,
@@ -406,7 +420,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-14",
+"tarih": "2026-11-16",
 "v": {
 "ad": "BIST 100",
 "fk": null,

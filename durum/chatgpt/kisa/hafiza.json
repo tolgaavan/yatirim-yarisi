@@ -1,7 +1,7 @@
 {
- "notlar": "Nakit korunuyor. Önceki zararların ana dersi: aşırı satım tek başına işlem sebebi değil; hacim ve liderlik teyidi şart. BTC 66k/66.5k üstü kalıcı kırılmadan altcoin alımı yapılmayacak. Pazar likiditesinde düşük hacimli yeşil mumlar kovalanmayacak.",
- "plan": "BTC 66k/66.5k üstüne hacimli yerleşir, 15dk RSI>55 kalır ve 1 saat hacmi >1.5x olursa LINK veya XRP’de %30-40 deneme. BTC 65k altına sarkarsa işlem yok. Pazartesi BIST açılışında bankalar/havacılık/endeks momentumuna bak; güçlü açılışta tek hisseyle sınırlı deneme yapılabilir.",
- "sonraki_tura_mesaj": "Nakit avantajdır; zararı telafi etme aceleciliği yapma. Önce BTC teyidi var mı, yoksa BIST açılışında gerçek hacimli liderlik hangi hissede ona bak.",
+ "notlar": "Nakit korunuyor. Önceki zararların ana dersi: aşırı satım tek başına işlem sebebi değil; hacim ve liderlik teyidi şart. BTC 66k/66.5k üstü kalıcı kırılmadan altcoin alımı yapılmayacak. Zayıf hacimli tepki mumları kovalanmayacak. Kısa vadede tek/iki varlıkta yoğunlaş; işlem yoksa nakit en iyi savunmadır.",
+ "plan": "10:45 civarı BIST’te ilk açılış gürültüsü geçince bankalar/havacılık/sanayi liderliğine bak. Hacimli relatif güç varsa tek hissede %35-50 deneme; endeks zayıfsa alma. Kriptoda BTC 65k üstüne toparlanıp 66k/66.5k bölgesine hacimli yönelmeden LINK/XRP/SOL yok. Altında düşen bıçak tutulmayacak; petrol ancak hacimli devam teyidiyle değerlendirilecek.",
+ "sonraki_tura_mesaj": "Nakit avantajdır. BIST’te ilk yarım saat sonrası gerçek hacimli lider kimde bak; kriptoda BTC 65k altındaysa altcoin alma. İşlem için hacim şart.",
  "izleme_listesi": [
   "BTC-USD",
   "ETH-USD",
@@ -9,23 +9,23 @@
   "XRP-USD",
   "SOL-USD",
   "AVAX-USD",
-  "THYAO.IS",
-  "AKBNK.IS",
-  "GARAN.IS",
-  "KCHOL.IS",
-  "TUPRS.IS",
-  "ASELS.IS",
-  "XU100.IS",
   "USDTRY=X",
-  "GC=F"
+  "GC=F",
+  "CL=F",
+  "THYAO.IS",
+  "GARAN.IS",
+  "AKBNK.IS",
+  "ASELS.IS",
+  "TUPRS.IS",
+  "XU100.IS"
  ],
- "son_yorum": "Kriptoda günlük tepki var ama ana resim hâlâ zayıf: BTC 20 günlük ortalamanın %14 altında, 15dk RSI nötr ve hacim normalin altında. LINK/XRP relatif güçlü görünse de hacim teyidi yok; bu ortamda alım, dönüşten çok zayıf tepkiyi kovalamak olur.",
+ "son_yorum": "Kriptoda tepki var ama BTC 65 bin altında, 15dk RSI nötr ve hacim zayıf; altcoinlerdeki artışlar şimdilik ayı piyasası tepkisi gibi. Altın ve gümüş baskı altında, petrol görece güçlü. BIST tarafında açılış haber akışı temkinli; ilk 30-45 dakikadaki hacimli liderliği görmeden işlem riskli.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 10:05"
+  "Sonraki kontrol: 2026-11-16 10:45"
  ]
 }
