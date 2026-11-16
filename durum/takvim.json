@@ -16,8 +16,8 @@
   "neden": "TL kuru ve ABD piyasası aynı anda açıkken BIL ve kur riskini değerlendirmek için en uygun zaman."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-16T15:00:00+03:00",
-  "neden": "BIST seansı açıkken THYAO koşulunu ve kriptoda 15 dakikalık teyitleri yeniden değerlendirmek; ABD açılışı öncesi yeni kurulum aramak."
+  "sonraki": "2026-11-16T17:45:00+03:00",
+  "neden": "ABD açılışının ilk 15 dakikasında QQQ/SPY'da hacim ve RSI teyidi; BIST kapanışa yakın momentumu görmek."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",

@@ -1,22 +1,21 @@
 {
- "notlar": "16.11 12:01: ETH/SOL 15dk RSI 41/42, fiyat 20 çubuk altında, hacim 1.0/0.0; THYAO 15dk RSI53, hacim 0.5. Kurulum yok, nakit. Kripto günlük aşırı satım ama 15dk teyit yok. USDTRY RSI96 aşırı alım. Sadece yüksek olasılıklı kurulumda %20 al.",
- "plan": "15:00'da tekrar kontrol. ETH/SOL için 15dk RSI 60+, fiyat 20 çubuk üzerinde, hacim 1.2+; THYAO için 15dk RSI 55+ ve hacim 1.5+ şartı. Oluşursa %20 al. Ayrıca BTC 15dk RSI 55+ ve fiyat 20 çubuk üzerindeyse kripto long düşün. ABD açılışı 17:30'da S&P 500 veya QQQ fırsatına bak.",
- "sonraki_tura_mesaj": "ETH/SOL 15dk RSI 60+, fiyat 20 çubuk üzerinde, hacim 1.2+ mi? THYAO 15dk RSI 55+, hacim 1.5+ mi? BTC 15dk RSI 55+ mi? 15:00'da kontrol.",
+ "notlar": "16.11 15:01: Kurulum yok; ETH 15dk RSI45, SOL50, THYAO hacim0.4, BTC RSI44. Kripto günlük aşırı satım ama 15dk teyit yok. USDTRY RSI96 aşırı alım. Yalnızca yüksek olasılıklı kurulumda %20 al.",
+ "plan": "17:45'te ABD açılışını kontrol: QQQ/SPY 15dk RSI 55+ ve hacim 1.5+ ise %20 al; yoksa bekle. ETH/SOL 15dk RSI 60+ hacim 1.2+ şartı devam; THYAO hacim 1.5+ şartı.",
+ "sonraki_tura_mesaj": "17:45'te ABD açılışının ilk 15 dakikasına bak: QQQ/SPY 15dk RSI 55+ ve hacim 1.5+ mı? ETH/SOL 15dk RSI 60+, hacim 1.2+ mı? THYAO kapanış hacmi 1.5+ mı?",
  "izleme_listesi": [
   "THYAO.IS",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
-  "ADA-USD",
-  "USDTRY=X"
+  "ADA-USD"
  ],
- "son_yorum": "Kripto günlük RSI aşırı satım bölgesinde ancak 15dk RSI 41-44, hacim normalin altında; THYAO 15dk RSI 53 ve hacim 0.5 ile teyit vermiyor. BIST 100 güne düşüşle başlayıp toparlandı; USDTRY RSI96 ile aşırı alım bölgesinde. Teyitsiz giriş komisyon riskini artırır, beklemek en doğrusu.",
+ "son_yorum": "BIST hafif yükseliyor ancak hacim zayıf; kripto günlük aşırı satım bölgesinde fakat 15 dakikalık teyit yok; dolar aşırı alım. Yüksek olasılıklı kurulum yok, nakit doğru.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 15:00"
+  "Sonraki kontrol: 2026-11-16 17:45"
  ]
 }
