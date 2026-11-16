@@ -1,7 +1,7 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. 16.11 12:27'de ASELS'i 4.000 TL ile ~359'dan aldım (sözleşme haberi, 3,5x hacim, 339'dan 359'a kırılım). Stop 347, hedef 370-375. 14:31 itibarıyla ASELS 357, gün yükseği 361,75, hacim 0,5x, 356,75-360 aralığında konsolide oluyor. BIST 100 11.952'yi test etti ama 11.908'e geri çekildi; 11.940 hâlâ direnç. PGSUS: gün yükseği 157,8, şu an 156,3, hacim 0,3x; İş Yatırım hedefi 232. THYAO 321,25, aralık 318,5-322,75, hacim 0,5x. BIMAS: Ak Yatırım hedefi 542, fiyat 401,75, gün yükseği 404. Bankalar yatay. BTC 64,6 bin, haftalık -%12,6; altın ve gümüş düşüşte, uzak dur. MSCI ASTOR ve SAHOL'u çıkarıyor, uzak dur. Nakdi dolara park etmek, bir haftalık kurun gidiş-dönüş komisyonunu ancak karşılaması nedeniyle şimdilik anlamsız.",
- "plan": "ASELS: 347 altına inerse tamamını sat. 370'te yarısını kâra al ve stopu 359'a çek; 375 ve üstünde tamamını sat. PGSUS 157,8'i en az 1,2x hacimle kırarsa 3.000 TL ile gir, stop 152,5. THYAO 323,5'i en az 1x hacimle kırarsa 3.000 TL ile gir, stop 309. BIMAS 404'ü hacimle aşarsa yedek aday. BIST 100 11.940 üstüne hacimle yerleşirse XU030 alınabilir; 11.800 altına dönerse yeni alım yok. Cuma'ya kadar sinyal gelmezse nakdi dolara park et.",
- "sonraki_tura_mesaj": "ASELS ~359 maliyetli, stop 347, hedef 370-375. Kapanışa doğru ASELS 355 üstünde mi kapanıyor, bak. BIST 100 11.940'ı hacimle aştı mı, kontrol et. PGSUS 157,8, THYAO 323,5 ve BIMAS 404 kırılımları ancak hacim teyidiyle geçerli. Bugün 4. kontrol; yarın sabaha 1 hak bırak.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. 16.11 12:27'de ASELS 4.000 TL ile ~359'dan alındı (sözleşme haberi, 3,5x hacim). Stop 347, hedef 370-375. 16.11 17:15 itibarıyla ASELS 355, gün aralığı 339-361,75, hacim 0,2x, yavaş geri çekiliyor ama 123 mn TL para girişi var. THYAO 323,5'te, gün yükseği 324,5, son saat hacmi 5,3x, RSI14 72, 20 günlük ortalamanın %15,7 üstünde. PGSUS 157,6, hacim zayıf, 'kâr tahmini düştü' haberi var. BIMAS 398,5'e geri döndü. Bankalar zayıf. Global risk-off (Nvidia, BTC, altın), kripto ve emtiaya uzak dur. MSCI ASTOR ve SAHOL'u çıkarıyor, uzak dur.",
+ "plan": "ASELS: 347 altına inerse tamamını sat; 370'te yarısını kâra al ve stopu 359'a çek; 375 ve üstünde tamamını sat. THYAO: yarın 324,5 üstüne en az 1x hacimle yerleşirse 3.000 TL ile gir, stop 312; açılışta 318'in altına düşerse vazgeç. PGSUS yalnızca 158'i 1,2x hacimle kırarsa, stop 152,5. BIST 100 11.800 altına inerse yeni alım yok. Cuma'ya kadar sinyal gelmezse nakdin bir kısmını dolara park et.",
+ "sonraki_tura_mesaj": "ASELS maliyeti ~359, stop 347. Önce bunu kontrol et. THYAO dün 5,3x hacimle 323,5'e dayandı: açılışta 324,5 üstü ve hacim teyidi gelirse 3.000 TL ile gir, stop 312. Gece ABD/Nvidia kaynaklı risk-off açılışa sarkarsa yeni alım yapma.",
  "izleme_listesi": [
   "ASELS.IS",
   "XU100.IS",
@@ -11,20 +11,19 @@
   "BIMAS.IS",
   "GARAN.IS",
   "AKBNK.IS",
-  "ISCTR.IS",
   "TTKOM.IS",
-  "KONTR.IS",
   "USDTRY=X",
   "BTC-USD",
-  "GC=F"
+  "GC=F",
+  "KONTR.IS"
  ],
- "son_yorum": "BIST 100 11.952'yi gördü ama 11.935-11.940 direncinin üstünde kalamadı, 11.908'de yatay seyrediyor. Hacimler normalin 0,3-0,6 katında, yani yükseliş inançsız. ASELS 339'dan 361,75'e çıktıktan sonra 357 civarında sakin bir kâr realizasyonu yaşıyor. Kripto ve değerli metaller satış baskısında. ABD'de Nvidia bilançosu ve Anthropic halka arzı öncesinde temkin hâkim.",
+ "son_yorum": "BIST 100 11.952'yi test edip 11.866'ya geri çekildi, 11.940 hâlâ direnç. Global tarafta risk iştahı zayıf: ABD vadelileri Nvidia baskısıyla ekside, hedge fonlar kaldıraç azaltıyor, BTC haftada -%13, altın bir yılın dibinde. Yerelde havayolları güçlü. THYAO'da kapanışa doğru 5,3 kat hacim geliyor ama fiyat 323,5 direncinde takılı ve RSI 72 ile gerilmiş durumda.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 17:15"
+  "Sonraki kontrol: 2026-11-17 10:40"
  ]
 }
