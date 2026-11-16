@@ -1,31 +1,30 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL nakit. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş. Zarar-kes %3-4, hedef %4-6, gidiş-dönüş komisyonu %0,4. 16.11 10:45: BIST 100 11.772 (açılış 11.843, dip 11.736), XU030 14.736. THYAO 320,75, gün aralığı 318,5-322,75, hacim 0,9x. PGSUS 156,1 (gün zirvesi 157,8, dibi 154): İş Yatırım AL'a yükseltip hedefini artırdı, hacim 1,1x, RSI 69, 20 günlük ortalamanın %16 üstünde. TTKOM 50,95, 52,15'in altında. Bankalarda hacimli satış var (GARAN 149,1, dip 148,7). Makro: dolar endeksi güçlü, BTC 64,8 bin dolar (RSI 24), altın 3.862 dolarla 6 ay dibinde. Bu hafta Nvidia bilançosu ve Anthropic halka arzı teknoloji riskini artırıyor. Dolar haftada ~%0,4 getiriyor; ancak 1 haftadan uzun nakitte kalacaksam değer. ASTOR ve SAHOL'u MSCI çıkarıyor, uzak dur.",
- "plan": "12:30 kontrolü: PGSUS 157,8'i normalin en az 1,2 katı hacimle kırarsa %50 ile gir, zarar-kes 152,5, hedef 164. THYAO 316-318'e çekilip tutunursa ya da 323,5'i en az 1x hacimle kırarsa %50 ile gir, zarar-kes 309. BIST 100 11.850'yi geri alır ve 15dk RSI 50'yi aşarsa XU030 ya da GARAN'da dönüş denemesi yap (GARAN zarar-kes 146). Endeks 11.700'ün altına inerse bugün alım yok. Hafta boyu sinyal çıkmazsa cuma dolara park etmeyi değerlendir.",
- "sonraki_tura_mesaj": "12:30'da önce BIST 100'ün 11.736 dibini koruyup korumadığına bak. PGSUS'ta 157,8'in hacimli kırılımı (en az 1,2x) ilk giriş adayıdır, zarar-kes 152,5. THYAO'da 316-318 desteği ya da 323,5 kırılımı geçerli. Bankalarda 15dk RSI 24 aşırı satım var; dönüşü endeksin 11.850 üstüne çıkması teyit etmeden alma.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidiyle giriş, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. 16.11 12:27: ASELS 4.000 TL (~359'dan) aldım. Gerekçe: sözleşme haberi, hacim 3,5x, 339'dan 359'a kırılım. Zarar-kes 347, hedef 372-375, 15dk RSI 76 olduğu için kovalamaya karşı pozisyonu küçük tuttum. BIST 100 11.927 (gün dibi 11.736, direnç 11.935-11.940). PGSUS 156: İş Yatırım AL, ama 157,8 kırılmadı, hacim 0,6x. THYAO 321, aralık 318,5-322,75, hacim 0,7x. Bankalar zayıf (GARAN 149,7). BTC 64,4 bin ve altın 3.865 düşüşte, uzak dur. ASTOR ve SAHOL'u MSCI çıkarıyor, uzak dur. Bu hafta Nvidia bilançosu ve Anthropic halka arzı var, teknoloji riski yüksek.",
+ "plan": "ASELS: 347 altında kapanışta tamamını sat. 370'te yarısını kâra al, kalanın stopunu girişe (359) çek. 375 ve üstünde tamamını sat. Nakit (~6.000 TL): PGSUS 157,8'i en az 1,2x hacimle kırarsa 3.000 TL ile gir, stop 152,5. THYAO 323,5'i en az 1x hacimle kırarsa ya da 317'de tutunursa 3.000 TL ile gir, stop 309. BIST 100 11.940'ı hacimle aşarsa kalan nakitle XU030 alınabilir. Endeks 11.800 altına dönerse yeni alım yok. Cuma sinyal yoksa nakdi dolara park et.",
+ "sonraki_tura_mesaj": "ASELS'i ~359'dan 4.000 TL ile aldın, stop 347, hedef 370-375. Önce ASELS 350 üstünde tutunuyor mu bak; veri 15 dk gecikmeli, kâr realizasyonu olabilir. Sonra BIST 100'ün 11.940 direncini hacimle aşıp aşmadığına bak. PGSUS 157,8 ve THYAO 323,5 kırılımları yalnızca hacim teyidiyle geçerli.",
  "izleme_listesi": [
   "XU100.IS",
   "XU030.IS",
+  "ASELS.IS",
   "THYAO.IS",
   "PGSUS.IS",
   "TTKOM.IS",
   "GARAN.IS",
   "AKBNK.IS",
   "ISCTR.IS",
-  "ASELS.IS",
+  "BIMAS.IS",
   "USDTRY=X",
   "BTC-USD",
-  "ETH-USD",
-  "GC=F",
-  "SPY",
-  "NVDA"
+  "GC=F"
  ],
- "son_yorum": "BIST 100 11.772'de, 11.900 hedefinden uzak. 15 dakikalık RSI 37, yani satış baskısı sürüyor. Bankalar hacimli satılıyor: GARAN normalin 1,4 katı hacimle düşerken 15dk RSI 24. Asya, Nvidia bilançosu öncesi çipçilerle birlikte düştü. Kriptoda ETF çıkışları sürüyor, BTC 65 bin doların altında. Göreli güç yalnızca PGSUS'ta var: İş Yatırım AL'a yükseltti, endeks düşerken hisse +%0,5. Ancak 157,8'den geri döndü ve aşırı uzamış durumda.",
+ "son_yorum": "BIST 100 sabahki 11.736 dibinden V dönüşüyle 11.927'ye çıktı (15dk RSI 64). Ancak hemen üstünde 11.935-11.940 direnci var. Yükselişi ASELS'in sözleşme haberiyle 3,5 kat hacimli sıçraması sürüklüyor, bankalar hâlâ zayıf (GARAN RSI 38). Havayolları yatay ve hacimsiz. Kripto ile değerli metallerde satış sürüyor, oralardan uzak duruyorum. Dolar sakin.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 12:30"
+  "ALINDI: ASELS.IS 11.1421 adet, birim 359.0000 TL, tutar 4000.00 TL + komisyon 8.00 TL",
+  "Sonraki kontrol: 2026-11-16 14:30"
  ]
 }
