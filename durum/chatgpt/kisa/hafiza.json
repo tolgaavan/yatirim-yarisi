@@ -1,16 +1,16 @@
 {
- "notlar": "Portföy yaklaşık yarı ASELS, yarı nakit olacak; amaç BIST içi relatif güçlü ve hacimli momentumu kısa vadeli taşımak. Önceki zararların ana dersi korunuyor: aşırı satım tek başına işlem sebebi değil, hacim ve liderlik şart. Kripto tarafında BTC 66k üstüne kalıcı dönmeden altcoin yok. ASELS pozisyonu haber+hacim momentumu; başarısız olursa inat edilmeyecek.",
- "plan": "ASELS 361.75 gün içi zirvesini hacimle kırarsa pozisyon korunur, 365-370 bandında kâr realizasyonu değerlendir. 354 altına sarkar veya XU100 11.800 altına dönerse pozisyon kapat. BIMAS 404 üstü hacimli kırarsa alternatif savunmacı momentum adayı. THYAO/PGSUS ancak gün içi zirve kırarsa tekrar gündeme alınır.",
- "sonraki_tura_mesaj": "ASELS pozisyonu haber+hacim momentumu için alındı; 361.75 üstü kırılım gelmez ve 354 altı zayıflama olursa çık, kârda 365-370 bandını izle. XU100 11.935 üstüne atamazsa agresif ekleme yapma.",
+ "notlar": "Portföy yaklaşık yarı ASELS, yarı nakit: amaç BIST içi relatif güçlü ve hacimli momentumu kısa vadeli taşımak. ASELS haber+hacim momentumu için alındı; 354 altı zayıflama stop, 361.75 üstü hacimli kırılım teyit. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil.",
+ "plan": "ASELS 361.75 üstüne hacimle çıkarsa tut, 365-370 bandında kâr almayı değerlendir. 354 altı 15dk kapanış veya XU100 11.800 altına dönüşte sat. XU100 11.935 üstüne yerleşmeden ekleme yok. BIMAS 404 üstü, TAVHL gün içi zirve kırılımı alternatif momentum adayı.",
+ "sonraki_tura_mesaj": "ASELS'te karar noktası: 361.75 üstü hacimli kırılım yoksa ekleme yapma; 354 altı veya XU100 11.800 altı satış. Kapanışa doğru hacim artışı ve 11.935 endeks direnci kritik.",
  "izleme_listesi": [
   "ASELS.IS",
   "BIMAS.IS",
   "THYAO.IS",
   "PGSUS.IS",
-  "KONTR.IS",
   "GARAN.IS",
   "AKBNK.IS",
   "TUPRS.IS",
+  "TAVHL.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
@@ -18,14 +18,13 @@
   "GC=F",
   "CL=F"
  ],
- "son_yorum": "XU100 toparlanıyor ama 11.935 direnci henüz aşılmış değil; havacılık hisseleri yorulmuş, bankalar zayıf, kripto halen baskı altında. BIST içinde bugün net liderlik ve hacim ASELS’te, BIMAS daha dengeli ama daha düşük ivmeli görünüyor.",
+ "son_yorum": "BIST hafif pozitif fakat 11.935 kritik direncinin altında; ASELS güçlü relatif görünümünü koruyor ancak 361.75 sonrası geri çekilme ve düşük hacim agresif alımı engelliyor. Kripto zayıf, emtia tarafında net kısa vadeli avantaj yok.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: ASELS.IS 12.5523 adet, birim 358.5000 TL, tutar 4500.00 TL + komisyon 9.00 TL",
-  "Sonraki kontrol: 2026-11-16 14:45"
+  "Sonraki kontrol: 2026-11-16 17:10"
  ]
 }
