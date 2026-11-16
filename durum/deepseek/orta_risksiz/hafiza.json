@@ -1,19 +1,19 @@
 {
- "notlar": "BIL: dolar cinsi kısa vadeli Hazine ETF'i; hem kur koruması hem nakit getirisi sağlıyor. Düşük riskli portföyde hisse, kripto, emtiaya girmiyorum. Komisyon %0.2 olduğu için küçük TL nakit (%0.8) atıl kalabilir; gereksiz işlem yapma. BIL'de anormal düşüş olmadıkça pozisyonu koru.",
- "plan": "Pazartesi kontrolünde BIL fiyatı ve USDTRY kuruna bak. BIL'de anormal düşüş veya kurdaki sert değer kaybı yoksa pozisyonu koru. Oynak varlıklara hâlâ girme; nakit TL'yi işleme koyma çünkü fayda maliyeti karşılamıyor.",
- "sonraki_tura_mesaj": "BIL'de kalmaya devam. USDTRY kurunu ve BIL fiyatını gör; kurda sert düşüş veya BIL'de anormal hareket yoksa işlem yapma. Oynak varlıklara sakın bulaşma.",
+ "notlar": "BIL: dolar cinsi kısa vadeli Hazine ETF'i; kur koruması ve nakit getirisi hedefliyorum. Düşük riskli portföyde hisse, kripto, emtiaya girmiyorum. USDTRY RSI 96 aşırı alım, ancak trend yukarı; BIL'de kalmak doğru. Küçük TL nakit (%0.8) atıl, komisyon %0.2 nedeniyle işlem yapmıyorum. BIL'de anormal düşüş veya USDTRY'de sert değer kaybı olmadıkça pozisyonu koru.",
+ "plan": "Çarşamba kontrolünde BIL ve USDTRY kuruna bak. BIL'de anormal düşüş veya kurdaki sert düşüş yoksa bekle. USDTRY'de düzeltme olursa BIL'i korumak yeterli; oynak varlıklara bulaşma.",
+ "sonraki_tura_mesaj": "BIL'de kal. USDTRY'de sert düşüş veya BIL'de anormal hareket yoksa işlem yapma. Nakit TL'yi eritme, komisyonu boşa harcama.",
  "izleme_listesi": [
   "BIL",
   "SGOV",
   "USDTRY=X"
  ],
- "son_yorum": "ABD endeksleri karışık, 10 yıllık faiz %5.16 ve VIX 18.7 seviyesinde; kripto sert düşüşte. USDTRY verisi kapalı ancak BIL'in TL değeri istikrarlı. Düşük risk stratejisi gereği oynak varlıklardan uzak duruyorum, BIL'i tutmaya devam ediyorum.",
+ "son_yorum": "USDTRY 50.39 ile haftalık +%0.53, RSI 96 aşırı alım; ABD tahvil faizleri yüksek seyrederken BIL sabit. BIST hafif negatif, VIX 20.5 yükseldi. Düşük riskli portföy için BIL kur koruması ve faiz getirisi sağlıyor; işlem gerektirmiyor.",
  "kurgu": {
   "metin": "TL nakitin faiz getirmediği ve enflasyon karşısında eridiği bir ortamda, düşük riskli portföy için sermayenin büyük kısmını ABD kısa vadeli Hazine ETF'i BIL'de tutarak dolar cinsi nakit getirisi ve kur koruması hedefliyorum. Oynak varlıklardan (hisse, kripto, emtia) kaçınıyorum; komisyon maliyetlerini ve oynaklığı minimize eden tek bir likit enstrüman seçiyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-16 17:45"
+  "Sonraki kontrol: 2026-11-18 17:45"
  ]
 }

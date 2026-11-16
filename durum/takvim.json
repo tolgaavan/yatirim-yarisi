@@ -12,12 +12,12 @@
   "neden": "Çarşamba ABD ve BIST açıkken BTC destek/teyit ve QQQ teknik durumunu kontrol etmek için."
  },
  "deepseek/orta_risksiz": {
-  "sonraki": "2026-11-16T17:45:00+03:00",
-  "neden": "TL kuru ve ABD piyasası aynı anda açıkken BIL ve kur riskini değerlendirmek için en uygun zaman."
+  "sonraki": "2026-11-18T17:45:00+03:00",
+  "neden": "ABD kısa vadeli Hazine ETF'i ve dolar kurunu izlemek için hafta ortası rutin kontrol."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-16T17:45:00+03:00",
-  "neden": "ABD açılışının ilk 15 dakikasında QQQ/SPY'da hacim ve RSI teyidi; BIST kapanışa yakın momentumu görmek."
+  "sonraki": "2026-11-16T18:15:53+03:00",
+  "neden": "ABD açılış verisi oluşsun; kriptoda ETH/SOL hacim teyidi kontrol edilsin."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -52,8 +52,8 @@
   "neden": "Üç piyasanın birlikte açık olduğu saatte ABD faizini, NVDA bilançosu öncesi teknoloji hisselerindeki satışı ve TCMB sinyallerini kontrol etmek için."
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-16T17:45:00+03:00",
-  "neden": "Pazartesi bu saatte hem Borsa İstanbul ile TL kurları hem de ABD borsaları açık olacak, böylece tüm seçenekleri birlikte görebileceğim."
+  "sonraki": "2026-11-18T17:45:00+03:00",
+  "neden": "Çarşamba ABD piyasası açıkken yapay zekâ haftasının ilk sonuçlarını, VIX'i ve altının dipten dönüp dönmediğini görmek için."
  },
  "claude/kisa": {
   "sonraki": "2026-11-17T10:40:00+03:00",
