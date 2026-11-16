@@ -1,23 +1,20 @@
 {
- "notlar": "Strateji: 1 aylık riskli portföy; zorunlu ayaklar tamamlandı: QQQ, THYAO, USDTRY. Kalan nakit ~481 TL. BTC RSI 27 aşırı satımda, teyit bekleniyor. Altın (GC=F) izlemede. Panik satışı yapma; tez bozulursa değiştir.",
- "plan": "Pazartesi 17:30'da BTC RSI 30 altında ve fiyat destek bulursa küçük alım değerlendir. QQQ'da haftalık %10'dan fazla düşüş olursa kalan nakit ile ekle. USDTRY 50.0 altına sarkarsa veya BIST'te XU030 RSI 45 altına gelirse ek fırsat ara.",
- "sonraki_tura_mesaj": "Zorunlu ayaklar tamam: THYAO 2500 TL, USDTRY 2000 TL, QQQ tut. Kalan nakit 481 TL. BTC RSI 27, teyit ara. QQQ'da panik satma, plana bağlı kal.",
+ "notlar": "Strateji: 1 aylık riskli; zorunlu ayaklar tamam. QQQ zayıf (RSI 40, 20/50 altında), THYAO güçlü (RSI 72), USDTRY hedge. BTC RSI 24 aşırı satım, düşen bıçak; yalnızca yeşil kapanış/yüksek dip teyidiyle küçük al. QQQ kapanış -10% daha düşerse yarısını satmayı düşün. Panik yok.",
+ "plan": "Çarşamba: BTC RSI 30 altında ve günlük yeşil kapanış/4 saatlik yüksek dip olursa nakitle 200 TL kadar al. QQQ 20 günlük ort üzerine çıkamazsa %25 azalt. USDTRY 51 üzeri kilitli; THYAO RSI 80 üzeri ve hacim düşerse %50 azalt.",
+ "sonraki_tura_mesaj": "BTC RSI 24; Çarşamba teyit ara. QQQ 20 günlük altında, panik satma ama kapanış -10% olursa azalt. THYAO güçlü.",
  "izleme_listesi": [
-  "THYAO.IS",
-  "XU030.IS",
-  "USDTRY=X",
   "BTC-USD",
-  "GC=F"
+  "GC=F",
+  "XU030.IS",
+  "ETH-USD"
  ],
- "son_yorum": "BIST güçlü seyrediyor, THYAO yabancı alımıyla öne çıkıyor; TL varlıklar için enflasyon baskısı artarken dolar beklentisi 60 TL'ye yükselmiş. BTC aşırı satım bölgesinde ancak henüz teyit sinyali yok, bu nedenle önce zorunlu eksikleri tamamlayıp nakit tampon bırakıyorum.",
+ "son_yorum": "ABD'de teknoloji satışı sürüyor, VIX 20.5 ve 10y faiz %5.13 baskı. BIST pozitif, dolar güçlü. QQQ 20/50 ort altında; THYAO dirençli. BTC RSI 24 ama destek teyidi yok.",
  "kurgu": {
   "metin": "Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: USDTRY=X 39.7106 adet, birim 50.3644 TL, tutar 2000.00 TL + komisyon 4.00 TL",
-  "ALINDI: THYAO.IS 7.77001 adet, birim 321.7500 TL, tutar 2500.00 TL + komisyon 5.00 TL",
-  "Sonraki kontrol: 2026-11-16 17:30"
+  "Sonraki kontrol: 2026-11-18 17:45"
  ]
 }

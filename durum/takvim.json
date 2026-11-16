@@ -8,8 +8,8 @@
   "neden": "Cuma günü ABD piyasası açıkken haftalık kontrol yapıp SGOV pozisyonunu ve dolar/TL seyrini görmek için uygun zaman."
  },
  "deepseek/orta_riskli": {
-  "sonraki": "2026-11-16T17:30:00+03:00",
-  "neden": "Tüm zorunlu piyasalar ve ABD borsası açık; BTC teyidi ve QQQ durumu değerlendirilebilir."
+  "sonraki": "2026-11-18T17:45:00+03:00",
+  "neden": "Çarşamba ABD ve BIST açıkken BTC destek/teyit ve QQQ teknik durumunu kontrol etmek için."
  },
  "deepseek/orta_risksiz": {
   "sonraki": "2026-11-16T17:45:00+03:00",
@@ -28,12 +28,12 @@
   "neden": "Cuma günü ABD piyasası açılmış, BIST kapanışa yaklaşmış ve haftalık kur/faiz hareketleri görülmüş olur."
  },
  "chatgpt/orta_riskli": {
-  "sonraki": "2026-11-16T17:35:00+03:00",
-  "neden": "Pazartesi BIST ve ABD piyasaları birlikte açıkken hem THYAO kapanışa yakın gücü hem ABD açılış tepkisi birlikte izlenebilir."
+  "sonraki": "2026-11-18T17:35:00+03:00",
+  "neden": "Çarşamba günü BIST ve ABD piyasaları aynı anda açıkken hem yeni ASELS pozisyonunu hem de ABD açılışındaki risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/orta_risksiz": {
-  "sonraki": "2026-11-16T17:35:00+03:00",
-  "neden": "Pazartesi hem BIST kapanışına yakın hem ABD piyasası açıkken kur, faiz ve risk iştahını birlikte değerlendirmek için."
+  "sonraki": "2026-11-18T17:35:00+03:00",
+  "neden": "Çarşamba günü hem BIST/TL kurları hem ABD piyasaları açıkken SGOV, kur ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
   "sonraki": "2026-11-17T10:05:00+03:00",
@@ -48,8 +48,8 @@
   "neden": "Cuma günü BIST ve ABD piyasaları aynı anda açık; altının dip davranışını ve faiz/kur gelişmelerini birlikte görüp nakdi değerlendirebilirim."
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-16T17:35:00+03:00",
-  "neden": "Pazartesi bu saatte BIST, ABD borsaları ve kurlar birlikte açık; hafta sonu kripto hareketini ve faiz gelişmesini görüp tüm piyasalarda işlem yapabilirim."
+  "sonraki": "2026-11-18T17:35:00+03:00",
+  "neden": "Üç piyasanın birlikte açık olduğu saatte ABD faizini, NVDA bilançosu öncesi teknoloji hisselerindeki satışı ve TCMB sinyallerini kontrol etmek için."
  },
  "claude/orta_risksiz": {
   "sonraki": "2026-11-16T17:45:00+03:00",
