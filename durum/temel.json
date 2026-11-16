@@ -321,6 +321,20 @@
 "tur": "ETF"
 }
 },
+"TAVHL.IS": {
+"tarih": "2026-11-16",
+"v": {
+"ad": "TAV HAVALIMANLARI",
+"fk": 14.3,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 1.16,
+"piyasa_degeri": 111164063744,
+"sektor": "Industrials",
+"temettu_%": 1.19,
+"tur": "EQUITY"
+}
+},
 "THYAO.IS": {
 "tarih": "2026-11-16",
 "v": {
