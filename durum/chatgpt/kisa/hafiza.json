@@ -1,31 +1,31 @@
 {
- "notlar": "ASELS denemesi 361.75 üstü hacimli teyit alamadı ve 354 altı stopla kapandı. THYAO tezinde havacılık relatif güçlüydü ama XU100 11.800 altına sarkarken 328-332 kâr bandı hacimli geçilemediği için pozisyon kapatıldı. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil; hacim ve relatif güç şart. PGSUS geri alım haberiyle güçlü ama gap ve RSI 73+ nedeniyle ancak geri çekilme/teyitle düşünülecek. Son durum: nakit korunuyor; endeks dipteyken işlem yapmak yerine fırsatı teyitle almak öncelik.",
- "plan": "Nakitte bekle. BIST için XU100 önce 11.800 üstüne dönmeli, tercihen 11.850 üzeri hacimli kalıcılık görmeden yeni risk alma. PGSUS 160-161 üstünde tutunup hacim artarsa sınırlı deneme; 165 üstü 15dk kapanış ve hacim teyidi olursa daha güçlü aday. THYAO 328-332 bandını hacimli geçmedikçe kovalanmaz. Kripto için BTC 66k üstü yoksa altcoin yok. Zayıflık sürerse gün sonuna kadar işlem yapmama kabul.",
- "sonraki_tura_mesaj": "Önce XU100 11.800/11.850 üstüne hacimli döndü mü bak; dönmediyse BIST alımı yapma. PGSUS 160-161 üstü tutunma+hacim veya 165 üstü kapanış, THYAO 328-332 hacimli geçiş dışında işlem açma.",
+ "notlar": "Nakit korunuyor. ASELS ve SOL erken dip denemeleri maliyet yarattı; bundan sonra aşırı satım veya haber tek başına yeterli değil. BIST için ana filtre XU100 11.800/11.850 üstü hacimli dönüş. PGSUS geri alım haberiyle relatif güçlü ama 165 üstü teyit ya da 160-161 bölgesinde hacimli savunma olmadan kovalanmayacak. THYAO 328-332 bandını hacimli geçmeden alınmayacak. Kriptoda BTC 66k üstüne dönmeden altcoin riski yok.",
+ "plan": "Yarın açılışta önce XU100 11.800 üstüne dönüyor mu bak. 11.850 üstü kalıcılık ve hacim gelirse PGSUS 165 üstü veya THYAO 328-332 kırılımı aday. Endeks zayıf kalırsa BIST alma. BTC 66k üstüne dönmeden SOL/ETH yok. Petrol 86.5 üstü hacimli sürerse CL kısa vadeli alternatif olabilir ama izleme imkânı varsa.",
+ "sonraki_tura_mesaj": "Günlük kontrol hakkı dolduğu için pozisyon açmadın; yarın önce XU100 11.800/11.850 teyidine bak, teyit yoksa işlem yapma. PGSUS 165 üstü hacim, THYAO 328-332 kırılımı, BTC 66k üstü dışında risk alma.",
  "izleme_listesi": [
+  "XU100.IS",
   "THYAO.IS",
   "PGSUS.IS",
   "TAVHL.IS",
   "ASELS.IS",
   "GARAN.IS",
   "AKBNK.IS",
-  "XU100.IS",
+  "TCELL.IS",
+  "TTKOM.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
   "GC=F",
-  "CL=F",
-  "TCELL.IS",
-  "TTKOM.IS"
+  "CL=F"
  ],
- "son_yorum": "BIST öğlen sonrası zayıf: XU100 gün içi dipte ve 15dk RSI 33 ile 11.800 altında baskı sürüyor. PGSUS relatif güçlü ama 165 üstü kalıcılık yok, THYAO/TAVHL hacimsiz yataylıyor. Kripto hâlâ ana trendde zayıf, petrol toparlansa da hacim teyidi sınırlı.",
+ "son_yorum": "BIST 100 hâlâ 11.800/11.850 teyit bölgesinin altında ve izlenen hisselerde son 1 saat hacimleri zayıf; PGSUS güçlü görünse de 165 üstü teyit gelmedi. Kriptoda kısa vadeli tepki var ama BTC 66 bin altı risk iştahını sınırlıyor. Emtia tarafında petrol toparlanıyor fakat gün içi son kontrol olduğu için izlemsiz pozisyon taşımak istemiyorum.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-17 15:15"
+  "Sonraki kontrol: 2026-11-18 10:05"
  ]
 }

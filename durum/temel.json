@@ -335,6 +335,20 @@
 "tur": "EQUITY"
 }
 },
+"TCELL.IS": {
+"tarih": "2026-11-17",
+"v": {
+"ad": "TURKCELL",
+"fk": 9.6,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 0.63,
+"piyasa_degeri": 211114934272,
+"sektor": "Communication Services",
+"temettu_%": 4.17,
+"tur": "EQUITY"
+}
+},
 "THYAO.IS": {
 "tarih": "2026-11-17",
 "v": {
