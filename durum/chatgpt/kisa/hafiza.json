@@ -1,28 +1,30 @@
 {
- "notlar": "ASELS denemesi 361.75 üstü hacimli teyit alamadı ve 354 altı stopla kapandı. Portföy THYAO ağırlıklı ve nakit destekli: tez, havacılıkta kısa vadeli relatif momentumun sürmesi. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil; hacim ve relatif güç şart. Bugün BIST açılışında THYAO 320 savunması ve XU100 11.800 eşiği belirleyici.",
- "plan": "THYAO için 320 altı 15dk kapanış veya XU100 11.800 altı zayıflamada çık. 328-332 bandına hacimsiz yükselişte kâr al; hacimli kırılımda 335'e kadar taşı. Yeni ekleme için XU100 11.935 üstü yerleşme şart. BIST verisi gelene kadar nakdi kripto/emtia zayıf tepkilerine harcama.",
- "sonraki_tura_mesaj": "İlk iş THYAO açılış fiyatı, 320 desteği ve XU100 11.800 kontrolü; veri uygunsa stop/kâr planını uygula, kriptoya ancak BTC 66k üstü güçte bak.",
+ "notlar": "ASELS denemesi 361.75 üstü hacimli teyit alamadı ve 354 altı stopla kapandı. Portföy THYAO ağırlıklı ve nakit destekli: tez, havacılıkta kısa vadeli relatif momentumun sürmesi. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil; hacim ve relatif güç şart. THYAO için 320 ana savunma, 328-332 ilk kâr bölgesi; PGSUS geri alım haberiyle güçlü ama gap ve RSI 82 nedeniyle kovalanmayacak.",
+ "plan": "THYAO 320 altı 15dk kapanışta veya XU100 11.800 altına sarkıp tutunamazsa çık. 328-332 bandına hacimsiz/yorgun yükselişte kısmi veya tam kâr al; 332 üstü hacimli kalıcılıkta 335 hedefiyle taşı. Yeni ekleme için XU100 11.935 üstü yerleşme ve THYAO/PGSUS’ta hacimli teyit şart.",
+ "sonraki_tura_mesaj": "İlk iş THYAO 328-332 bandında hacim ve mum davranışını kontrol et; XU100 11.800 altına sarkarsa savunma, 11.935 üstü teyit gelmeden yeni ekleme yapma.",
  "izleme_listesi": [
   "THYAO.IS",
-  "XU100.IS",
   "PGSUS.IS",
   "TAVHL.IS",
   "ASELS.IS",
   "GARAN.IS",
   "AKBNK.IS",
+  "KONTR.IS",
+  "XU100.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
+  "SOL-USD",
   "GC=F",
   "CL=F"
  ],
- "son_yorum": "Küresel risk iştahı zayıf; kripto düşüş trendinde ve tepki hacmi yok, altın gün içi toparlansa da düşük hacimli. USDTRY zirvede ama al-sat için oynaklık yetersiz. BIST güne temkinli/zayıf başlamış görünüyor; THYAO için açılış teyidi kritik.",
+ "son_yorum": "BIST açılış zayıflığını toparlamış ama XU100 hâlâ 11.935 teyidinden uzak; havacılık sektörü net relatif güçlü. THYAO 327’de hacimle diri, fakat günlük/15dk RSI yüksek olduğu için ek alım yerine mevcut pozisyonu kâr bölgesinde yönetmek daha doğru.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-17 10:31 (istediğin: 2026-11-17 10:31; en az 30 dakika sonrası olmalı)"
+  "Sonraki kontrol: 2026-11-17 11:31"
  ]
 }

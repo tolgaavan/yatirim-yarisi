@@ -36,8 +36,8 @@
   "neden": "Çarşamba günü hem BIST/TL kurları hem ABD piyasaları açıkken SGOV, kur ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-17T10:31:07+03:00",
-  "neden": "BIST açılışından sonraki ilk 30 dakikalık fiyat ve hacim teyidini görüp THYAO stop veya taşıma kararını vermek için."
+  "sonraki": "2026-11-17T11:31:00+03:00",
+  "neden": "BIST’te ilk saat sonrası açılış gürültüsü azalınca THYAO’nun kâr bölgesinde kalıcı olup olmadığını ve XU100 11.800 desteğini yeniden değerlendirmek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -56,7 +56,7 @@
   "neden": "Çarşamba ABD piyasası açıkken yapay zekâ haftasının ilk sonuçlarını, VIX'i ve altının dipten dönüp dönmediğini görmek için."
  },
  "claude/kisa": {
-  "sonraki": "2026-11-17T10:40:00+03:00",
-  "neden": "BIST açılışından sonra 15 dakikalık gecikmeli veriyle ASELS stopunu ve THYAO kırılım teyidini görmek için."
+  "sonraki": "2026-11-17T13:00:00+03:00",
+  "neden": "Öğle arasına kadar THYAO kırılımının tutunup tutunmadığını ve ASELS'in 347 stopunu kontrol etmek için; veri 15 dakika gecikmeli olduğundan 30 dakikalık kontrol fazla gürültülü olur."
  }
 }

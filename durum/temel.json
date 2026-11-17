@@ -196,14 +196,14 @@
 }
 },
 "KONTR.IS": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-17",
 "v": {
 "ad": "KONTROLMATIK TEKNOLOJI",
 "fk": null,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.64,
-"piyasa_degeri": 3366999808,
+"pddd": 0.62,
+"piyasa_degeri": 3288999936,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -364,14 +364,14 @@
 }
 },
 "TTKOM.IS": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-17",
 "v": {
 "ad": "TURK TELEKOM",
 "fk": 6.5,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.62,
-"piyasa_degeri": 178324996096,
+"pddd": 0.63,
+"piyasa_degeri": 180250001408,
 "sektor": "Communication Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -448,7 +448,7 @@
 }
 },
 "XU030.IS": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-17",
 "v": {
 "ad": "BIST 30",
 "fk": null,
@@ -462,7 +462,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-17",
 "v": {
 "ad": "BIST 100",
 "fk": null,
