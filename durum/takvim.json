@@ -16,8 +16,8 @@
   "neden": "ABD kısa vadeli Hazine ETF'i ve dolar kurunu izlemek için hafta ortası rutin kontrol."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-17T10:00:00+03:00",
-  "neden": "BIST açılışında THYAO şartını kontrol etmek için; ABD gece kapanışı sonrası piyasa netleşsin."
+  "sonraki": "2026-11-17T11:00:00+03:00",
+  "neden": "BIST açılış verisinin oturması ve THYAO için hacim/RSI teyidinin netleşmesi."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -36,8 +36,8 @@
   "neden": "Çarşamba günü hem BIST/TL kurları hem ABD piyasaları açıkken SGOV, kur ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-17T10:05:00+03:00",
-  "neden": "Bugünkü kontrol hakkı dolduğundan yeni pozisyonun açılış tepkisini ilk seans dakikalarında değerlendirmek için."
+  "sonraki": "2026-11-17T10:31:07+03:00",
+  "neden": "BIST açılışından sonraki ilk 30 dakikalık fiyat ve hacim teyidini görüp THYAO stop veya taşıma kararını vermek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",

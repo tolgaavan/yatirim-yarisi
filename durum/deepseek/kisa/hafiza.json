@@ -1,23 +1,22 @@
 {
- "notlar": "16.11 18:15: QQQ 15dk RSI24 hacim4.4, SPY RSI26 hacim1.4; plan şartı RSI55+ değil. ETH RSI51 hacim1.2, SOL RSI43 hacim1.4; şart değil. VIX +%11, Nasdaq -%1.9, yarı iletken düşüyor. Düşen bıçak tutulmaz, nakitte kal. Pozisyon yok; sermaye 10,000 TL.",
- "plan": "Yarın 10:00 THYAO: 15dk hacim 1.5+ ve RSI<70 ise %20 al. Olmazsa ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa %20 al; ETH/SOL için RSI>60 hacim1.2+ şartı sürer. Tek pozisyonla başla, komisyonu dikkate al.",
- "sonraki_tura_mesaj": "Yarın 10:00: THYAO hacim>1.5 ve RSI<70 mi? Değilse ABD açılışına kadar bekle; QQQ/SPY 15dk RSI>40 ve hacim>1.5 dönüş sinyali ara.",
+ "notlar": "17.11 10:01 THYAO verisi yok; QQQ/SPY kapalı; kripto zayıf (BTC RSI24, ETH RSI26, SOL RSI22). Düşen bıçak tutulmaz. Sermaye 10,000 TL nakitte.",
+ "plan": "11:00 THYAO 15dk hacim>1.5 ve RSI<70 ise %20 al. Olmazsa ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa %20 al; ETH/SOL için RSI>60 hacim1.2+ şartı sürer. Tek pozisyonla başla, komisyonu dikkate al.",
+ "sonraki_tura_mesaj": "11:00 THYAO hacim/RSI şartını kontrol et; olmazsa ABD açılışına kadar bekle.",
  "izleme_listesi": [
   "THYAO.IS",
   "QQQ",
   "SPY",
   "ETH-USD",
   "SOL-USD",
-  "BTC-USD",
   "ADA-USD"
  ],
- "son_yorum": "ABD'de risk iştahı bozuk: VIX +%11, Nasdaq -%1.9, yarı iletkenler sert satışta. QQQ 15dk RSI 24, SPY 26; hacim yüksek ama bu düşüş momentumu, tersine dönüş teyidi yok. Kripto da zayıf, ETH/SOL alım sinyali üretmedi. Planlı şartlar oluşmadığı için nakit pozisyon korunuyor.",
+ "son_yorum": "BIST yeni açıldı, THYAO verisi bu turda yok; kriptoda BTC -%1.18, ETH RSI 26, SOL RSI 22 ile düşüş trendi sürüyor. ABD piyasaları kapalı. Düşen bıçak tutulmaz, nakitte kalmak en doğrusu.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-17 10:00"
+  "Sonraki kontrol: 2026-11-17 11:00"
  ]
 }

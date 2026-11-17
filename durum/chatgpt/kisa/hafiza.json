@@ -1,13 +1,13 @@
 {
- "notlar": "ASELS denemesi 361.75 üstü hacimli teyit alamadı ve 354 altı 15dk stop görüldüğü için kapatıldı. Portföy artık THYAO ağırlıklı ve nakit destekli: tez, kapanışa doğru kurumsal hacimle havacılık momentumunun devam etmesi. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil; hacim ve relatif güç şart.",
- "plan": "THYAO için 320 altı 15dk kapanış veya XU100 11.800 altı zayıflamada çık. 328-332 bandına hacimsiz yükselişte kâr al; hacimli kırılımda 335'e kadar taşı. Yarın açılışta gap yukarı olursa ilk 15dk hacim teyidi bekle, gap aşağıda 320 savunulmazsa sat. Yeni ekleme için XU100 11.935 üstü yerleşme şart.",
- "sonraki_tura_mesaj": "THYAO ana pozisyon: 320 altı veya XU100 11.800 altı çık; 328-332 bandında hacme göre kâr al. ASELS'e ancak 361.75 üstü hacimli geri dönüşte bak.",
+ "notlar": "ASELS denemesi 361.75 üstü hacimli teyit alamadı ve 354 altı stopla kapandı. Portföy THYAO ağırlıklı ve nakit destekli: tez, havacılıkta kısa vadeli relatif momentumun sürmesi. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil; hacim ve relatif güç şart. Bugün BIST açılışında THYAO 320 savunması ve XU100 11.800 eşiği belirleyici.",
+ "plan": "THYAO için 320 altı 15dk kapanış veya XU100 11.800 altı zayıflamada çık. 328-332 bandına hacimsiz yükselişte kâr al; hacimli kırılımda 335'e kadar taşı. Yeni ekleme için XU100 11.935 üstü yerleşme şart. BIST verisi gelene kadar nakdi kripto/emtia zayıf tepkilerine harcama.",
+ "sonraki_tura_mesaj": "İlk iş THYAO açılış fiyatı, 320 desteği ve XU100 11.800 kontrolü; veri uygunsa stop/kâr planını uygula, kriptoya ancak BTC 66k üstü güçte bak.",
  "izleme_listesi": [
   "THYAO.IS",
+  "XU100.IS",
   "PGSUS.IS",
   "TAVHL.IS",
   "ASELS.IS",
-  "BIMAS.IS",
   "GARAN.IS",
   "AKBNK.IS",
   "USDTRY=X",
@@ -16,15 +16,13 @@
   "GC=F",
   "CL=F"
  ],
- "son_yorum": "BIST hafif pozitif ama seçici; ASELS gün içi zirveden geri çekilip hacimsizleşti, THYAO ise kapanışa doğru yüksek hacimle zirveye yakın kalıyor. Kripto ve emtia zayıf, USDTRY sakin; kısa vadede en temiz momentum BIST içinde havacılıkta.",
+ "son_yorum": "Küresel risk iştahı zayıf; kripto düşüş trendinde ve tepki hacmi yok, altın gün içi toparlansa da düşük hacimli. USDTRY zirvede ama al-sat için oynaklık yetersiz. BIST güne temkinli/zayıf başlamış görünüyor; THYAO için açılış teyidi kritik.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: ASELS.IS 12.5523 adet (%100), birim 355.0000 TL, eline geçen 4447.15 TL, kâr/zarar -61.85 TL",
-  "ALINDI: THYAO.IS 18.5328 adet, birim 323.7500 TL, tutar 6000.00 TL + komisyon 12.00 TL",
-  "Sonraki kontrol: 2026-11-17 10:05"
+  "Sonraki kontrol: 2026-11-17 10:31 (istediğin: 2026-11-17 10:31; en az 30 dakika sonrası olmalı)"
  ]
 }
