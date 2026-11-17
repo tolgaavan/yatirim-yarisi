@@ -36,8 +36,8 @@
   "neden": "Çarşamba günü hem BIST/TL kurları hem ABD piyasaları açıkken SGOV, kur ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-17T13:15:00+03:00",
-  "neden": "Öğle sonrası BIST’te 11.800 altı kırılımın kalıcı mı yoksa tuzak mı olduğunu ve havacılık hisselerinde hacmin sürüp sürmediğini görmek için."
+  "sonraki": "2026-11-17T15:15:00+03:00",
+  "neden": "Öğleden sonra BIST’te 11.800 geri kazanımı ve havacılık hisselerinde hacim teyidi oluşup oluşmadığını görmek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
