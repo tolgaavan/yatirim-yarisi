@@ -16,8 +16,8 @@
   "neden": "ABD kısa vadeli Hazine ETF'i ve dolar kurunu izlemek için hafta ortası rutin kontrol."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-17T12:00:00+03:00",
-  "neden": "THYAO momentumunun sürüp sürmediğini ve hacim desteğini 1 saat sonra kontrol etmek için."
+  "sonraki": "2026-11-17T13:00:00+03:00",
+  "neden": "THYAO 15dk RSI ve fiyatının stop/hedef şartlarını kontrol etmek, PGSUS yükselişinin sürdürülebilirliğini teyit etmek."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
