@@ -5,12 +5,12 @@
   "ASELS.IS": {
    "adet": 11.142061281337048,
    "maliyet_tl": 4008.0,
-   "son_fiyat_tl": 351.25
+   "son_fiyat_tl": 351.0
   },
   "THYAO.IS": {
    "adet": 9.174311926605505,
    "maliyet_tl": 3006.0,
-   "son_fiyat_tl": 327.0
+   "son_fiyat_tl": 326.5
   }
  },
  "odenen_komisyon_tl": 14.0

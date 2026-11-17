@@ -1,6 +1,12 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 10000.0,
- "pozisyonlar": {},
- "odenen_komisyon_tl": 0.0
+ "nakit_tl": 7996.0,
+ "pozisyonlar": {
+  "THYAO.IS": {
+   "adet": 6.1255742725880555,
+   "maliyet_tl": 2004.0,
+   "son_fiyat_tl": 326.5
+  }
+ },
+ "odenen_komisyon_tl": 4.0
 }

@@ -1,22 +1,22 @@
 {
- "notlar": "17.11 10:01 THYAO verisi yok; QQQ/SPY kapalı; kripto zayıf (BTC RSI24, ETH RSI26, SOL RSI22). Düşen bıçak tutulmaz. Sermaye 10,000 TL nakitte.",
- "plan": "11:00 THYAO 15dk hacim>1.5 ve RSI<70 ise %20 al. Olmazsa ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa %20 al; ETH/SOL için RSI>60 hacim1.2+ şartı sürer. Tek pozisyonla başla, komisyonu dikkate al.",
- "sonraki_tura_mesaj": "11:00 THYAO hacim/RSI şartını kontrol et; olmazsa ABD açılışına kadar bekle.",
+ "notlar": "17.11 11:01 THYAO 2000 TL alındı (maliyet ~326.5). Gerekçe: 15dk hacim 2.0x, RSI 65. Hedef 335-340, stop 318. Kalan nakit 8000 TL. Dolar rekor, kripto zayıf; BIST havacılık güçlü.",
+ "plan": "THYAO: 15dk RSI>75 veya fiyat 320 altına inerse sat; 340 üzerinde kısmi sat. ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim1.5+ olursa %20 al; ETH/SOL 15dk RSI>60 ve hacim1.2+ şartıyla alınabilir.",
+ "sonraki_tura_mesaj": "THYAO: 15dk RSI>75 veya fiyat 320 altına inerse sat; değilse pozisyonu tut.",
  "izleme_listesi": [
   "THYAO.IS",
+  "ADA-USD",
   "QQQ",
   "SPY",
-  "ETH-USD",
-  "SOL-USD",
-  "ADA-USD"
+  "PGSUS.IS"
  ],
- "son_yorum": "BIST yeni açıldı, THYAO verisi bu turda yok; kriptoda BTC -%1.18, ETH RSI 26, SOL RSI 22 ile düşüş trendi sürüyor. ABD piyasaları kapalı. Düşen bıçak tutulmaz, nakitte kalmak en doğrusu.",
+ "son_yorum": "BIST 100 yatay, dolar 20 ayın rekorunda, kripto zayıf. THYAO havacılık momentumuyla 15dk hacim normalin 2 katı, RSI 65; kısa vadeli alım için uygun.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-17 11:00"
+  "ALINDI: THYAO.IS 6.12557 adet, birim 326.5000 TL, tutar 2000.00 TL + komisyon 4.00 TL",
+  "Sonraki kontrol: 2026-11-17 12:00"
  ]
 }
