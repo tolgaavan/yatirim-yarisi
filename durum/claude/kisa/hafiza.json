@@ -1,7 +1,7 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (~-%4). Ders: haberle gelen boşluklu açılışa ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı (323 kırılımı, 1,6x hacim), 6 aylık zirve ~348. PGSUS: 3 milyar TL geri alım kararı var, 163'te boşlukla açıldı, 17.11'de 160,7-160,9'a geriledi. Havacılık göreli güçlü. KONTR'den uzak dur. Kripto ve altın düşüş trendinde. ASTOR ve SAHOL MSCI'dan çıkıyor. Nakdi dolara park etmek yalnızca bir haftadan uzun beklenecekse mantıklı (komisyon %0,4, dolar ayda ~%1,8 artıyor).",
- "plan": "THYAO: stop 317. 338-340'ta yarısını sat ve stopu 327'ye çek, 348'de kalanını sat. Nvidia sonucu kötü gelir ve BIST 100 11.700'ü kırarsa stopu 320'ye çek. PGSUS: yalnızca 159-160'ta tutunur ve endeks 11.800 üstüne dönerse ~3.500 TL ile al, stop 155. 158 altına inerse PGSUS fikrinden vazgeç. Nakit uzun süre boşta kalacaksa USDTRY'yi değerlendir.",
- "sonraki_tura_mesaj": "THYAO maliyeti 327, stop 317; 338-340'ta yarısını sat. Nakit ~6.830 TL. BIST 100 kapanışı 11.800 altındaysa bugün yeni alım yok. PGSUS'u yalnızca 159-160'ta tutunur ve endeks toparlanırsa al, stop 155. Nvidia sonucu bu gece açıklanacak, yarın sabah ilk iş kontrol et.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberle gelen boşluklu açılışa ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı (323 kırılımı, 1,6x hacim). Gün içinde 329,75'i gördü, 321,75'e döndü; geri çekilme 0,5x hacimle oldu. 6 aylık zirve ~348. JPMorgan THYAO ve BIMAS için olumlu. PGSUS: 3 milyar TL geri alım kararı var, 163'te boşlukla açıldı, 17.11'de 158,5'e indi ve 159-160 desteğini kaybetti. KONTR'den uzak dur. Kripto ve altın düşüş trendinde. ASTOR ve SAHOL MSCI'dan çıkıyor. Nakdi dolara park etmek yalnızca bir haftadan uzun beklenecekse mantıklı. Stoplar yalnızca kontrol anında uygulanabiliyor, gece boşluk riski var.",
+ "plan": "THYAO: kapanışa göre stop 317. 323 üstüne hacimle dönerse tut, 338-340'ta yarısını sat ve stopu 327'ye çek, 348'de kalanını sat. Nvidia kötü gelir ve BIST 100 11.650'yi kırarsa THYAO'yu 320 civarında kapat. PGSUS: 158 altında kalırsa fikri bırak. Yalnızca 160 üstüne hacimle dönerse ve endeks 11.800'ü aşarsa al, stop 155. Endeks 11.900'ü hacimle aşarsa en güçlü hisseye ikinci pozisyon aç.",
+ "sonraki_tura_mesaj": "Önce Nvidia sonucuna ve ABD vadelilerine bak. THYAO maliyeti 327, stop 317. Açılışta 317 altındaysa hemen sat. 323 üstüne hacimle dönerse tut. Nakit ~6.828 TL. BIST 100 11.800 üstüne dönmeden yeni alım yok. PGSUS'u 158 altında bırak.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
@@ -16,15 +16,16 @@
   "USDTRY=X",
   "BTC-USD",
   "GC=F",
-  "TTKOM.IS"
+  "TTKOM.IS",
+  "NVDA"
  ],
- "son_yorum": "BIST 100 gün içinde 11.907'den 11.701'e düştü, şu an 11.725'te ve 15 dakikalık RSI 37. Satış baskısı var ama hacim düşük (normalin 0,3-0,6 katı), panik yok. Havacılık hisseleri endeksten güçlü duruyor. Kripto ve altın düşüş trendinde. Bu gece açıklanacak Nvidia sonucu yarın sabah risk iştahını belirleyecek. Dolar yavaş ve istikrarlı yükseliyor.",
+ "son_yorum": "BIST 100 güne 11.907'yi test ederek başladı, sonra 11.708'e geriledi ve yine 11.800'ün altında kaldı. Endeks yönsüz ve satış hacmi zayıf. Havacılık göreli güçlü ama gün içinde kâr satışı yedi. ABD'de VIX 23, 10 yıllık faiz %5,1. Bu gece Nvidia sonucu teknoloji ve risk iştahı için belirleyici olacak. Kripto ve altın düşüş trendinde.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-17 17:35"
+  "Sonraki kontrol: 2026-11-18 10:30"
  ]
 }
