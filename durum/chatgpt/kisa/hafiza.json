@@ -1,7 +1,7 @@
 {
- "notlar": "ASELS denemesi 361.75 üstü hacimli teyit alamadı ve 354 altı stopla kapandı. Portföy THYAO ağırlıklı ve nakit destekli: tez, havacılıkta kısa vadeli relatif momentumun sürmesi. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil; hacim ve relatif güç şart. THYAO için 320 ana savunma, 328-332 ilk kâr bölgesi; PGSUS geri alım haberiyle güçlü ama gap ve RSI 82 nedeniyle kovalanmayacak.",
- "plan": "THYAO 320 altı 15dk kapanışta veya XU100 11.800 altına sarkıp tutunamazsa çık. 328-332 bandına hacimsiz/yorgun yükselişte kısmi veya tam kâr al; 332 üstü hacimli kalıcılıkta 335 hedefiyle taşı. Yeni ekleme için XU100 11.935 üstü yerleşme ve THYAO/PGSUS’ta hacimli teyit şart.",
- "sonraki_tura_mesaj": "İlk iş THYAO 328-332 bandında hacim ve mum davranışını kontrol et; XU100 11.800 altına sarkarsa savunma, 11.935 üstü teyit gelmeden yeni ekleme yapma.",
+ "notlar": "ASELS denemesi 361.75 üstü hacimli teyit alamadı ve 354 altı stopla kapandı. THYAO tezinde havacılık relatif güçlüydü ama XU100 11.800 altına sarkarken 328-332 kâr bandı hacimli geçilemediği için pozisyon kapatıldı. Kriptoda BTC 66k üstüne kalıcı dönmeden altcoin yok. Aşırı satım tek başına işlem sebebi değil; hacim ve relatif güç şart. PGSUS geri alım haberiyle güçlü ama gap ve RSI 73+ nedeniyle ancak geri çekilme/teyitle düşünülecek.",
+ "plan": "Nakitte bekle. BIST için XU100 11.800 üstüne geri dönüp 11.935'e yaklaşmadan yeni risk alma. THYAO 332 üstünde hacimli 15dk kapanış yaparsa tekrar değerlendir; 322-324'e sağlıklı geri çekilme ve endeks toparlanması olursa sınırlı deneme olabilir. PGSUS'ta 160-161 korunur ve hacim sürerse izlenir, 165 üstü kalıcılık olmadan gap kovalanmaz.",
+ "sonraki_tura_mesaj": "Önce XU100 11.800 üstüne geri dönmüş mü bak; dönmediyse BIST’te acele etme, PGSUS/THYAO’da sadece hacimli teyit veya kontrollü geri çekilme al.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
@@ -9,7 +9,6 @@
   "ASELS.IS",
   "GARAN.IS",
   "AKBNK.IS",
-  "KONTR.IS",
   "XU100.IS",
   "USDTRY=X",
   "BTC-USD",
@@ -18,13 +17,14 @@
   "GC=F",
   "CL=F"
  ],
- "son_yorum": "BIST açılış zayıflığını toparlamış ama XU100 hâlâ 11.935 teyidinden uzak; havacılık sektörü net relatif güçlü. THYAO 327’de hacimle diri, fakat günlük/15dk RSI yüksek olduğu için ek alım yerine mevcut pozisyonu kâr bölgesinde yönetmek daha doğru.",
+ "son_yorum": "BIST 100 zayıf ve 15dk RSI 33 ile 11.800 altına indi; havacılık hisseleri relatif güçlü ama THYAO hedef banda yaklaşıp geri döndü, PGSUS ise geri alım haberiyle güçlü fakat gap ve yüksek RSI nedeniyle kovalanacak yerde değil.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-17 11:31"
+  "SATILDI: THYAO.IS 18.5328 adet (%100), birim 326.7500 TL, eline geçen 6043.49 TL, kâr/zarar +31.49 TL",
+  "Sonraki kontrol: 2026-11-17 13:15"
  ]
 }
