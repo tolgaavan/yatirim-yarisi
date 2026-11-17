@@ -378,16 +378,16 @@
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-17",
 "v": {
 "ad": "TUPRAS",
-"fk": 5.4,
+"fk": 5.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.32,
-"piyasa_degeri": 691719634944,
+"pddd": 1.28,
+"piyasa_degeri": 670043209728,
 "sektor": "Energy",
-"temettu_%": 3.76,
+"temettu_%": 3.79,
 "tur": "EQUITY"
 }
 },

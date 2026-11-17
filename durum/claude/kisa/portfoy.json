@@ -1,17 +1,12 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 2986.0,
+ "nakit_tl": 6827.883008356546,
  "pozisyonlar": {
-  "ASELS.IS": {
-   "adet": 11.142061281337048,
-   "maliyet_tl": 4008.0,
-   "son_fiyat_tl": 349.5
-  },
   "THYAO.IS": {
    "adet": 9.174311926605505,
    "maliyet_tl": 3006.0,
-   "son_fiyat_tl": 327.5
+   "son_fiyat_tl": 326.0
   }
  },
- "odenen_komisyon_tl": 14.0
+ "odenen_komisyon_tl": 21.6991643454039
 }

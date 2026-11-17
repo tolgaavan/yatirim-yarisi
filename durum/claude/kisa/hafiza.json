@@ -1,30 +1,31 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. ASELS: 16.11'de 4.000 TL ile ~359'dan alındı (sözleşme haberi), stop 347. 17.11 açılışta 351, hacim 0,8x, ivmesini kaybediyor. THYAO: 17.11 10:31'de 3.000 TL ile ~327'den alındı (323 kırılımı, 1,6x hacim). RSI14 74, 20 günlük ortalamanın %17 üstünde, yani gergin. 6 aylık zirve ~348. PGSUS: 16.11 akşamı 3 milyar TL geri alım kararı (piyasa değerinin ~%4'ü), 163'te boşlukla açıldı. KONTR çok oynak, uzak dur. Kripto ve altın düşüş trendinde. ASTOR ve SAHOL MSCI'dan çıkıyor.",
- "plan": "THYAO: stop 317 (sıkışma bölgesinin altı). 338-340'ta yarısını sat ve stopu maliyete (327) çek, 348'de kalanını sat. ASELS: 347 altında tamamını sat. Perşembe kapanışına kadar 359'u geri alamazsa sat ve parayı THYAO'ya ya da PGSUS'a kaydır. 370'te yarısını sat. PGSUS: 159-160'a geri çekilip tutunursa ve ASELS çıkmışsa al, stop 155. BIST 100 11.800 altında kapanırsa yeni alım yok.",
- "sonraki_tura_mesaj": "Pozisyonlar: THYAO maliyeti ~327, stop 317, hedef 338-340'ta yarısını sat. ASELS maliyeti ~359, stop 347, Perşembe'ye kadar 359'u alamazsa çık. Önce iki stopu kontrol et. PGSUS'a yalnızca ASELS satıldıktan sonra ve 159-160 geri çekilmesinde bak. Nvidia sonuçlarından önce yeni risk ekleme.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. ASELS: 16.11'de 359'dan alındı, 17.11'de 345,5'ten stopla satıldı (~-%4). Ders: haberle gelen boşluklu yükselişe ilk gün girmek riskli, ivme hemen söndü. THYAO: 17.11'de 3.000 TL ile ~327'den alındı (323 kırılımı, 1,6x hacim). RSI 74, gergin. 6 aylık zirve ~348. PGSUS: 3 milyar TL geri alım kararı var, 163'te boşlukla açıldı, gün içi dibi 160,9. Havacılık sektörü göreli güçlü. KONTR çok oynak, uzak dur. Kripto ve altın düşüş trendinde. ASTOR ve SAHOL MSCI'dan çıkıyor.",
+ "plan": "THYAO: stop 317. 338-340'ta yarısını sat ve stopu 327'ye çek, 348'de kalanını sat. Nakit ~6.800 TL. PGSUS 159-160'a çekilip tutunursa ~3.500 TL ile al, stop 155. Ancak BIST 100 11.800 altında kapanırsa yarına kadar yeni alım yok. Nvidia sonucu kötü gelir ve endeks 11.700'ü kırarsa THYAO stopunu 320'ye sıkılaştır. Nakitte kalmak bedava değil; teyit gelirse beklemeyi uzatma.",
+ "sonraki_tura_mesaj": "ASELS stopla satıldı, eldeki nakit ~6.800 TL. THYAO maliyeti 327, stop 317, 338-340'ta yarısını sat. PGSUS'u yalnızca 159-160'ta tutunursa al, stop 155. Endeks 11.800 altında kapanırsa yeni alım yok. Nvidia sonucunu kontrol et.",
  "izleme_listesi": [
-  "ASELS.IS",
   "THYAO.IS",
   "PGSUS.IS",
-  "XU100.IS",
-  "XU030.IS",
-  "BIMAS.IS",
+  "ASELS.IS",
+  "TAVHL.IS",
   "GARAN.IS",
   "AKBNK.IS",
+  "BIMAS.IS",
   "TTKOM.IS",
   "TUPRS.IS",
+  "XU100.IS",
+  "XU030.IS",
   "USDTRY=X",
   "BTC-USD",
   "GC=F"
  ],
- "son_yorum": "BIST 100 11.850'de yatay, 11.800 desteği korunuyor. Asya'da Nvidia öncesi çip kısıtlaması satış getirdi, kripto ve emtia zayıf. Göreli güç havacılıkta: PGSUS 3 milyar TL geri alımla %5 boşluklu açıldı, THYAO 323 direncini hacimle kırdı. Bankalar yatay, ASELS sözleşme sonrası soğuyor. Gece Nvidia sonuçları ana risk.",
+ "son_yorum": "BIST 100 sabah 11.907'yi gördü, sonra 11.760'a geriledi. 11.800 altı zayıf ama hacim düşük, panik yok. Havacılık göreli olarak güçlü: THYAO ve PGSUS artıda, ASELS ile TUPRS ise endeksi aşağı çekiyor. ABD vadelileri Nvidia öncesi temkinli. Kripto ve altın düşüş trendinde. Dolar/TL yavaş ama kesintisiz yükseliyor.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: THYAO.IS 9.17431 adet, birim 327.0000 TL, tutar 3000.00 TL + komisyon 6.00 TL",
-  "Sonraki kontrol: 2026-11-17 13:00"
+  "SATILDI: ASELS.IS 11.1421 adet (%100), birim 345.5000 TL, eline geçen 3841.88 TL, kâr/zarar -166.12 TL",
+  "Sonraki kontrol: 2026-11-17 15:30"
  ]
 }
