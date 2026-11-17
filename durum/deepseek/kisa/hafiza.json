@@ -1,19 +1,21 @@
 {
- "notlar": "THYAO 6.12557 adet, maliyet 326.5, güncel 326.0. Stop 320, hedef 335-340. 15dk RSI 56, hacim 0.4x. PGSUS 15dk RSI 62, hacim 0.6x; 60 altına çekilmeden alma. Kripto zayıf, dolar 50.34.",
- "plan": "THYAO 15dk RSI>75 veya fiyat 320 altına inerse sat; 340 üzerinde %50 kısmi sat. PGSUS 15dk RSI 60 altı ve hacim 1x üzeri olursa geçişi değerlendir. ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa %20 al.",
- "sonraki_tura_mesaj": "THYAO 15dk RSI>75 veya fiyat 320 altına inerse sat; 340 üzerinde kısmi sat. PGSUS'ta 15dk RSI 60 altına çekilmeden alım yapma. ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa %20 al.",
+ "notlar": "THYAO 6.12557 adet, maliyet 326.5, güncel 322.0, zarar -%1.6. Stop 320, hedef 335-340. 15dk RSI 40, hacim 0.4x. PGSUS 15dk RSI 32, hacim 0.5x; 60 altı. Kripto zayıf, USD 50.40. JPMorgan THYAO'yu radarına aldı.",
+ "plan": "THYAO 320 altına inerse sat; 340 üzerinde %50 kısmi sat. PGSUS 15dk RSI 60 üzeri ve hacim 1x+ olursa al. ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa %20 al.",
+ "sonraki_tura_mesaj": "THYAO 320 altına inerse sat; 340 üzerinde %50 sat. PGSUS 15dk RSI 60 altı. QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa al.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
-  "ADA-USD"
+  "ADA-USD",
+  "QQQ",
+  "SPY"
  ],
- "son_yorum": "BIST günü eksi seyrederken THYAO görece güçlü; ancak hacmi düşük (0.4x) ve 15dk RSI 56. PGSUS geri alım haberiyle yükselse de 15dk RSI 62 ile henüz alım bölgesinde değil. Kripto zayıf, dolar rekor seviyede.",
+ "son_yorum": "BIST 100 gün -%1.16 ile zayıf; THYAO 15dk RSI 40, hacim 0.4x ile stopa yakın 322. ABD'de VIX 22.8 ve Nvidia belirsizliği; kriptoda SOL tepki gösterse de genel düşüş trendi sürüyor.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-17 17:45"
+  "Sonraki kontrol: 2026-11-18 10:00"
  ]
 }
