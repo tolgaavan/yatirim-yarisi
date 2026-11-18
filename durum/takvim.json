@@ -36,8 +36,8 @@
   "neden": "Çarşamba günü hem BIST/TL kurları hem ABD piyasaları açıkken SGOV, kur ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-18T11:30:00+03:00",
-  "neden": "BIST ilk saat hacmi ve yönü netleşsin; kırılım gelirse gün içi fırsat değerlendirilebilir."
+  "sonraki": "2026-11-18T13:15:00+03:00",
+  "neden": "BIST’te öğle öncesi yönün netleşmesi ve THYAO/XU100 kırılım teyidi olup olmadığını görmek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
