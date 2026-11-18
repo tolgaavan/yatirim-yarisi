@@ -36,8 +36,8 @@
   "neden": "Çarşamba günü hem BIST/TL kurları hem ABD piyasaları açıkken SGOV, kur ve risk iştahını birlikte değerlendirmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-18T15:15:00+03:00",
-  "neden": "BIST kapanışa yaklaşmadan 11.700 direncinin kalıcı kırılıp kırılmadığını ve hacim teyidini görmek için."
+  "sonraki": "2026-11-19T10:01:00+03:00",
+  "neden": "Bugünkü kontrol hakkı dolduğu ve teyitsiz kapanış öncesi işlem riskli olduğu için yarın BIST açılışındaki yön ve hacim görülmeli."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",

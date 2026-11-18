@@ -125,6 +125,20 @@
 "tur": "EQUITY"
 }
 },
+"FROTO.IS": {
+"tarih": "2026-11-18",
+"v": {
+"ad": "FORD OTOSAN",
+"fk": 8.4,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 1.32,
+"piyasa_degeri": 258796126208,
+"sektor": "Consumer Cyclical",
+"temettu_%": 13.51,
+"tur": "EQUITY"
+}
+},
 "GARAN.IS": {
 "tarih": "2026-11-18",
 "v": {
@@ -196,14 +210,14 @@
 }
 },
 "KONTR.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "KONTROLMATIK TEKNOLOJI",
 "fk": null,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.62,
-"piyasa_degeri": 3288999936,
+"pddd": 0.7,
+"piyasa_degeri": 3678999808,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
