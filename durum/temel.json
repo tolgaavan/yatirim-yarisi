@@ -98,16 +98,16 @@
 }
 },
 "BIMAS.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "BIM MAGAZALAR",
 "fk": 14.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 2.11,
-"piyasa_degeri": 466803949568,
+"piyasa_degeri": 467395608576,
 "sektor": "Consumer Defensive",
-"temettu_%": 1.77,
+"temettu_%": 1.78,
 "tur": "EQUITY"
 }
 },
@@ -210,16 +210,16 @@
 }
 },
 "NVDA": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-18",
 "v": {
 "ad": "NVIDIA Corporation",
-"fk": 20.6,
+"fk": 19.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 17.17,
-"piyasa_degeri": 3932339044352,
+"pddd": 16.39,
+"piyasa_degeri": 3753892642816,
 "sektor": "Technology",
-"temettu_%": 0.61,
+"temettu_%": 0.64,
 "tur": "EQUITY"
 }
 },
@@ -392,16 +392,16 @@
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "TUPRAS",
-"fk": 5.2,
+"fk": 5.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.28,
-"piyasa_degeri": 670043209728,
+"pddd": 1.27,
+"piyasa_degeri": 663781113856,
 "sektor": "Energy",
-"temettu_%": 3.79,
+"temettu_%": 3.91,
 "tur": "EQUITY"
 }
 },
@@ -462,7 +462,7 @@
 }
 },
 "XU030.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "BIST 30",
 "fk": null,

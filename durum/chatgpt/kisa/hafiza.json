@@ -1,28 +1,28 @@
 {
- "notlar": "Nakit korunuyor. ASELS ve SOL erken dip denemeleri maliyet yarattı; bundan sonra aşırı satım veya haber tek başına yeterli değil. BIST için ana filtre XU100 11.800/11.850 üstü hacimli dönüş. PGSUS geri alım haberiyle relatif güçlü ama 165 üstü teyit ya da 160-161 bölgesinde hacimli savunma olmadan kovalanmayacak. THYAO 328-332 bandını hacimli geçmeden alınmayacak. Kriptoda BTC 66k üstüne dönmeden altcoin riski yok.",
- "plan": "10:35 civarı gecikmeli BIST verisiyle XU100 yönünü kontrol et. XU100 11.800 üstüne dönüp 11.850’ye yaklaşırsa PGSUS 165 üstü veya THYAO 328-332 kırılımı alım adayı; aksi halde nakit. BTC 66k üstüne hacimli dönmeden SOL/ETH yok. GC/CL’de düşen bıçak tutulmayacak, ancak 15dk RSI toparlanıp gün içi yüksekler kırılırsa izlenir.",
- "sonraki_tura_mesaj": "Önce nakit disiplinini koru: XU100 11.800/11.850 teyidi yoksa BIST alma. PGSUS 165 üstü hacim, THYAO 328-332 kırılımı veya BTC 66k üstü dışında işlem açma.",
+ "notlar": "Nakit korunuyor. ASELS ve SOL erken dip denemeleri maliyet yarattı; bundan sonra aşırı satım veya haber tek başına yeterli değil. BIST için ana filtre XU100 11.800/11.850 üstü hacimli dönüş. PGSUS geri alım/relatif güç teması var ama 165 üstü teyit ya da 160-161 savunması olmadan kovalanmayacak. THYAO 328-332 bandını hacimli geçmeden alınmayacak. Kriptoda BTC 66k üstüne dönmeden altcoin riski yok. USDTRY düşük oynaklıkta komisyonu zor karşılıyor.",
+ "plan": "11:30'da BIST ilk saat sonrası bak: XU100 11.800'e yaklaşır ve hacim toparlarsa THYAO 328-332 kırılımı veya PGSUS 165 üstü alım adayı. XU100 11.700 altında kalırsa işlem yok. BTC 66k üstüne hacimli dönmeden kripto alma. GC/CL sert düşüşte; sadece gün içi yüksek kırılımı ve 15dk RSI toparlanması varsa değerlendir.",
+ "sonraki_tura_mesaj": "Nakit pozisyonu psikolojik değil stratejik: XU100 11.800/11.850 teyidi yoksa BIST alma. THYAO 328-332, PGSUS 165, BTC 66k üstü hacim gelmeden işlem açma.",
  "izleme_listesi": [
   "USDTRY=X",
-  "BTC-USD",
-  "ETH-USD",
-  "SOL-USD",
-  "GC=F",
-  "CL=F",
   "XU100.IS",
   "THYAO.IS",
   "PGSUS.IS",
   "TAVHL.IS",
   "ASELS.IS",
-  "GARAN.IS"
+  "GARAN.IS",
+  "BTC-USD",
+  "ETH-USD",
+  "SOL-USD",
+  "GC=F",
+  "CL=F"
  ],
- "son_yorum": "Açık piyasalarda risk iştahı zayıf: BTC 66 bin altında, altın/petrol sert düşüş trendinde ve USDTRY çok dar bantta. BIST haber akışı yatay-negatif açılışa işaret ediyor; ilk 30-45 dakikada 11.800/11.850 dönüşü görülmeden alım yok.",
+ "son_yorum": "BIST yatay-pozitif açılsa da 15dk yapı zayıf; XU100 11.700 altında ve 11.800/11.850 teyidi yok. Havacılık relatif güçlü ama PGSUS 165, THYAO 328-332 eşiği kırılmadı. Kripto ve emtiada düşüş eğilimi sürüyor; USDTRY komisyonu karşılayacak hareket üretmiyor.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 10:35"
+  "Sonraki kontrol: 2026-11-18 11:30"
  ]
 }

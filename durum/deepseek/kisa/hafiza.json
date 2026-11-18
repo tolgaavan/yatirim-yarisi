@@ -1,7 +1,7 @@
 {
- "notlar": "THYAO 6.12557 adet, maliyet 326.5, son 322.0, stop 320, hedef 335-340. BIST kapalı/veri yok, satış yapılamadı. USDTRY 50.44. Kripto SOL +%4.4, XRP +%3.3 tepki veriyor; ancak BTC/ETH haftalık düşüş trendinde. ADA RSI 28 ama hacim yok. Emtia zayıf. Komisyon %0.2.",
- "plan": "BIST açılış verisi gelince THYAO 320 altı ise tamamını sat, 340 üzeri ise yarısını sat. SOL/XRP için 15dk RSI>60 ve saatlik hacim normale göre >1.0 olursa küçük al; aksi halde bekle. ABD açılışında QQQ/SPY teyidi izle.",
- "sonraki_tura_mesaj": "THYAO 320 altı tam sat, 340 üstü yarı sat. SOL/XRP 15dk RSI>60 + hacim >1x ise al. BIST verisini kontrol et.",
+ "notlar": "THYAO.IS 6.12557 adet, maliyet 326.5, son 326.25, stop 320, hedef 335-340. BIST açık; THYAO 15dk RSI 63, hacim 1.3x. XRP 15dk RSI 68 ama saatlik hacim 0.5x; SOL RSI 55 hacim 0.1x; ADA hacim 0.0x. USDTRY 50.44. QQQ/SPY kapalı. Komisyon %0.2.",
+ "plan": "THYAO 320 altına inerse tamamını sat; 340 üzerine çıkarsa yarısını sat. XRP/SOL için 15dk RSI>60 VE saatlik hacim normalin >1.0 katı olursa küçük al. ABD açılışında QQQ/SPY yönünü teyit etmeden yeni pozisyon açma.",
+ "sonraki_tura_mesaj": "THYAO 320 altı tam sat, 340 üstü yarı sat. XRP/SOL'da 15dk RSI>60 + hacim >1x şartı aynen geçerli. BIST ve kripto hacimlerini kontrol et.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
@@ -11,13 +11,13 @@
   "QQQ",
   "SPY"
  ],
- "son_yorum": "BIST 100 yatay-negatif açıldı, THYAO teknik olarak 320 stop sınırına yakın ancak verisi bu turda yok. Kriptoda haftalık düşüşe rağmen SOL (+%4.4) ve XRP (+%3.3) günlük sıçrama yapıyor; emtia sert düşüyor, dolar yatay. Erken giriş için 15 dakikalık RSI ve hacim teyidi yok; beklemek en temizi.",
+ "son_yorum": "BIST 100 yatay (+%0.12), THYAO açılışta +%0.85 ve hacmi normalin 1.3 katı; ancak RSI14 74 ile aşırı alım bölgesinde. Kriptoda XRP 15dk RSI 68 olmasına rağmen saatlik hacim 0.5x ile teyit vermiyor; SOL/ADA hacimleri de zayıf. Fed'in şahin mesajlarıyla dolar güçlü, emtia ve altın baskılı, küresel risk iştahı karışık. Mevcut pozisyon için plan geçerli.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 10:35"
+  "Sonraki kontrol: 2026-11-18 13:00"
  ]
 }
