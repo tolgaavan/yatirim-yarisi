@@ -1,15 +1,15 @@
 {
 "AKBNK.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "AKBANK",
-"fk": 5.7,
+"fk": 5.5,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.1,
-"piyasa_degeri": 363480023040,
+"pddd": 1.09,
+"piyasa_degeri": 359060013056,
 "sektor": "Financial Services",
-"temettu_%": 3.15,
+"temettu_%": 3.19,
 "tur": "EQUITY"
 }
 },
@@ -42,14 +42,14 @@
 }
 },
 "ASELS.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "ASELSAN",
-"fk": 36.7,
+"fk": 33.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 4.81,
-"piyasa_degeri": 1609680027648,
+"pddd": 4.65,
+"piyasa_degeri": 1557239955456,
 "sektor": "Industrials",
 "temettu_%": 0.12,
 "tur": "EQUITY"
@@ -126,14 +126,14 @@
 }
 },
 "GARAN.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "GARANTI BANKASI",
-"fk": 5.2,
+"fk": 5.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.21,
-"piyasa_degeri": 630420013056,
+"pddd": 1.2,
+"piyasa_degeri": 624539992064,
 "sektor": "Financial Services",
 "temettu_%": 3.51,
 "tur": "EQUITY"
@@ -224,27 +224,27 @@
 }
 },
 "PGSUS.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "PEGASUS",
-"fk": 463.2,
+"fk": 467.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 0.6,
-"piyasa_degeri": 78749999104,
+"piyasa_degeri": 79400001536,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
 }
 },
 "QQQ": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "Invesco QQQ Trust, Series 1",
-"fk": 27.3,
+"fk": 27.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.85,
+"pddd": 1.84,
 "piyasa_degeri": 463833595904,
 "sektor": null,
 "temettu_%": 0.45,
@@ -308,13 +308,13 @@
 }
 },
 "SPY": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "State Street SPDR S&P 500 ETF T",
-"fk": 23.5,
+"fk": 23.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.72,
+"pddd": 1.71,
 "piyasa_degeri": 796865200128,
 "sektor": null,
 "temettu_%": 1.0,
@@ -322,42 +322,42 @@
 }
 },
 "TAVHL.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "TAV HAVALIMANLARI",
-"fk": 14.3,
+"fk": 14.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.15,
-"piyasa_degeri": 110437498880,
+"pddd": 1.14,
+"piyasa_degeri": 109983399936,
 "sektor": "Industrials",
 "temettu_%": 1.19,
 "tur": "EQUITY"
 }
 },
 "TCELL.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "TURKCELL",
-"fk": 9.6,
+"fk": 9.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 0.63,
-"piyasa_degeri": 211114934272,
+"piyasa_degeri": 209591435264,
 "sektor": "Communication Services",
 "temettu_%": 4.17,
 "tur": "EQUITY"
 }
 },
 "THYAO.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "TURK HAVA YOLLARI",
 "fk": 4.5,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 19.2,
-"piyasa_degeri": 443933687808,
+"pddd": 19.12,
+"piyasa_degeri": 442218315776,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -378,14 +378,14 @@
 }
 },
 "TTKOM.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "TURK TELEKOM",
 "fk": 6.5,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.63,
-"piyasa_degeri": 180250001408,
+"pddd": 0.62,
+"piyasa_degeri": 178849988608,
 "sektor": "Communication Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -476,7 +476,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-17",
+"tarih": "2026-11-18",
 "v": {
 "ad": "BIST 100",
 "fk": null,

@@ -1,31 +1,28 @@
 {
  "notlar": "Nakit korunuyor. ASELS ve SOL erken dip denemeleri maliyet yarattı; bundan sonra aşırı satım veya haber tek başına yeterli değil. BIST için ana filtre XU100 11.800/11.850 üstü hacimli dönüş. PGSUS geri alım haberiyle relatif güçlü ama 165 üstü teyit ya da 160-161 bölgesinde hacimli savunma olmadan kovalanmayacak. THYAO 328-332 bandını hacimli geçmeden alınmayacak. Kriptoda BTC 66k üstüne dönmeden altcoin riski yok.",
- "plan": "Yarın açılışta önce XU100 11.800 üstüne dönüyor mu bak. 11.850 üstü kalıcılık ve hacim gelirse PGSUS 165 üstü veya THYAO 328-332 kırılımı aday. Endeks zayıf kalırsa BIST alma. BTC 66k üstüne dönmeden SOL/ETH yok. Petrol 86.5 üstü hacimli sürerse CL kısa vadeli alternatif olabilir ama izleme imkânı varsa.",
- "sonraki_tura_mesaj": "Günlük kontrol hakkı dolduğu için pozisyon açmadın; yarın önce XU100 11.800/11.850 teyidine bak, teyit yoksa işlem yapma. PGSUS 165 üstü hacim, THYAO 328-332 kırılımı, BTC 66k üstü dışında risk alma.",
+ "plan": "10:35 civarı gecikmeli BIST verisiyle XU100 yönünü kontrol et. XU100 11.800 üstüne dönüp 11.850’ye yaklaşırsa PGSUS 165 üstü veya THYAO 328-332 kırılımı alım adayı; aksi halde nakit. BTC 66k üstüne hacimli dönmeden SOL/ETH yok. GC/CL’de düşen bıçak tutulmayacak, ancak 15dk RSI toparlanıp gün içi yüksekler kırılırsa izlenir.",
+ "sonraki_tura_mesaj": "Önce nakit disiplinini koru: XU100 11.800/11.850 teyidi yoksa BIST alma. PGSUS 165 üstü hacim, THYAO 328-332 kırılımı veya BTC 66k üstü dışında işlem açma.",
  "izleme_listesi": [
-  "XU100.IS",
-  "THYAO.IS",
-  "PGSUS.IS",
-  "TAVHL.IS",
-  "ASELS.IS",
-  "GARAN.IS",
-  "AKBNK.IS",
-  "TCELL.IS",
-  "TTKOM.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
   "GC=F",
-  "CL=F"
+  "CL=F",
+  "XU100.IS",
+  "THYAO.IS",
+  "PGSUS.IS",
+  "TAVHL.IS",
+  "ASELS.IS",
+  "GARAN.IS"
  ],
- "son_yorum": "BIST 100 hâlâ 11.800/11.850 teyit bölgesinin altında ve izlenen hisselerde son 1 saat hacimleri zayıf; PGSUS güçlü görünse de 165 üstü teyit gelmedi. Kriptoda kısa vadeli tepki var ama BTC 66 bin altı risk iştahını sınırlıyor. Emtia tarafında petrol toparlanıyor fakat gün içi son kontrol olduğu için izlemsiz pozisyon taşımak istemiyorum.",
+ "son_yorum": "Açık piyasalarda risk iştahı zayıf: BTC 66 bin altında, altın/petrol sert düşüş trendinde ve USDTRY çok dar bantta. BIST haber akışı yatay-negatif açılışa işaret ediyor; ilk 30-45 dakikada 11.800/11.850 dönüşü görülmeden alım yok.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 10:05"
+  "Sonraki kontrol: 2026-11-18 10:35"
  ]
 }

@@ -1,21 +1,23 @@
 {
- "notlar": "THYAO 6.12557 adet, maliyet 326.5, güncel 322.0, zarar -%1.6. Stop 320, hedef 335-340. 15dk RSI 40, hacim 0.4x. PGSUS 15dk RSI 32, hacim 0.5x; 60 altı. Kripto zayıf, USD 50.40. JPMorgan THYAO'yu radarına aldı.",
- "plan": "THYAO 320 altına inerse sat; 340 üzerinde %50 kısmi sat. PGSUS 15dk RSI 60 üzeri ve hacim 1x+ olursa al. ABD açılışında QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa %20 al.",
- "sonraki_tura_mesaj": "THYAO 320 altına inerse sat; 340 üzerinde %50 sat. PGSUS 15dk RSI 60 altı. QQQ/SPY 15dk RSI>40 ve hacim 1.5+ olursa al.",
+ "notlar": "THYAO 6.12557 adet, maliyet 326.5, son 322.0, stop 320, hedef 335-340. BIST kapalı/veri yok, satış yapılamadı. USDTRY 50.44. Kripto SOL +%4.4, XRP +%3.3 tepki veriyor; ancak BTC/ETH haftalık düşüş trendinde. ADA RSI 28 ama hacim yok. Emtia zayıf. Komisyon %0.2.",
+ "plan": "BIST açılış verisi gelince THYAO 320 altı ise tamamını sat, 340 üzeri ise yarısını sat. SOL/XRP için 15dk RSI>60 ve saatlik hacim normale göre >1.0 olursa küçük al; aksi halde bekle. ABD açılışında QQQ/SPY teyidi izle.",
+ "sonraki_tura_mesaj": "THYAO 320 altı tam sat, 340 üstü yarı sat. SOL/XRP 15dk RSI>60 + hacim >1x ise al. BIST verisini kontrol et.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
   "ADA-USD",
+  "SOL-USD",
+  "XRP-USD",
   "QQQ",
   "SPY"
  ],
- "son_yorum": "BIST 100 gün -%1.16 ile zayıf; THYAO 15dk RSI 40, hacim 0.4x ile stopa yakın 322. ABD'de VIX 22.8 ve Nvidia belirsizliği; kriptoda SOL tepki gösterse de genel düşüş trendi sürüyor.",
+ "son_yorum": "BIST 100 yatay-negatif açıldı, THYAO teknik olarak 320 stop sınırına yakın ancak verisi bu turda yok. Kriptoda haftalık düşüşe rağmen SOL (+%4.4) ve XRP (+%3.3) günlük sıçrama yapıyor; emtia sert düşüyor, dolar yatay. Erken giriş için 15 dakikalık RSI ve hacim teyidi yok; beklemek en temizi.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 10:00"
+  "Sonraki kontrol: 2026-11-18 10:35"
  ]
 }
