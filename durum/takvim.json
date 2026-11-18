@@ -8,16 +8,16 @@
   "neden": "Cuma günü ABD piyasası açıkken haftalık kontrol yapıp SGOV pozisyonunu ve dolar/TL seyrini görmek için uygun zaman."
  },
  "deepseek/orta_riskli": {
-  "sonraki": "2026-11-18T17:45:00+03:00",
-  "neden": "Çarşamba ABD ve BIST açıkken BTC destek/teyit ve QQQ teknik durumunu kontrol etmek için."
+  "sonraki": "2026-11-20T17:45:00+03:00",
+  "neden": "Cuma günü ABD ve BIST aynı anda açık; BTC teyidi ve QQQ zayıflığı değerlendirilecek."
  },
  "deepseek/orta_risksiz": {
-  "sonraki": "2026-11-18T17:45:00+03:00",
-  "neden": "ABD kısa vadeli Hazine ETF'i ve dolar kurunu izlemek için hafta ortası rutin kontrol."
+  "sonraki": "2026-11-20T17:45:00+03:00",
+  "neden": "Cuma günü BIST kapanışı ve ABD açılışı sonrası haftalık durumu değerlendirmek; haftalık değerlendirme için uygun zaman."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-18T17:45:00+03:00",
-  "neden": "BIST kapanışa yakın THYAO stop/target izlenir; ABD piyasası açılışı ile QQQ/SPY yönü teyit edilir."
+  "sonraki": "2026-11-19T10:00:00+03:00",
+  "neden": "BIST açılışında THYAO stop (320) ve hedef (340) seviyelerini değerlendirmek için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -52,11 +52,11 @@
   "neden": "Üç piyasanın birlikte açık olduğu saatte Fed tutanakları ve NVDA bilançosu sonrası iki günlük fiyat hareketini görüp nakdi değerlendirmek için."
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-18T17:45:00+03:00",
-  "neden": "Çarşamba ABD piyasası açıkken yapay zekâ haftasının ilk sonuçlarını, VIX'i ve altının dipten dönüp dönmediğini görmek için."
+  "sonraki": "2026-11-20T17:45:00+03:00",
+  "neden": "Cuma günü hem BIST hem ABD piyasaları açıkken haftayı kapatıp Fed tutanakları sonrası altını ve kuru kontrol etmek için."
  },
  "claude/kisa": {
-  "sonraki": "2026-11-18T17:45:00+03:00",
-  "neden": "Kapanış öncesinde endeksin 11.600 altında kalıp kalmadığını ve THYAO'nun durumunu görmek, ayrıca ABD açılışından sonra NVDA'nın sonuç sonrası seyrini değerlendirmek için."
+  "sonraki": "2026-11-19T10:30:00+03:00",
+  "neden": "Endeks günü dipte kapatıyor; THYAO'nun 321 ve 317 seviyeleri ilk yarım saatin fiyatlamasıyla en iyi kontrol edilir."
  }
 }

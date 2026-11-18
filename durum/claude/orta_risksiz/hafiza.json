@@ -1,7 +1,7 @@
 {
- "notlar": "Strateji: düşük risk, 1 aylık değerlendirme. Ana gövde SGOV'da (dolar + T-bill faizi), 12.11'de USDTRY ~50,25 iken 9.900 TL girildi. 16.11 itibarıyla portföy 10.011 TL (+%0,12), USDTRY 50,39. Kalan 80 TL nakde dokunmadım, eklemek anlamsız. Fed'in faiz artırma ihtimali (DB 113 baz puan bekliyor) SGOV lehine, uzun vadeli tahvil TLT aleyhine. Altın 1 yılın dibinde (RSI 36-38, 20 günlük ortalamanın %3,6 altında), düşen bıçak. Kripto RSI 24 ile aşırı satımda ama oynaklığı %42, risksiz portföye uygun değil. XLP ve XLU yükseliyor ama RSI 66-68, zirveyi kovalama. Çip ve yapay zekâ hisselerinde satış var. TCMB aralıkta indirim yapabilir, bu TL için olumsuz. Komisyon kısa vadede getiriyi ezer, gereksiz işlem yapma.",
- "plan": "SGOV'u tut. Altın: GC=F 20 günlük ortalamasının üstüne döner ve RSI 50'yi geçerse portföyün en fazla %10-15'i kadar GLD al. XLP/XLU: RSI 55'in altına geri çekilir ve trend sürerse en fazla %10 al. VIX 25'in üstündeyse yeni risk alma. Kripto ve tekil hisse yok. USDTRY'de sert bir TL güçlenmesi olursa ya da SGOV'da beklenmedik bir oynaklık görürsen yeniden değerlendir.",
- "sonraki_tura_mesaj": "SGOV'u tutuyorsun, 80 TL nakit var, 16.11'de portföy +%0,12. Piyasa riskten kaçıyor, dolar güçlü, Fed faiz artırımı konuşuluyor. Altında teyitli dönüş (20 günlük ortalamanın üstü ve RSI>50) ya da XLP/XLU'da geri çekilme yoksa işlem yapma.",
+ "notlar": "Strateji: düşük risk, 1 aylık değerlendirme. Ana gövde SGOV'da (dolar + Hazine bonosu faizi). 12.11'de USDTRY ~50,25 iken 9.900 TL ile girdim. 18.11'de portföy 10.024 TL (+%0,24), USDTRY 50,44. 80 TL nakde dokunmuyorum. Fed'in aralıkta faiz artırma ihtimali %95, Waller 50 baz puan dile getirdi. Bu SGOV lehine, TLT aleyhine; 10 yıllık faiz %5,1. Altında düşen bıçak sürüyor: GC=F RSI 30, 20 günlük ortalamanın %5,9 altında, 1 yılın dibinde. Gümüş haftada -%13. Kripto RSI 22 ile aşırı satımda ama oynaklığı %41, bu portföye uymaz. XLP RSI 59, XLU 57, XLV 56; hâlâ zirveye yakınlar. Çip ve teknoloji hisselerinde (SMH, XLK) satış var. Komisyon kısa vadede getiriyi ezer, gereksiz işlem yapma.",
+ "plan": "SGOV'u tut. Altın: GC=F 20 günlük ortalamasının üstüne döner ve RSI 50'yi geçerse portföyün en fazla %10'u kadar GLD al. XLP/XLU: RSI 55'in altına iner ve 50 günlük ortalamanın üstünde kalırsa en fazla %10 al. VIX 25'in üstündeyse yeni risk alma. Kripto ve tekil hisse yok. USDTRY'de sert bir TL güçlenmesi ya da SGOV'da beklenmedik bir oynaklık olursa yeniden değerlendir. Aralıktaki Fed kararını izle.",
+ "sonraki_tura_mesaj": "SGOV'u tutuyorsun, 80 TL nakit var. 18.11'de portföy +%0,24. Piyasa riskten kaçıyor ve Fed aralıkta faiz artırabilir, bu SGOV lehine. Altın dipte ama dönüş teyidi yok. Planın koşulları (altında RSI>50 ve 20 günlük ortalamanın üstü; XLP/XLU'da RSI<55) oluşmadıysa işlem yapma.",
  "izleme_listesi": [
   "SGOV",
   "BIL",
@@ -14,16 +14,16 @@
   "SPY",
   "XLP",
   "XLU",
-  "BTC-USD",
-  "XLV"
+  "XLV",
+  "BTC-USD"
  ],
- "son_yorum": "Riskten kaçış sürüyor. VIX 20,5'e çıktı, yapay zekâ ve çip hisseleri satılıyor, BTC haftada %12 düştü, altın 1 yılın dibinde. ABD 10 yıllık faizi %5,1, Fed'in faiz artırma ihtimali konuşuluyor ve dolar güçleniyor. Bu ortam kısa vadeli dolar faizini (SGOV) ödüllendiriyor. USDTRY istikrarlı biçimde yükseliyor, bu yüzden TL'ye dönmek için neden yok.",
+ "son_yorum": "Piyasada risk iştahı düşük: S&P haftada -%3,9, VIX 24, altın 14 ayın dibinde, kripto ayda -%22. Piyasalar Fed'in aralıkta faiz artırma ihtimalini %95 görüyor ve dolar güçlü. Böyle bir ortamda dolar bazlı kısa vadeli Hazine bonosu en iyi sığınak. Hem kur artışını hem yükselen faizi alıyor, fiyatı neredeyse hiç oynamıyor. BIST zayıf, TCMB'nin faiz indirme ihtimali de TL için risk.",
  "kurgu": {
   "metin": "Bu portföyün ilk işi sermayeyi korumak. TL nakit faiz getirmediği ve kur yavaş yavaş aşındığı için paranın neredeyse tamamını 0-3 ay vadeli ABD Hazine bonosu fonu SGOV'a koydum. Bu fon, doları tutmanın üstüne yaklaşık %4-5 yıllık faiz ekliyor ve fiyatı neredeyse hiç oynamıyor. Altın, kripto ya da hisselerde sert düşüşler dinip net bir dip oluşursa portföyün küçük bir kısmıyla seçici fırsat arayacağım; ana gövde güvenli limanda kalacak.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 17:45"
+  "Sonraki kontrol: 2026-11-20 17:45"
  ]
 }

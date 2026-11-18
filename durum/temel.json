@@ -294,10 +294,10 @@
 }
 },
 "SHY": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-18",
 "v": {
 "ad": "iShares 1-3 Year Treasury Bond ",
-"fk": 3691.8,
+"fk": 3698.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
 "pddd": 0.94,
@@ -462,13 +462,13 @@
 }
 },
 "XLU": {
-"tarih": "2026-11-16",
+"tarih": "2026-11-18",
 "v": {
 "ad": "State Street Utilities Select S",
-"fk": 18.2,
+"fk": 17.9,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 0.69,
+"pddd": 0.68,
 "piyasa_degeri": 24252790784,
 "sektor": null,
 "temettu_%": 2.79,

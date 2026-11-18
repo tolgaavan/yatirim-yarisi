@@ -1,23 +1,23 @@
 {
- "notlar": "THYAO.IS 6.12557 adet, maliyet 326.5, son 326.25, stop 320, hedef 335-340. 17.11 alım; BIST açık. Kripto alım sinyali için 15dk RSI>60 + saatlik hacim >1x gerekli; bugün XRP RSI 67 ama hacim 0.1x, SOL RSI 57 hacim 0.0, ADA hacim 0.1x. USDTRY 50.41 yatay. Komisyon %0.2.",
- "plan": "THYAO 320 altına inerse tamamını sat; 340 üzerine çıkarsa yarısını sat. 335 üzerinde hacim artarsa da yarı sat değerlendir. XRP/SOL/ADA için 15dk RSI>60 VE saatlik hacim normalin >1.0 katı olmadan kripto alma. ABD açılışında QQQ/SPY yönünü teyit etmeden yeni pozisyon açma.",
- "sonraki_tura_mesaj": "THYAO 320 altı tam sat, 340 üstü yarı sat. XRP/SOL'da 15dk RSI>60 + saatlik hacim >1x şartı geçerli. QQQ/SPY açılışını kontrol et.",
+ "notlar": "THYAO.IS 6.12557 adet, maliyet 326.5, son 323, stop 320, hedef 335-340. 17.11 alım; 18.11'de bilanço geldi, fiyat 328.75'i gördü. Kripto alım sinyali: 15dk RSI>60 VE saatlik hacim >1x olmadan alma. USDTRY 50.44 yatay. Komisyon %0.2.",
+ "plan": "THYAO 320 altına inerse tamamını sat; 340 üzerine çıkarsa yarısını sat. 335 üzerinde hacim artarsa yarı sat değerlendir. Kriptoda sinyal yoksa girme. ABD açılışında QQQ/SPY yönü teyit edilmeden yeni pozisyon açma.",
+ "sonraki_tura_mesaj": "THYAO 320 altı tam sat, 340 üstü yarı sat. Kriptoda 15dk RSI>60 + saatlik hacim >1x şartı geçerli. QQQ/SPY yönünü teyit etmeden yeni pozisyon açma.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
+  "QQQ",
+  "SPY",
   "ADA-USD",
   "SOL-USD",
-  "XRP-USD",
-  "QQQ",
-  "SPY"
+  "XRP-USD"
  ],
- "son_yorum": "BIST 100 +%0.28, THYAO gün +%1.24 ancak 15dk hacim normalin 0.6 katı, RSI 55 ile yükseliş teyidi zayıf. Kriptoda XRP 15dk RSI 67 ama saatlik hacim 0.1x, SOL hacim 0.0; alım şartı oluşmadı. Emtia sert satıcılı, USDTRY yatay. ABD vadelileri Nvidia sonrası pozitif. Zorlama işlem yok.",
+ "son_yorum": "BIST 100 %-1.34 ile zayıf, THYAO bilanço sonrası 328.75'ten 323'e döndü; günlük RSI 72 aşırı alım, 15dk RSI 39 ve hacim düşük. ABD Nvidia sonrası yatay-seyrek, kripto düşüşte ve hacim sinyali yok.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 17:45"
+  "Sonraki kontrol: 2026-11-19 10:00"
  ]
 }

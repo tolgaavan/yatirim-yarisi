@@ -1,20 +1,25 @@
 {
- "notlar": "Strateji: 1 aylık riskli; zorunlu ayaklar tamam. QQQ zayıf (RSI 40, 20/50 altında), THYAO güçlü (RSI 72), USDTRY hedge. BTC RSI 24 aşırı satım, düşen bıçak; yalnızca yeşil kapanış/yüksek dip teyidiyle küçük al. QQQ kapanış -10% daha düşerse yarısını satmayı düşün. Panik yok.",
- "plan": "Çarşamba: BTC RSI 30 altında ve günlük yeşil kapanış/4 saatlik yüksek dip olursa nakitle 200 TL kadar al. QQQ 20 günlük ort üzerine çıkamazsa %25 azalt. USDTRY 51 üzeri kilitli; THYAO RSI 80 üzeri ve hacim düşerse %50 azalt.",
- "sonraki_tura_mesaj": "BTC RSI 24; Çarşamba teyit ara. QQQ 20 günlük altında, panik satma ama kapanış -10% olursa azalt. THYAO güçlü.",
+ "notlar": "Strateji: 1 aylık riskli; zorunlu çeşitlilik tam. QQQ maliyet 5010, şu an 655.1, 20/50 gün altında; panik satmıyorum, günlük -10% kapanış veya Cuma 20 gün ortalamasına dönemezse %25 azalt. THYAO güçlü RSI 72, F/K 4.5 ileriye dönük; RSI 80+ ve hacim düşerse %50 azalt. USDTRY 50.44, RSI 96 aşırı alım, 51 üzeri kilit. BTC RSI 22, ETH RSI 24 aşırı satım; yalnızca günlük yeşil/higher low ile 200 TL küçük al. Toplam komisyon 19 TL.",
+ "plan": "Cuma 17:45'te: BTC günlük yeşil veya 4 saatlik yüksek dip olursa 200 TL al. QQQ hâlâ 20 günlük ort altında ve günlük -3% veya daha kötü kapanırsa %25 azalt. THYAO RSI 80 üzeri ise %50 azalt; USDTRY 51 üzerinde kalırsa tut veya kısmi kâr al.",
+ "sonraki_tura_mesaj": "BTC teyit (yeşil/higher low) olursa küçük al; QQQ günlük -3% altı veya Cuma 20 gün altında zayıf kapanırsa %25 azalt. THYAO güçlü ama RSI 80'de azalt.",
  "izleme_listesi": [
   "BTC-USD",
+  "ETH-USD",
+  "QQQ",
+  "THYAO.IS",
+  "USDTRY=X",
   "GC=F",
   "XU030.IS",
-  "ETH-USD"
+  "AAPL",
+  "SPY"
  ],
- "son_yorum": "ABD'de teknoloji satışı sürüyor, VIX 20.5 ve 10y faiz %5.13 baskı. BIST pozitif, dolar güçlü. QQQ 20/50 ort altında; THYAO dirençli. BTC RSI 24 ama destek teyidi yok.",
+ "son_yorum": "ABD'de Nvidia sonrası Nasdaq hafif toparlanma çabasında ama QQQ 20/50 gün altında; BIST zayıf, THYAO görece güçlü. USDTRY aşırı alım bölgesinde güçlü. BTC/ETH aşırı satım ama teyitsiz. Risk-off sürüyor, temkinli bekleyişteyim.",
  "kurgu": {
   "metin": "Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 17:45"
+  "Sonraki kontrol: 2026-11-20 17:45"
  ]
 }
