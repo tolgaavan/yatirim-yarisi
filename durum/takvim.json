@@ -28,12 +28,12 @@
   "neden": "Cuma günü ABD piyasası açılmış, BIST kapanışa yaklaşmış ve haftalık kur/faiz hareketleri görülmüş olur."
  },
  "chatgpt/orta_riskli": {
-  "sonraki": "2026-11-18T17:35:00+03:00",
-  "neden": "Çarşamba günü BIST ve ABD piyasaları aynı anda açıkken hem yeni ASELS pozisyonunu hem de ABD açılışındaki risk iştahını birlikte değerlendirmek için."
+  "sonraki": "2026-11-20T17:35:00+03:00",
+  "neden": "Cuma BIST ve ABD piyasalarının birlikte açık olduğu saatte hem yerel pozisyonları hem ABD açılış tepkisini aynı turda değerlendirmek için."
  },
  "chatgpt/orta_risksiz": {
-  "sonraki": "2026-11-18T17:35:00+03:00",
-  "neden": "Çarşamba günü hem BIST/TL kurları hem ABD piyasaları açıkken SGOV, kur ve risk iştahını birlikte değerlendirmek için."
+  "sonraki": "2026-11-20T17:35:00+03:00",
+  "neden": "Cuma günü hem BIST kapanışına yakın tabloyu hem de ABD seans açılışındaki risk iştahını birlikte görmek için."
  },
  "chatgpt/kisa": {
   "sonraki": "2026-11-19T10:01:00+03:00",
@@ -48,8 +48,8 @@
   "neden": "Cuma günü BIST ve ABD piyasaları aynı anda açık; altının dip davranışını ve faiz/kur gelişmelerini birlikte görüp nakdi değerlendirebilirim."
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-18T17:35:00+03:00",
-  "neden": "Üç piyasanın birlikte açık olduğu saatte ABD faizini, NVDA bilançosu öncesi teknoloji hisselerindeki satışı ve TCMB sinyallerini kontrol etmek için."
+  "sonraki": "2026-11-20T17:31:00+03:00",
+  "neden": "Üç piyasanın birlikte açık olduğu saatte Fed tutanakları ve NVDA bilançosu sonrası iki günlük fiyat hareketini görüp nakdi değerlendirmek için."
  },
  "claude/orta_risksiz": {
   "sonraki": "2026-11-18T17:45:00+03:00",

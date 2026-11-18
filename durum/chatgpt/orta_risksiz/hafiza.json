@@ -1,7 +1,7 @@
 {
- "notlar": "Strateji: düşük riskli 1 ayda sermaye koruma + TL değer kaybına karşı dolar bazlı kısa vadeli güvenli varlık. Ana pozisyon SGOV: USD bazlı 0-3 ay ABD hazine bonosu ETF’i, hisse/kripto/altına göre çok daha düşük oynaklık. BIL/SHV benzer alternatifler; anlamlı getiri farkı yoksa komisyon nedeniyle geçiş yapma. Nakit sadece operasyonel tampon. Sıfırdan testi: bugün nakit olsaydı portföyün çok büyük kısmını yine SGOV ile kurardım.",
- "plan": "SGOV’u ana park yeri olarak tut. BIL/SHV ile getiri ve fiyat istikrarını karşılaştır; fark küçükse işlem yapma. SPY/QQQ ancak VIX düşüp endeksler 20/50 günlük ortalamalarını geri alırsa küçük oranla düşünülebilir. Altın/kripto düşüş trendi kırılmadan alınmayacak. USDTRY ani gevşerse bile SGOV’un düşük risk tezi korunacak.",
- "sonraki_tura_mesaj": "Ana tez SGOV: düşük oynaklık + USD koruması. Sıfırdan testini yap; BIL/SHV belirgin daha iyi değilse komisyon ödeme, riskli varlıklarda dip avına çıkma.",
+ "notlar": "Strateji: düşük riskli 1 ayda sermaye koruma + TL değer kaybına karşı dolar bazlı kısa vadeli güvenli varlık. Ana pozisyon SGOV: USD bazlı 0-3 ay ABD hazine bonosu ETF’i, hisse/kripto/altına göre çok daha düşük oynaklık. BIL/SHV benzer alternatifler; anlamlı getiri farkı yoksa geçiş yok. Sıfırdan testi: bugün nakit olsaydı portföyün neredeyse tamamını yine SGOV ile kurardım.",
+ "plan": "SGOV’u ana park yeri olarak tut. BIL/SHV ile getiri ve fiyat istikrarını karşılaştır; fark küçükse işlem yapma. SPY/QQQ ancak VIX belirgin düşüp endeksler 20/50 günlük ortalamalarını geri alırsa çok küçük oranla düşünülebilir. Altın/kripto düşüş trendi kırılmadan alınmayacak.",
+ "sonraki_tura_mesaj": "Ana tez SGOV: düşük oynaklık + USD koruması. BIL/SHV belirgin daha iyi değilse geçme; VIX yüksekken SPY/QQQ/kripto/altın dip avına girme.",
  "izleme_listesi": [
   "SGOV",
   "BIL",
@@ -14,13 +14,14 @@
   "BTC-USD",
   "GC=F"
  ],
- "son_yorum": "VIX 20 üstünde, Nasdaq ve yarı iletkenler zayıf; altın ve kripto düşüş trendinde. USDTRY yavaş yukarı giderken SGOV, dolar koruması ve çok kısa vadeli ABD tahvili getirisiyle düşük oynaklık hedefime en uygun araç olmaya devam ediyor.",
+ "son_yorum": "VIX hâlâ yüksek, ABD endeksleri 20/50 günlük ortalamalarının altında ve emtia/kripto düşüş trendinde; USDTRY sakin ama yukarı eğilimli, bu ortam düşük riskli USD kısa vadeli tahvil parkını destekliyor.",
  "kurgu": {
   "metin": "Bu portföyü düşük risk profiline uygun şekilde, TL’de boşta kalmanın kur ve enflasyon riskini azaltacak ama hisse/kripto gibi yüksek oynaklık taşımayacak bir çekirdekle kuruyorum. Ana aracım dolar bazlı çok kısa vadeli ABD hazine bonosu ETF’i olacak; amaç 1 ayda sermayeyi korurken TL bazında makul ve istikrarlı getiri yakalamak.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 17:35"
+  "ALINDI: SGOV 0.0157755 adet, birim 5071.1445 TL, tutar 80.00 TL + komisyon 0.16 TL",
+  "Sonraki kontrol: 2026-11-20 17:35"
  ]
 }

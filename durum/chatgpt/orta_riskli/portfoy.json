@@ -1,37 +1,37 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 477.4788397523498,
+ "nakit_tl": 47.55090622384205,
  "pozisyonlar": {
   "GOOGL": {
    "adet": 0.1659620792000781,
    "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 14131.412716297666
-  },
-  "XLE": {
-   "adet": 0.4630102346812175,
-   "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 3195.68256740534
+   "son_fiyat_tl": 14266.822353363037
   },
   "BTC-USD": {
    "adet": 0.0002788162406925585,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 3228173.953815922
+   "son_fiyat_tl": 3224330.996759951
   },
   "USDTRY=X": {
    "adet": 29.78445626718388,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 50.43690872192383
+   "son_fiyat_tl": 50.41279983520508
   },
   "THYAO.IS": {
    "adet": 6.240249609984399,
    "maliyet_tl": 2004.0,
-   "son_fiyat_tl": 325.0
+   "son_fiyat_tl": 322.75
   },
   "ASELS.IS": {
    "adet": 2.8308563340410475,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 346.25
+   "son_fiyat_tl": 344.25
+  },
+  "AVGO": {
+   "adet": 0.10759632632132127,
+   "maliyet_tl": 1903.8,
+   "son_fiyat_tl": 17658.595464736572
   }
  },
- "odenen_komisyon_tl": 25.00496761473417
+ "odenen_komisyon_tl": 31.758619050548784
 }
