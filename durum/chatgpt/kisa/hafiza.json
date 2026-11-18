@@ -1,7 +1,7 @@
 {
- "notlar": "Nakit korunuyor. ASELS ve SOL erken dip denemeleri maliyet yarattı; bundan sonra aşırı satım veya haber tek başına yeterli değil. BIST için ana filtre XU100 önce 11.700 üstüne yerleşmeli, asıl alım isteği 11.800/11.850 üstü hacimli dönüşte. THYAO 328-332 bandını hacimli geçmeden alınmayacak; 15dk RSI iyi ama hacim teyidi şart. PGSUS 165 üstü teyit veya 160-161 savunması olmadan kovalanmayacak. Kriptoda BTC 66k üstüne hacimli dönmeden altcoin riski yok. Emtialarda sert düşüş var; yalnız gün içi yüksek kırılımı ve RSI toparlanmasıyla kısa trade düşünülür.",
- "plan": "13:15'te BIST'e tekrar bak: XU100 11.700 üstüne dönüp THYAO 328 üstü hacimle kalırsa 5-6 bin TL alım değerlendir; XU100 11.800 yaklaşırsa iştah artar. PGSUS ancak 160 üstüne hacimli dönüşte izlenir. ASELS 350 üstü hacimsizse alma. BTC 66k üstü ve hacim normale yaklaşmadan kripto yok. GC/CL düşüş sürerse işlem yok.",
- "sonraki_tura_mesaj": "Nakit doğru karar mı yeniden sor: XU100 11.700 üstüne yerleşmeden BIST alma; THYAO 328-332 hacimli kırılım, PGSUS 160/165 teyit, BTC 66k üstü hacim bekle.",
+ "notlar": "Nakit korunuyor; son kayıplar erken dip denemelerinden geldi. Bundan sonra sadece fiyat+hacim teyidiyle işlem. BIST için ana filtre XU100 11.700 üstüne yerleşme, daha güçlü sinyal 11.800/11.850 bandına hacimli yönelim. THYAO 328-332 bandını hacimle geçmeden alınmayacak. PGSUS 160 üstüne dönmeden zayıf. BTC 66k üstü hacimli dönüş olmadan altcoin yok. Emtialarda düşen bıçak tutulmayacak; ancak gün içi yüksek kırılımı ve RSI toparlanmasıyla kısa trade düşünülebilir.",
+ "plan": "15:15'te tekrar bak: XU100 11.700 üstünde kalıp THYAO 328-332 bandına hacimle dönerse 5-6 bin TL alım değerlendir. XU100 11.700 altında kalırsa BIST yok. PGSUS 160/165 teyidi olmadan alma. BTC 66k üstüne hacimli dönmezse kripto yok. GC/CL ancak gün içi dipten güçlü dönüş ve hacim artışı gösterirse izlenir.",
+ "sonraki_tura_mesaj": "Nakit olmayı yeniden sorgula ama zayıf teyidi kovalama: XU100 11.700 üstünde mi, THYAO 328-332 hacimli mi, BTC 66k üstü mü? Değilse komisyon ödeme.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
@@ -9,6 +9,8 @@
   "ASELS.IS",
   "GARAN.IS",
   "TCELL.IS",
+  "KONTR.IS",
+  "FROTO.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
@@ -17,13 +19,13 @@
   "GC=F",
   "CL=F"
  ],
- "son_yorum": "BIST ilk saat sonrası hâlâ 11.700 altında ve 15dk RSI zayıf; THYAO relatif güçlü ama 328-332 kırılımı yok. PGSUS/TAVHL zayıflıyor, ASELS tepki verse de hacim düşük. Altın/petrol düşen bıçak, kripto hacimsiz toparlanma deniyor.",
+ "son_yorum": "BIST yatay ve 11.700 direncinin hemen altında hacimsiz; THYAO 328 üstünü koruyamadı. Kriptoda BTC 66 bin altında düşük hacimli, emtialarda düşüş trendi sürüyor. Şu an komisyon ödeyip zayıf teyitli hareket kovalamak yerine nakit daha iyi.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 13:15"
+  "Sonraki kontrol: 2026-11-18 15:15"
  ]
 }
