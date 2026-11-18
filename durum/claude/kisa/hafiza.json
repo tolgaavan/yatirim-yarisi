@@ -1,7 +1,7 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberli boşluk açılışına ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı. 18.11'de 322-328,75 bandında, günlük RSI 73. 6 aylık zirve ~348. Ak Yatırım alıcı. JPMorgan THYAO ve BIMAS için olumlu. PGSUS: 3 milyar TL geri alım var. 18.11'de 160,2'yi gördü, sonra 157'ye döndü; hacim 3,9x ama satış yönlü. Fed şahin, DXY güçlü, altın ve kripto düşüşte, buralarda dip avı yok. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. Nakdi dolara park etmek yalnızca bir haftadan uzun beklenecekse mantıklı. Stoplar yalnızca kontrol anında uygulanabiliyor.",
- "plan": "THYAO: stop 317. 338-340'ta yarısını sat ve stopu 327'ye çek, 348'de kalanını sat. Endeks 11.600'ü kırar ve THYAO 321 altına inerse kapat. PGSUS: yalnızca 160,5 üstüne hacimle çıkarsa ve endeks 11.800'ü aşarsa al, stop 155. Endeks 11.900'ü hacimle aşarsa en güçlü hisseye ikinci pozisyon aç. ABD'de NVDA'nın sonuç sonrası seyrine bak; yalnızca güçlü bir trend olursa küçük pozisyon değerlendir.",
- "sonraki_tura_mesaj": "THYAO maliyeti 327, stop 317. 321 altına inerse ve endeks 11.600'ü kırarsa sat. 338-340'ta yarısını sat. Nakit ~6.828 TL. BIST 100 11.800 üstüne dönmeden yeni BIST alımı yok. PGSUS'u ancak 160,5 üstüne hacimle çıkarsa al. Bugün 2 kontrol hakkı daha var; 17:45'te NVDA'ya bak.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberli boşluk açılışına ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı. 18.11'de 322-328,75 bandında, 16:00'da 325; günlük RSI 72, 6 aylık zirve ~348. HSBC, Ak Yatırım ve JPM olumlu. PGSUS 160,2'den 155,7'ye döndü, 160,5 kırılımı başarısız. 18.11'de endeks 11.590'ı gördü. Fed şahin, DXY güçlü, emtia ve kripto düşüşte; dip avı yok. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. Dolar park etmenin başabaş süresi ~1 hafta. Stoplar yalnızca kontrol anında uygulanabiliyor.",
+ "plan": "THYAO: stop 317. Endeks 11.550 altında kapanır ve THYAO 321 altına inerse kapat. 338-340'ta yarısını sat ve stopu 327'ye çek, 348'de kalanını sat. PGSUS: yalnızca 160,5 üstüne hacimle çıkarsa ve endeks 11.800'ü aşarsa al, stop 155. Endeks 11.900'ü hacimle aşarsa en güçlü hisseye ikinci pozisyon aç. NVDA: sonuç sonrası güçlü bir trend varsa küçük pozisyon değerlendir. Nakit bir haftayı aşarsa bir kısmını USDTRY'ye park etmeyi düşün.",
+ "sonraki_tura_mesaj": "THYAO maliyeti 327, stop 317. Endeks 11.550 altında ve THYAO 321 altındaysa sat. 338-340'ta yarısını sat. Nakit ~6.828 TL. BIST 100 11.800 üstüne dönmeden yeni BIST alımı yok. Bugünün son kontrolü 17:45: kapanış öncesi THYAO ve endeksi kontrol et, NVDA'nın açılış seyrine bak.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
@@ -11,21 +11,21 @@
   "AKBNK.IS",
   "BIMAS.IS",
   "TUPRS.IS",
-  "TTKOM.IS",
   "FROTO.IS",
   "XU100.IS",
   "XU030.IS",
   "USDTRY=X",
+  "BTC-USD",
   "NVDA",
-  "BTC-USD"
+  "TTKOM.IS"
  ],
- "son_yorum": "BIST 100 11.650-11.700 arasında yatay ve hacimsiz, 11.800 tetiği uzakta. Şahin Fed ve güçlü dolar altını, gümüşü ve kriptoyu sert düşürüyor; bu alanlarda dip avına çıkmıyorum. Nvidia bilançosu ABD vadelilerini yükseltiyor ama NVDA şu an kapalı. THYAO günlük RSI 73 ile gergin, gün içinde 328,75'ten geri çekildi. Yükseliş trendi bozulmadı.",
+ "son_yorum": "BIST 100 kapanışa doğru 11.596'ya geriledi. Gün içi dip 11.590, 15 dakikalık RSI 26 ile kısa vadede aşırı satımda. Bankalar zayıf, hacim düşük. THYAO göreli olarak güçlü (+%0,85, HSBC alıcı) ama günlük RSI 72 ile yorgun ve 328,75'ten geri çekiliyor. Küresel tarafta Fed şahin, DXY güçlü; altın, gümüş ve kripto sert düşüşte. Bu ortamda dip avı yapmıyorum.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-18 16:00"
+  "Sonraki kontrol: 2026-11-18 17:45"
  ]
 }
