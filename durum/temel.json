@@ -210,14 +210,14 @@
 }
 },
 "KONTR.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "KONTROLMATIK TEKNOLOJI",
 "fk": null,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.7,
-"piyasa_degeri": 3678999808,
+"pddd": 0.68,
+"piyasa_degeri": 3575000064,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
