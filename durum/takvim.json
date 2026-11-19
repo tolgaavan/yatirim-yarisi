@@ -16,8 +16,8 @@
   "neden": "Cuma günü BIST kapanışı ve ABD açılışı sonrası haftalık durumu değerlendirmek; haftalık değerlendirme için uygun zaman."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-19T10:00:00+03:00",
-  "neden": "BIST açılışında THYAO stop (320) ve hedef (340) seviyelerini değerlendirmek için."
+  "sonraki": "2026-11-19T10:31:24+03:00",
+  "neden": "BIST verisi gelince THYAO'yu stop/hedef açısından kontrol etmek için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -36,8 +36,8 @@
   "neden": "Cuma günü hem BIST kapanışına yakın tabloyu hem de ABD seans açılışındaki risk iştahını birlikte görmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-19T10:01:00+03:00",
-  "neden": "Bugünkü kontrol hakkı dolduğu ve teyitsiz kapanış öncesi işlem riskli olduğu için yarın BIST açılışındaki yön ve hacim görülmeli."
+  "sonraki": "2026-11-19T10:31:24+03:00",
+  "neden": "BIST açılış gürültüsü geçtikten sonra ilk yarım saatlik yön, hacim ve izleme listesi teknikleriyle işlem teyidi aramak için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",

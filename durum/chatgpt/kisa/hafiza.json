@@ -1,30 +1,29 @@
 {
- "notlar": "Nakit korunuyor; son kayıplar erken dip denemelerinden geldi. Bundan sonra sadece fiyat+hacim teyidiyle işlem. BIST için ana filtre XU100 11.700 üstüne yerleşme, daha güçlü sinyal 11.800/11.850 bandına hacimli yönelim. THYAO 328-332 bandını hacimle geçmeden alınmayacak. FROTO relatif güçlü ama 74.05 üstü kalıcılık ve hacim görmeden geç kalmış alım yapılmayacak. BTC 66k üstü hacimli dönüş olmadan altcoin yok. Emtialarda düşen bıçak tutulmayacak.",
- "plan": "Yarın açılışta XU100 11.700 üstüne döner ve THYAO 328-332 ya da FROTO 74.05 üstünde hacimle kalırsa 5-6 bin TL tek pozisyon al. XU100 zayıfsa BIST yok. BTC 66k üstüne hacimli dönmezse kripto yok. GC/CL ancak gün içi dipten güçlü dönüş ve hacim artışı gösterirse kısa trade düşün.",
- "sonraki_tura_mesaj": "Bugün nakit elde olsaydı alır mıydın diye yeniden sor: XU100 11.700 üstünde mi, THYAO 328-332 hacimli mi, FROTO 74.05 üstü kalıcı mı, BTC 66k üstü mü? Değilse komisyon ödeme.",
+ "notlar": "Nakit korunuyor; son kayıplar erken dip denemelerinden geldi. Sıfırdan testi: bugün nakit olsaydı kripto/emtiada bu düşük hacimli tepkiyi almazdım. BIST için ana filtre XU100 11.700 üstüne yerleşme, daha güçlü sinyal 11.800/11.850 bandına hacimli yönelim. THYAO 328-332 bandını hacimle geçmeden alınmayacak. FROTO 74.05 üstü kalıcılık ve hacim görmeden alınmayacak. BTC 66k üstü hacimli dönüş olmadan altcoin yok.",
+ "plan": "10:30 sonrası BIST verisi gelirse XU100 yönü ve THYAO/FROTO hacmini kontrol et. THYAO 328-332 üstünde hacimli, FROTO 74.05 üstünde kalıcı ve endeks 11.700 üstündeyse 5-6 bin TL tek pozisyon denenebilir. Kriptoda BTC 66k altındayken alım yok. GC/CL ancak hacimli dip dönüşü gösterirse kısa trade düşün.",
+ "sonraki_tura_mesaj": "Önce sıfırdan testi yap: Nakit elde olsaydı alır mıydın? XU100 11.700 üstünde mi; THYAO 328-332 hacimli mi; FROTO 74.05 üstü kalıcı mı; BTC 66k üstü mü? Değilse bekle.",
  "izleme_listesi": [
-  "THYAO.IS",
-  "PGSUS.IS",
-  "TAVHL.IS",
-  "ASELS.IS",
-  "GARAN.IS",
-  "TCELL.IS",
-  "FROTO.IS",
   "USDTRY=X",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
   "XRP-USD",
   "GC=F",
-  "CL=F"
+  "CL=F",
+  "XU100.IS",
+  "THYAO.IS",
+  "FROTO.IS",
+  "ASELS.IS",
+  "GARAN.IS",
+  "TCELL.IS"
  ],
- "son_yorum": "BIST gün içi toparlanma denese de XU100 11.700 altında; THYAO yatay ve hacimsiz, FROTO güçlü ama gün içi yüksek kırılımı henüz net değil. Kripto ve emtia tarafında düşüş trendi sürüyor, USDTRY getirisi komisyona değmez.",
+ "son_yorum": "Küresel risk iştahı zayıf; BTC/ETH/SOL kısa vadede tepki veriyor ama hacim düşük ve ana trend hâlâ aşağı. Altın/petrol de dip arıyor fakat dönüş teyidi yok. TL tarafında USDTRY güçlü ama kısa al-sat için komisyonu karşılayacak ivme sınırlı.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-19 10:01"
+  "Sonraki kontrol: 2026-11-19 10:31 (istediğin: 2026-11-19 10:31; en az 30 dakika sonrası olmalı)"
  ]
 }
