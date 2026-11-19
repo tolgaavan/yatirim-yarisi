@@ -1,21 +1,22 @@
 {
- "notlar": "THYAO.IS 6.12557 adet, maliyet 326.5, fiyat 329.5, hedef 335-340, stop 320. 19.11 11:01: 15dk RSI 62, saatlik hacim 2.4x, gün yükseği 331.75. Kripto kuralı: 15dk RSI>60 VE saatlik hacim >1x; ADA/SOL/XRP hacim 0.1/0.0/0.1x, alım yok. USDTRY 50.46 yatay. Komisyon %0.2.",
- "plan": "THYAO 335 üstü hacim artarsa yarı sat, 340 üstü yarı sat; 330 altına 15dk RSI 70 üzeri dönerse de yarı sat; 320 altı full sat. Kriptoda yalnızca 15dk RSI>60 + hacim >1x olursa en fazla 2000 TL dene. USDTRY 50.8 üstüne hızlanırsa alım değerlendir.",
- "sonraki_tura_mesaj": "THYAO 335-340 bandına yaklaştı mı? Hacim hâlâ 2x üzeri mi? 320 stopunu koru. Kriptoda hacim >1x mi? Değilse dokunma.",
+ "notlar": "THYAO.IS 6.12557 adet, maliyet 326.5, fiyat 328.0, hedef 335-340, stop 320. 19.11 13:31: 15dk RSI 56, saatlik hacim 0.4x, gün yükseği 331.75. Kripto kuralı: 15dk RSI>60 + saatlik hacim >1x; şu an yok. USDTRY 50.39 yatay. Komisyon %0.2.",
+ "plan": "THYAO 335 üstü hacim artarsa yarı sat, 340 üstü yarı sat; 330 altına 15dk RSI 70 üzeri dönerse yarı sat; 320 altı full sat. Kriptoda yalnızca 15dk RSI>60 + hacim >1x olursa en fazla 2000 TL dene. USDTRY 50.8 üstüne hızlanırsa alım değerlendir.",
+ "sonraki_tura_mesaj": "THYAO 335-340 bandına yaklaştı mı? Saatlik hacim 2x üzeri mi? 320 stopunu koru. 330 altına dönerse 15dk RSI 70 üzeri mi? Kriptoda hacim >1x mi? USDTRY 50.8'e hızlanıyor mu?",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
   "ADA-USD",
   "SOL-USD",
-  "XRP-USD"
+  "XRP-USD",
+  "USDTRY=X"
  ],
- "son_yorum": "BIST 100 güne hafif yükselişle başladı, THYAO %2.25 artıda ve saatlik hacmi ortalamanın 2.4 katı; küresel şahin Fed ve yapay zeka belirsizliği ise risk iştahını baskılıyor. Dolar 50.46 yatay, kriptoda yükselişe rağmen hacim düşük olduğundan yeni pozisyon için uygun zemin yok.",
+ "son_yorum": "BIST 100 gün -%0.29; THYAO gün +%1.31 ancak 15dk RSI 56 ve hacim normalin 0.4 katı, momentum zayıf. Kriptoda BTC +%1.22 fakat saatlik hacim düşük. USDTRY 50.39 yatay. Belirgin tetik yok.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-19 13:30"
+  "Sonraki kontrol: 2026-11-19 16:30"
  ]
 }
