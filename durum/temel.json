@@ -391,6 +391,20 @@
 "tur": "ETF"
 }
 },
+"TOASO.IS": {
+"tarih": "2026-11-19",
+"v": {
+"ad": "TOFAS OTO. FAB.",
+"fk": 7.6,
+"fk_tur": "son 12 ay",
+"para_birimi": "TRY",
+"pddd": 1.71,
+"piyasa_degeri": 124550004736,
+"sektor": "Consumer Cyclical",
+"temettu_%": 8.27,
+"tur": "EQUITY"
+}
+},
 "TTKOM.IS": {
 "tarih": "2026-11-19",
 "v": {
