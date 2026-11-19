@@ -36,8 +36,8 @@
   "neden": "Cuma günü hem BIST kapanışına yakın tabloyu hem de ABD seans açılışındaki risk iştahını birlikte görmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-19T15:15:00+03:00",
-  "neden": "BIST öğleden sonra yön teyidi ve olası 11.600 geri kazanımı için seans içinde son bir kontrol yapmak istiyorum."
+  "sonraki": "2026-11-20T10:00:00+03:00",
+  "neden": "BIST kapanışına yaklaşırken TOASO’nun 251 üstünde kalıp kalmadığını ve gün içi momentumun sürüp sürmediğini kontrol etmek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",

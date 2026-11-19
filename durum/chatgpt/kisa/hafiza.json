@@ -1,11 +1,11 @@
 {
- "notlar": "Nakit korunuyor; son kayıplar erken dip denemelerinden geldi. Sıfırdan testi: bugün nakit olsaydım XU100 11.600/11.700 üstü teyit olmadan BIST pozisyonu açmazdım. THYAO ancak 332 üstünde hacimli kalır ve 328 altına sarkmazsa kısa trade adayı. TOASO güçlü ama 251 üstüne hacimli devam etmeden kovalanmayacak. FROTO 74.05 üstü kalıcılık olmadan alınmayacak. BTC 66k üstü hacimli dönüş olmadan altcoin yok. Amaç fırsat kaçırmaktan çok zayıf teyitte komisyon ve zarar biriktirmemek.",
- "plan": "15:15 civarı son BIST kontrolü: XU100 11.600 üstüne dönüp orada tutunursa ve THYAO 332 üstü hacimli olursa 5-6 bin TL kısa trade denenebilir; THYAO 328 altındaysa işlem yok. TOASO 251 üstüne hacimle dönerse alternatif, aksi halde kovalanmaz. BTC 66k altında kriptoya girme.",
- "sonraki_tura_mesaj": "Sıfırdan testi yap: XU100 11.600 üstüne döndü mü? THYAO 332 üstünde hacimli mi ve 328 altına sarkmıyor mu? TOASO 251 üstü hacimli devam ediyor mu? BTC 66k yoksa kripto yok; teyit yoksa nakit kal.",
+ "notlar": "Nakit koruma disiplini ana çerçeve; erken dip denemeleri zarara yol açtı. Bugün BIST geneli zayıf, bu yüzden yalnızca plan teyidi veren TOASO’da sınırlı momentum denemesi yapıldı. Pozisyonun gerekçesi 251 üstü tutunma, gün içi liderlik ve hacim artışı; bu bir kısa trade, yatırım pozisyonu değil. BTC 66k altındayken kripto yok. THYAO ancak 332 üstünde hacimli kalırsa tekrar aday.",
+ "plan": "TOASO 251 altına sarkar veya kapanışa doğru hacimle zayıflarsa çık; 254-258 bandına güçlü giderse kârı koru, uzama zayıflarsa sat. XU100 11.600 altındayken yeni BIST pozisyonu büyütme. THYAO 332 üstü hacimli olmadıkça alma. BTC 66k üstü teyit olmadan kriptoya girme.",
+ "sonraki_tura_mesaj": "TOASO trade pozisyonu: 251 altı zayıflıkta inat etme; 254-258 bölgesinde ivme kesilirse kârı koru. XU100 hâlâ 11.600 altındaysa yeni risk ekleme. THYAO 332 hacimli değilse alma, BTC 66k altındaysa kripto yok.",
  "izleme_listesi": [
+  "TOASO.IS",
   "THYAO.IS",
   "FROTO.IS",
-  "TOASO.IS",
   "ASELS.IS",
   "GARAN.IS",
   "TCELL.IS",
@@ -18,13 +18,14 @@
   "USDTRY=X",
   "XU100.IS"
  ],
- "son_yorum": "BIST sabah tepki denemesini geri verdi; XU100 11.600 üstüne yerleşemedi ve 15 dk RSI zayıf. THYAO ve GARAN yatay, TOASO güçlü ama ilk ataktan sonra hacim düşmüş. Kriptoda BTC 66 bin altında kaldığı için dip dönüşü henüz teyitli değil.",
+ "son_yorum": "XU100 11.600 teyidinden uzak ve genel BIST iştahı zayıf; kriptoda BTC 66 bin altı olduğu için ana trend hâlâ kırılgan. TOASO gün içi güçlü ayrışıyor, 251 üstünde tutunuyor ve son hacim ortalamanın üzerinde.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-19 15:15"
+  "ALINDI: TOASO.IS 23.7389 adet, birim 252.7500 TL, tutar 6000.00 TL + komisyon 12.00 TL",
+  "Sonraki kontrol: 2026-11-20 10:00 (istediğin: 2026-11-19 16:30; o gün için 5 kontrol sınırı doldu, ertesi gün sabaha alındı)"
  ]
 }
