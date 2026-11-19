@@ -181,6 +181,20 @@
 "tur": "EQUITY"
 }
 },
+"HEKTS.IS": {
+"tarih": "2026-11-19",
+"v": {
+"ad": "HEKTAS",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": 0.84,
+"piyasa_degeri": 14885265408,
+"sektor": "Basic Materials",
+"temettu_%": 0.0,
+"tur": "EQUITY"
+}
+},
 "ISCTR.IS": {
 "tarih": "2026-11-16",
 "v": {
