@@ -1,15 +1,15 @@
 {
 "AKBNK.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "AKBANK",
-"fk": 5.5,
+"fk": 5.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.09,
-"piyasa_degeri": 359060013056,
+"pddd": 1.07,
+"piyasa_degeri": 352039993344,
 "sektor": "Financial Services",
-"temettu_%": 3.19,
+"temettu_%": 3.28,
 "tur": "EQUITY"
 }
 },
@@ -98,16 +98,16 @@
 }
 },
 "BIMAS.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "BIM MAGAZALAR",
-"fk": 14.1,
+"fk": 13.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 2.11,
-"piyasa_degeri": 467395608576,
+"pddd": 2.08,
+"piyasa_degeri": 460591726592,
 "sektor": "Consumer Defensive",
-"temettu_%": 1.78,
+"temettu_%": 1.8,
 "tur": "EQUITY"
 }
 },
@@ -224,14 +224,14 @@
 }
 },
 "NVDA": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "NVIDIA Corporation",
-"fk": 19.7,
+"fk": 16.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 16.39,
-"piyasa_degeri": 3753892642816,
+"pddd": 23.33,
+"piyasa_degeri": 3645231071232,
 "sektor": "Technology",
 "temettu_%": 0.64,
 "tur": "EQUITY"
@@ -392,30 +392,30 @@
 }
 },
 "TTKOM.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "TURK TELEKOM",
-"fk": 6.5,
+"fk": 6.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.62,
-"piyasa_degeri": 178849988608,
+"pddd": 0.61,
+"piyasa_degeri": 174090010624,
 "sektor": "Communication Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "TUPRAS",
-"fk": 5.0,
+"fk": 5.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.27,
-"piyasa_degeri": 663781113856,
+"pddd": 1.26,
+"piyasa_degeri": 658482397184,
 "sektor": "Energy",
-"temettu_%": 3.91,
+"temettu_%": 3.9,
 "tur": "EQUITY"
 }
 },
@@ -490,7 +490,7 @@
 }
 },
 "XU030.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "BIST 30",
 "fk": null,
@@ -504,7 +504,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "BIST 100",
 "fk": null,

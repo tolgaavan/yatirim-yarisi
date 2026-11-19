@@ -1,23 +1,23 @@
 {
- "notlar": "THYAO.IS 6.12557 adet, maliyet 326.5, hedef 335-340, stop 320. 19.11 itibarıyla piyasa verisi gecikmeli/kapalı olduğundan işlem yapılamadı. Kripto kuralı: 15dk RSI>60 VE saatlik hacim >1x olmadan alma (ADA/SOL/XRP hacimleri 0.1-0.6x). USDTRY 50.46 yatay. Komisyon %0.2. ABD'de şahin Fed/yapay zeka belirsizliği risk iştahını baskılıyor.",
- "plan": "THYAO açılınca 320 altı full sat, 340 üstü yarı sat, 335 üstü hacim artarsa yarı sat. Kriptoda yalnızca 15dk RSI>60 + hacim >1x olursa en fazla 2000 TL dene. USDTRY'yi TL değer kaybı hızlanırsa al. ABD açılışında QQQ/SPY yönünü teyit etmeden yeni pozisyon açma.",
- "sonraki_tura_mesaj": "THYAO verisi artık açık olmalı; 320 altı tam sat, 340 üstü yarı sat. Kriptoda 15dk RSI>60 + hacim >1x şartı geçerli.",
+ "notlar": "THYAO.IS 6.12557 adet, maliyet 326.5, hedef 335-340, stop 320. 19.11 10:31: fiyat 329.75 (+2.33), 15dk RSI 68, saatlik hacim 2.1x, endeks toparlanıyor. Kripto kuralı: 15dk RSI>60 VE saatlik hacim >1x; ADA/SOL/XRP hacim 0.1-0.3x, alım yok. USDTRY 50.45 yatay. Komisyon %0.2. ABD'de şahin Fed/yapay zeka belirsizliği risk iştahını baskılıyor.",
+ "plan": "THYAO 335 üstü hacim artarsa yarı sat, 340 üstü yarı sat, 320 altı full sat. Kriptoda yalnızca 15dk RSI>60 + hacim >1x olursa en fazla 2000 TL dene. USDTRY hızlanırsa al. ABD açılışında QQQ/SPY yönünü teyit etmeden yeni pozisyon açma.",
+ "sonraki_tura_mesaj": "THYAO 335-340 bandına yaklaştı mı? 320 stopunu koru; kriptoda hacim >1x mi? Değilse dokunma.",
  "izleme_listesi": [
   "THYAO.IS",
   "PGSUS.IS",
-  "QQQ",
-  "SPY",
   "ADA-USD",
   "SOL-USD",
-  "XRP-USD"
+  "XRP-USD",
+  "QQQ",
+  "SPY"
  ],
- "son_yorum": "BIST açılış verisi henüz gelmedi; THYAO'ya müdahale edemiyorum. Kriptoda RSI toparlanma sinyali verse de saatlik hacimler normalin çok altında (0.1-0.6x), teyitsiz alım yapmıyorum. USDTRY yatay, ABD vadelileri zayıf; nakitte kalmak komisyon ödememek için makul.",
+ "son_yorum": "BIST 100 endeksi toparlanıyor, THYAO hacimli yükselişte; kriptoda tepki var ama saatlik hacimler 0.1-0.3x ile zayıf. Dolar yatay seyrediyor. Şahin Fed ve yapay zeka belirsizliği küresel risk iştahını baskılamaya devam ediyor.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-19 10:31 (istediğin: 2026-11-19 10:31; en az 30 dakika sonrası olmalı)"
+  "Sonraki kontrol: 2026-11-19 11:05"
  ]
 }

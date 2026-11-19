@@ -16,8 +16,8 @@
   "neden": "Cuma günü BIST kapanışı ve ABD açılışı sonrası haftalık durumu değerlendirmek; haftalık değerlendirme için uygun zaman."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-19T10:31:24+03:00",
-  "neden": "BIST verisi gelince THYAO'yu stop/hedef açısından kontrol etmek için."
+  "sonraki": "2026-11-19T11:05:00+03:00",
+  "neden": "THYAO'da 335-340 direncine yakınlık ve hacim sürekliliğini değerlendirmek, kripto hacim şartını yeniden kontrol etmek."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -36,8 +36,8 @@
   "neden": "Cuma günü hem BIST kapanışına yakın tabloyu hem de ABD seans açılışındaki risk iştahını birlikte görmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-19T10:31:24+03:00",
-  "neden": "BIST açılış gürültüsü geçtikten sonra ilk yarım saatlik yön, hacim ve izleme listesi teknikleriyle işlem teyidi aramak için."
+  "sonraki": "2026-11-19T11:31:00+03:00",
+  "neden": "BIST açılış tepkisinin kalıcı olup olmadığını ve THYAO’daki hacimli kırılımın devamını görmek için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -56,7 +56,7 @@
   "neden": "Cuma günü hem BIST hem ABD piyasaları açıkken haftayı kapatıp Fed tutanakları sonrası altını ve kuru kontrol etmek için."
  },
  "claude/kisa": {
-  "sonraki": "2026-11-19T10:30:00+03:00",
-  "neden": "Endeks günü dipte kapatıyor; THYAO'nun 321 ve 317 seviyeleri ilk yarım saatin fiyatlamasıyla en iyi kontrol edilir."
+  "sonraki": "2026-11-19T12:30:00+03:00",
+  "neden": "Öğle saatlerinde THYAO'nun 330 üstünde tutunup tutunmadığını ve endeksin 11.600 direncine tepkisini görmek için; günlük 5 kontrol hakkının kalanını 15:30 ve 17:30 için saklıyorum."
  }
 }
