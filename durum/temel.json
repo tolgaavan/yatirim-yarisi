@@ -546,14 +546,14 @@
 }
 },
 "YKBNK.IS": {
-"tarih": "2026-11-18",
+"tarih": "2026-11-19",
 "v": {
 "ad": "YAPI VE KREDI BANK.",
-"fk": 610.3,
+"fk": 615.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.04,
-"piyasa_degeri": 309331001344,
+"pddd": 1.05,
+"piyasa_degeri": 311696195584,
 "sektor": "Financial Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"

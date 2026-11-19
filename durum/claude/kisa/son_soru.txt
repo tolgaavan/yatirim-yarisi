@@ -80,10 +80,10 @@ Satışlar alışlardan önce yapılır. Türkçe yaz.
 
 -----
 
-ŞU AN: 19.11.2026 Perşembe 17:30 (İstanbul saati). Portföyün başlangıcından bu yana 6 gün geçti.
+ŞU AN: 19.11.2026 Perşembe 18:01 (İstanbul saati). Portföyün başlangıcından bu yana 6 gün geçti.
 
 === GEÇEN TURDAN KENDİNE MESAJ ===
-THYAO maliyeti 327, stop 322; 338-340'ta yarısını sat. Endeks 11.400 altında kapanıyor ve THYAO 324 altındaysa çık. USD 50,44'ten park edildi, bozma. Nakit ~1.818 TL. Kapanışa doğru endeks 11.404 dibini korudu mu, THYAO 328 üstünde kapanıyor mu, buna bak. Bugün 4. kontrol.
+THYAO maliyeti 327, stop 322. 338-340'ta yarısını sat. Endeks 11.385 altında kapanıyor ve THYAO 324 altındaysa çık. USD 50,44'ten park edildi, bozma. Nakit ~1.818 TL. Kapanışta THYAO'nun 328 üstünde kalıp kalmadığına bak. Bugün 5. ve son kontrol, sonraki kontrol yarın 10:30.
 
 === BAŞLANGIÇ KURGUN ===
 Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.
@@ -93,22 +93,22 @@ Portföy 10,000 TL -> 10,000 TL (+0.00%).
 İlk haftada hiç işlem yapmadım. Portföy tamamen nakitte ve değişim %0,00. Planım yalnızca güçlü, hacimle desteklenen hareketlere girmekti ve bu koşul oluşmadı. Bankalar ezikti, izlediğim hisselerin hacmi normalin 0,3-0,6 katında kaldı. THYAO 323 direncini ancak zayıf hacimle aştı, BIST 100 de 11.900'ün altında kaldı. Doğru yaptığım, zayıf teyitle girmeyip komisyon harcamamak ve Bitcoin'in %-3,84'lük düşüşünden uzak kalmaktı. Eksik tarafı, BIST 100 %+0,36 ve dolar %+0,22 kazandırırken yerimde saymamdı. Nakitte beklemek TL'nin değer kaybı karşısında bedava değil. Gelecek hafta BIST 100'ün hacimle 11.900 üstüne yerleşmesini, THYAO'nun 323 üstünde normal hacimle kalıcılığını ve bankalarda toparlanmayı izleyeceğim. Teyit gelirse baştan zarar-kes belirleyip tek pozisyon açacağım.
 
 === NOTLARIN ===
-Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4, gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberli boşluk açılışına ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı. 19.11 15:31'de 328; gün dibi 324,75, zirvesi 331,75; günlük RSI 74; 6 aylık zirve ~348; BofA THYAO alıyor, ASELS ve TUPRS satıyor. USDTRY 18.11'de 5.000 TL ile 50,44'ten park edildi. Endeks 19.11'de dip 11.404, 11.574'ten döndü. JPMorgan 3 Fed artırımı bekliyor, ECB şahin, emtia ve kripto zayıf. TOASO 19.11'de hacimle +%4 (251,5), izle. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. Stoplar yalnızca kontrol anında uygulanıyor, BIST verisi 15 dk gecikmeli.
+Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4. Gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberli boşluk açılışına ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı. 19.11 17:30'da 329,5; gün aralığı 324,75-331,75; RSI 74; 6 aylık zirve ~348; BofA THYAO alıyor, ASELS ve TUPRS satıyor. USDTRY 18.11'de 5.000 TL ile 50,44'ten park edildi. Endeks 19.11'de 11.385'e kadar indi, 11.574'ten dönmüştü. JPMorgan 3 Fed artırımı bekliyor, ECB şahin, emtia ve kripto zayıf. TOASO 19.11'de +%3,7 (250,75) ama gün sonu hacmi zayıf. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. Stoplar yalnızca kontrol anında uygulanıyor. BIST verisi 15 dk gecikmeli.
 
 === PLANIN ===
-THYAO: stop 322. Endeks 11.400 altında kapanır ve THYAO 324 altındaysa erken çık. 338-340'ta yarısını sat ve stopu 330'a çek, 346-348'de kalanını sat. Yeni BIST alımı yalnızca endeks 11.800 üstüne dönerse yap. 11.900 hacimle aşılırsa nakit ve USD'nin bir kısmıyla en güçlü hisseyi al (adaylar: TOASO, GARAN). USD parkını en az 5-7 gün tut. Nakit ~1.818 TL, THYAO'ya ekleme yapma.
+THYAO: stop 322. Endeks 11.385 altında kapanır ve THYAO 324 altındaysa erken çık. 338-340'ta yarısını sat ve stopu 330'a çek. 346-348'de kalanını sat. Yeni BIST alımı yalnızca endeks 11.800 üstüne dönerse yapılacak. 11.900 hacimle aşılırsa nakit ve USD'nin bir kısmıyla en güçlü hisse alınacak (adaylar: TOASO, GARAN). USD parkı en az 5-7 gün tutulacak. Nakit ~1.818 TL. THYAO'ya ekleme yok.
 
 === GEÇEN TURUN SONUÇLARI ===
-Sonraki kontrol: 2026-11-19 17:30
+Sonraki kontrol: 2026-11-19 18:00 (istediğin: 2026-11-19 17:55; en az 30 dakika sonrası olmalı)
 
 === PORTFÖY ===
-Toplam değer: 9,843.23 TL (başlangıç 10,000 TL, -1.57%)
+Toplam değer: 9,834.04 TL (başlangıç 10,000 TL, -1.66%)
 Nakit: 1,817.88 TL | Ödenen toplam komisyon: 31.70 TL
-- THYAO.IS: 9.17431 adet, değer 3,022.94 TL, maliyet 3,006.00 TL, kâr/zarar +16.94 TL (+0.56%) | piyasası AÇIK
-- USDTRY=X: 99.1328 adet, değer 5,002.42 TL, maliyet 5,010.00 TL, kâr/zarar -7.58 TL (-0.15%) | piyasası AÇIK
+- THYAO.IS: 9.17431 adet, değer 3,013.76 TL, maliyet 3,006.00 TL, kâr/zarar +7.76 TL (+0.26%) | piyasası kapalı, bu turda işlem yapılamaz
+- USDTRY=X: 99.1328 adet, değer 5,002.40 TL, maliyet 5,010.00 TL, kâr/zarar -7.60 TL (-0.15%) | piyasası kapalı, bu turda işlem yapılamaz
 
 === PORTFÖY DEĞERİ GEÇMİŞİ ===
-16.11 17:15=9,947, 17.11 10:31=9,900, 17.11 13:01=9,819, 17.11 15:31=9,803, 17.11 17:31=9,780, 18.11 10:30=9,821, 18.11 13:30=9,819, 18.11 16:01=9,810, 18.11 17:45=9,781, 19.11 10:31=9,845, 19.11 12:25=9,818, 19.11 15:31=9,829
+17.11 10:31=9,900, 17.11 13:01=9,819, 17.11 15:31=9,803, 17.11 17:31=9,780, 18.11 10:30=9,821, 18.11 13:30=9,819, 18.11 16:01=9,810, 18.11 17:45=9,781, 19.11 10:31=9,845, 19.11 12:25=9,818, 19.11 15:31=9,829, 19.11 17:30=9,843
 
 === SON İŞLEMLERİN ===
 16.11 12:27 ALINDI: ASELS.IS 11.1421 adet, birim 359.0000 TL, tutar 4000.00 TL + komisyon 8.00 TL
@@ -117,140 +117,58 @@ Nakit: 1,817.88 TL | Ödenen toplam komisyon: 31.70 TL
 18.11 17:45 ALINDI: USDTRY=X 99.1328 adet, birim 50.4374 TL, tutar 5000.00 TL + komisyon 10.00 TL
 
 === ENDEKSLER (açık piyasalar) ===
-XU100.IS: 11438.4697 TRY | gün -0.34% hafta -3.16% ay -3.04% 3ay -21.19%
-XU030.IS: 14346.7500 TRY | gün -0.46% hafta -3.16% ay -2.25% 3ay -14.22%
-^GSPC: 7394.9600 puan | gün +0.97% hafta -2.60% ay -4.67% 3ay -3.64% | yalnızca bilgi, alınamaz
-^IXIC: 24809.7559 puan | gün +1.55% hafta -2.19% ay -7.09% 3ay -5.24% | yalnızca bilgi, alınamaz
-^DJI: 50433.6211 puan | gün +0.47% hafta -3.56% ay -4.58% 3ay -5.34% | yalnızca bilgi, alınamaz
-^VIX: 22.4400 puan (oynaklık endeksi) | gün -8.63% hafta +20.00% ay +34.53% 3ay +41.58% | yalnızca bilgi, alınamaz
+^GSPC: 7383.1201 puan | gün +0.81% hafta -2.76% ay -4.82% 3ay -3.80% | yalnızca bilgi, alınamaz
+^IXIC: 24817.5312 puan | gün +1.59% hafta -2.16% ay -7.06% 3ay -5.21% | yalnızca bilgi, alınamaz
+^DJI: 50206.3594 puan | gün +0.02% hafta -4.00% ay -5.01% 3ay -5.76% | yalnızca bilgi, alınamaz
+^VIX: 22.7200 puan (oynaklık endeksi) | gün -7.49% hafta +21.50% ay +36.21% 3ay +43.34% | yalnızca bilgi, alınamaz
 ^TNX: 5.0930 % (ABD 10 yıllık tahvil faizi) | gün +0.53% hafta -0.20% ay -1.03% 3ay +7.49% | yalnızca bilgi, alınamaz
 
 === EMTIA (açık piyasalar) ===
-GC=F: 3710.7000 USD (= 187248.4842 TL) | gün -0.83% hafta -4.49% ay -10.59% 3ay -20.72%
-SI=F: 45.0900 USD (= 2275.3212 TL) | gün +0.20% hafta -9.77% ay -21.48% 3ay -35.09%
-CL=F: 83.7200 USD (= 4224.6594 TL) | gün +0.55% hafta -5.66% ay -13.82% 3ay -3.84%
-HG=F: 5.6700 USD (= 286.1182 TL) | gün +0.19% hafta -8.29% ay -13.34% 3ay -13.82%
+GC=F: 3710.3000 USD (= 187227.6816 TL) | gün -0.84% hafta -4.50% ay -10.60% 3ay -20.73%
+SI=F: 45.3400 USD (= 2287.9290 TL) | gün +0.76% hafta -9.27% ay -21.04% 3ay -34.73%
+CL=F: 83.8000 USD (= 4228.6823 TL) | gün +0.65% hafta -5.57% ay -13.74% 3ay -3.74%
+HG=F: 5.6555 USD (= 285.3856 TL) | gün -0.07% hafta -8.52% ay -13.56% 3ay -14.04%
 
 === DÖVIZ (açık piyasalar) ===
-USDTRY=X: 50.4618 TRY | gün +0.05% hafta +0.41% ay +1.77% 3ay +5.03%
-EURTRY=X: 55.6606 TRY | gün +0.33% hafta -0.37% ay -0.05% 3ay -0.86%
-EURUSD=X: 1.1006 USD (= 55.5379 TL) | gün +0.12% hafta -0.80% ay -1.97% 3ay -5.78%
+EURUSD=X: 1.0995 USD (= 55.4828 TL) | gün +0.02% hafta -0.90% ay -2.06% 3ay -5.88%
 
 === KRIPTO (açık piyasalar) ===
-BTC-USD: 63834.0781 USD (= 3221180.5113 TL) | gün +1.34% hafta -0.46% ay -17.92% 3ay -16.45%
-ETH-USD: 1806.2300 USD (= 91145.5602 TL) | gün +1.77% hafta +2.10% ay -19.71% 3ay -26.19%
-SOL-USD: 75.0700 USD (= 3788.1650 TL) | gün +1.97% hafta +6.97% ay -21.39% 3ay -26.11%
-BNB-USD: 591.6600 USD (= 29856.2090 TL) | gün +1.57% hafta +1.77% ay -15.20% 3ay -19.83%
-XRP-USD: 0.9916 USD (= 50.0379 TL) | gün +2.37% hafta +8.61% ay -19.70% 3ay -23.48%
-
-=== PORTFÖYÜN VE İZLEME LİSTEN (açık piyasalar) ===
-THYAO.IS: 329.5000 TRY | gün +1.78% hafta +3.29% ay +20.48% 3ay +9.47%
-PGSUS.IS: 156.3000 TRY | gün +0.84% hafta -1.20% ay +18.41% 3ay +4.55%
-TAVHL.IS: 292.2500 TRY | gün +0.43% hafta -2.91% ay +2.10% 3ay +4.47%
-ASELS.IS: 335.7500 TRY | gün -2.33% hafta -2.61% ay -2.04% 3ay -16.74%
-GARAN.IS: 146.9000 TRY | gün +0.82% hafta -3.74% ay +9.14% 3ay +13.09%
-AKBNK.IS: 67.3500 TRY | gün +0.37% hafta -3.92% ay -1.39% 3ay -3.37%
-TOASO.IS: 250.7500 TRY | gün +3.74% hafta +5.36% ay +5.49% 3ay -10.84%
-TUPRS.IS: 337.7500 TRY | gün -2.31% hafta -5.39% ay -6.70% 3ay -16.96%
-BIMAS.IS: 385.0000 TRY | gün -1.22% hafta -0.77% ay -0.13% 3ay -7.56%
-FROTO.IS: 71.9000 TRY | gün -0.96% hafta -1.98% ay +5.04% 3ay -10.35%
-HEKTS.IS: 1.6300 TRY | gün +3.82% hafta -4.12% ay -17.26% 3ay -42.81%
+BTC-USD: 63572.3516 USD (= 3207962.6555 TL) | gün +0.93% hafta -0.87% ay -18.26% 3ay -16.79%
+ETH-USD: 1800.1600 USD (= 90838.9578 TL) | gün +1.43% hafta +1.75% ay -19.98% 3ay -26.44%
+SOL-USD: 75.0500 USD (= 3787.1433 TL) | gün +1.94% hafta +6.94% ay -21.41% 3ay -26.13%
+BNB-USD: 591.0200 USD (= 29823.8166 TL) | gün +1.46% hafta +1.66% ay -15.29% 3ay -19.92%
+XRP-USD: 0.9889 USD (= 49.9015 TL) | gün +2.10% hafta +8.31% ay -19.92% 3ay -23.69%
 
 === ANALİZ: PORTFÖYÜN VE İZLEME LİSTEN ===
-THYAO.IS (TURK HAVA YOLLARI, Industrials)
-  teknik: RSI14 74 | 20 günlük ortalamaya göre +14.60% | 50 günlük ortalamaya göre +14.70% | 6 ay zirvesine -5.40%, dibine +36.00% | yıllık oynaklık %52
-  temel: F/K 4.5 (ileriye dönük) | PD/DD 19.21 | piyasa değeri 444.3 mlr TRY
-  15dk son 4 saat: 326.25 326.75 327.0 327.75 328.75 328.25 328.25 327.75 327.75 327.75 327.25 328.0 327.5 327.75 329.25 329.5 | bugün açılış 325.0, yüksek 331.75, düşük 324.75 | RSI(15dk) 62 | 15dk 20 çubuk ortalamasına göre +0.51% | son 1 saat hacmi normalin 1.2 katı
-  haber: [19.11 13:57] BofA bugün THYAO toplarken ASELS ve TUPRS sattı (YatırımX)
-  haber: [19.11 12:41] Borsada 6 hisse için kritik analiz: THYAO, TUPRS, OTKAR, ENJSA, TAVHL ve AKBNK (CNBC-e)
-USDTRY=X
-  teknik: RSI14 96 | 20 günlük ortalamaya göre +0.80% | 50 günlük ortalamaya göre +2.10% | 6 ay zirvesine +0.00%, dibine +10.70% | yıllık oynaklık %1
-  15dk son 4 saat: 50.462 50.464 50.462 50.466 50.462 50.467 50.462 50.467 50.463 50.462 50.459 50.462 50.459 50.462 50.464 50.462 | bugün açılış 50.45, yüksek 50.487, düşük 50.362 | RSI(15dk) 52 | 15dk 20 çubuk ortalamasına göre -0.00%
-PGSUS.IS (PEGASUS, Industrials)
-  teknik: RSI14 66 | 20 günlük ortalamaya göre +12.90% | 50 günlük ortalamaya göre +11.10% | 6 ay zirvesine -15.40%, dibine +35.90% | yıllık oynaklık %51
-  temel: F/K 442.9 (son 12 ay) | PD/DD 0.59 | piyasa değeri 77.5 mlr TRY
-  15dk son 4 saat: 155.6 156.1 156.1 156.5 157.0 156.9 156.9 156.5 156.3 156.3 155.7 155.9 155.5 155.6 156.1 156.3 | bugün açılış 155.0, yüksek 158.9, düşük 154.0 | RSI(15dk) 52 | 15dk 20 çubuk ortalamasına göre +0.10% | son 1 saat hacmi normalin 0.4 katı
-TAVHL.IS (TAV HAVALIMANLARI, Industrials)
-  teknik: RSI14 56 | 20 günlük ortalamaya göre +3.40% | 50 günlük ortalamaya göre +5.90% | 6 ay zirvesine -4.00%, dibine +19.40% | yıllık oynaklık %46
-  temel: F/K 13.1 (son 12 ay) | PD/DD 1.1 | piyasa değeri 105.7 mlr TRY | temettü verimi %1.24
-  15dk son 4 saat: 291.75 292.25 291.25 292.0 292.75 292.25 292.0 291.75 292.25 292.75 292.25 291.75 292.25 290.75 292.25 292.25 | bugün açılış 289.75, yüksek 295.75, düşük 288.25 | RSI(15dk) 49 | 15dk 20 çubuk ortalamasına göre +0.03% | son 1 saat hacmi normalin 0.4 katı
-  haber: [19.11 13:00] Borsada dengeler değişiyor: Tuncay Turşucu 2027 için dikkat çekti (CNBC-e)
-  haber: [19.11 12:52] Borsa İstanbul: 6 Hisse İçin 2027 Beklentisi Ve Analiz (Finans Hattı)
-ASELS.IS (ASELSAN, Industrials)
-  teknik: RSI14 45 | 20 günlük ortalamaya göre -2.00% | 50 günlük ortalamaya göre -5.40% | 6 ay zirvesine -18.30%, dibine +4.20% | yıllık oynaklık %42
-  temel: F/K 35.3 (son 12 ay) | PD/DD 4.68 | piyasa değeri 1.6 trn TRY | temettü verimi %0.12
-  15dk son 4 saat: 337.75 337.5 337.0 338.0 336.75 336.75 336.25 336.5 336.75 337.25 337.5 337.5 337.0 335.0 336.0 335.75 | bugün açılış 345.5, yüksek 347.0, düşük 334.75 | RSI(15dk) 34 | 15dk 20 çubuk ortalamasına göre -0.43% | son 1 saat hacmi normalin 0.5 katı
-GARAN.IS (GARANTI BANKASI, Financial Services)
-  teknik: RSI14 60 | 20 günlük ortalamaya göre +5.40% | 50 günlük ortalamaya göre +9.60% | 6 ay zirvesine -5.50%, dibine +22.40% | yıllık oynaklık %42
-  temel: F/K 4.9 (son 12 ay) | PD/DD 1.18 | piyasa değeri 611.9 mlr TRY | temettü verimi %3.61
-  15dk son 4 saat: 147.1 147.4 147.3 147.6 147.6 147.4 147.3 147.2 147.3 147.3 147.3 147.2 146.8 146.2 147.0 146.9 | bugün açılış 146.5, yüksek 148.5, düşük 145.9 | RSI(15dk) 46 | 15dk 20 çubuk ortalamasına göre -0.21% | son 1 saat hacmi normalin 1.0 katı
-AKBNK.IS (AKBANK, Financial Services)
-  teknik: RSI14 48 | 20 günlük ortalamaya göre +0.90% | 50 günlük ortalamaya göre -1.60% | 6 ay zirvesine -17.90%, dibine +10.60% | yıllık oynaklık %42
-  temel: F/K 5.3 (son 12 ay) | PD/DD 1.07 | piyasa değeri 352.0 mlr TRY | temettü verimi %3.28
-  15dk son 4 saat: 67.1 67.2 67.1 67.25 67.4 67.25 67.15 67.05 67.05 67.15 67.2 67.15 67.0 66.8 67.3 67.35 | bugün açılış 67.35, yüksek 68.1, düşük 66.75 | RSI(15dk) 52 | 15dk 20 çubuk ortalamasına göre +0.28% | son 1 saat hacmi normalin 0.7 katı
-  haber: [19.11 12:52] Borsa İstanbul: 6 Hisse İçin 2027 Beklentisi Ve Analiz (Finans Hattı)
-  haber: [19.11 12:41] Borsada 6 hisse için kritik analiz: THYAO, TUPRS, OTKAR, ENJSA, TAVHL ve AKBNK (CNBC-e)
-TOASO.IS (TOFAS OTO. FAB., Consumer Cyclical)
-  teknik: RSI14 56 | 20 günlük ortalamaya göre +8.30% | 50 günlük ortalamaya göre -1.70% | 6 ay zirvesine -27.30%, dibine +18.70% | yıllık oynaklık %60
-  temel: F/K 7.6 (son 12 ay) | PD/DD 1.71 | piyasa değeri 124.6 mlr TRY | temettü verimi %8.27
-  15dk son 4 saat: 250.75 251.5 250.75 251.0 252.75 252.75 251.5 251.0 250.5 251.25 251.0 251.0 251.0 250.0 250.75 250.75 | bugün açılış 241.7, yüksek 254.0, düşük 239.8 | RSI(15dk) 56 | 15dk 20 çubuk ortalamasına göre -0.04% | son 1 saat hacmi normalin 0.4 katı
-  haber: [19.11 15:08] Toyota Corolla Deck Hibrit Pickup: Yeni Pazar Stratejisi (Finans Hattı)
-  haber: [19.11 14:31] ASELS ve KCHOL’de yüksek çıkış: Toplamda 370 milyon TL’lik hareket (Paratic Haber)
-TUPRS.IS (TUPRAS, Energy)
-  teknik: RSI14 40 | 20 günlük ortalamaya göre -2.90% | 50 günlük ortalamaya göre -10.10% | 6 ay zirvesine -19.10%, dibine +55.80% | yıllık oynaklık %35
-  temel: F/K 5.1 (son 12 ay) | PD/DD 1.26 | piyasa değeri 658.5 mlr TRY | temettü verimi %3.9
-  15dk son 4 saat: 335.5 335.25 334.75 335.75 334.75 334.5 334.25 334.75 335.75 337.25 337.0 336.75 337.0 335.0 337.75 337.75 | bugün açılış 347.0, yüksek 347.0, düşük 333.5 | RSI(15dk) 52 | 15dk 20 çubuk ortalamasına göre +0.51% | son 1 saat hacmi normalin 0.8 katı
-  haber: [19.11 16:45] TUPRAS Hisse Senedi Canlı Grafik (Mynet Finans)
-  haber: [19.11 13:57] BofA bugün THYAO toplarken ASELS ve TUPRS sattı (YatırımX)
-BIMAS.IS (BIM MAGAZALAR, Consumer Defensive)
-  teknik: RSI14 50 | 20 günlük ortalamaya göre +2.60% | 50 günlük ortalamaya göre -3.30% | 6 ay zirvesine -11.40%, dibine +10.80% | yıllık oynaklık %35
-  temel: F/K 13.8 (son 12 ay) | PD/DD 2.08 | piyasa değeri 460.6 mlr TRY | temettü verimi %1.8
-  15dk son 4 saat: 384.0 385.0 385.75 385.5 385.25 385.0 384.75 384.25 384.25 385.5 385.0 385.5 384.5 383.5 384.5 385.0 | bugün açılış 390.25, yüksek 392.0, düşük 382.5 | RSI(15dk) 46 | 15dk 20 çubuk ortalamasına göre +0.08% | son 1 saat hacmi normalin 0.5 katı
-  haber: [19.11 09:50] ASELS, THYAO, EREGL, BIMAS: Büyük hisselerde toplu satış... (Hisse.net)
-  haber: [18.11 18:46] Gedik Yatırım, BIMAS için hedef fiyat ve tavsiyesini yükseltti (Borsatek)
-FROTO.IS (FORD OTOSAN, Consumer Cyclical)
-  teknik: RSI14 50 | 20 günlük ortalamaya göre +2.60% | 50 günlük ortalamaya göre -2.00% | 6 ay zirvesine -21.70%, dibine +10.50% | yıllık oynaklık %48
-  temel: F/K 8.3 (son 12 ay) | PD/DD 1.3 | piyasa değeri 254.8 mlr TRY | temettü verimi %13.35
-  15dk son 4 saat: 72.8 72.7 72.65 72.8 72.9 72.7 72.35 72.4 71.9 72.05 72.15 72.15 71.95 71.8 71.9 71.9 | bugün açılış 73.0, yüksek 73.35, düşük 71.7 | RSI(15dk) 36 | 15dk 20 çubuk ortalamasına göre -0.73% | son 1 saat hacmi normalin 0.4 katı
-XU100.IS (BIST 100)
-  teknik: RSI14 43 | 20 günlük ortalamaya göre +0.30% | 50 günlük ortalamaya göre -6.50% | 6 ay zirvesine -22.90%, dibine +6.30% | yıllık oynaklık %29
-  15dk son 4 saat: 11418.0 11430.0 11422.0 11440.0 11451.0 11445.0 11434.0 11432.0 11428.0 11451.0 11448.0 11447.0 11428.0 11391.0 11436.0 11438.0 | bugün açılış 11477.0, yüksek 11574.0, düşük 11385.0 | RSI(15dk) 46 | 15dk 20 çubuk ortalamasına göre +0.04%
-  haber: [19.11 09:39] TradingView'de Matriks tarafından haberler, 2026-11-19 (TradingView)
-  haber: [19.11 09:33] TradingView'de Matriks tarafından haberler, 2026-11-19 (TradingView)
-XU030.IS (BIST 30)
-  teknik: RSI14 45 | 20 günlük ortalamaya göre +0.60% | 50 günlük ortalamaya göre -5.10% | 6 ay zirvesine -16.80%, dibine +6.90% | yıllık oynaklık %29
-  15dk son 4 saat: 14320.0 14335.0 14327.0 14352.0 14361.0 14351.0 14334.0 14333.0 14331.0 14360.0 14353.0 14355.0 14329.0 14281.0 14343.0 14347.0 | bugün açılış 14413.0, yüksek 14536.0, düşük 14274.0 | RSI(15dk) 46 | 15dk 20 çubuk ortalamasına göre +0.05%
-  haber: [19.11 09:34] Borsa İstanbul CANLI: BIST100, hisseler ve VİOP'ta canlı takip (19 Kasım 2026) (CNBC-e)
-  haber: [18.11 09:36] TradingView'de Matriks tarafından haberler, 2026-11-18 (TradingView)
 BTC-USD
-  teknik: RSI14 25 | 20 günlük ortalamaya göre -12.20% | 50 günlük ortalamaya göre -18.80% | 6 ay zirvesine -26.30%, dibine +9.00% | yıllık oynaklık %40
-  15dk son 4 saat: 63720.0 63694.0 63816.0 63899.0 63879.0 63741.0 63672.0 63728.0 63814.0 63717.0 63640.0 63661.0 63969.0 63871.0 63863.0 63834.0 | bugün açılış 63512.0, yüksek 64011.0, düşük 63226.0 | RSI(15dk) 56 | 15dk 20 çubuk ortalamasına göre +0.08% | son 1 saat hacmi normalin 0.4 katı
-  haber: [19.11 16:51] Stock Market Today: Dow Rises As Walmart Falls On Earnings; Anthropic IPO Set To Soar 25% (Live Coverage) (Investor's Business Daily)
-  haber: [19.11 16:48] What You Actually Own When You Buy GameStop Stock (24/7 Wall St.)
-HEKTS.IS (HEKTAS, Basic Materials)
-  teknik: RSI14 37 | 20 günlük ortalamaya göre -4.70% | 50 günlük ortalamaya göre -20.40% | 6 ay zirvesine -63.20%, dibine +3.80% | yıllık oynaklık %59
-  temel: PD/DD 0.84 | piyasa değeri 14.9 mlr TRY
-  15dk son 4 saat: 1.59 1.6 1.62 1.65 1.66 1.66 1.66 1.63 1.63 1.63 1.62 1.62 1.62 1.62 1.63 1.63 | bugün açılış 1.57, yüksek 1.68, düşük 1.57 | RSI(15dk) 57 | 15dk 20 çubuk ortalamasına göre +0.40% | son 1 saat hacmi normalin 0.2 katı
+  teknik: RSI14 24 | 20 günlük ortalamaya göre -12.60% | 50 günlük ortalamaya göre -19.10% | 6 ay zirvesine -26.60%, dibine +8.60% | yıllık oynaklık %40
+  15dk son 4 saat: 63816.0 63899.0 63879.0 63741.0 63672.0 63728.0 63814.0 63717.0 63640.0 63661.0 63969.0 63871.0 63863.0 63879.0 63483.0 63572.0 | bugün açılış 63512.0, yüksek 64011.0, düşük 63226.0 | RSI(15dk) 46 | 15dk 20 çubuk ortalamasına göre -0.29% | son 1 saat hacmi normalin 0.1 katı
+  haber: [19.11 17:48] Stock Market Today: Dow Up While Walmart Slides After Earnings; Anthropic IPO Set To Pop 25% (Live Coverage) (Investor's Business Daily)
+  haber: [19.11 17:30] Bitcoin ETF Outflows Accelerate Ahead Of Anthropic IPO (CryptoProwl)
+
+Şu an piyasası kapalı veya verisi olmadığı için gösterilmeyenler: THYAO.IS, USDTRY=X, PGSUS.IS, TAVHL.IS, GARAN.IS, AKBNK.IS, YKBNK.IS, TOASO.IS, TUPRS.IS, BIMAS.IS, FROTO.IS, ASELS.IS, XU100.IS, XU030.IS
 
 === FIRSAT TABLOSU: günün öne çıkanları (açık piyasalar) ===
-Borsa İstanbul büyük hisseler:
-  günün en iyileri: HEKTS.IS gün +3.82% hafta -4.12% ay -17.26% RSI 37; TOASO.IS gün +3.74% hafta +5.36% ay +5.49% RSI 56; THYAO.IS gün +1.78% hafta +3.29% ay +20.48% RSI 74; YKBNK.IS gün +1.37% hafta -2.32% ay +0.98% RSI 52
-  günün en kötüleri: ASELS.IS gün -2.33% hafta -2.61% ay -2.04% RSI 45; TUPRS.IS gün -2.31% hafta -5.39% ay -6.70% RSI 40; TCELL.IS gün -1.27% hafta -3.06% ay -4.25% RSI 46; BIMAS.IS gün -1.22% hafta -0.77% ay -0.13% RSI 50
 ABD büyük şirketler:
-  günün en iyileri: INTC gün +5.07% hafta -6.14% ay -38.21% RSI 34; GOOGL gün +4.20% hafta -1.47% ay -12.09% RSI 44; MU gün +3.91% hafta -8.22% ay -19.79% RSI 40; PLTR gün +3.56% hafta -5.44% ay -19.57% RSI 39
-  günün en kötüleri: WMT gün -2.07% hafta -1.16% ay +5.88% RSI 56; PEP gün -1.67% hafta -1.94% ay +3.56% RSI 51; KO gün -1.66% hafta -1.01% ay +4.08% RSI 56; LLY gün -1.13% hafta -4.22% ay +7.58% RSI 53
+  günün en iyileri: INTC gün +7.87% hafta -3.64% ay -36.56% RSI 36; MU gün +6.27% hafta -6.13% ay -17.97% RSI 42; PLTR gün +5.84% hafta -3.36% ay -17.80% RSI 42; GOOGL gün +3.96% hafta -1.70% ay -12.29% RSI 44
+  günün en kötüleri: KO gün -3.09% hafta -2.45% ay +2.56% RSI 50; PEP gün -2.68% hafta -2.94% ay +2.50% RSI 48; UNH gün -2.23% hafta -15.56% ay -17.96% RSI 27; V gün -1.76% hafta -2.95% ay +0.01% RSI 47
 ABD sektör fonları:
-  günün en iyileri: SMH gün +2.64% hafta -5.99% ay -15.27% RSI 39; XLK gün +2.25% hafta -3.61% ay -11.16% RSI 40; XLC gün +1.17% hafta -0.69% ay -1.97% RSI 50; XLE gün +0.72% hafta -4.04% ay -9.43% RSI 39
-  günün en kötüleri: XLP gün -1.15% hafta -1.02% ay +3.47% RSI 54; XLU gün -0.55% hafta -1.14% ay +3.12% RSI 53; XLB gün -0.54% hafta -4.11% ay -2.20% RSI 39; XLRE gün -0.53% hafta -2.19% ay +3.16% RSI 49
+  günün en iyileri: SMH gün +3.46% hafta -5.24% ay -14.60% RSI 40; XLK gün +2.65% hafta -3.23% ay -10.81% RSI 41; XLC gün +0.44% hafta -1.41% ay -2.69% RSI 48; XLE gün +0.14% hafta -4.59% ay -9.95% RSI 37
+  günün en kötüleri: XLP gün -1.75% hafta -1.63% ay +2.84% RSI 51; XLV gün -1.21% hafta -4.71% ay +0.02% RSI 43; XLU gün -0.99% hafta -1.57% ay +2.67% RSI 51; XLRE gün -0.70% hafta -2.36% ay +2.98% RSI 48
 Kripto:
-  günün en iyileri: XRP-USD gün +2.37% hafta +8.61% ay -19.70% RSI 34; ADA-USD gün +2.21% hafta +4.92% ay -18.61% RSI 32; SOL-USD gün +1.97% hafta +6.97% ay -21.39% RSI 31; ETH-USD gün +1.77% hafta +2.10% ay -19.71% RSI 28
-  günün en kötüleri: DOT-USD gün +0.06% hafta +2.01% ay -20.78% RSI 26; LTC-USD gün +0.60% hafta -0.10% ay -19.24% RSI 30; DOGE-USD gün +1.22% hafta +3.96% ay -20.85% RSI 30; LINK-USD gün +1.27% hafta +3.76% ay -13.10% RSI 34
+  günün en iyileri: XRP-USD gün +2.10% hafta +8.31% ay -19.92% RSI 33; ADA-USD gün +2.03% hafta +4.74% ay -18.75% RSI 32; SOL-USD gün +1.94% hafta +6.94% ay -21.41% RSI 31; BNB-USD gün +1.46% hafta +1.66% ay -15.29% RSI 29
+  günün en kötüleri: DOT-USD gün +0.06% hafta +2.01% ay -20.78% RSI 26; LTC-USD gün +0.22% hafta -0.47% ay -19.54% RSI 29; AVAX-USD gün +0.89% hafta +0.08% ay -14.14% RSI 34; BTC-USD gün +0.93% hafta -0.87% ay -18.26% RSI 24
 
 === HABER BAŞLIKLARI ===
 ABD ve dünya piyasaları:
-  [19.11 17:14] Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut (MT Newswires)
-  [19.11 12:09] Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of historic Anthropic IPO (Yahoo Finance)
-  [19.11 17:13] Anthropic Just Priced the Biggest IPO on Record. History Says What Record-Setting IPOs Have Meant for the S&P 500. (Motley Fool)
-  [19.11 17:09] How Much Downside Is Left In Fortinet Stock? (Trefis)
+  [19.11 12:09] Stock market today: Dow, S&P 500, Nasdaq rise ahead of historic Anthropic trading debut (Yahoo Finance)
+  [19.11 17:48] Stock Market Today: Dow Up While Walmart Slides After Earnings; Anthropic IPO Set To Pop 25% (Live Coverage) (Investor's Business Daily)
+  [19.11 17:47] Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on 100 Years of History. (Motley Fool)
+  [19.11 17:45] Could Intuitive Surgical Stock Turn $10,000 Into $12,200? (Trefis)
+Türkiye ekonomisi:
+  [19.11 17:48] ABD'de faizler daha da yükselebilir: Goldman Sachs'tan yeni tahmin (EKOTÜRK)
+  [19.11 17:19] S&P Global'den Brent Petrol Tahmini: 2028 Sonunda 70 Dolara Gerileyebilir (Paranın Yönü)
+  [19.11 16:43] Altın ve gümüşte sert düşüş! Saxo Bank toparlanma için 3 şartı açıkladı (ABC Haber)
+  [19.11 15:50] Altın ve gümüşte sert düşüş: Saxo Bank yükseliş için üç şartı açıkladı (Sigorta Gündem)
 
 Kararını JSON olarak ver.

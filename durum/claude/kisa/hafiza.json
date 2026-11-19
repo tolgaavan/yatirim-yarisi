@@ -1,7 +1,7 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4. Gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberli boşluk açılışına ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı. 19.11 17:30'da 329,5; gün aralığı 324,75-331,75; RSI 74; 6 aylık zirve ~348; BofA THYAO alıyor, ASELS ve TUPRS satıyor. USDTRY 18.11'de 5.000 TL ile 50,44'ten park edildi. Endeks 19.11'de 11.385'e kadar indi, 11.574'ten dönmüştü. JPMorgan 3 Fed artırımı bekliyor, ECB şahin, emtia ve kripto zayıf. TOASO 19.11'de +%3,7 (250,75) ama gün sonu hacmi zayıf. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. Stoplar yalnızca kontrol anında uygulanıyor. BIST verisi 15 dk gecikmeli.",
- "plan": "THYAO: stop 322. Endeks 11.385 altında kapanır ve THYAO 324 altındaysa erken çık. 338-340'ta yarısını sat ve stopu 330'a çek. 346-348'de kalanını sat. Yeni BIST alımı yalnızca endeks 11.800 üstüne dönerse yapılacak. 11.900 hacimle aşılırsa nakit ve USD'nin bir kısmıyla en güçlü hisse alınacak (adaylar: TOASO, GARAN). USD parkı en az 5-7 gün tutulacak. Nakit ~1.818 TL. THYAO'ya ekleme yok.",
- "sonraki_tura_mesaj": "THYAO maliyeti 327, stop 322. 338-340'ta yarısını sat. Endeks 11.385 altında kapanıyor ve THYAO 324 altındaysa çık. USD 50,44'ten park edildi, bozma. Nakit ~1.818 TL. Kapanışta THYAO'nun 328 üstünde kalıp kalmadığına bak. Bugün 5. ve son kontrol, sonraki kontrol yarın 10:30.",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4. Gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberli boşluk açılışına ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı. 19.11 17:30'da 329,5; RSI 74; 6 aylık zirve ~348; BofA THYAO alıyor. USDTRY 18.11'de 5.000 TL ile 50,44'ten park edildi. Endeks 19.11'de 11.385'e kadar indi. Küresel ortam riskten kaçış: VIX 22,7, ABD 10 yıllık %5,09, emtia ve kripto çöküşte, BTC RSI 24. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. Stoplar yalnızca kontrol anında uygulanıyor. BIST verisi 15 dk gecikmeli. Kapanış sonrası ABD veya kripto tek gün sıçramalarına girme.",
+ "plan": "THYAO: stop 322. Endeks 11.385 altında ve THYAO 324 altındaysa erken çık. 338-340'ta yarısını sat ve stopu 330'a çek. 346-348'de kalanını sat. Yeni BIST alımı yalnızca endeks 11.800 üstüne dönerse yapılacak. 11.900 hacimle aşılırsa nakit ve USD'nin bir kısmıyla en güçlü hisseye girilecek (adaylar: TOASO, GARAN). USD parkı en az 5-7 gün tutulacak. Nakit ~1.818 TL. THYAO'ya ekleme yok.",
+ "sonraki_tura_mesaj": "THYAO maliyeti 327, stop 322. 338-340'ta yarısını sat. Önce açılış boşluğuna bak: THYAO 322 altında açarsa çık. Endeks 11.385 altındaysa ve THYAO 324 altındaysa çık. USD 50,44'ten park edildi, bozma. Nakit ~1.818 TL. Küresel risk iştahı zayıf (VIX 22,7, faizler %5+).",
  "izleme_listesi": [
   "THYAO.IS",
   "USDTRY=X",
@@ -19,13 +19,13 @@
   "XU030.IS",
   "BTC-USD"
  ],
- "son_yorum": "BIST 100 gün içinde 11.385'e kadar indi, sonra 11.438'e döndü. Haftalık kayıp %3. Bankalar ve sanayi zayıf. THYAO hacimle ayrışıyor: BofA alıyor, gün +%1,8 ve RSI 74 ile ısınmış durumda. ABD'de Anthropic halka arzı iyimserliği var ama VIX 22 ve 10 yıllık faiz %5,1. Emtia ve kripto zayıf. USDTRY sakin bir şekilde yukarı sürünüyor.",
+ "son_yorum": "ABD'de Anthropic halka arzı öncesinde teknoloji tepki alımı var (Nasdaq +%1,6), ancak VIX haftalık +%21,5 ve 10 yıllık faiz %5,09; Goldman ve JPM daha fazla faiz artışı bekliyor. Altın, gümüş ve bakır sert düşüşte, BTC'nin RSI'ı 24 ve ETF çıkışları hızlanıyor. Bu, düşen bıçak ortamı. Ayı piyasasında tek günlük sıçramaya overnight pozisyonla girmek tez değil, kumar olur.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-19 18:00 (istediğin: 2026-11-19 17:55; en az 30 dakika sonrası olmalı)"
+  "Sonraki kontrol: 2026-11-20 10:30"
  ]
 }
