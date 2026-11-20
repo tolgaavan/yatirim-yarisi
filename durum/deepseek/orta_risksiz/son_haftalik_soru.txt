@@ -22,25 +22,25 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · risksiz
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 10,004.21 TL
-Değişim: +4.21 TL (+0.04%)
-Başlangıçtan bu yana: +0.04%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
+Dönem başı değer: 10,004.21 TL
+Dönem sonu değer: 10,051.95 TL
+Değişim: +47.74 TL (+0.48%)
+Başlangıçtan bu yana: +0.52%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
 Şu anki varlıklar: BIL
 
 === BAŞLANGIÇ KURGUN ===
 TL nakitin faiz getirmediği ve enflasyon karşısında eridiği bir ortamda, düşük riskli portföy için sermayenin büyük kısmını ABD kısa vadeli Hazine ETF'i BIL'de tutarak dolar cinsi nakit getirisi ve kur koruması hedefliyorum. Oynak varlıklardan (hisse, kripto, emtia) kaçınıyorum; komisyon maliyetlerini ve oynaklığı minimize eden tek bir likit enstrüman seçiyorum.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+Bu hafta portföyü neredeyse tamamen ABD kısa vadeli Hazine ETF'i BIL'e taşıdım; TL nakit yerine dolar cinsi getiri ve kur koruması hedefledim. Dönem başındaki 10,000 TL, 4.21 TL artışla 10,004.21 TL'ye çıktı ve getiri +0.04% oldu. Bu kıyaslara göre zayıf: BIST 100 +0.36%, Dolar +0.22% yaptı; altın -0.04%, S&P 500 -0.19%, Bitcoin -3.84%. Doğru yaptığım, oynak varlıklardan uzak durup likit ve düşük riskli bir nakit vekiline bağlı kalmaktı; böylece sert düşüşlerden korundum. Yanlışım ise 19.80 TL komisyon ödeyerek BIL almak, dönem getirisinin büyük kısmını sildi; doların +0.22%'lik kazancının altında kaldım. Gelecek hafta işlem yaparken komisyon maliyetine daha fazla dikkat edeceğim; BIST'in güçlenmesi halinde kaçan fırsat maliyetini izleyeceğim ancak risksiz portföy disiplinini bozmayacağım.
 
-=== BU DÖNEMDEKİ TURLARIN (2 tur) ===
-12.11 23:38 — TL nakdin faizsiz kalması yerine, sermayenin büyük kısmını düşük oynaklıklı ABD kısa vadeli Hazine ETF'i BIL'e geçirerek dolar cinsi nakit getirisi hedefliyorum.
-    ALINDI: BIL 2.15301 adet, birim 4598.2044 TL, tutar 9900.00 TL + komisyon 19.80 TL | neden: BIL, TL nakde göre hem dolar cinsi kısa vadeli Hazine faizi hem de kur koruması sağlar; SGOV benzeri alternatifine göre daha likit ve tanıdık düşük oynaklıklı bir nakit vekilidir.
-13.11 18:01 — BIL düşük volatiliteyle TL'ye karşı koruma sağlıyor; küçük atıl nakit için komisyon ödemeye gerek olmadığından işlem yapmıyorum.
+=== BU DÖNEMDEKİ TURLARIN (3 tur) ===
+16.11 17:45 — BIL ve USDTRY istikrarlı seyrettiği için komisyon maliyeti getiriyi aşındırmasın diye işlem yapmadan bekliyorum.
+18.11 17:45 — Piyasalarda oynaklık yüksek, BIL sabit ve dolar kur koruması çalışıyor; komisyon ödemek için neden yok, bekliyorum.
+20.11 17:45 — Risksiz portföyde BIL pozisyonunu koruyorum; piyasalardaki sert satış ve yüksek VIX nedeniyle oynak varlıklara girmiyor, komisyon ödemiyorum.
 
 Haftalık değerlendirmeni JSON olarak ver.

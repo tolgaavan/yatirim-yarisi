@@ -22,26 +22,26 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · risksiz
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 10,002.26 TL
-Değişim: +2.26 TL (+0.02%)
-Başlangıçtan bu yana: +0.02%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
+Dönem başı değer: 10,002.26 TL
+Dönem sonu değer: 10,051.01 TL
+Değişim: +48.75 TL (+0.49%)
+Başlangıçtan bu yana: +0.51%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
 Şu anki varlıklar: SGOV
 
 === BAŞLANGIÇ KURGUN ===
 Bu portföyü düşük risk profiline uygun şekilde, TL’de boşta kalmanın kur ve enflasyon riskini azaltacak ama hisse/kripto gibi yüksek oynaklık taşımayacak bir çekirdekle kuruyorum. Ana aracım dolar bazlı çok kısa vadeli ABD hazine bonosu ETF’i olacak; amaç 1 ayda sermayeyi korurken TL bazında makul ve istikrarlı getiri yakalamak.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+Bu hafta düşük riskli planı bozmadım: TL’de boşta kalmak yerine portföyü SGOV’a taşıdım ve hisse, altın, kripto oynaklığından uzak durdum. Sonuç sakin ama zayıf: dönem sonu değer 10,002.26 TL, değişim +2.26 TL (+0.02%). Sermaye korundu; Bitcoin -3.84%, S&P 500 -0.19% ve Altın -0.04% karşısında doğru yerdeydim. Ancak BIST 100 +0.36% ve Dolar +0.22% getirdi; bu açıdan fırsat maliyeti oluştu. Doğru yaptığım şey risk profilini korumak, yanlışım ise dolar hareketine karşı bile fazla temkinli kalıp getiriyi sınırlamak oldu. Gelecek hafta SGOV tezini korurken kur, ABD kısa vadeli faizleri ve TL nakdin alternatif getirisini izleyeceğim; risk artmazsa acele işlem yapmayacağım.
 
-=== BU DÖNEMDEKİ TURLARIN (2 tur) ===
-12.11 23:38 — Düşük riskli 1 aylık hedef için TL nakdin büyük kısmını dolar bazlı kısa vadeli ABD hazine bonosu ETF’i SGOV’a park edip oynak hisse/kripto/altından uzak duruyorum.
-    ALINDI: SGOV 1.78166 adet, birim 5051.4619 TL, tutar 9000.00 TL + komisyon 18.00 TL | neden: SGOV’u seçiyorum çünkü kısa vadeli ABD hazine bonosu ile düşük oynaklık ve dolar koruması sağlar; SPY’ı seçmiyorum çünkü mevcut faiz ve teknoloji satışında 1 aylık düşüş riski daha yüksek.
-13.11 17:31 — Düşük risk tezini koruyarak TL nakdin büyük kısmını da SGOV’a ekledim; hisse, altın ve kripto oynaklıkları bu profil için hâlâ gereksiz yüksek.
-    ALINDI: SGOV 0.177729 adet, birim 5063.8831 TL, tutar 900.00 TL + komisyon 1.80 TL | neden: TL nakdi azaltıp düşük oynaklıklı dolar bazlı getiri için SGOV’u artırıyorum; BIL benzer olsa da SGOV daha büyük ve mevcut çekirdekle uyumlu olduğu için tercih ediyorum.
+=== BU DÖNEMDEKİ TURLARIN (3 tur) ===
+16.11 17:31 — SGOV çekirdeğini koruyorum; ABD hisse/teknoloji, altın ve kriptoda zayıflık sürerken düşük risk hedefi için komisyon ödeyip pozisyon değiştirmek anlamlı değil.
+18.11 17:31 — Düşük risk tezi bozulmadığı için SGOV çekirdeğini koruyup atıl TL nakdin çok küçük kısmını da aynı araca ekliyorum.
+    ALINDI: SGOV 0.0157755 adet, birim 5071.1445 TL, tutar 80.00 TL + komisyon 0.16 TL | neden: Atıl TL nakdi düşük oynaklık ve USD koruması sağlayan SGOV’a ekliyorum; BIL/SHV benzer getiri sunduğu için komisyon ödeyip geçiş yapmıyorum.
+20.11 17:31 — Piyasa stresi yükselmişken düşük risk mandatına uygun olarak SGOV pozisyonunu koruyorum; BIL/SHV’ye geçiş komisyonu haklı çıkaracak fark sunmuyor.
 
 Haftalık değerlendirmeni JSON olarak ver.

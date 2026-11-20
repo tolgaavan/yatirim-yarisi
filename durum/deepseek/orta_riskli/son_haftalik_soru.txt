@@ -22,27 +22,27 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · riskli
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 9,923.13 TL
-Değişim: -76.87 TL (-0.77%)
-Başlangıçtan bu yana: -0.77%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
+Dönem başı değer: 9,923.13 TL
+Dönem sonu değer: 9,543.70 TL
+Değişim: -379.43 TL (-3.82%)
+Başlangıçtan bu yana: -4.56%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
 Şu anki varlıklar: QQQ, THYAO.IS, USDTRY=X
 
 === BAŞLANGIÇ KURGUN ===
 Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+Bu hafta portföyü kurarken amacım TL'deki erimeye karşı korunmak ve yüksek betalı varlıklarla sınırlı risk alarak büyümekti. Zorunlu üç ayağı tamamlamak için QQQ, USDTRY ve THYAO aldım; komisyonu yalnızca 19 TL'de tuttum. Ancak sonuç istediğim gibi olmadı: portföy %0.77 düşerek 9,923.13 TL'ye geriledi. Aynı dönemde BIST 100 %0.36, dolar %0.22 yükseldi; S&P 500 ve altın yataya yakın kaldı. Yalnızca Bitcoin %3.84 düştüğü için ona karşı iyi görünüyorum. Yanlışım, QQQ'nun aşırı satım toparlanmasını erken almak ve THYAO'nun endeksten daha iyi performans göstereceğini varsaymaktı. Döviz pozisyonu da henüz TL'deki kaybı telafi edecek kadar prim yapmadı. Gelecek hafta QQQ'da toparlanma teyidi arayacağım; THYAO momentumunu ve doların yönünü izleyip, teyit gelmezse pozisyonları küçültmeyi değerlendireceğim. Disiplinli ve az işlemle kalmaya devam edeceğim.
 
-=== BU DÖNEMDEKİ TURLARIN (2 tur) ===
-12.11 23:38 — ABD borsaları açık olduğu için zorunlu ABD ayağını QQQ alarak doldurdum; BIST ve döviz için yarın 17:00'yi bekliyorum.
-    ALINDI: QQQ 0.144745 adet, birim 34543.4048 TL, tutar 5000.00 TL + komisyon 10.00 TL | neden: Nasdaq aylık %5 geride ve aşırı satıma yakın olduğu için SPY yerine QQQ ile daha yüksek toparlanma betası alıyorum.
-13.11 17:01 — Zorunlu çeşitliliği tamamlamak için USDTRY ve THYAO alındı; BTC aşırı satımda ancak teyit bekleniyor.
-    ALINDI: USDTRY=X 39.7106 adet, birim 50.3644 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: TL'nin değer kaybına karşı korunmak için dolar alıyorum; EURTRY'den daha likit ve enflasyon beklentisiyle yükseliş momentumu daha güçlü.
-    ALINDI: THYAO.IS 7.77001 adet, birim 321.7500 TL, tutar 2500.00 TL + komisyon 5.00 TL | neden: BofA alımı ve güçlü momentumu olan THYAO'yu zorunlu BIST ayağını tamamlamak için alıyorum; XU030 endeks fonundan daha yüksek getiri potansiyeli taşıyor.
+=== BU DÖNEMDEKİ TURLARIN (3 tur) ===
+16.11 17:31 — İşlem yapmadım; BTC aşırı satımda ancak düşen bıçak teyidi yok, QQQ için panik satışı uygun değil.
+18.11 17:45 — Teyit gelmediği için işlem yapmadım; BTC aşırı satımda ama kırmızı kapanış, QQQ panik satılmayacak seviyede ve zorunlu çeşitlilik tam.
+20.11 17:45 — QQQ'da planlı %25 satışla ABD hisse riskini azaltıp fonu USDTRY'ye ekleyerek döviz korumasını güçlendirdim.
+    SATILDI: QQQ 0.0361864 adet (%25), birim 32161.6542 TL, eline geçen 1161.49 TL, kâr/zarar -91.01 TL | neden: QQQ 20 gün ortalamasının altında ve VIX yüksek olduğundan ABD yoğunluğunu azaltıyorum; SPY'ye geçmek yerine döviz korumasına dönüyorum.
+    ALINDI: USDTRY=X 22.9377 adet, birim 50.5717 TL, tutar 1160.00 TL + komisyon 2.32 TL | neden: Dolar endeksi 19 ay zirvesinde ve TL değer kaybı sürdüğü için QQQ'dan gelen fonu USDTRY'ye aktarıyorum; EURTRY'ye göre dolar tarafı daha güçlü.
 
 Haftalık değerlendirmeni JSON olarak ver.

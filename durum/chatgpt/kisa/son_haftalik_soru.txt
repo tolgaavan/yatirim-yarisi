@@ -22,31 +22,65 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Kısa vade · al-sat
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 9,875.89 TL
-Değişim: -124.11 TL (-1.24%)
-Başlangıçtan bu yana: -1.24%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
-Şu anki varlıklar: SOL-USD
+Dönem başı değer: 9,875.89 TL
+Dönem sonu değer: 9,314.26 TL
+Değişim: -561.63 TL (-5.69%)
+Başlangıçtan bu yana: -6.86%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Şu anki varlıklar: USDTRY=X
 
 === BAŞLANGIÇ KURGUN ===
 Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+Bu dönem kısa vadeli momentum aradım ama sonuç zayıf oldu: portföy 10,000.00 TL’den 9,875.89 TL’ye indi; değişim -124.11 TL (-1.24%). BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04% ve Dolar +0.22% karşısında geride kaldım; yalnız Bitcoin -3.84% olduğu için ondan iyi kaldım. Petrolde pozitif ayrışmayı doğru okudum ama hareket teyitlenmeyince zararı büyütmeden çıktım; bu risk yönetimi doğruydu. Hata, SOL-USD’de dip dönüşünü erken denemek ve kripto genelindeki zayıf risk iştahını yeterince ağır basmamak oldu. Şu an SOL-USD taşıyorum; gelecek hafta ilk önceliğim bu pozisyonun gerçekten güçlenip güçlenmediğini görmek, teyit yoksa inat etmeyip nakde dönmek olacak.
 
-=== BU DÖNEMDEKİ TURLARIN (6 tur) ===
-12.11 23:38 — İlk turda riskli teknoloji ve kripto satış baskısı altındayken pozitif ayrışan petrolde kısa vadeli momentum pozisyonu açıyorum.
-    ALINDI: CL=F 1.78918 adet, birim 4471.3164 TL, tutar 8000.00 TL + komisyon 16.00 TL | neden: Petrol gün içinde güçlü pozitif ayrıştığı için CL=F alıyorum; BTC-USD ise RSI düşük olsa da düşen bıçağa döndüğü ve risk iştahı zayıf olduğu için daha zayıf alternatif.
-13.11 00:15 — CL=F relatif gücünü ve gün içi yükselen yapısını koruduğu için komisyon ödeyip erken çıkmak yerine pozisyonu taşıyorum.
-13.11 01:01 — CL=F gün içi gücünü hacimle sürdüremeyip stop bölgesine yaklaşınca pozisyonu kapatıp nakde geçiyorum.
-    SATILDI: CL=F 1.78918 adet (%100), birim 4461.0184 TL, eline geçen 7965.61 TL, kâr/zarar -50.39 TL | neden: CL=F 89.15 kırılımını hacimle teyit edemeyip 88.6 stopuna yaklaşırken momentumu kaybettiği için satıyorum; alternatif BTC-USD ise düşüş trendinde ve hacim teyidi vermiyor.
-13.11 10:01 — Nakdin yaklaşık %60'ı ile SOL-USD'de hacimli dip dönüşü denemesi aldım; kalan nakdi BIST açılışındaki fırsatlar ve olası stop için tuttum.
-    ALINDI: SOL-USD 1.48363 adet, birim 4044.1330 TL, tutar 6000.00 TL + komisyon 12.00 TL | neden: SOL-USD gün içi dipten en güçlü 15 dk toparlanmayı ve göreli momentumu gösterdiği için seçildi; BTC-USD ise hacimli olsa da daha zayıf RSI ve daha ağır haber akışı nedeniyle tercih edilmedi.
-13.11 10:31 — SOL 80 üzerinde tutunup kripto içinde relatif güçlü kaldığı, BIST tarafında ise henüz yeterince temiz alternatif oluşmadığı için pozisyonu koruyorum.
-13.11 11:01 — SOL kırılımı henüz gelmedi ama 79.5 stop seviyesi de çalışmadığı için pozisyonu koruyup BIST’teki tersine dönen güçlü hisseleri kovalamadım.
+=== BU DÖNEMDEKİ TURLARIN (35 tur) ===
+14.11 09:57 — SOL stop planını net biçimde ihlal ettiği ve kripto genelinde risk iştahı zayıf kaldığı için pozisyonu kapatıp nakde geçiyorum.
+    SATILDI: SOL-USD 1.48363 adet (%100), birim 3809.0802 TL, eline geçen 5639.97 TL, kâr/zarar -372.03 TL | neden: SOL planlı stopumun altına inip günün en zayıf büyük coinlerinden biri olduğu için satıyorum; AVAX'a hemen geçmiyorum çünkü BTC zayıfken hacim teyidi yok.
+14.11 10:45 — BTC henüz 67.8-68.2 bin bandını hacimle geri alamadığı ve altcoinlerde relatif güç oluşmadığı için nakitte bekliyorum.
+14.11 13:15 — BTC planladığım 67.8-68.2 bin bandını hacimle geri alamadığı ve altcoinlerde toparlanma düşük hacimli kaldığı için nakitte bekliyorum.
+14.11 16:31 — BTC ve majör kriptolarda düşüş trendi, zayıf hacim ve düşük RSI devam ettiği için komisyon ödemeden nakitte bekliyorum.
+14.11 20:31 — Kriptoda düşüş ve yüksek hacimli tepki var ama BTC tetik bandını geri alamadığı için komisyon ödeyip erken dip denemek yerine nakitte kalıyorum.
+15.11 09:31 — Kriptoda sert düşüş sürerken hacimli ve net bir dönüş teyidi oluşmadığı için nakitte kalıyorum.
+15.11 11:01 — Kriptoda aşırı satım var ama BTC 65 bin altındayken ve hacim teyidi yokken nakitte kalıp komisyonu boşa harcamıyorum.
+15.11 14:01 — BTC 65 bin üstüne atsa da hacim teyidi gelmediği için zayıf ayı piyasası tepkisini kovalamayıp nakitte kaldım.
+15.11 16:30 — BTC 65 bin üzerinde tutunuyor ama hacim teyidi gelmediği için düşük likiditeli Pazar yükselişini kovalamayıp nakitte kaldım.
+15.11 20:31 — BTC 66 bin üstünü hacimle teyit edemediği ve altcoin yükselişi Pazar düşük hacminde kaldığı için komisyon harcamadan nakitte bekliyorum.
+16.11 10:01 — BTC 65 bin altında hacimsiz kaldığı ve BIST açılışı henüz gerçek liderlik göstermediği için nakitte bekliyorum.
+16.11 10:45 — BIST eksi, bankalarda hacimli satış, kriptoda düşük hacimli zayıflık ve emtiada net devam teyidi olmadığı için komisyon ödemeden nakitte kalıyorum.
+16.11 13:15 — Nakit portföyün yaklaşık yarısıyla, BIST’te hacim ve haber desteğiyle açık ara liderleşen ASELS’e kısa vadeli momentum pozisyonu açıyorum.
+    ALINDI: ASELS.IS 12.5523 adet, birim 358.5000 TL, tutar 4500.00 TL + komisyon 9.00 TL | neden: ASELS gün içi liderlik, artan hacim ve sözleşme haberiyle momentum teyidi verdi; THYAO ve PGSUS zirve kıramadığı için onları seçmedim.
+16.11 14:45 — ASELS günün liderlerinden kalmaya devam ediyor ama zirve kırılımı gelmediği ve hacim düştüğü için ekleme yapmadan mevcut yarım pozisyonu koruyorum.
+16.11 17:01 — ASELS stop disipliniyle kapatılıp, kapanışa doğru belirgin hacim ve relatif güç gösteren THYAO'ya sınırlı yoğunlukta geçildi.
+    SATILDI: ASELS.IS 12.5523 adet (%100), birim 355.0000 TL, eline geçen 4447.15 TL, kâr/zarar -61.85 TL | neden: ASELS 361,75 kırılımını reddedip 354 altı 15dk stopunu çalıştırdığı için satıyorum; THYAO hacimli yukarı ivme gösterirken ASELS'i inatla taşımıyorum.
+    ALINDI: THYAO.IS 18.5328 adet, birim 323.7500 TL, tutar 6000.00 TL + komisyon 12.00 TL | neden: THYAO gün içi zirveye yakın ve son saat hacmi normalin 5,5 katıyla güçlü olduğu için alıyorum; PGSUS benzer temada olsa da hacmi zayıf ve kâr tahmini haberi daha riskli.
+17.11 10:01 — BIST verisi henüz gelmediği için THYAO’da işlem yapamıyorum; nakdi kripto/emtia tarafındaki zayıf ve hacimsiz alternatiflere taşımadan bekliyorum.
+17.11 10:31 — THYAO pozisyonunu korudum; endeks 11.800 üstünde kalıyor, hisse hacimli güçlü ama PGSUS’a gap sonrası geçmek komisyon ve aşırı ısınma nedeniyle daha zayıf risk/getiri sunuyor.
+17.11 11:31 — XU100 planımdaki 11.800 desteğinin altına sarktığı ve THYAO 328-332 kâr bölgesinde güç kaybettiği için THYAO'yu satarak nakde geçiyorum.
+    SATILDI: THYAO.IS 18.5328 adet (%100), birim 326.7500 TL, eline geçen 6043.49 TL, kâr/zarar +31.49 TL | neden: XU100 11.800 altına sarktığı ve THYAO 328-332 bandını hacimsiz reddettiği için satıyorum; PGSUS'u gap ve RSI 73 nedeniyle alternatif olarak kovalamıyorum.
+17.11 13:15 — XU100 11.800 altındayken ve havacılık hisselerinde hacim teyidi zayıfken komisyon ödeyip yeni pozisyon açmıyor, nakitte bekliyorum.
+17.11 15:15 — Beşinci günlük kontrolde XU100 teyit eşiğinin altında, BIST hacimleri zayıf ve kriptoda BTC 66 bin altındayken yeni pozisyon açmayıp nakdi korudum.
+18.11 10:01 — Nakitten başlasaydım şu an yine nakitte kalırdım; kripto 66 bin BTC filtresini geçmedi, emtia düşüş trendinde ve BIST için veri/teyit henüz yok.
+18.11 10:30 — XU100 hâlâ 11.800 teyidinden uzak, THYAO ve PGSUS kırılım vermediği için komisyon ödemeden nakitte bekliyorum.
+18.11 11:31 — Endeks 11.700 altında zayıf, THYAO kırılımı teyitsiz ve kriptoda BTC 66 bin üstü yokken komisyon ödeyip pozisyon açmıyorum.
+18.11 13:15 — Nakit kalıyorum; BIST 11.700 eşiğini hacimli aşmadı, THYAO kırılımı geri verdi ve kripto/emtia tarafında teyitli dönüş yok.
+18.11 15:15 — XU100 11.700 altında ve aday hisselerde hacim teyidi zayıf olduğu için komisyon ödemeyip nakitte kaldım.
+19.11 10:01 — Nakit kalıyorum; kripto ve emtiadaki tepki düşük hacimli, BIST tarafında ise ilk 30 dakika teyidi ve izleme listesi verisi gelmeden komisyon ödemeye değecek net fırsat yok.
+19.11 10:31 — THYAO hacimli güç gösterse de XU100 hâlâ 11.700 teyidinin altında kaldığı için komisyon harcamadan nakitte bekledim.
+19.11 11:31 — XU100 11.600 teyidi gelmediği ve THYAO 332 üstü kalıcılık sağlayamadığı için komisyon ödemeden nakitte bekliyorum.
+19.11 13:15 — XU100 11.600 teyidi gelmediği, THYAO 332 altında ve hacimsiz kaldığı için komisyon harcamadan nakitte bekliyorum.
+19.11 15:15 — Endeks zayıf olsa da planımdaki tek teyit TOASO’da geldiği için sınırlı büyüklükte kısa vadeli momentum pozisyonu açıyorum.
+    ALINDI: TOASO.IS 23.7389 adet, birim 252.7500 TL, tutar 6000.00 TL + komisyon 12.00 TL | neden: TOASO 251 üstünde hacimli relatif güç gösterdiği için seçiyorum, THYAO’yu ise 332 üstü teyit ve yeterli hacim gelmediği için seçmiyorum.
+20.11 10:01 — TOASO şu an işlem yapılamaz göründüğü için pozisyonu zorla değiştiremiyorum; nakit kısmı da risk-off ortamda kripto/emtia dip denemesi için yeterli teyit vermediğinden bekliyorum.
+20.11 10:30 — TOASO’da 251 kırılımı ve XU100’ün 11.600 altında sert zayıflaması nedeniyle pozisyonu kapatıp yeni teyit gelene kadar nakde geçiyorum.
+    SATILDI: TOASO.IS 23.7389 adet (%100), birim 244.6000 TL, eline geçen 5794.92 TL, kâr/zarar -217.08 TL | neden: TOASO 251 stopunu kırıp endeks zayıflığında hacimli aşağı sarktığı için satıyorum; THYAO’ya geçmiyorum çünkü güçlü ay trendine rağmen endeks düşerken 15dk momentum teyidi yok.
+20.11 11:23 — Tam nakitte kalıyorum; XU100 11.300 altında ve küresel risk iştahı bozukken relatif güçlü hisselerde bile teyitsiz tepki alımı komisyon/risk dengesini karşılamıyor.
+20.11 13:15 — Endeks 11.150 altına sarkmışken hacimli dönüş teyidi gelmediği için komisyon ödeyip zayıf piyasada pozisyon açmıyorum.
+20.11 17:31 — BIST ve kripto teyit vermediği için hafta sonu riskini TL nakit yerine kısmi dolar pozisyonuyla taşıyorum.
+    ALINDI: USDTRY=X 148.298 adet, birim 50.5740 TL, tutar 7500.00 TL + komisyon 15.00 TL | neden: Küresel riskten kaçış ve BIST'in 11.150 altında kalması nedeniyle hafta sonuna TL nakit yerine USDTRY=X ile giriyorum; THYAO.IS göreceli güçlü olsa da endeks kapanışı zayıf ve hacmi düşük.
 
 Haftalık değerlendirmeni JSON olarak ver.

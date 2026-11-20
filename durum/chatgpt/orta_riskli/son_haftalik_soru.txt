@@ -22,31 +22,31 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · riskli
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 9,923.95 TL
-Değişim: -76.05 TL (-0.76%)
-Başlangıçtan bu yana: -0.76%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
-Şu anki varlıklar: BTC-USD, GOOGL, THYAO.IS, USDTRY=X, XLE
+Dönem başı değer: 9,923.95 TL
+Dönem sonu değer: 9,242.11 TL
+Değişim: -681.84 TL (-6.87%)
+Başlangıçtan bu yana: -7.58%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Şu anki varlıklar: AVGO, BTC-USD, GOOGL, THYAO.IS, USDTRY=X, XLP
 
 === BAŞLANGIÇ KURGUN ===
 Bu portföyü 1 aylık yarış için TL değer kaybına karşı döviz bazlı varlıkları omurga yaparak, ABD’de kalite ve sektör rotasyonu, kriptoda ise sınırlı dip alımıyla kuruyorum. BIST zorunlu ayağını piyasa açılır açılmaz ekleyeceğim; komisyonu boşa harcamadan ama nakitte de fazla beklemeden yüksek getiri arayacağım.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+Bu kısa dönemde portföyü TL değer kaybına karşı döviz ve ABD varlıklarıyla kurdum, BIST ayağını piyasa açılınca THYAO ile tamamladım. EURUSD zayıflığı görünce döviz nakdini USDTRY’ye sadeleştirmem doğruydu; BTC’yi küçük tutmak da Bitcoin’in -3.84% düştüğü ortamda hasarı sınırladı. Buna rağmen sonuç zayıf: portföy 10,000.00 TL’den 9,923.95 TL’ye indi, değişim -76.05 TL (-0.76%). BIST 100 +0.36%, dolar +0.22% iken geride kaldım; S&P 500, altın ve Bitcoin’e göre daha kontrollü olsam da ana hedef kıyasları yenmekti. Hatalı taraf, riskli başlangıçta GOOGL ve enerjiyle yeterli tampon yaratamamam. Gelecek hafta BTC ve ABD hisselerinde zarar büyürse inat etmeyeceğim; THYAO’nun BIST’e göre gücünü ve USDTRY’nin koruma işlevini izleyeceğim.
 
-=== BU DÖNEMDEKİ TURLARIN (2 tur) ===
-12.11 23:38 — BIST kapalı olduğu için Türk hisse zorunluluğunu yarına bıraktım; bugün açık piyasalarda döviz, ABD hissesi ve sınırlı kripto ile TL dışı riskli ama dengeli başlangıç yaptım.
-    ALINDI: EURUSD=X 26.9936 adet, birim 55.5687 TL, tutar 1500.00 TL + komisyon 3.00 TL | neden: Döviz nakit zorunluluğunu TL’ye karşı euro/dolar döviz maruziyetiyle tamamlıyorum; USDTRY=X kapalı olduğu için bu turda onu seçmiyorum.
-    ALINDI: GOOGL 0.165962 adet, birim 15063.6821 TL, tutar 2500.00 TL + komisyon 5.00 TL | neden: GOOGL son ay sert gerilemiş kaliteli nakit üreticisi olduğu için tepki potansiyeli sunuyor; NVDA’yı yönetim haberi ve aşırı oynaklık nedeniyle seçmiyorum.
-    ALINDI: XLE 0.46301 adet, birim 3239.6692 TL, tutar 1500.00 TL + komisyon 3.00 TL | neden: XLE petrolün güçlü gününde teknoloji satışına karşı sektör dengesi sağlıyor; XLK’yı tahvil faizi baskısı altında daha kırılgan olduğu için seçmiyorum.
-    ALINDI: BTC-USD 0.000278816 adet, birim 3586591.6473 TL, tutar 1000.00 TL + komisyon 2.00 TL | neden: BTC sert düşüş sonrası RSI 30 civarında en likit kripto tepki adayı olduğu için küçük pay alıyorum; SOL-USD’yi daha zayıf relatif performansı nedeniyle seçmiyorum.
-13.11 17:31 — Zorunlu Türk piyasa ayağını THYAO ile tamamlayıp EUR zayıflığına karşı döviz nakdi USDTRY'ye sadeleştirdim.
-    SATILDI: EURUSD=X 26.9936 adet (%100), birim 55.6607 TL, eline geçen 1499.48 TL, kâr/zarar -3.52 TL | neden: EURUSD zayıf trend ve 6 ay dibindeyken döviz nakdi için USDTRY daha temiz TL koruması sunduğu için EURUSD yerine USDTRY'ye geçiyorum.
-    ALINDI: USDTRY=X 29.7845 adet, birim 50.3618 TL, tutar 1500.00 TL + komisyon 3.00 TL | neden: TL değer kaybına karşı doğrudan dolar nakdi istiyorum; EURTRY yerine USDTRY seçiyorum çünkü euro/dolar paritesi belirgin zayıf.
-    ALINDI: THYAO.IS 6.24025 adet, birim 320.5000 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: BIST zorunlu ayağı için güçlü momentum ve döviz gelirli yapı nedeniyle THYAO seçiyorum; AKBNK yerine banka regülasyon/faiz riskini almak istemiyorum.
+=== BU DÖNEMDEKİ TURLARIN (3 tur) ===
+16.11 17:31 — Zayıf ABD teknoloji ve kripto görünümünde mevcut pozisyonları koruyup TL nakdin bir kısmını BIST’te güçlü ama aşırı şişmemiş savunma momentumu sunan ASELS’e yönlendiriyorum.
+    ALINDI: ASELS.IS 2.83086 adet, birim 353.2500 TL, tutar 1000.00 TL + komisyon 2.00 TL | neden: ASELS’i güçlü para girişi ve RSI 54 ile sürdürülebilir savunma momentumu sunduğu için alıyorum, AKBNK’yi ise banka ve faiz hassasiyeti daha yüksek olduğu için tercih etmiyorum.
+18.11 17:31 — Petrol ve enerji tarafındaki zayıflama nedeniyle XLE’yi göreli gücü daha yüksek AVGO’ya çevirerek ABD riskini savunmacı enerjiden kaliteli teknoloji momentumuna taşıyorum.
+    SATILDI: XLE 0.46301 adet (%100), birim 3189.6179 TL, eline geçen 1473.87 TL, kâr/zarar -29.13 TL | neden: CL=F aylık sert düşüş ve XLE’nin zayıf momentumu enerji tamponu tezini bozduğu için satıyorum; GOOGL’ı değil çünkü değerleme ve dipten tepki potansiyeli daha cazip.
+    ALINDI: AVGO 0.107596 adet, birim 17658.5955 TL, tutar 1900.00 TL + komisyon 3.80 TL | neden: AVGO, zayıf Nasdaq içinde günlük/haftalık/aylık göreli gücü pozitif olan kaliteli yarı iletken tercihi olduğu için alıyorum; NVDA’yı değil çünkü NVDA hâlâ aylık sert düşüş ve yüksek oynaklık baskısında.
+20.11 17:31 — VIX’in 30’a yaklaştığı, Nasdaq ve BIST’te satışın derinleştiği ortamda zayıf ASELS’i ve GOOGL riskinin yarısını kesip USD bazlı defansif XLP’ye geçiyorum.
+    SATILDI: ASELS.IS 2.83086 adet (%100), birim 326.7500 TL, eline geçen 923.13 TL, kâr/zarar -78.87 TL | neden: ASELS 20 günlük ortalamanın altına sarkıp BIST satışında göreli güç gösteremediği için çıkıyorum, THYAO’yu ise pozitif ayrışması ve momentumuyla BIST alternatifi olarak tutuyorum.
+    SATILDI: GOOGL 0.082981 adet (%50), birim 13886.1039 TL, eline geçen 1149.98 TL, kâr/zarar -102.52 TL | neden: GOOGL ucuz olsa da Nasdaq paniğinde 6 ay dibine çok yakın ve tepki teyidi yok, AVGO’yu ise yarı iletken içinde göreli olarak daha dirençli kaldığı için tamamen kesmiyorum.
+    ALINDI: XLP 0.457568 adet, birim 4611.3375 TL, tutar 2110.00 TL + komisyon 4.22 TL | neden: XLP düşen piyasada pozitif ayrışan defansif USD bazlı hisse sepeti olduğu için alıyorum, XLV yerine onu seçiyorum çünkü kısa vadeli trendi ve haftalık göreli gücü daha iyi.
 
 Haftalık değerlendirmeni JSON olarak ver.

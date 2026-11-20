@@ -22,29 +22,27 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Uzun vade · riskli
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 9,888.39 TL
-Değişim: -111.61 TL (-1.12%)
-Başlangıçtan bu yana: -1.12%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
-Şu anki varlıklar: BTC-USD, EURUSD=X, GC=F, QQQ, THYAO.IS
+Dönem başı değer: 9,888.39 TL
+Dönem sonu değer: 9,315.57 TL
+Değişim: -572.82 TL (-5.79%)
+Başlangıçtan bu yana: -6.84%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Şu anki varlıklar: BTC-USD, GC=F, QQQ, THYAO.IS, TLT, USDTRY=X
 
 === BAŞLANGIÇ KURGUN ===
 Bu portföyü 3 aylık riskli yarış için TL erimesine karşı döviz bazlı varlık ağırlıklı, fakat tek temaya aşırı bağımlı olmayan şekilde kuruyorum. İlk aşamada ABD büyüme hisseleri, sınırlı kripto ve emtia koruması alıp BIST kapalı olduğu için Türk hisse payını ilk ortak açık seansta tamamlayacağım. Komisyonu azaltmak için sık al-sat değil, tez bozulunca rotasyon yapacağım.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+Bu hafta portföyü TL erimesine karşı döviz bazlı kurdum; QQQ, BTC, altın ve euro ile omurgayı oluşturdum, BIST açılınca THYAO ekledim. Sonuç iyi değil: dönem başı 10,000.00 TL olan değer 9,888.39 TL’ye indi; değişim -111.61 TL (-1.12%). BIST 100 +0.36%, Dolar +0.22%, Altın -0.04% ve S&P 500 -0.19% karşısında geride kaldım; yalnız Bitcoin -3.84%’ten daha iyi kaldım. Doğru yaptığım şey tek temaya yüklenmemek ve BTC ağırlığını sınırlı tutmaktı. Hata ise risk iştahı zayıfken QQQ ve BTC ile erken risk almak oldu. Gelecek hafta BTC baskısı, Nasdaq yönü, altın desteği ve THYAO’nun BIST’e göre relatif gücünü izleyeceğim; tez bozulursa inat etmeyeceğim.
 
-=== BU DÖNEMDEKİ TURLARIN (2 tur) ===
-12.11 23:38 — BIST kapalı olduğu için Türk hisse ayağını yarına bırakarak portföyün USD/EUR bazlı riskli omurgasını QQQ, BTC, altın ve euro ile kurdum.
-    ALINDI: QQQ 0.101322 adet, birim 34543.4048 TL, tutar 3500.00 TL + komisyon 7.00 TL | neden: QQQ ile Nasdaq düzeltmesi sonrası geniş büyüme sepeti alıyorum, NVDA yerine tek şirket ve yönetim haberi riskini taşımıyorum.
-    ALINDI: BTC-USD 0.000418224 adet, birim 3586591.6473 TL, tutar 1500.00 TL + komisyon 3.00 TL | neden: BTC aylık sert düşüş sonrası riskli portföye asimetrik toparlanma potansiyeli ekliyor, ETH yerine daha likit ve kurumsal kabulü yüksek lider kriptoyu seçiyorum.
-    ALINDI: GC=F 0.00511691 adet, birim 195430.3954 TL, tutar 1000.00 TL + komisyon 2.00 TL | neden: Altın sert düzeltme sonrası portföye kriz ve reel faiz şoku sigortası ekliyor, gümüş yerine daha düşük oynaklıklı güvenli limanı seçiyorum.
-    ALINDI: EURUSD=X 35.9915 adet, birim 55.5687 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: Euro pozisyonu zorunlu döviz nakit ihtiyacını ve TL değer kaybı riskini karşılıyor, USDTRY şu an listede işlem verisiyle gelmediği için onu beklemiyorum.
-13.11 17:31 — Zorunlu Türk piyasa ayağını THYAO ile tamamlayıp döviz bazlı QQQ-BTC-altın-euro omurgasını korudum.
-    ALINDI: THYAO.IS 4.68019 adet, birim 320.5000 TL, tutar 1500.00 TL + komisyon 3.00 TL | neden: THYAO güçlü relatif momentum ve düşük çarpanla BIST ayağı için XU030.IS’e göre daha yüksek getiri potansiyeli sunuyor; XU030.IS’i daha düşük beta nedeniyle seçmedim.
+=== BU DÖNEMDEKİ TURLARIN (1 tur) ===
+20.11 17:31 — Risk iştahı sert bozulduğu için QQQ’yu kısmen azaltıp TLT ile dengeledim, euro nakdi güçlü dolar temasına çevirdim ve THYAO/BTC/altını yeni alım yapmadan tuttum.
+    SATILDI: EURUSD=X 35.9915 adet (%100), birim 55.5819 TL, eline geçen 1996.47 TL, kâr/zarar -7.53 TL | neden: Euro nakdi dolar endeksi güçlenirken zayıf kaldığı için satıyorum; alternatif USDTRY=X, TL değer kaybına karşı daha doğrudan ve şu an daha güçlü koruma sağlıyor.
+    SATILDI: QQQ 0.0253305 adet (%25), birim 32218.9263 TL, eline geçen 814.49 TL, kâr/zarar -62.26 TL | neden: QQQ’yu AI satışları ve 50 günlük ortalamanın belirgin altındaki teknik bozulma nedeniyle kısmen azaltıyorum; alternatif SPY yerine TLT’ye kaynak açmak daha iyi risk dengesi sunuyor.
+    ALINDI: USDTRY=X 39.546 adet, birim 50.5740 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: USDTRY=X’i TL erimesine ve güçlü dolar temasına karşı alıyorum; EURUSD=X yerine dolar nakdi seçiyorum çünkü euro hem TL’ye hem dolara karşı zayıf momentumda.
+    ALINDI: TLT 0.293622 adet, birim 4086.8849 TL, tutar 1200.00 TL + komisyon 2.40 TL | neden: TLT’yi VIX yüksekken ve faizler geri çekilirken portföy tamponu olarak alıyorum; SPY yerine seçiyorum çünkü aynı anda hisse beta riskini artırmak istemiyorum.
 
 Haftalık değerlendirmeni JSON olarak ver.

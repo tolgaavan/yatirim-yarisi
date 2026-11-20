@@ -22,26 +22,47 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Kısa vade · al-sat
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
 Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 10,000.00 TL
-Değişim: +0.00 TL (+0.00%)
-Başlangıçtan bu yana: +0.00%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
-Şu anki varlıklar: yok (tamamı nakit)
+Dönem sonu değer: 9,797.95 TL
+Değişim: -202.05 TL (-2.02%)
+Başlangıçtan bu yana: -2.02%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Şu anki varlıklar: USDTRY=X
 
 === BAŞLANGIÇ KURGUN ===
 Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+İlk haftada hiç işlem yapmadım. Portföy tamamen nakitte ve değişim %0,00. Planım yalnızca güçlü, hacimle desteklenen hareketlere girmekti ve bu koşul oluşmadı. Bankalar ezikti, izlediğim hisselerin hacmi normalin 0,3-0,6 katında kaldı. THYAO 323 direncini ancak zayıf hacimle aştı, BIST 100 de 11.900'ün altında kaldı. Doğru yaptığım, zayıf teyitle girmeyip komisyon harcamamak ve Bitcoin'in %-3,84'lük düşüşünden uzak kalmaktı. Eksik tarafı, BIST 100 %+0,36 ve dolar %+0,22 kazandırırken yerimde saymamdı. Nakitte beklemek TL'nin değer kaybı karşısında bedava değil. Gelecek hafta BIST 100'ün hacimle 11.900 üstüne yerleşmesini, THYAO'nun 323 üstünde normal hacimle kalıcılığını ve bankalarda toparlanmayı izleyeceğim. Teyit gelirse baştan zarar-kes belirleyip tek pozisyon açacağım.
 
-=== BU DÖNEMDEKİ TURLARIN (4 tur) ===
-12.11 23:38 — ABD seansının kapanmasına 22 dakika kala, faizler yükselirken ve kripto ile altın satış baskısındayken pozisyon açmadım; ilk işlemi yarın sabah BIST açılışından sonra yapacağım.
-13.11 10:45 — Giriş şartım olan güçlü ve hacimli BIST açılışı gelmedi, bankalar ezik ve hacim düşük; enflasyon anketi de olumsuz olduğu için nakitte kalıp öğleden sonrayı bekliyorum.
-13.11 13:30 — BIST artıda ama hacim normalin yalnızca 0,3-0,4 katı ve THYAO 323 direncini hacimle kırmadı; cuma öğleden sonra zayıf teyitle pozisyon açmayıp nakitte bekliyorum.
-13.11 15:45 — Planın giriş koşulları oluşmadı, bu yüzden hafta sonuna nakitte giriyorum: BIST 100 11.900'ün altında, THYAO 323'ü normalin 0,5 katı hacimle zayıf aştı ve izlediğim hisselerin hacmi normalin 0,3-0,6 katında kaldı.
+=== BU DÖNEMDEKİ TURLARIN (19 tur) ===
+16.11 10:45 — BIST 100 haftaya %0,6 düşüşle 11.900'ün altında başladı ve giriş koşullarımın hiçbiri oluşmadı, bu yüzden nakitte bekleyip öğlen yeniden bakıyorum.
+16.11 12:27 — Endeks 11.736 dibinden 11.927'ye dönüp 11.850'nin üstüne çıktı; hareketi yüksek hacim ve sözleşme haberiyle ASELS taşıyor, bu yüzden ASELS'e 4.000 TL ile kontrollü giriş yaptım ve kalan nakdi PGSUS/THYAO tetikleri için tutuyorum.
+    ALINDI: ASELS.IS 11.1421 adet, birim 359.0000 TL, tutar 4000.00 TL + komisyon 8.00 TL | neden: ASELS dev sözleşme haberiyle normalin 3,5 katı hacimle 351,75 direncini kırdı ve günün tek gerçek hacim teyitli hareketi bu; aynı sabah AL tavsiyesi alan PGSUS'u ise hacmi 0,6x'te kaldığı ve 157,8'i kıramadığı için seçme
+16.11 14:31 — ASELS 357'de girişin hemen altında ve 350 üstünde tutunuyor, stop 347 korunuyor; PGSUS, THYAO ve BIST 100 kırılımları hacimsiz kaldığı için yeni işlem yapmadım.
+16.11 17:15 — İşlem yapmadım: ASELS 355'te stop seviyesi olan 347'nin üzerinde duruyor, THYAO ise 5,3 kat hacme rağmen 323,5'i net kıramadı ve global risk iştahı zayıfken kapanışa yakın aşırı alımdaki bir hisseye girmek istemedim.
+17.11 10:31 — THYAO için koyduğum giriş şartı oluştu: 324,5 üstünde açıldı, 1,6x hacimle 327'ye çıktı; plana uyup 3.000 TL ile girdim, ASELS'i 347 zarar-kesiyle tutmaya devam ediyorum.
+    ALINDI: THYAO.IS 9.17431 adet, birim 327.0000 TL, tutar 3000.00 TL + komisyon 6.00 TL | neden: THYAO günlerdir sıkıştığı 323 direncini 1,6x hacimle kırdı ve planladığım teyit geldi; PGSUS'un katalizörü daha güçlü ama %5 boşluk ve 15 dakikalık RSI 82 ile kovalamak daha riskli.
+17.11 13:01 — ASELS 347 stopunun altına indiği için tamamını satıyorum, THYAO'yu 317 stopuyla tutuyorum; Nvidia sonuçları ve endeks zayıflığı yüzünden yeni alım yapmıyorum.
+    SATILDI: ASELS.IS 11.1421 adet (%100), birim 345.5000 TL, eline geçen 3841.88 TL, kâr/zarar -166.12 TL | neden: Önceden belirlediğim 347 stopu 345,5 ile kırıldı ve hisse günün en kötüleri arasında; bu parayı göreli gücü süren THYAO'ya eklemek yerine, gergin seviyedeki havacılıkta yoğunlaşmamak için şimdilik nakitte tutuyorum.
+17.11 15:31 — THYAO'yu stop 317 ile tutuyorum ve yeni alım yapmıyorum, çünkü BIST 100 11.800 altında, PGSUS 160 bölgesine düşük hacimle geliyor ve bu gece Nvidia sonucu var.
+17.11 17:31 — THYAO 323'ün altına geri düştü ama düşük hacimle ve 317 zarar-kesinin üstünde olduğu için tutuyorum; BIST 100 11.800'ün altında, PGSUS da 159-160 desteğini koruyamadı, bu yüzden yeni alım yapmadım.
+18.11 10:30 — THYAO maliyetin hemen altında, 317 stopunun çok üstünde ve 1,3x hacimle 326'ya döndüğü için tutuyorum; BIST 100 11.800'ün altında kaldığı için yeni alım yapmıyorum.
+18.11 13:30 — THYAO'yu tutuyorum, çünkü fiyat (326) stop seviyesi 317'nin ve uyarı eşiği 321'in, endeks de 11.600'ün üzerinde; PGSUS 160,5'i aşamadığı için ikinci pozisyon açmadım.
+18.11 16:01 — İşlem yapmadım: THYAO 325'te stopun (317) ve 321 çıkış koşulunun üzerinde duruyor, endeks 11.600'ün yalnızca hafifçe altına sarktı ve bu henüz teyitli bir kırılım değil; yeni alım için de koşul oluşmadı.
+18.11 17:45 — THYAO'yu tutuyorum çünkü 321 çıkış şartı oluşmadı ve endeks %1,3 düşerken hisse artıda kaldı; bir haftadır boşta duran nakdin 5.000 TL'sini dolara park ediyorum.
+    ALINDI: USDTRY=X 99.1328 adet, birim 50.4374 TL, tutar 5000.00 TL + komisyon 10.00 TL | neden: BIST'te yeni alış şartları en az birkaç gün oluşmayacak gibi; faizsiz TL nakit beklerken aylık ~%1,8 değer kaybeder, yarım puanlık getiriyi altın (GC=F) ve kripto sert düşüş trendinde olduğu için onlarda değil dolarda ar
+19.11 10:31 — THYAO hacimle (normalin 2,1 katı) 329,75'e yükselip göreli gücünü koruduğu için tutuyorum, stopu 322'ye çekiyorum; endeks 11.800 altında olduğundan yeni alım yapmıyor, USD parkını da bozmuyorum.
+19.11 12:25 — Endeks 11.450'nin hafif altına indi ama THYAO 324'ün üstünde ve endeksten güçlü olduğu için erken çıkış koşulu oluşmadı; THYAO ile USD parkını koruyup işlem yapmadım.
+19.11 15:31 — İşlem yapmadım: THYAO endeksten güçlü ve 324,75 gün dibinin üstünde, dolar parkı planladığım gibi duruyor, endeks 11.800'ün altında olduğu için yeni BIST alımı için koşul yok.
+19.11 17:30 — THYAO 329,5 ile planın üstünde ve endeks 11.400'ü koruyor; stop ya da kâr al koşulu oluşmadı, USD parkı ve nakit de yerinde kaldı. Kapanış davranışını görmek için 17:55'te son bir kontrol yapacağım.
+19.11 18:01 — BIST ve TL kurları kapandığı için THYAO ve USD pozisyonlarıma dokunamıyorum; açık piyasalarda (ABD ve kripto) teyitli bir fırsat görmediğim için 1.818 TL nakdi koruyup yarın sabahı bekliyorum.
+20.11 10:30 — BIST 100 11.385 desteğini sert kırdı, cuma günü küresel satış derinleşiyor ve THYAO 324 çıkış eşiğinin hemen üstünde; THYAO'yu kapattım ve gelirin büyük kısmını dolara ekledim.
+    SATILDI: THYAO.IS 9.17431 adet (%100), birim 324.7500 TL, eline geçen 2973.40 TL, kâr/zarar -32.60 TL | neden: Endeks 11.385 desteğini kırdı, THYAO 324 eşiğinin dibinde ve gün içinde 323,75 gördü, veri de 15 dakika gecikmeli; cuma günü küresel satış varken güçlü olsa da bunu taşımak yerine çıkıyorum, PGSUS gibi bir alternatif de 
+    ALINDI: USDTRY=X 59.3203 adet, birim 50.5729 TL, tutar 3000.00 TL + komisyon 6.00 TL | neden: Küresel dolar güçlenirken ve BIST destek kırarken en sağlam TL koruması dolar; altın (GC=F) günde %3,5 çakılıyor, Bitcoin'de de düşüş eğilimi sürüyor.
+20.11 15:31 — Cuma öğleden sonra, küresel teknoloji satışı sürerken ve BIST 100 11.400 eşiğinin altındayken yeni pozisyon açmadım; USD parkını ve nakdi koruyup pazartesiyi bekliyorum.
 
 Haftalık değerlendirmeni JSON olarak ver.

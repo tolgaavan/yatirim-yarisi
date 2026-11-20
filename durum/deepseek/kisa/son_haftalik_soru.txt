@@ -22,27 +22,47 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Kısa vade · al-sat
-DÖNEM: 12.11 23:38 - 14.11 00:15 (İstanbul saati)
+DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
 Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 10,000.00 TL
-Değişim: +0.00 TL (+0.00%)
-Başlangıçtan bu yana: +0.00%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 +0.36%, S&P 500 -0.19%, Altın -0.04%, Bitcoin -3.84%, Dolar +0.22%
+Dönem sonu değer: 9,902.70 TL
+Değişim: -97.30 TL (-0.97%)
+Başlangıçtan bu yana: -0.97%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
 Şu anki varlıklar: yok (tamamı nakit)
 
 === BAŞLANGIÇ KURGUN ===
 Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-(ilk hafta)
+Bu hafta nakitte kalarak %0.00 getiri ile sermayeyi korudum. BIST 100 +%0.36 ve dolar +%0.22 getirirken ben kaçırdım; altın %-0.04 ile yatay kalırken S&P 500 %-0.19 ve Bitcoin %-3.84 düştü. Açılışlarda ve kriptoda net sinyal görmediğim için işlem yapmadım; doğru taraf, zorlama alım yapıp komisyon ödememekti, ancak BIST’teki sınırlı yükselişi değerlendirememek fırsat maliyeti oldu. Gelecek hafta THYAO hacim şartını, kriptoda 15 dakikalık RSI/hacim teyidini ve ABD açılışını izleyip yalnızca yüksek olasılıklı kurulumda en fazla iki varlığa gireceğim.
 
-=== BU DÖNEMDEKİ TURLARIN (5 tur) ===
-12.11 23:38 — Riskli kapanışta yeterince yüksek getiri beklentisi görmediğim için nakitte kalıp yarın BIST ve ABD açılışını izlemeyi seçiyorum.
-13.11 10:01 — Kriptoda keskin düşüş ve BIST açılışının zayıf olması nedeniyle yüksek olasılıklı kurulum yok, nakitte bekliyorum.
-13.11 11:01 — Kripto ve BIST'te net alım sinyali oluşmadığı için nakitte kalıyorum; BTC/ETH/SOL 15dk RSI'larını izlemeye aldım.
-13.11 14:01 — Şartlar tam oluşmadığı için işlem yapmadım; ETH'de kısa vadeli sinyal olsa da günlük düşüş trendinde risk/ödül cazip değil, ABD açılışını bekliyorum.
-13.11 17:45 — Nakit kaldım çünkü ABD açılışı zayıf, kriptoda 15dk RSI/hacim teyit oluşmadı ve THYAO 15dk hacim şartı tutmadı.
+=== BU DÖNEMDEKİ TURLARIN (21 tur) ===
+16.11 10:01 — Şartlar oluşmadığı için işlem yapmadım, 12:00'da BIST ve kripto teyidini bekliyorum.
+16.11 12:01 — 12:00 kontrolünde ETH/SOL ve THYAO için belirlediğim RSI/hacim teyit şartları oluşmadığı için nakitte kaldım.
+16.11 15:01 — Kurulum şartları oluşmadığı için nakitte kalıp komisyon ödemedim.
+16.11 17:45 — ETH/SOL'de hacim teyidi sağlanmadığı, THYAO'da hacim çok zayıf kaldığı için işlem yapmayıp nakitte kalmaya devam ettim.
+16.11 18:15 — Plandaki alım şartları oluşmadı; QQQ/SPY 15dk RSI 24-26 ve kriptoda RSI 60 üzeri yok, nakitte kalıyorum.
+17.11 10:01 — Nakitte kaldım; THYAO verisi henüz oluşmadı, kriptoda düşüş trendi ve düşük RSI nedeniyle yüksek olasılıklı kurulum yok.
+17.11 11:01 — THYAO'da planlanan hacim/RSI koşulu oluştuğu için %20 alım yaptım.
+    ALINDI: THYAO.IS 6.12557 adet, birim 326.5000 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: THYAO 15 dakikalık hacmi 2.0 katı ve RSI 65 ile plan şartını sağladı; PGSUS daha hızlı yükselse de günlük RSI'si 73 ile daha riskli olduğundan THYAO alıyorum.
+17.11 12:01 — THYAO plan şartlarını sağlamadığı için pozisyonu koruyorum; PGSUS'a geçiş iki yönlü komisyon ve aşırı alım riski nedeniyle cazip değil.
+17.11 13:01 — THYAO'da planlanan satış koşulu oluşmadı ve PGSUS henüz alım bölgesinde değil; komisyon ödememek için bekliyorum.
+17.11 17:45 — THYAO stop 320 üzerinde olduğu için bekledim; 320 altına inerse satacağım.
+18.11 10:01 — BIST verisi henüz gelmediği için THYAO'ya dokunmuyor, kriptoda SOL/XRP'yi teyit için izlemeye alıyorum.
+18.11 10:30 — THYAO 320 stop ve 340 hedef aralığında kaldı; kriptoda hacim teyidi oluşmadığı için yeni alım yapmadan bekliyorum.
+18.11 13:01 — THYAO stop ve hedef tetiklenmedi, kriptoda hacim teyidi yok; pozisyonu koruyup bekliyorum.
+18.11 17:45 — THYAO 320 stop veya 340 hedef tetiklenmedi; endeks zayıf ama pozisyonu taşımak disiplinli, işlem yok.
+19.11 10:01 — THYAO verisi gecikmeli/kapalı olduğundan işlem yapmadım; kriptoda düşük hacim sinyali yok, nakitte bekliyorum.
+19.11 10:31 — THYAO hedefe ulaşmadığı ve kriptoda hacim teyidi oluşmadığı için işlem yapmadan bekledim.
+19.11 11:01 — THYAO hedefe yaklaşmadığı ve kriptoda hacim teyidi olmadığı için işlem yapmadan bekliyorum.
+19.11 13:31 — THYAO 328.0 ile 330 altında ve saatlik hacim normalin 0.4 katı; planımdaki satış veya alış koşulları oluşmadı, bekliyorum.
+19.11 16:30 — PLAN gereği ADA'da 15dk RSI 69 + hacim 1.2x sinyali oluştuğu için 2000 TL ile kısa vadeli momentum denemesi açtım.
+    ALINDI: ADA-USD 254.834 adet, birim 7.8482 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: ADA'da 15dk RSI 69 ve saatlik hacim 1.2x ile kısa vadeli momentum teyidi var; XRP'de hacim 0.9x kaldığı için ADA'yı seçiyorum.
+20.11 10:01 — ADA stop altına sarktığı için tamamını satıp nakde geçiyorum; THYAO kapalı olduğundan bekliyorum.
+    SATILDI: ADA-USD 254.834 adet (%100), birim 7.5827 TL, eline geçen 1928.46 TL, kâr/zarar -75.54 TL | neden: ADA 0.1520 stop altına sarktı ve hacim/RSI teyidi bozuldu; THYAO kapalı olduğu için alternatiften zayıf, stop disiplinini uyguluyorum.
+20.11 12:01 — THYAO'yu satıp tamamen nakite geçtim; piyasa riski yüksek, yeni alım için sinyal bekliyorum.
+    SATILDI: THYAO.IS 6.12557 adet (%100), birim 324.2500 TL, eline geçen 1982.25 TL, kâr/zarar -21.75 TL | neden: BIST 100 sert düşerken THYAO'nun 20 günlük ortalamaya göre +%11.6 uzamış olması ve 15dk RSI'ın 40'ta zayıf kalması nedeniyle; alternatifi USDTRY aşırı alım (RSI 97) olduğu için TL nakitte beklemek.
 
 Haftalık değerlendirmeni JSON olarak ver.
