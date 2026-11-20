@@ -5,17 +5,17 @@
   "QQQ": {
    "adet": 0.14474543043650737,
    "maliyet_tl": 5010.0,
-   "son_fiyat_tl": 32625.287011819426
+   "son_fiyat_tl": 32623.653000040445
   },
   "USDTRY=X": {
    "adet": 39.71059004864526,
    "maliyet_tl": 2004.0,
-   "son_fiyat_tl": 50.57400131225586
+   "son_fiyat_tl": 50.571468353271484
   },
   "THYAO.IS": {
    "adet": 7.77000777000777,
    "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 325.75
+   "son_fiyat_tl": 326.5
   }
  },
  "odenen_komisyon_tl": 19.0
