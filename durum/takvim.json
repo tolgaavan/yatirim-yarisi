@@ -8,12 +8,12 @@
   "neden": "Cuma günü ABD piyasası açıkken haftalık kontrol yapıp SGOV pozisyonunu ve dolar/TL seyrini görmek için uygun zaman."
  },
  "deepseek/orta_riskli": {
-  "sonraki": "2026-11-20T17:45:00+03:00",
-  "neden": "Cuma günü ABD ve BIST aynı anda açık; BTC teyidi ve QQQ zayıflığı değerlendirilecek."
+  "sonraki": "2026-11-23T17:45:00+03:00",
+  "neden": "Pazartesi 17:45'te BIST, ABD ve TL kurları birlikte açık; QQQ kapanış sonrası toparlanma ve BTC/altın teyidi değerlendirilecek."
  },
  "deepseek/orta_risksiz": {
-  "sonraki": "2026-11-20T17:45:00+03:00",
-  "neden": "Cuma günü BIST kapanışı ve ABD açılışı sonrası haftalık durumu değerlendirmek; haftalık değerlendirme için uygun zaman."
+  "sonraki": "2026-11-23T17:45:00+03:00",
+  "neden": "Hafta başında piyasalar açıkken BIL ve USDTRY gelişmelerini kontrol edip gereksiz işlemden kaçınmak."
  },
  "deepseek/kisa": {
   "sonraki": "2026-11-23T10:00:00+03:00",
@@ -44,16 +44,16 @@
   "neden": "Haftalık cuma kontrolü. 27.11'de ABD piyasası Şükran Günü sonrası yarım gün açık, 17:35'te üç piyasa birlikte işlemde olacak."
  },
  "claude/uzun_risksiz": {
-  "sonraki": "2026-11-20T17:45:00+03:00",
-  "neden": "Cuma günü BIST ve ABD piyasaları aynı anda açık; altının dip davranışını ve faiz/kur gelişmelerini birlikte görüp nakdi değerlendirebilirim."
+  "sonraki": "2026-11-27T17:45:00+03:00",
+  "neden": "Haftalık cuma kontrolü. Şükran Günü'nün ertesi günü ABD piyasası yarım gün açık (İstanbul saatiyle ~21:00'e kadar), bu yüzden 17:45 hem ABD hem BIST verisi için uygun."
  },
  "claude/orta_riskli": {
   "sonraki": "2026-11-23T17:31:00+03:00",
   "neden": "Pazartesi üç piyasa birlikte açık; hafta sonu sonrası yapay zekâ satışının ve BIST'teki 13840 stop seviyesinin durumunu görüp kademeli alım veya stop kararı vermek için."
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-20T17:45:00+03:00",
-  "neden": "Cuma günü hem BIST hem ABD piyasaları açıkken haftayı kapatıp Fed tutanakları sonrası altını ve kuru kontrol etmek için."
+  "sonraki": "2026-11-23T17:45:00+03:00",
+  "neden": "Pazartesi ABD açılışından sonra hafta sonu birikmiş riskten kaçışın VIX'e ve altına etkisini görmek ve BIST kapanmadan kura bakmak için."
  },
  "claude/kisa": {
   "sonraki": "2026-11-23T10:45:00+03:00",

@@ -1,25 +1,25 @@
 {
- "notlar": "Strateji: 1 aylık riskli; zorunlu çeşitlilik tam. QQQ maliyet 5010, şu an 655.1, 20/50 gün altında; panik satmıyorum, günlük -10% kapanış veya Cuma 20 gün ortalamasına dönemezse %25 azalt. THYAO güçlü RSI 72, F/K 4.5 ileriye dönük; RSI 80+ ve hacim düşerse %50 azalt. USDTRY 50.44, RSI 96 aşırı alım, 51 üzeri kilit. BTC RSI 22, ETH RSI 24 aşırı satım; yalnızca günlük yeşil/higher low ile 200 TL küçük al. Toplam komisyon 19 TL.",
- "plan": "Cuma 17:45'te: BTC günlük yeşil veya 4 saatlik yüksek dip olursa 200 TL al. QQQ hâlâ 20 günlük ort altında ve günlük -3% veya daha kötü kapanırsa %25 azalt. THYAO RSI 80 üzeri ise %50 azalt; USDTRY 51 üzerinde kalırsa tut veya kısmi kâr al.",
- "sonraki_tura_mesaj": "BTC teyit (yeşil/higher low) olursa küçük al; QQQ günlük -3% altı veya Cuma 20 gün altında zayıf kapanırsa %25 azalt. THYAO güçlü ama RSI 80'de azalt.",
+ "notlar": "Strateji: riskli 1 ay; zorunlu çeşitlilik tam. QQQ risk azaltıldı, kalan maliyet 3758, 6 ay dibinde; daha fazla satmak için günlük -8% veya RSI<20. THYAO RSI 72 güçlü, F/K 4.6; RSI 80+ ve hacim düşerse %50 azalt. USDTRY artırıldı, RSI 97 aşırı alım; 51 üzeri tut. BTC RSI 20, ETH 23; yalnızca günlük yeşil/higher low ile 200 TL al. Altın RSI 23, düşüş trendi; günlük yeşil dönmezse alma. Komisyon ~24 TL.",
+ "plan": "Pazartesi 17:45'te: QQQ günlük -5% üzerinde toparlanma veya RSI 35 üstü olursa kalanı tut; BTC günlük yeşil/higher low olursa 200 TL al; THYAO RSI 80 üstü ise %30 azalt; USDTRY 51 üzerinde kalırsa tut. Yeni düşüşte altın RSI<20 ve günlük yeşil dönerse küçük al.",
+ "sonraki_tura_mesaj": "QQQ satışı yapıldı; pazartesi BTC yeşil teyit, QQQ -5% panik veya THYAO RSI 80 durumuna göre planı uygula.",
  "izleme_listesi": [
   "BTC-USD",
   "ETH-USD",
-  "QQQ",
-  "THYAO.IS",
-  "USDTRY=X",
   "GC=F",
+  "SI=F",
   "XU030.IS",
   "AAPL",
   "SPY"
  ],
- "son_yorum": "ABD'de Nvidia sonrası Nasdaq hafif toparlanma çabasında ama QQQ 20/50 gün altında; BIST zayıf, THYAO görece güçlü. USDTRY aşırı alım bölgesinde güçlü. BTC/ETH aşırı satım ama teyitsiz. Risk-off sürüyor, temkinli bekleyişteyim.",
+ "son_yorum": "ABD'de AI satışı sürüyor: Nasdaq -1.2, VIX 29.7. BIST -2.55, dolar 50.57 güçlü. QQQ 20 gün altında ve 6 ay dibinde; THYAO göreli güçlü.",
  "kurgu": {
   "metin": "Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-20 17:45"
+  "SATILDI: QQQ 0.0361864 adet (%25), birim 32161.6542 TL, eline geçen 1161.49 TL, kâr/zarar -91.01 TL",
+  "ALINDI: USDTRY=X 22.9377 adet, birim 50.5717 TL, tutar 1160.00 TL + komisyon 2.32 TL",
+  "Sonraki kontrol: 2026-11-23 17:45"
  ]
 }
