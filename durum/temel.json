@@ -42,16 +42,16 @@
 }
 },
 "ASELS.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "ASELSAN",
-"fk": 35.3,
+"fk": 34.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 4.68,
-"piyasa_degeri": 1567500009472,
+"pddd": 4.59,
+"piyasa_degeri": 1536719978496,
 "sektor": "Industrials",
-"temettu_%": 0.12,
+"temettu_%": 0.13,
 "tur": "EQUITY"
 }
 },
@@ -126,30 +126,30 @@
 }
 },
 "FROTO.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "FORD OTOSAN",
-"fk": 8.3,
+"fk": 8.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.3,
-"piyasa_degeri": 254760665088,
+"pddd": 1.28,
+"piyasa_degeri": 251602468864,
 "sektor": "Consumer Cyclical",
-"temettu_%": 13.35,
+"temettu_%": 13.51,
 "tur": "EQUITY"
 }
 },
 "GARAN.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "GARANTI BANKASI",
-"fk": 4.9,
+"fk": 5.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 1.18,
-"piyasa_degeri": 611939975168,
+"piyasa_degeri": 614879985664,
 "sektor": "Financial Services",
-"temettu_%": 3.61,
+"temettu_%": 3.6,
 "tur": "EQUITY"
 }
 },
@@ -252,14 +252,14 @@
 }
 },
 "PGSUS.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "PEGASUS",
-"fk": 442.9,
+"fk": 460.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 0.59,
-"piyasa_degeri": 77499998208,
+"piyasa_degeri": 78300004352,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -364,28 +364,28 @@
 }
 },
 "TCELL.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "TURKCELL",
-"fk": 9.3,
+"fk": 9.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.62,
-"piyasa_degeri": 206109114368,
+"pddd": 0.61,
+"piyasa_degeri": 202517987328,
 "sektor": "Communication Services",
-"temettu_%": 4.22,
+"temettu_%": 4.3,
 "tur": "EQUITY"
 }
 },
 "THYAO.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "TURK HAVA YOLLARI",
-"fk": 4.5,
+"fk": 4.6,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 19.21,
-"piyasa_degeri": 444276736000,
+"pddd": 19.48,
+"piyasa_degeri": 450452029440,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -406,16 +406,16 @@
 }
 },
 "TOASO.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "TOFAS OTO. FAB.",
 "fk": 7.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 1.71,
-"piyasa_degeri": 124550004736,
+"piyasa_degeri": 124650004480,
 "sektor": "Consumer Cyclical",
-"temettu_%": 8.27,
+"temettu_%": 8.02,
 "tur": "EQUITY"
 }
 },
@@ -532,7 +532,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "BIST 100",
 "fk": null,

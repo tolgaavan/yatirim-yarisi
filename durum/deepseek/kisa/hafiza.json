@@ -1,22 +1,21 @@
 {
- "notlar": "THYAO.IS 6.12557 adet maliyet 326.5, hedef 335-340, stop 320. ADA-USD ~12853 adet maliyet 0.1556, stop 0.1520. Kripto kuralı: 15dk RSI>60 + hacim >1x (ADA bugün sağladı). THYAO 330 altına 15dk RSI 70 üzeri dönerse yarı sat; 320 altı full sat. Komisyon %0.2.",
- "plan": "ADA 0.1520 altına sarkarsa sat; 15dk RSI 70 üzeri bozulursa veya hacim düşerse yarı sat. THYAO 335 üstü hacim artarsa yarı sat, 340 üstü yarı sat; 330 altına 15dk RSI 70 üzeri dönerse yarı sat; 320 altı full sat. Kriptoda yeni alım için RSI>60+hacim>1x şartı devam. USDTRY 50.8 üstüne hızlanırsa alım değerlendir.",
- "sonraki_tura_mesaj": "THYAO 335/340 hedef veya 330 altı RSI 70? ADA 0.1520 stop izle; 15dk RSI>60+hacim>1x sürüyor mu? THYAO'da hacim artışı var mı?",
+ "notlar": "THYAO.IS 6.12557 adet maliyet 326.5, hedef 335-340, stop 320. ADA 0.1520 stop altına sarkınca satıldı. Kriptoda yeni alım için 15dk RSI>60 + hacim>1x şartı devam. USDTRY 50.8 üstüne hızlanırsa alım değerlendir. Komisyon %0.2. Stop disiplini kesin.",
+ "plan": "THYAO 335 üstü hacim artarsa yarı sat, 340 üstü yarı sat; 330 altına 15dk RSI 70 üzeri dönerse yarı sat; 320 altı full sat. Kriptoda yeni alım için RSI>60+hacim>1x; USDTRY 50.8 üstü değerlendir. Aksi halde nakitte kal, zorlama alım yapma.",
+ "sonraki_tura_mesaj": "ADA satıldı; THYAO hâlâ 326.5 maliyetle duruyor. THYAO açılırsa 335 hedef, 320 stop izle. ADA'da yeniden alım için RSI>60+hacim>1x bekle; USDTRY 50.8 üstüne hızlanırsa değerlendir.",
  "izleme_listesi": [
-  "PGSUS.IS",
   "ADA-USD",
   "SOL-USD",
   "XRP-USD",
   "USDTRY=X"
  ],
- "son_yorum": "BIST 100 gün içi satıcılı; THYAO görece dirençli ve BofA alımı var ama hacmi düşük. Kriptoda ADA, 15dk RSI ve hacim teyidiyle öne çıkıyor; BTC/ETH günlük hareketli ancak ana trend hâlâ zayıf. USDTRY yatay, altın/gümüş baskı altında.",
+ "son_yorum": "Küresel risk iştahı zayıf; Asya hisselerinde yapay zeka kaynaklı satış, dolar 19 ay zirvesinde. Kriptoda toparlanma teyidi yok, ADA 0.1520 stop altında ve hacim düşük. BIST bu turda kapalı göründüğünden THYAO'ya müdahale yok.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: ADA-USD 254.834 adet, birim 7.8482 TL, tutar 2000.00 TL + komisyon 4.00 TL",
-  "Sonraki kontrol: 2026-11-20 10:00 (istediğin: 2026-11-19 17:30; o gün için 5 kontrol sınırı doldu, ertesi gün sabaha alındı)"
+  "SATILDI: ADA-USD 254.834 adet (%100), birim 7.5827 TL, eline geçen 1928.46 TL, kâr/zarar -75.54 TL",
+  "Sonraki kontrol: 2026-11-20 12:00"
  ]
 }
