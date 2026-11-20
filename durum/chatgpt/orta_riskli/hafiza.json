@@ -1,33 +1,32 @@
 {
- "notlar": "Zorunlu çeşitlilik tamam: USDTRY döviz nakit, THYAO/ASELS Türk piyasası, GOOGL/AVGO ABD hissesi, BTC sınırlı opsiyon. XLE satıldı: petrol ve emtia momentumundaki kırılma enerji tamponu tezini zayıflattı. GOOGL ucuzlayan kalite olarak tutuluyor ama faiz riski sürüyor. AVGO göreli güç ve yarı iletken liderliği için eklendi. BTC RSI 23 ile aşırı satımda ama pay sınırlı; 60 bin USD altı kalıcı kırılırsa azaltılacak. THYAO güçlü fakat RSI yüksek, ASELS toparlanma adayı.",
- "plan": "Cuma günü sıfırdan testi tekrarla. AVGO göreli gücünü kaybeder ve QQQ altında kalırsa azalt; Nasdaq tepkiyi sürdürürse GOOGL/AVGO korunur. BTC 60 bin USD altına yerleşirse kes, 68 bin üstü hacimli dönüşte artırmayı düşün. THYAO RSI 75 üstü yorulursa kâr al; ASELS 20 günlük ortalama altına net inerse azalt. USDTRY koruma payını koru.",
- "sonraki_tura_mesaj": "Önce AVGO alımı sonrası Nasdaq tepki devam ediyor mu ve Fed/faiz baskısı artıyor mu bak; BTC 60 bin eşiğine, THYAO aşırı alım yorgunluğuna, ASELS 20 günlük ortalama desteğine odaklan.",
+ "notlar": "Zorunlu çeşitlilik tamam: USDTRY döviz nakit, THYAO Türk piyasası, GOOGL/AVGO/XLP ABD hissesi, BTC sınırlı opsiyon. Piyasa stresi yükseldiği için tekil teknoloji ve zayıf BIST riskini azalttım; XLP, USD koruması ve düşük beta için eklendi. THYAO BIST’e karşı güçlü ama RSI yüksek; yorgunlukta kâr alınacak. BTC küçük tutuluyor, 60 bin USD altı kalıcı kırılırsa azaltılacak. AVGO yüksek oynak ama QQQ/NVDA’ya göre nispeten iyi; bozulursa kesilecek.",
+ "plan": "Pazartesi sıfırdan testi yap. VIX düşer, QQQ 20 günlük ortalamaya yaklaşır ve GOOGL/AVGO tepkiyi hacimle sürdürürse teknoloji payı korunur/artırılır; aksi halde XLP/XLV/USD ağırlığı artırılır. THYAO RSI 75 üstünde yorulur veya BIST’ten koparsa kâr al. BTC 60 bin altında kalırsa çık; 68 bin üstü dönüşte artırmayı düşün.",
+ "sonraki_tura_mesaj": "Önce XLP rotasyonu işe yarıyor mu, VIX 30 üstüne yerleşti mi ve Nasdaq tepki verdi mi bak; THYAO aşırı alım yorgunluğu, BTC 60 bin eşiği ve AVGO’nun QQQ’ya göre gücü ana karar noktaları.",
  "izleme_listesi": [
   "GOOGL",
+  "BTC-USD",
+  "USDTRY=X",
+  "THYAO.IS",
+  "ASELS.IS",
   "AVGO",
   "QQQ",
   "NVDA",
-  "XLE",
-  "XLV",
   "XLP",
-  "THYAO.IS",
-  "ASELS.IS",
-  "AKBNK.IS",
-  "BTC-USD",
-  "USDTRY=X",
+  "XLV",
   "GC=F",
-  "SI=F",
-  "XU030.IS"
+  "XU030.IS",
+  "AKBNK.IS"
  ],
- "son_yorum": "VIX yüksek, ABD 10 yıllık faiz %5 üzeri ve Fed söylemi şahin; buna rağmen Nasdaq açılışta tepki veriyor. BIST zayıf ama THYAO/ASELS endekse göre dirençli. BTC aşırı satımda fakat henüz güvenilir dönüş sinyali yok; petrol ve emtia baskısı XLE tezini zayıflatıyor.",
+ "son_yorum": "Küresel risk iştahı bozuk: Nasdaq haftalık sert düşüyor, VIX yüksek, altın/emtia da çözülüyor; TL’de kontrollü değer kaybı sürerken BIST’te satış baskısına rağmen THYAO göreli güçlü kalıyor.",
  "kurgu": {
   "metin": "Bu portföyü 1 aylık yarış için TL değer kaybına karşı döviz bazlı varlıkları omurga yaparak, ABD’de kalite ve sektör rotasyonu, kriptoda ise sınırlı dip alımıyla kuruyorum. BIST zorunlu ayağını piyasa açılır açılmaz ekleyeceğim; komisyonu boşa harcamadan ama nakitte de fazla beklemeden yüksek getiri arayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: XLE 0.46301 adet (%100), birim 3189.6179 TL, eline geçen 1473.87 TL, kâr/zarar -29.13 TL",
-  "ALINDI: AVGO 0.107596 adet, birim 17658.5955 TL, tutar 1900.00 TL + komisyon 3.80 TL",
-  "Sonraki kontrol: 2026-11-20 17:35"
+  "SATILDI: ASELS.IS 2.83086 adet (%100), birim 326.7500 TL, eline geçen 923.13 TL, kâr/zarar -78.87 TL",
+  "SATILDI: GOOGL 0.082981 adet (%50), birim 13886.1039 TL, eline geçen 1149.98 TL, kâr/zarar -102.52 TL",
+  "ALINDI: XLP 0.457568 adet, birim 4611.3375 TL, tutar 2110.00 TL + komisyon 4.22 TL",
+  "Sonraki kontrol: 2026-11-23 17:35"
  ]
 }

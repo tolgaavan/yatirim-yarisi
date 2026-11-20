@@ -1,31 +1,34 @@
 {
- "notlar": "Başlangıç 12.11.2026, USDTRY ~50.3. QQQ 3000 TL (~686$ maliyet); tez: faizler zirveye yakın, YZ satışı aşırı. ABD10Y >%5.3 olursa QQQ'yu yarıla. 13.11: USDTRY 3000, XU030 2500 (14881), AKBNK 1000 (70.15) TL. Nakit 481 TL. BIST tezi aralıkta TCMB indirimi; enflasyon beklentisi >%30. XU030 13840 altı (-%7) veya indirim beklentisi sönerse bankayı kes. 18.11: NVDA Q3 rekor, beat, RSI 25, F/K ~20, WF hedef 250$. Huang krizi sürüyor. Waller aralıkta 50bp artırım dedi, DB 113bp bekliyor, hedge fonlar kaldıraç azaltıyor. Bu ortam yüksek betaya kötü, dolara iyi. Altın 1 yılın dibinde; şahin Fed varken uzak dur. THYAO RSI 72, kovalama. TL ayda ~%2 eriyor.",
- "plan": "Cuma: Fed tutanaklarına tepkiye bak. NVDA 2 gün tuttuysa ve QQQ 650$ üstündeyse 481 TL ile NVDA al (alternatif SMH). Satış sürerse nakdi USDTRY'ye çevir. QQQ 650$ altına inerse 1/3'ünü SPY'a çevir. ABD10Y >%5.3 olursa QQQ'yu yarıla. BTC RSI 30'u yukarı keserse ~1000 TL'lik doları BTC'ye çevir. XU030 13840 altı veya TCMB'den şahin sinyal gelirse AKBNK'yi sat, dolara geç.",
- "sonraki_tura_mesaj": "Önce Fed tutanakları ve ABD10Y'ye bak (%5.3 üstündeyse QQQ'yu yarıla). NVDA bilanço yükselişini korudu mu ve QQQ 650$ üstünde mi? Evetse 481 TL ile NVDA al, değilse nakdi USDTRY'ye çevir; nakdi daha fazla bekletme. XU030 13840 altındaysa AKBNK'yi kes. BTC RSI 30'u kesti mi bak.",
+ "notlar": "Başlangıç 12.11.2026, USDTRY ~50.3. QQQ ~686$ maliyetle alındı; 20.11'de 637$'dan 1/3'ü SPY'a (712$) çevrildi. Elde ~3500 TL dolar. XU030 14881'den, AKBNK 70.15'ten alındı; BIST tezi aralıkta TCMB faiz indirimi, ancak güçlü dolar ve şahin Fed bu tezi zayıflatıyor. 20.11 durumu: yapay zekâ satışı (Anthropic halka arzı -%10, NVDA RSI 19, F/K 15), VIX 29.75, ABD10Y 4.99 (düşüyor, yani mesele büyüme korkusu). Waller aralıkta 50bp artırım dedi. Altın 14 ayın dibinde. BTC RSI 21. THYAO RSI 73, kovalanmamalı. Ders: düşüş sürerken tek seferde girme, kademeli gir. Fed toplantısı ~9-10 Aralık, TCMB ~11 Aralık. Değerlendirme ~12.12.",
+ "plan": "XU030 13840 altında kapanırsa AKBNK'yi sat, dolara geç; 13500 altında XU030'u da yarıla (en az bir BIST payı kalsın). Dip için kademeli alım: VIX zirve yapıp dönerse veya SPY RSI 35'i yukarı keserse ~1000 TL doları SPY/QQQ'ya çevir. NVDA ancak 2 gün üst üste yükselirse küçük (500 TL) alınır. BTC RSI 30'u yukarı keserse ~700 TL dolar BTC'ye. ABD10Y %5.3 üstüne çıkarsa QQQ'yu yarıla.",
+ "sonraki_tura_mesaj": "Önce XU030'a bak: 13840 altındaysa AKBNK'yi sat. VIX dönüyor mu, SPY RSI 35 üstünde mi? Öyleyse ~1000 TL doları SPY/QQQ'ya kademeli olarak çevir. NVDA 2 gün yükseldiyse 500 TL al. BTC RSI 30'u kesti mi kontrol et. Perşembe ABD tatil (Thanksgiving). Portföy -%4.3; panikle satma, stoplara uy.",
  "izleme_listesi": [
   "QQQ",
   "SPY",
   "NVDA",
   "SMH",
-  "AVGO",
   "GOOGL",
-  "USDTRY=X",
-  "EURTRY=X",
-  "XU030.IS",
-  "XU100.IS",
   "AKBNK.IS",
   "YKBNK.IS",
+  "XU030.IS",
+  "XU100.IS",
   "THYAO.IS",
   "BTC-USD",
-  "GC=F"
+  "GC=F",
+  "EURTRY=X",
+  "XLP",
+  "MSFT"
  ],
- "son_yorum": "NVDA güçlü bilanço açıkladı ve teknoloji günü artıda açtı. Ama Fed'den Waller aralıkta 50 baz puanlık artırımı dillendirdi, VIX haftalık %39 yukarıda, altın ve gümüş sert düşüyor, doları da şahin Fed destekliyor. BIST'te gelişen piyasa baskısı ve fon krizi haberleri var. Bilanço kaynaklı toparlanmanın gerçek bir dip olup olmadığını henüz bilmiyorum. Fed tutanakları bu akşam açıklanacak.",
+ "son_yorum": "Yapay zekâ satışı derinleşiyor: Anthropic halka arzı sonrası düştü, NVDA 6 gündür kayıpta, VIX 30'a yaklaştı. 10 yıllık faiz %4.99'a geriledi; piyasa faizden çok büyüme ve değerleme korkusuyla düşüyor. Dolar endeksi 19 ayın zirvesinde, altın ve kripto zayıf. BIST küresel risk iştahsızlığıyla haftada %6 kaybetti. Panik bölgesindeyiz ama dip sinyali henüz yok.",
  "kurgu": {
   "metin": "Portföyü üç ayak üzerine kuruyorum. Dolar bazlı ABD büyüme hisseleri hem şirket kazancı hem de TL'nin değer kaybına karşı koruma sağlıyor. BIST tarafında aralıkta beklenen faiz indirimine duyarlı bir endeks ve banka ağırlığı tutuyorum. Bunlara küçük bir döviz nakit tamponu ekliyorum. Riskli profilde aşırı satılmış ama tezi bozulmamış varlıklara kademeli giriyorum ve tezi bozulanı hızla kesiyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-20 17:31"
+  "SATILDI: QQQ 0.0286596 adet (%33), birim 32218.9263 TL, eline geçen 921.53 TL, kâr/zarar -70.45 TL",
+  "ALINDI: SPY 0.0255315 adet, birim 36033.9759 TL, tutar 920.00 TL + komisyon 1.84 TL",
+  "ALINDI: USDTRY=X 9.39218 adet, birim 50.5740 TL, tutar 475.00 TL + komisyon 0.95 TL",
+  "Sonraki kontrol: 2026-11-23 17:31"
  ]
 }

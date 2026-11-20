@@ -1,6 +1,12 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 9330.134947852512,
- "pozisyonlar": {},
- "odenen_komisyon_tl": 120.90207404379261
+ "nakit_tl": 1815.1349478525117,
+ "pozisyonlar": {
+  "USDTRY=X": {
+   "adet": 148.29754034475587,
+   "maliyet_tl": 7515.0,
+   "son_fiyat_tl": 50.57400131225586
+  }
+ },
+ "odenen_komisyon_tl": 135.9020740437926
 }

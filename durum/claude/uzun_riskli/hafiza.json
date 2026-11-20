@@ -1,34 +1,34 @@
 {
- "notlar": "Strateji: BIST %35 (XU030 ağırlıklı, AKBNK), ABD %30 (QQQ), USD %28 (zorunlu döviz payı ve park yeri), az TL. 12.11: QQQ 3000 TL alındı (34543 TL/adet). 13.11: USD 2800 TL (kur 50.36), XU030 2700 TL (14881), AKBNK 900 TL (70.15) alındı. TCMB anketinde enflasyon beklentisi %30'u aştı, faiz indirimi tezi zayıfladı; banka payını küçük tuttum. Altın 6 ayın dibinde (RSI 36), BTC'nin RSI'ı 26: ikisi de düşüş trendinde. NVDA'da CEO ayrılığı, istikrar görülmeden girilmeyecek.",
- "plan": "Altın 20 günlük ortalamanın üzerine çıkarsa USD'nin bir kısmını satıp 1000-1500 TL GC=F veya GLD al. BTC 50 günlük ortalamayı geri alırsa 500-800 TL al. ABD 10Y %5.3'ü geçerse QQQ'ya ekleme yapma, SPY'ı tercih et. TCMB faiz indirimine ara verirse ya da kur sıçrarsa AKBNK'yi sat ve USD'ye geç. BIST %8'den fazla düşüp tez bozulursa XU030'u yarıya indir. Küçük hareketlere işlem yapma.",
- "sonraki_tura_mesaj": "Zorunlu çeşitlilik tamam. Önce altına bak: 20 günlük ortalamanın üzerinde mi? Öyleyse USD'den altına geç. BTC'nin dip teyidini kontrol et. TCMB ve enflasyon haberlerinin banka tezine etkisini değerlendir. Yaklaşık 580 TL nakit var.",
+ "notlar": "Strateji: BIST ~%35 (XU030 ve THYAO), ABD ~%35 (QQQ ve SPY), USD ~%28, az TL. 12.11'de QQQ 34543 TL/adetten alındı. 13.11'de USD 50.36, XU030 14881 seviyesinden alındı. 20.11'de AKBNK 65.25'ten zararla satıldı (faiz tezi zayıfladı), THYAO 327.5'ten alındı (dolar geliri, ucuz petrol, BofA gözdesi, RSI 73: aşırı alım riski var), SPY 712.5 USD'den alındı. 20.11 görünümü: yapay zekâ satışı, VIX 29.75, altın 14 ayın dibinde (RSI 23), BTC RSI 21, dolar endeksi zirvede. Öğrendiğim ders: tek seferde alım yapmak hataydı, girişleri kademelendir. Portföy 20.11'de -%4.4.",
+ "plan": "VIX 35'i geçer ve SPY %5 daha düşerse USD'nin bir kısmıyla SPY veya QQQ'ya ekle. Altın 20 günlük ortalamayı geri alırsa USD'den 1000 TL GLD al. BTC 50 günlük ortalamayı geri alırsa 500 TL BTC al. XU030 girişten %10 aşağıya, yani 13400'ün altına inerse yarısını USD'ye çevir. THYAO girişten %12 düşerse sat. 10 yıllık ABD faizi %5.3'ü aşarsa QQQ'ya ekleme yapma. Küçük hareketlerde işlem yapma.",
+ "sonraki_tura_mesaj": "THYAO'yu RSI 73'te aldım, aşırı alım riski var; %12 düşerse sat. Önce VIX'e ve SPY'ın dip teyidine bak; panik derinleşirse USD'den kademeli hisse ekle. Altın ve BTC'de dönüş sinyali yoksa girme. XU030'da 13400 eşiğini kontrol et. Nakit yaklaşık 134 TL.",
  "izleme_listesi": [
   "QQQ",
   "SPY",
-  "NVDA",
   "USDTRY=X",
-  "EURTRY=X",
   "XU030.IS",
   "XU100.IS",
-  "AKBNK.IS",
   "THYAO.IS",
-  "TUPRS.IS",
+  "AKBNK.IS",
   "GC=F",
   "GLD",
   "BTC-USD",
-  "XLF",
-  "GOOGL"
+  "EURTRY=X",
+  "PGSUS.IS",
+  "XLV",
+  "NVDA",
+  "TUPRS.IS"
  ],
- "son_yorum": "TCMB anketinde enflasyon beklentisi %30'u, 12 aylık dolar beklentisi 60 TL'yi aştı; bu, faiz indirimi tezini zayıflatıyor ve TL nakdi daha da pahalı kılıyor. BIST 3 ayda -%16 düştü ama haftalık toparlanıyor. ABD'de 10 yıllık faiz %5.15, ÜFE serin geldi. Altın ve gümüş sert düşüş trendinde, kriptoda RSI 26 seviyesinde ama dip teyidi yok.",
+ "son_yorum": "Küresel risk iştahı çok zayıf. Anthropic halka arzı yapay zekâ kaygılarını dindiremedi, Nasdaq bir haftada %6 düştü ve VIX 30'a dayandı. Dolar endeksi 19 ayın zirvesinde olduğu için altın, gümüş ve kripto çöküyor. BIST haftayı %6 kayıpla kapattı. Böyle bir panikte zirvede satmak kadar dipte satmak da hatadır. Dolar TL karşısında istikrarlı biçimde değer kazanıyor.",
  "kurgu": {
   "metin": "Portföyü üç ana ayak üzerine kuruyorum. Birincisi Borsa İstanbul'dur; TCMB'nin faiz indirim döngüsü sürerken endeks fonu ve bankalar ağırlıkta olacak. İkincisi ABD hisseleridir; dolar bazlı getiri sağlarken TL'nin değer kaybına karşı da koruma sağlar. Üçüncüsü dolar nakittir. Riskli ve 3 aylık bir portföy olduğu için çok az TL nakit tutacağım. Altın ve kriptoya ancak düşüş trendi dönüş sinyali verirse küçük paylarla gireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: USDTRY=X 55.5977 adet, birim 50.3618 TL, tutar 2800.00 TL + komisyon 5.60 TL",
-  "ALINDI: XU030.IS 0.181439 adet, birim 14881.0195 TL, tutar 2700.00 TL + komisyon 5.40 TL",
-  "ALINDI: AKBNK.IS 12.8297 adet, birim 70.1500 TL, tutar 900.00 TL + komisyon 1.80 TL",
-  "Sonraki kontrol: 2026-11-20 17:35"
+  "SATILDI: AKBNK.IS 12.8297 adet (%100), birim 65.2500 TL, eline geçen 835.46 TL, kâr/zarar -66.34 TL",
+  "ALINDI: THYAO.IS 2.53435 adet, birim 327.5000 TL, tutar 830.00 TL + komisyon 1.66 TL",
+  "ALINDI: SPY 0.0124882 adet, birim 36033.9759 TL, tutar 450.00 TL + komisyon 0.90 TL",
+  "Sonraki kontrol: 2026-11-27 17:35"
  ]
 }
