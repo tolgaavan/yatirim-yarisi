@@ -16,8 +16,8 @@
   "neden": "Cuma günü BIST kapanışı ve ABD açılışı sonrası haftalık durumu değerlendirmek; haftalık değerlendirme için uygun zaman."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-20T12:00:00+03:00",
-  "neden": "Satış sonrası kriptoda toparlanma teyidi ve THYAO/BIST açılış hareketlerini görmek."
+  "sonraki": "2026-11-23T10:00:00+03:00",
+  "neden": "BIST hafta sonu kapalı; pazartesi açılışta piyasanın yönü ve THYAO/kripto güncel sinyalleri değerlendirilecek."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
