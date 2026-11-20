@@ -1,12 +1,6 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 3535.219669720558,
- "pozisyonlar": {
-  "TOASO.IS": {
-   "adet": 23.73887240356083,
-   "maliyet_tl": 6012.0,
-   "son_fiyat_tl": 249.6999969482422
-  }
- },
- "odenen_komisyon_tl": 109.2890173741895
+ "nakit_tl": 9330.134947852512,
+ "pozisyonlar": {},
+ "odenen_komisyon_tl": 120.90207404379261
 }

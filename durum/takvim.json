@@ -36,8 +36,8 @@
   "neden": "Cuma günü hem BIST kapanışına yakın tabloyu hem de ABD seans açılışındaki risk iştahını birlikte görmek için."
  },
  "chatgpt/kisa": {
-  "sonraki": "2026-11-20T10:31:13+03:00",
-  "neden": "BIST verisi açıldığında TOASO için 251 risk sınırını ve XU100 yönünü hızlı değerlendirmek gerekiyor."
+  "sonraki": "2026-11-20T11:31:00+03:00",
+  "neden": "Açılış satışının ardından ilk tepki veya devam kırılımını görmek ve gerekirse öğlen öncesi yeni pozisyon almak için."
  },
  "claude/uzun_riskli": {
   "sonraki": "2026-11-20T17:35:00+03:00",
@@ -56,7 +56,7 @@
   "neden": "Cuma günü hem BIST hem ABD piyasaları açıkken haftayı kapatıp Fed tutanakları sonrası altını ve kuru kontrol etmek için."
  },
  "claude/kisa": {
-  "sonraki": "2026-11-20T10:30:00+03:00",
-  "neden": "Bugünkü kontrol hakkı doldu; BIST açılışından 30 dakika sonra THYAO'nun stop ve hedef seviyelerini ve endeksin 11.385 desteğini kontrol etmek için."
+  "sonraki": "2026-11-20T15:30:00+03:00",
+  "neden": "BIST'in öğleden sonra ve ABD vadelilerinin etkisiyle tepki verip vermediğini, endeksin 11.200 dibini tutup tutmadığını görmek için."
  }
 }

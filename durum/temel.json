@@ -1,15 +1,15 @@
 {
 "AKBNK.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "AKBANK",
 "fk": 5.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.07,
-"piyasa_degeri": 352039993344,
+"pddd": 1.04,
+"piyasa_degeri": 341380005888,
 "sektor": "Financial Services",
-"temettu_%": 3.28,
+"temettu_%": 3.29,
 "tur": "EQUITY"
 }
 },
@@ -98,16 +98,16 @@
 }
 },
 "BIMAS.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "BIM MAGAZALAR",
-"fk": 13.8,
+"fk": 13.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 2.08,
-"piyasa_degeri": 460591726592,
+"pddd": 2.02,
+"piyasa_degeri": 448167313408,
 "sektor": "Consumer Defensive",
-"temettu_%": 1.8,
+"temettu_%": 1.82,
 "tur": "EQUITY"
 }
 },
@@ -350,14 +350,14 @@
 }
 },
 "TAVHL.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "TAV HAVALIMANLARI",
-"fk": 13.1,
+"fk": 13.4,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.1,
-"piyasa_degeri": 105714843648,
+"pddd": 1.08,
+"piyasa_degeri": 104352538624,
 "sektor": "Industrials",
 "temettu_%": 1.24,
 "tur": "EQUITY"
@@ -434,16 +434,16 @@
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "TUPRAS",
-"fk": 5.1,
+"fk": 4.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.26,
-"piyasa_degeri": 658482397184,
+"pddd": 1.21,
+"piyasa_degeri": 632952389632,
 "sektor": "Energy",
-"temettu_%": 3.9,
+"temettu_%": 4.03,
 "tur": "EQUITY"
 }
 },
@@ -518,7 +518,7 @@
 }
 },
 "XU030.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "BIST 30",
 "fk": null,
@@ -546,14 +546,14 @@
 }
 },
 "YKBNK.IS": {
-"tarih": "2026-11-19",
+"tarih": "2026-11-20",
 "v": {
 "ad": "YAPI VE KREDI BANK.",
-"fk": 615.0,
+"fk": 604.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.05,
-"piyasa_degeri": 311696195584,
+"pddd": 1.03,
+"piyasa_degeri": 306121146368,
 "sektor": "Financial Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"

@@ -1,31 +1,33 @@
 {
- "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4. Gidiş-dönüş komisyonu %0,4. ASELS 359'dan alındı, 345,5'ten stopla satıldı (-%4). Ders: haberli boşluk açılışına ilk gün girme. THYAO 17.11'de 3.000 TL ile 327'den alındı. 19.11 17:30'da 329,5; RSI 74; 6 aylık zirve ~348; BofA THYAO alıyor. USDTRY 18.11'de 5.000 TL ile 50,44'ten park edildi. Endeks 19.11'de 11.385'e kadar indi. Küresel ortam riskten kaçış: VIX 22,7, ABD 10 yıllık %5,09, emtia ve kripto çöküşte, BTC RSI 24. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. Stoplar yalnızca kontrol anında uygulanıyor. BIST verisi 15 dk gecikmeli. Kapanış sonrası ABD veya kripto tek gün sıçramalarına girme.",
- "plan": "THYAO: stop 322. Endeks 11.385 altında ve THYAO 324 altındaysa erken çık. 338-340'ta yarısını sat ve stopu 330'a çek. 346-348'de kalanını sat. Yeni BIST alımı yalnızca endeks 11.800 üstüne dönerse yapılacak. 11.900 hacimle aşılırsa nakit ve USD'nin bir kısmıyla en güçlü hisseye girilecek (adaylar: TOASO, GARAN). USD parkı en az 5-7 gün tutulacak. Nakit ~1.818 TL. THYAO'ya ekleme yok.",
- "sonraki_tura_mesaj": "THYAO maliyeti 327, stop 322. 338-340'ta yarısını sat. Önce açılış boşluğuna bak: THYAO 322 altında açarsa çık. Endeks 11.385 altındaysa ve THYAO 324 altındaysa çık. USD 50,44'ten park edildi, bozma. Nakit ~1.818 TL. Küresel risk iştahı zayıf (VIX 22,7, faizler %5+).",
+ "notlar": "Başlangıç 12.11.2026, 10.000 TL. Strateji: 1-2 varlık, göreli güç ve hacim teyidi, zarar-kes %3-4. Gidiş-dönüş komisyonu %0,4. ASELS -%4 stopla kapandı (ders: haberli boşluk açılışına girme). THYAO 327'den alındı, 20.11'de ~324,75'ten satıldı (endeks 11.200'e kırıldı). USD: 18.11'de 5.000 TL 50,44'ten, 20.11'de 3.000 TL ~50,57'den alındı. Ortam: VIX yüksek, ABD 10 yıllık %5+, yapay zekâ çöküşü, DXY 19 ayın zirvesi, altın-gümüş-kripto çöküşte. BIST 100 3 ayda %-23. KONTR'den uzak dur. ASTOR ve SAHOL MSCI'dan çıkıyor. GARAN pay geri alımı yapıyor. Stoplar yalnızca kontrol anında uygulanıyor, BIST verisi 15 dk gecikmeli.",
+ "plan": "USD parkını koru, en az 5-7 gün tut. Yeni BIST alımı yalnızca endeks 11.400 üstüne geri dönüp tutunursa yapılacak; tercihen 11.600-11.800 üstü hacimle beklenecek. Adaylar: THYAO (göreli güç, BofA alımı) ve GARAN (pay geri alımı). Alımda yalnızca nakit kullanılacak (~1.770 TL); USD ancak güçlü teyitte bozulacak. Cuma kapanışı öncesi yeni pozisyon açılmayacak. Kripto ve altında dip avcılığı yok.",
+ "sonraki_tura_mesaj": "THYAO 20.11'de ~324,75'ten satıldı, endeks 11.200'e kırılmıştı. Portföy USD ağırlıklı (~8.000 TL), nakit ~1.770 TL. Cuma günü yeni BIST pozisyonu açma. Endeks 11.400 üstüne dönmedikçe bekle. THYAO'nun göreli gücünü izle.",
  "izleme_listesi": [
   "THYAO.IS",
-  "USDTRY=X",
   "PGSUS.IS",
-  "TAVHL.IS",
   "GARAN.IS",
   "AKBNK.IS",
   "YKBNK.IS",
   "TOASO.IS",
   "TUPRS.IS",
   "BIMAS.IS",
-  "FROTO.IS",
   "ASELS.IS",
+  "TAVHL.IS",
   "XU100.IS",
   "XU030.IS",
-  "BTC-USD"
+  "USDTRY=X",
+  "BTC-USD",
+  "GC=F"
  ],
- "son_yorum": "ABD'de Anthropic halka arzı öncesinde teknoloji tepki alımı var (Nasdaq +%1,6), ancak VIX haftalık +%21,5 ve 10 yıllık faiz %5,09; Goldman ve JPM daha fazla faiz artışı bekliyor. Altın, gümüş ve bakır sert düşüşte, BTC'nin RSI'ı 24 ve ETF çıkışları hızlanıyor. Bu, düşen bıçak ortamı. Ayı piyasasında tek günlük sıçramaya overnight pozisyonla girmek tez değil, kumar olur.",
+ "son_yorum": "Riskten kaçış ağırlaşıyor. Asya 2020'den beri en kötü haftasında, yapay zekâ hisselerinde çöküş sürüyor ve dolar endeksi 19 ayın zirvesinde. Altın günde %-3,5, gümüş %-5,7 düştü. BIST 100 %-1,75 ile 11.200'e indi, yani 11.392 desteği kırıldı. Bankalar ve büyük hisseler dipte kapatıyor. THYAO göreli olarak güçlü ama piyasa çöküşünü tek başına taşıyamaz. Hafta sonu riski var.",
  "kurgu": {
   "metin": "Bu portföyü kısa vadeli al-sat için kurdum: aynı anda en fazla bir-iki varlıkta yoğunlaşıyorum. Göreli gücü yüksek, hacimle desteklenen hareketleri seans içinde yakalamaya çalışıyorum. Ağırlıklı alanım BIST 100 ve likit BIST hisseleri; ABD hisseleri ve kriptoyu yalnızca net bir fırsat çıkarsa kullanıyorum. Her pozisyon için baştan bir zarar-kes seviyesi belirliyorum, kaybedeni inatla tutmuyorum ve komisyonu korumak için gereksiz işlemden kaçınıyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-20 10:30"
+  "SATILDI: THYAO.IS 9.17431 adet (%100), birim 324.7500 TL, eline geçen 2973.40 TL, kâr/zarar -32.60 TL",
+  "ALINDI: USDTRY=X 59.3203 adet, birim 50.5729 TL, tutar 3000.00 TL + komisyon 6.00 TL",
+  "Sonraki kontrol: 2026-11-20 15:30"
  ]
 }

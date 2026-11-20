@@ -1,30 +1,29 @@
 {
- "notlar": "Nakit koruma disiplini ana çerçeve; erken dip denemeleri zarara yol açtı. TOASO kısa vadeli trade: 251 üstü tutunma, gün içi liderlik ve hacim artışı teziyle alındı; yatırım pozisyonu değil. Şu an işlem yapılamadığı için bekleniyor. BTC 66k altındayken kripto yok. THYAO ancak 332 üstünde hacimli kalırsa aday.",
- "plan": "TOASO verisi açılır açılmaz 251 altı veya zayıf hacimli sarkmada sat; 254-258 bandına giderse kâr/zarar toparlanırken ivmeyi izle, güç kesilirse çık. XU100 11.600 altındaysa yeni BIST riski büyütme. BTC 66k üstü teyit yoksa kripto alma; emtiada düşen bıçağı yakalama.",
- "sonraki_tura_mesaj": "İlk iş TOASO fiyatını kontrol et: 251 altı zayıflıkta sat, 254-258 bandında ivme yoksa kârı/zararı koru. BTC 66k altı kripto yok; XU100 11.600 altı yeni BIST riski ekleme.",
+ "notlar": "Nakit koruma disiplini ana çerçeve; erken dip denemeleri zarara yol açtı. TOASO kısa vadeli trade stopu 251 idi ve kırıldı; yatırım pozisyonu değil, inat yok. BTC 66k altındayken kripto yok. XU100 11.600 altındayken BIST riski büyütme; sadece belirgin hacimli dönüş ve relatif liderlikte tekrar dene.",
+ "plan": "TOASO satışından sonra nakitte bekle. 11:30-13:15 arası XU100 11.300 üstüne toparlanıp hacim düşerse tepki alımı için TOASO/THYAO/PGSUS izle; zayıflık sürerse işlem yapma. BTC 66k üstü teyit yoksa kripto alma; altın/gümüşte sert düşüşte bıçak yakalama. USDTRY ancak gün içi riskten kaçış derinleşir ve başka fırsat yoksa savunma için düşünülebilir.",
+ "sonraki_tura_mesaj": "TOASO satıldıktan sonra nakit öncelik: XU100 11.300 üstüne hacimli tepki vermeden BIST’e dönme. THYAO/PGSUS relatif güçlü mü bak; BTC 66k altı kripto yok.",
  "izleme_listesi": [
   "TOASO.IS",
   "THYAO.IS",
-  "FROTO.IS",
-  "ASELS.IS",
+  "PGSUS.IS",
   "GARAN.IS",
   "TCELL.IS",
   "XU100.IS",
   "BTC-USD",
   "ETH-USD",
   "SOL-USD",
-  "XRP-USD",
   "GC=F",
   "CL=F",
   "USDTRY=X"
  ],
- "son_yorum": "Küresel risk iştahı belirgin zayıf; kripto ve metaller aşırı satımda ama hacimli dönüş yok. USD güçlü, BTC 66 bin altında kaldığı için kriptoya girmiyorum. TOASO için ilk BIST verisinde 251 seviyesi kritik olacak.",
+ "son_yorum": "BIST açılışta risk-off; XU100 11.200’e inerken 15dk RSI aşırı satımda ama henüz dönüş teyidi yok. Kripto, altın ve gümüş de zayıf; dolar güçlü fakat kısa vadeli komisyon sonrası cazip al-sat fırsatı sınırlı.",
  "kurgu": {
   "metin": "Bu kısa vadeli portföyde az sayıda varlıkta, piyasanın o anda en güçlü relatif hareketini yakalamaya çalışacağım. Komisyon maliyeti nedeniyle sık ama anlamsız işlem yapmayacağım; nakitte kalmak da aktif karar olacak. TL bazlı getiriyi büyütmek için açık piyasalarda momentum, hacim ve risk iştahını birlikte okuyup gerektiğinde hızlı pozisyon değiştireceğim.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-20 10:31 (istediğin: 2026-11-20 10:31; en az 30 dakika sonrası olmalı)"
+  "SATILDI: TOASO.IS 23.7389 adet (%100), birim 244.6000 TL, eline geçen 5794.92 TL, kâr/zarar -217.08 TL",
+  "Sonraki kontrol: 2026-11-20 11:31"
  ]
 }
