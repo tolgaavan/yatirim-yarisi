@@ -4,8 +4,8 @@
   "neden": "Haftalık değerlendirme; ABD ve BIST piyasaları aynı anda açıkken zorunlu çeşitlilik ve fiyatlar kontrol edilebilir."
  },
  "deepseek/uzun_risksiz": {
-  "sonraki": "2026-11-20T23:30:00+03:00",
-  "neden": "Cuma günü ABD piyasası açıkken haftalık kontrol yapıp SGOV pozisyonunu ve dolar/TL seyrini görmek için uygun zaman."
+  "sonraki": "2026-11-27T17:30:00+03:00",
+  "neden": "ABD piyasası açıkken ve Türkiye döviz kurları açıkken USDTRY ile SGOV'u birlikte değerlendirmek için uygun saat."
  },
  "deepseek/orta_riskli": {
   "sonraki": "2026-11-23T17:45:00+03:00",

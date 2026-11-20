@@ -74,73 +74,118 @@ Satışlar alışlardan önce yapılır. Türkçe yaz.
 
 -----
 
-ŞU AN: 12.11.2026 Perşembe 23:38 (İstanbul saati). Portföyün başlangıcından bu yana 0 gün geçti.
+ŞU AN: 20.11.2026 Cuma 23:31 (İstanbul saati). Portföyün başlangıcından bu yana 7 gün geçti.
 
 === GEÇEN TURDAN KENDİNE MESAJ ===
-(ilk tur)
+Düşük riskli portföy: %100 SGOV (ABD kısa vadeli Hazine ETF). Kontrolde USDTRY ve ABD kısa vadeli faizlerine bak; riskli varlıklara geçme. Komisyon %0.2.
 
 === BAŞLANGIÇ KURGUN ===
-(henüz yazmadın; bu turda baslangic_kurgusu alanına yaz)
+Sermayeyi korumak önceliğim olduğu için 10 bin TL’nin tamamını düşük riskli, dolar cinsi ve kısa vadeli ABD Hazine bonosu taşıyan SGOV ETF’ine yatırdım. BIST hisseleri, altın, kripto ve uzun vadeli tahvillere göre çok daha düşük oynaklık sunar; TL nakit ise enflasyon karşısında faiz getirisi olmadan erir. Bu seçim, üç aylık vadede TL’nin olası değer kaybına karşı pasif bir korunma ve istikrarlı getiri hedefler.
+
+=== GEÇEN HAFTAKİ DEĞERLENDİRMEN (12.11 23:38 - 14.11 00:15) ===
+Portföy 10,000 TL -> 10,005 TL (+0.05%).
+Bu hafta sermayeyi korumak için 10 bin TL'nin tamamını kısa vadeli ABD Hazine bonosu taşıyan SGOV ETF'ine yatırdım; 1.97567 adet aldım ve 19.96 TL komisyon ödedim. Dönem sonu değer 10,004.51 TL'ye çıkarak +4.51 TL (+0.05%) getiri sağladı. Bu, Bitcoin'in -3.84%, S&P 500'ün -0.19% ve altının -0.04% düşüşünden iyi ancak BIST 100'ün +0.36% ve doların +0.22% getirisinin gerisinde kaldı. Doğru yaptığım şey oynak varlıklardan uzak durup TL'deki değer kaybına karşı dolar cinsi bir pozisyon almak oldu; yanlışım ise tek işlemde ödediğim 19.96 TL komisyonun getiriyi ciddi biçimde törpülemesi ve SGOV'un kısa vadedeki dolar getirisinin dolar/TL artışını tam yansıtmamasıydı. Gelecek hafta USD/TRY'nin seyrini ve ABD kısa vadeli faiz beklentilerini izleyeceğim; ayrıca maliyet kontrolüne dikkat edip sık al-sat yapmadan mevcut koruma pozisyonunu koruyacağım.
 
 === NOTLARIN ===
-(henüz not yok)
+Düşük riskli uzun vade stratejisi: Temel pozisyon SGOV (dolar kısa vadeli ABD Hazine ETF’i). TL nakit faizsiz olduğundan tutmam; yüksek oynaklıklı varlıklardan (BTC, ETH, TLT, GLD, hisse) kaçın. SGOV faiz dağıtımı ve dolar/TL kuru portföyü korur. Komisyon %0.2; sık trade etme. 3 aylık sonuçta BIST, altın, BTC, dolar getirisiyle kıyaslanacak; dolar tutmak ana referans olduğundan SGOV ile USD’ye yakın kal.
 
 === PLANIN ===
-(henüz plan yok)
+Her cuma ABD 10y faizini, USDTRY’yi ve SGOV fiyatını izle. Eğer ABD kısa vadeli faizlerinde sert düşüş veya TL’de beklenmedik güçlenme sinyali görürsem SGOV’un tamamını nakde çevirip yeniden değerlendir. ABD resesyon riski artmazsa ve dolar/TL yatay ya da yükselirse SGOV’da kalmaya devam et. Portföy değeri %2’den fazla düşerse riski gözden geçir.
+
+=== GEÇEN TURUN SONUÇLARI ===
+ALINDI: SGOV 1.97567 adet, birim 5051.4619 TL, tutar 9980.04 TL + komisyon 19.96 TL
+Sonraki kontrol: 2026-11-20 23:30
 
 === PORTFÖY ===
-Toplam değer: 10,000.00 TL (başlangıç 10,000 TL, +0.00%)
-Nakit: 10,000.00 TL | Ödenen toplam komisyon: 0.00 TL
+Toplam değer: 10,054.04 TL (başlangıç 10,000 TL, +0.54%)
+Nakit: 0.00 TL | Ödenen toplam komisyon: 19.96 TL
+- SGOV: 1.97567 adet, değer 10,054.04 TL, maliyet 10,000.00 TL, kâr/zarar +54.04 TL (+0.54%) | piyasası AÇIK
+
+=== PORTFÖY DEĞERİ GEÇMİŞİ ===
+12.11 23:38=9,980
+
+=== SON İŞLEMLERİN ===
+12.11 23:38 ALINDI: SGOV 1.97567 adet, birim 5051.4619 TL, tutar 9980.04 TL + komisyon 19.96 TL
 
 === ENDEKSLER (açık piyasalar) ===
-^GSPC: 7591.3999 puan | gün -0.37% hafta +3.23% ay -1.65% 3ay -2.50% | yalnızca bilgi, alınamaz
-^IXIC: 25333.3496 puan | gün -0.52% hafta +4.19% ay -5.09% 3ay -5.22% | yalnızca bilgi, alınamaz
-^DJI: 52355.0898 puan | gün -0.25% hafta +1.61% ay +1.42% 3ay -2.56% | yalnızca bilgi, alınamaz
-^VIX: 18.5500 puan (oynaklık endeksi) | gün +6.06% hafta -34.17% ay +9.96% 3ay +22.12% | yalnızca bilgi, alınamaz
-^TNX: 5.1050 % (ABD 10 yıllık tahvil faizi) | gün +2.14% hafta +5.54% ay -1.64% 3ay +8.71% | yalnızca bilgi, alınamaz
+^GSPC: 6927.9702 puan | gün -3.45% hafta -8.38% ay -9.60% 3ay -9.47% | yalnızca bilgi, alınamaz
+^IXIC: 22662.0137 puan | gün -5.10% hafta -9.84% ay -12.87% 3ay -12.77% | yalnızca bilgi, alınamaz
+^DJI: 48258.6016 puan | gün -1.71% hafta -7.81% ay -8.72% 3ay -9.66% | yalnızca bilgi, alınamaz
+^VIX: 35.3600 puan (oynaklık endeksi) | gün +24.33% hafta +83.21% ay +85.81% 3ay +128.87% | yalnızca bilgi, alınamaz
+^TNX: 4.9200 % (ABD 10 yıllık tahvil faizi) | gün -2.61% hafta -4.54% ay -0.67% 3ay +4.59% | yalnızca bilgi, alınamaz
 
 === EMTIA (açık piyasalar) ===
-GC=F: 3889.1001 USD (= 195430.3954 TL) | gün -2.78% hafta -5.46% ay -5.33% 3ay -12.35%
-SI=F: 50.0250 USD (= 2513.7964 TL) | gün -3.58% hafta -4.23% ay -9.95% 3ay -23.02%
-CL=F: 88.9800 USD (= 4471.3164 TL) | gün +2.83% hafta -1.70% ay -6.43% 3ay +7.99%
-HG=F: 6.1910 USD (= 311.1027 TL) | gün -1.33% hafta -0.93% ay -6.36% 3ay -6.19%
+GC=F: 3519.3000 USD (= 177963.6186 TL) | gün -4.51% hafta -9.44% ay -13.33% 3ay -25.09%
+SI=F: 40.8950 USD (= 2067.9744 TL) | gün -7.72% hafta -16.59% ay -25.33% 3ay -40.33%
+CL=F: 83.3000 USD (= 4212.3064 TL) | gün +0.11% hafta -5.94% ay -16.26% 3ay -2.01%
+HG=F: 5.4605 USD (= 276.1260 TL) | gün -2.92% hafta -10.18% ay -14.18% 3ay -17.25%
 
 === DÖVIZ (açık piyasalar) ===
-EURUSD=X: 1.1058 USD (= 55.5687 TL) | gün -0.99% hafta -1.57% ay -1.30% 3ay -4.46%
+EURUSD=X: 1.0970 USD (= 55.4716 TL) | gün -0.02% hafta -0.73% ay -2.36% 3ay -5.99%
 
 === KRIPTO (açık piyasalar) ===
-BTC-USD: 71373.8203 USD (= 3586591.6473 TL) | gün -3.50% hafta -5.77% ay -12.22% 3ay -6.78%
-ETH-USD: 2015.1100 USD (= 101260.8910 TL) | gün -1.98% hafta -9.89% ay -15.55% 3ay -17.32%
-SOL-USD: 81.4300 USD (= 4091.9227 TL) | gün -2.27% hafta -9.19% ay -21.36% 3ay -17.49%
-BNB-USD: 652.9800 USD (= 32812.7671 TL) | gün -3.90% hafta -6.08% ay -10.61% 3ay -7.92%
-XRP-USD: 1.0348 USD (= 51.9995 TL) | gün -1.71% hafta -10.95% ay -20.87% 3ay -22.51%
+BTC-USD: 58450.4805 USD (= 2955718.1455 TL) | gün -5.58% hafta -10.50% ay -24.29% 3ay -27.75%
+ETH-USD: 1603.2100 USD (= 81070.9636 TL) | gün -8.66% hafta -12.66% ay -28.46% 3ay -38.61%
+SOL-USD: 68.0800 USD (= 3442.6628 TL) | gün -6.82% hafta -6.33% ay -29.24% 3ay -39.54%
+BNB-USD: 534.6300 USD (= 27035.1175 TL) | gün -7.76% hafta -10.30% ay -23.99% 3ay -29.75%
+XRP-USD: 0.8910 USD (= 45.0560 TL) | gün -7.17% hafta -8.58% ay -28.97% 3ay -36.18%
+
+=== PORTFÖYÜN VE İZLEME LİSTEN (açık piyasalar) ===
+SGOV: 100.6353 USD (= 5088.9159 TL) | gün +0.03% hafta +0.07% ay +0.02% 3ay -0.00%
+BIL: 91.6000 USD (= 4632.0197 TL) | gün +0.03% hafta +0.08% ay +0.00% 3ay -0.01%
+GLD: 321.5701 USD (= 16261.1251 TL) | gün -4.06% hafta -9.53% ay -12.85% 3ay -24.64%
+TLT: 81.5180 USD (= 4122.1941 TL) | gün +1.45% hafta +2.69% ay -0.27% 3ay -1.26%
+
+=== ANALİZ: PORTFÖYÜN VE İZLEME LİSTEN ===
+SGOV (iShares 0-3 Month Treasury Bond)
+  teknik: RSI14 61 | 20 günlük ortalamaya göre +0.10% | 50 günlük ortalamaya göre +0.10% | 6 ay zirvesine -0.10%, dibine +0.20% | yıllık oynaklık %1
+  temel: fon büyüklüğü 116.8 mlr USD | temettü verimi %3.64
+BIL (State Street SPDR Bloomberg 1-3)
+  teknik: RSI14 60 | 20 günlük ortalamaya göre +0.10% | 50 günlük ortalamaya göre +0.10% | 6 ay zirvesine -0.10%, dibine +0.20% | yıllık oynaklık %1
+  temel: fon büyüklüğü 48.5 mlr USD | temettü verimi %3.66
+  haber: [20.11 17:36] Dow Drops 1,100 Points: 6 Defensive Moves for Worried Boomers and Gen X Investors (24/7 Wall St.)
+  haber: [19.11 14:22] $1 Million In Cash Five Years Ago: What Is It Worth Now? (Trefis)
+GLD (SPDR Gold Shares)
+  teknik: RSI14 23 | 20 günlük ortalamaya göre -11.30% | 50 günlük ortalamaya göre -14.60% | 6 ay zirvesine -24.90%, dibine +0.00% | yıllık oynaklık %29
+  temel: PD/DD 1.93 | fon büyüklüğü 131.0 mlr USD
+  haber: [20.11 22:01] Does Gold Protect You When Stocks Fall? (Trefis)
+  haber: [20.11 18:00] Gold Is Tanking, but Retail Investors Aren’t Rushing for the Exits Just Yet (The Wall Street Journal)
+TLT (iShares 20+ Year Treasury Bond )
+  teknik: RSI14 58 | 20 günlük ortalamaya göre +0.70% | 50 günlük ortalamaya göre +1.80% | 6 ay zirvesine -6.80%, dibine +5.70% | yıllık oynaklık %10
+  temel: F/K -4039.8 (ileriye dönük) | PD/DD 0.54 | fon büyüklüğü 47.5 mlr USD | temettü verimi %4.76
+  haber: [20.11 18:08] The Fed’s Biggest Dove Sees No Clear Path Back to 2% Inflation (24/7 Wall St.)
+  haber: [19.11 21:41] Bond ETFs Haven’t Been This Rewarding in Years, So Why Is Wall Street Dumping Them? (24/7 Wall St.)
+^TNX
+  teknik: RSI14 42 | 20 günlük ortalamaya göre -1.40% | 50 günlük ortalamaya göre -3.10% | 6 ay zirvesine -7.40%, dibine +12.50% | yıllık oynaklık %17
+
+Şu an piyasası kapalı veya verisi olmadığı için gösterilmeyenler: USDTRY=X
 
 === FIRSAT TABLOSU: günün öne çıkanları (açık piyasalar) ===
 ABD büyük şirketler:
-  günün en iyileri: AMD gün +5.14% hafta +43.75% ay +1.84% RSI 57; AVGO gün +4.95% hafta +24.28% ay +4.64% RSI 59; GOOGL gün +2.15% hafta +6.09% ay -13.77% RSI 43; XOM gün +2.11% hafta +2.98% ay -3.83% RSI 48
-  günün en kötüleri: NVDA gün -5.64% hafta -9.73% ay -25.92% RSI 25; NFLX gün -2.45% hafta -3.97% ay -10.78% RSI 40; MU gün -2.21% hafta +20.87% ay -13.21% RSI 44; INTC gün -1.69% hafta +17.60% ay -37.38% RSI 34
+  günün en iyileri: UNH gün +2.85% hafta -16.58% ay -20.02% RSI 30; WMT gün +2.03% hafta +0.40% ay +6.18% RSI 65; PEP gün +1.33% hafta -3.16% ay +1.46% RSI 54; KO gün +1.26% hafta -1.96% ay +2.06% RSI 59
+  günün en kötüleri: MU gün -14.37% hafta -24.04% ay -30.97% RSI 29; AMD gün -13.38% hafta -20.65% ay -16.57% RSI 38; AVGO gün -12.72% hafta -12.82% ay -6.40% RSI 40; NVDA gün -12.66% hafta -21.71% ay -39.92% RSI 15
 ABD sektör fonları:
-  günün en iyileri: XLE gün +1.74% hafta +4.61% ay -4.67% RSI 47; XLU gün +0.21% hafta +1.41% ay +5.25% RSI 65; XLRE gün -0.19% hafta +0.46% ay +7.27% RSI 62; XLP gün -0.23% hafta -0.01% ay +6.02% RSI 62
-  günün en kötüleri: SMH gün -1.51% hafta +11.51% ay -11.59% RSI 43; XLB gün -1.08% hafta +0.23% ay +5.60% RSI 54; XLC gün -0.83% hafta +3.22% ay -2.82% RSI 53; XLK gün -0.75% hafta +6.57% ay -9.12% RSI 42
+  günün en iyileri: XLP gün +1.05% hafta -1.68% ay +0.90% RSI 56; XLV gün +0.03% hafta -6.00% ay -2.09% RSI 41; XLE gün -0.02% hafta -6.28% ay -9.90% RSI 36; XLU gün -0.15% hafta -2.49% ay +0.17% RSI 49
+  günün en kötüleri: SMH gün -10.37% hafta -17.60% ay -23.36% RSI 26; XLK gün -7.10% hafta -12.33% ay -18.13% RSI 26; XLI gün -2.87% hafta -7.14% ay -6.00% RSI 31; XLY gün -2.79% hafta -6.11% ay -2.05% RSI 40
 Kripto:
-  günün en iyileri: LTC-USD gün -0.46% hafta -4.03% ay -14.89% RSI 34; ADA-USD gün -1.28% hafta -5.18% ay -18.80% RSI 30; DOT-USD gün -1.33% hafta -7.51% ay -25.40% RSI 28; LINK-USD gün -1.37% hafta -7.08% ay -15.82% RSI 35
-  günün en kötüleri: BNB-USD gün -3.90% hafta -6.08% ay -10.61% RSI 32; BTC-USD gün -3.50% hafta -5.77% ay -12.22% RSI 30; DOGE-USD gün -2.51% hafta -7.96% ay -16.34% RSI 28; SOL-USD gün -2.27% hafta -9.19% ay -21.36% RSI 23
+  günün en iyileri: BTC-USD gün -5.58% hafta -10.50% ay -24.29% RSI 17; LTC-USD gün -5.96% hafta -12.66% ay -28.92% RSI 23; SOL-USD gün -6.82% hafta -6.33% ay -29.24% RSI 23; XRP-USD gün -7.17% hafta -8.58% ay -28.97% RSI 25
+  günün en kötüleri: DOGE-USD gün -8.84% hafta -11.49% ay -30.18% RSI 22; ETH-USD gün -8.66% hafta -12.66% ay -28.46% RSI 19; ADA-USD gün -8.26% hafta -10.39% ay -28.69% RSI 24; DOT-USD gün -8.14% hafta -11.00% ay -32.77% RSI 21
 
 === HABER BAŞLIKLARI ===
 ABD ve dünya piyasaları:
-  [12.11 14:00] Stock market today: S&P 500, Nasdaq fall as Nvidia CEO exit, rising bond yields roil markets (Yahoo Finance)
-  [12.11 20:17] Why bond king Jeffrey Gundlach is steering clear of the AI 'blast radius' (Yahoo Finance)
-  [12.11 20:06] Why investors are rethinking their bond strategies (Yahoo Finance Video)
-  [12.11 14:00] Nvidia's boardroom bombshell hits a fragile chip rally: Chart of the Day (Yahoo Finance)
+  [20.11 22:28] Chips are crashing like it's 2008 as the Nasdaq 100 nears a bear market (Yahoo Finance)
+  [20.11 18:41] Why the markets are being hit with a 'perfect storm' for AI (Yahoo Finance Video)
+  [20.11 23:16] American Express (AXP) Is Growing Revenue by More Than 10%, but Its Stock Is 25% Cheaper: Is Wall Street Missing an Opportunity? (Insider Monkey)
+  [20.11 23:15] Intercontinental Exchange (ICE) Is Growing Revenue by 10%+, Yet Its Stock Is Down 25%: Is a Rebound Ahead? (Insider Monkey)
 Borsa İstanbul:
-  [12.11 19:49] Borsa İstanbul’da Gün Sonu: Tavan ve Tabanda Bekleyen Hisseler ile Lot Sayıları (Borsa Gundem)
-  [12.11 19:46] Borsa İstanbul'da en çok işlem yapan Aracı Kurumlar (Borsa Gundem)
-  [12.11 19:05] Borsa İstanbul'da BIST 100 endeksi güçlü kapanış yaptı (Haber.com)
-  [12.11 18:50] Borsa İstanbul küresel teknoloji satışlarına direndi! Günün en çok yükselen ve düşen 5 hissesi (Takvim)
+  [20.11 22:54] Borsa İstanbul haftanın son gününde 6 hisseye tedbir getirdi haberi (Borsanın Gündemi)
+  [20.11 21:38] VİOP'ta satış baskısı sürüyor: Endeks kontratı geriledi (EKOTÜRK)
+  [20.11 21:02] Konkordato ilan edilmişti: Dev firmada üretim yarıya indiriliyor! İşte çıkarmalar başladı (İşte Kocaeli)
+  [20.11 20:57] Borsa İstanbul'da sert düşüş: BIST 100 günü kayıpla kapattı (Yıldırım Gazetesi)
 Türkiye ekonomisi:
-  [12.11 22:26] Karahan: Enflasyon beklentileri ihtiyatlı duruşu gerekli kılıyor (EKOTÜRK)
-  [12.11 17:43] ING, TCMB’den aralıkta 100 baz puan faiz indirimi bekliyor (EKOTÜRK)
-  [12.11 17:07] ING: Ekim enflasyonu TCMB’yi faiz indiriminden döndürmez (EKOTÜRK)
-  [12.11 16:13] ING Türkiye raporunu yayımladı: Tahminler ve beklentiler neler? (Medyascope)
+  [20.11 23:00] ​​​​​​​Saxo Bank: Altında kalıcı toparlanma için faiz baskısının hafiflemesi gerekiyor (Para Ajansı)
+  [20.11 20:42] Merkez Bankası 2026 kasım PPK takvimi ve yılın son faiz kararı ne zaman? (Son Mühür Haber)
+  [20.11 18:35] BIST 100 haftayı yüzde 6,01 kayıpla tamamladı (hibya.com)
+  [20.11 17:40] Fed faiz kararı ne zaman açıklanacak, toplantı hangi gün, saat kaçta? 2026 Aralık yılın son ABD Merkez Bankası faiz kararı beklentisi ile Fed faiz artırımı olac (Uzmanpara)
 
 Kararını JSON olarak ver.
