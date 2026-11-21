@@ -51,6 +51,9 @@ vadeye 15 dakikalık veri eklendi; gerçek modellerle bulutta deneme yapıldı (
 sayılmaz). Yarış yeniden sıfırlanıp 2026-11-12 23:37'de baştan başladı; ilk turda 15 portföy hatasız çalıştı.
 Tur başına girdi yaklaşık 4-7 bin token; DeepSeek çıktısı 5,7-7 bin token ile en yüksek.
 
+2026-11-21: ChatGPT'nin OpenAI API kredisi bitti (12:00 TR'den itibaren her soruda 429 hatası); kullanıcı isteğiyle
+ChatGPT durduruldu. Portföyleri son haliyle duruyor; yarış DeepSeek ve Claude ile devam ediyor.
+
 ## Kullanıcıya bildirilenler ve açık kalan noktalar
 
 - ChatGPT Plus ve Claude abonelikleri API'yi kapsamaz; platform.openai.com ve console.anthropic.com'da ayrı API kredisi gerekir. DeepSeek API ucuzdur ama ücretlidir.

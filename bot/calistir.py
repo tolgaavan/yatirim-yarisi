@@ -176,8 +176,11 @@ def haftalik_yaz(simdi, bekleyenler, deneme):
 
 def calistir(deneme=False, zorla=False, model_suzgeci=None, portfoy_suzgeci=None, zorla_haftalik=False) -> int:
     simdi = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
-    aktif = [m for m in ayarlar.MODELLER if deneme or modeller.anahtar_var(m)]
-    eksik_anahtar = [m for m in ayarlar.MODELLER if m not in aktif]
+    durdurulan = [m for m, t in ayarlar.MODELLER.items() if t.get("durduruldu")]
+    if durdurulan:
+        print("Durdurulan modeller:", ", ".join(durdurulan))
+    aktif = [m for m in ayarlar.MODELLER if m not in durdurulan and (deneme or modeller.anahtar_var(m))]
+    eksik_anahtar = [m for m in ayarlar.MODELLER if m not in aktif and m not in durdurulan]
     if eksik_anahtar:
         print("Anahtarı olmadığı için atlanan modeller:", ", ".join(eksik_anahtar))
 

@@ -34,6 +34,7 @@ Bu dosya kesinleşmiş ve gelecekteki çalışmaları etkileyecek kararları kay
 | 2026-11-12 | Yeni veri paketinden sonra yarış ikinci kez sıfırlanıp 2026-11-12 23:37'de (İstanbul) baştan başlatıldı. | Kullanıcı kararı | aktif | Durum verisi |
 | 2026-11-12 | Depo (`tolgaavan/yatirim-yarisi`) herkese açık kalır: içinde gizli bilgi yok (API anahtarları GitHub gizli bilgi kasasında), görünen yalnızca hayali portföyler ve gerekçeler. Herkese açık depo sayesinde GitHub Pages ve Actions ücretsiz kalır. | Kullanıcı kararı | aktif | Depo, dağıtım |
 | 2026-11-13 | Turlar dış zamanlayıcıyla (cron-job.org, kullanıcının hesabı) 15 dakikada bir başlatılır: GitHub API'ye `tur.yml` workflow_dispatch isteği gönderir. Anahtar yalnızca bu depoda Actions okuma/yazma iznine sahip fine-grained GitHub token'ıdır ve yalnızca cron-job.org'da durur; süresi bitince yenilenmeli. GitHub'ın kendi zamanlayıcısı yedek olarak açık kalır. | GitHub zamanlayıcısı güvenilir çalışmadı; kullanıcı dış zamanlayıcıyı seçti | aktif | Zamanlama |
+| 2026-11-21 | ChatGPT yarıştan durduruldu: artık soru sorulmaz, haftalık değerlendirme yazdırılmaz; 5 portföyü son haliyle durur (değerleri piyasayla değişmeye devam eder), uygulamada ve README'de "durduruldu" yazar. Yarış DeepSeek ve Claude ile sürer. Ayar: `bot/ayarlar.py` içinde modelin `durduruldu` alanı; silinirse model yeniden çalışır. | OpenAI API kredisi 2026-11-21 sabahı bitti; kullanıcı kredi yüklemek yerine durdurmayı seçti | aktif | Model, bot, uygulama |
 
 ## Kullanım kuralları
 

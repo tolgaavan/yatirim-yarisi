@@ -99,7 +99,8 @@ def ozet(simdi, fiyatlar, aktif_modeller, deneme):
         "guncelleme": simdi.isoformat(), "deneme": deneme, "baslangic_tl": ayarlar.BASLANGIC_NAKIT_TL,
         "komisyon_orani": ayarlar.KOMISYON_ORANI, "depo": os.environ.get("GITHUB_REPOSITORY") or ayarlar.DEPO,
         "modeller": [{"kod": m, "ad": t["ad"], "model_adi": "deneme" if deneme else modeller.model_adi(m),
-                      "aktif": m in aktif_modeller} for m, t in ayarlar.MODELLER.items()],
+                      "aktif": m in aktif_modeller, "durduruldu": t.get("durduruldu")}
+                     for m, t in ayarlar.MODELLER.items()],
         "portfoy_tanimlari": [{"kod": p, "ad": t["ad"], "kontrol": t["kontrol"]} for p, t in ayarlar.PORTFOYLER.items()],
         "portfoyler": portfoyler, "degerler": degerler, "seriler": seriler,
         "kiyaslar": list(ayarlar.KIYASLAR),
@@ -131,7 +132,8 @@ def yaz(*, simdi, fiyatlar, aktif_modeller, deneme):
             else:
                 hucreler.append("başlamadı")
         genel = f"{(toplam / (bas * sayi) - 1) * 100:+.2f}%" if sayi else "-"
-        m.append(f"| {t['ad']} | " + " | ".join(hucreler) + f" | {genel} |")
+        ad = t["ad"] + (f" (durduruldu {t['durduruldu']['tarih']})" if t.get("durduruldu") else "")
+        m.append(f"| {ad} | " + " | ".join(hucreler) + f" | {genel} |")
     if o["degerler"] and o["degerler"][-1][2]:
         m.append("\n**Kıyas (al ve bekle):** " + ", ".join(
             f"{ad} {(v / bas - 1) * 100:+.2f}%" for ad, v in o["degerler"][-1][2].items()))

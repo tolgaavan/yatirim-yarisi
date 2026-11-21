@@ -26,11 +26,13 @@ HAFTALIK_SINIRI = 900           # haftalık değerlendirme
 
 # Yarışan modeller. Anahtarı tanımlı olmayan model atlanır (portföyleri anahtar gelince başlar).
 # Model adı GitHub değişkeniyle (ör. OPENAI_MODEL) değiştirilebilir.
+# "durduruldu" verilen modele artık soru sorulmaz; portföyleri son haliyle durur (değeri piyasayla değişmeye devam eder).
 MODELLER = {
     "deepseek": {"ad": "DeepSeek", "anahtar": "DEEPSEEK_API_KEY", "model_degiskeni": "DEEPSEEK_MODEL",
                  "varsayilan_model": "deepseek-v4-pro"},
     "chatgpt": {"ad": "ChatGPT", "anahtar": "OPENAI_API_KEY", "model_degiskeni": "OPENAI_MODEL",
-                "varsayilan_model": "gpt-5.5"},
+                "varsayilan_model": "gpt-5.5",
+                "durduruldu": {"tarih": "2026-11-21", "neden": "API kredisi bitti"}},
     "claude": {"ad": "Claude Opus", "anahtar": "ANTHROPIC_API_KEY", "model_degiskeni": "CLAUDE_MODEL",
                "varsayilan_model": "claude-opus-5-5"},
 }

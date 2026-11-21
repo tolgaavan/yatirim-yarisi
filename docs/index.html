@@ -174,7 +174,9 @@ function kiyasSerileri(yuzde) {
 function ciz() {
   $("#guncelleme").textContent = "Güncelleme: " + zaman(V.guncelleme) + (V.deneme ? " · DENEME VERİSİ" : "");
   let h = "";
-  const pasif = V.modeller.filter(m => !m.aktif);
+  const durdu = V.modeller.filter(m => m.durduruldu);
+  if (durdu.length) h += `<div class="uyari">Durduruldu: ${durdu.map(m => `${esc(m.ad)} (${esc(m.durduruldu.neden)}, ${esc(m.durduruldu.tarih.split("-").reverse().join("."))})`).join(", ")}. Portföyleri son haliyle duruyor, yeni işlem yapılmıyor.</div>`;
+  const pasif = V.modeller.filter(m => !m.aktif && !m.durduruldu);
   if (pasif.length) h += `<div class="uyari">Henüz başlamayan: ${pasif.map(m => esc(m.ad)).join(", ")} (API anahtarı bekleniyor)</div>`;
 
   h += `<div class="liderler">` + V.modeller.map(m => {
