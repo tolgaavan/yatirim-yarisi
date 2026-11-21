@@ -47,3 +47,4 @@
 {"zaman": "2026-11-21T11:31:08+00:00", "model": "gpt-5.5", "hata": "RateLimitError: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."}
 {"zaman": "2026-11-21T12:01:05+00:00", "model": "gpt-5.5", "hata": "RateLimitError: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."}
 {"zaman": "2026-11-21T12:31:05+00:00", "model": "gpt-5.5", "hata": "RateLimitError: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."}
+{"zaman": "2026-11-21T12:56:55+00:00", "model": "gpt-5.5", "hata": "RateLimitError: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."}
