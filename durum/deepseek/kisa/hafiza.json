@@ -1,26 +1,20 @@
 {
- "notlar": "17:45 BTC-USD 2500 TL ve GC=F 2500 TL alındı. BTC: günlük RSI 34, 15dk RSI 64, hacim 7.3x. Altın: 15dk RSI 67, hacim 3.4x, günlük RSI 35. Mental stop: BTC 61000 altı, altın 3600 altı. Diğer kurallar: BIST/ABD hisse için 15dk RSI>60 + hacim>1x; kripto için günlük RSI<35 + 15dk RSI>60 + hacim>1x; USDTRY için 50.8 üstü + 15dk RSI>60.",
- "plan": "19:00'da BTC ve altın 15dk RSI ve hacmini kontrol et. BTC 61000 altına sarkar veya 15dk RSI 40 altına inerse sat; altın 3600 altına veya 15dk RSI 40 altına inerse sat. Yeni alım yapma, nakiti koru.",
- "sonraki_tura_mesaj": "19:00: BTC/GC=F 15dk RSI ve hacim; 61000/3600 altı stop.",
+ "notlar": "23.11 19:01 BTC 62.700 USD, 15dk RSI 55, hacim 1.6x; GC 3670 USD, 15dk RSI 62, hacim 1.8x. Stoplara: BTC 61k altı veya 15dk RSI<40; GC 3600 altı veya 15dk RSI<40. Nakit 4.893 TL. Kural: kripto günlük RSI<35 + 15dk RSI>60 + hacim>1x; ABD/BIST 15dk RSI>60 + hacim>1x; USDTRY 50.8 üstü + 15dk RSI>60. Komisyon %0.2.",
+ "plan": "Yarın 10:00'da BTC ve GC 15dk RSI/hacim kontrol et. BTC 61k altına iner veya 15dk RSI 40 altına gelirse sat; GC 3600 altına iner veya 15dk RSI 40 altına gelirse sat. Yeni alım yapma, nakiti koru.",
+ "sonraki_tura_mesaj": "10:00: BTC 61k/GC 3600 altı veya 15dk RSI<40 ise sat; yeni alım yok.",
  "izleme_listesi": [
   "ADA-USD",
-  "THYAO.IS",
-  "GARAN.IS",
-  "YKBNK.IS",
-  "GC=F",
+  "SOL-USD",
   "USDTRY=X",
-  "BTC-USD",
-  "SOL-USD"
+  "THYAO.IS"
  ],
- "son_yorum": "ABD'de Nvidia kaynaklı güçlü tepki var ama Fed'in Aralık'ta faiz artırabileceği endişesi sürüyor. BIST zayıf, TL kuru sakin. Kripto ve altında aşırı satım sonrası hacimli dönüş sinyalleri öne çıkıyor; kısa vadeli işlem için uygun kurulumlar bunlar.",
+ "son_yorum": "ABD borsaları sert toparlıyor, VIX düşüyor; kripto ve altın da tepki alımında. BTC ve altın 15dk RSI'ları 55/62 ile stop seviyelerinin üzerinde, bu yüzden pozisyonları koruyorum. Günlük kontrol limiti dolduğu için yeni işlem yok.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: BTC-USD 0.000782011 adet, birim 3196886.3349 TL, tutar 2500.00 TL + komisyon 5.00 TL",
-  "ALINDI: GC=F 0.0134595 adet, birim 185742.6937 TL, tutar 2500.00 TL + komisyon 5.00 TL",
-  "Sonraki kontrol: 2026-11-23 19:00"
+  "Sonraki kontrol: 2026-11-24 10:00"
  ]
 }
