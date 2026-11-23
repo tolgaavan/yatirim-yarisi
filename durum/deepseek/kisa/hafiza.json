@@ -1,23 +1,24 @@
 {
- "notlar": "Nakitteyim. Kripto alım şartı: 15dk RSI>60 VE hacim>1x; şu an hacim yetersiz. USDTRY alım için 50.8 üstü hızlanma gerek. THYAO için 15dk RSI 30 altı dönüş veya hacim artışı beklenir. GARAN izlemede: RSI 60, ay +14.86%, BIST toparlanmasında öncü olabilir.",
- "plan": "13:00'da GARAN ve THYAO 15dk RSI/hacim kontrol; kriptoda hacim>1x teyidi olmadan alma; USDTRY 50.8 üstü hızlanırsa dolar al; altın GC=F toparlanmasını hacimle izle.",
- "sonraki_tura_mesaj": "GARAN ve THYAO 15dk RSI/hacim; kripto hacim>1x mi; USDTRY 50.8 üstü mü?",
+ "notlar": "Nakitteyim. Kısa vade alım şartlarım: BIST/ABD hissesi için 15dk RSI>60 + hacim>1x; kripto için 15dk RSI>60 + hacim>1x ve günlük RSI<35; USDTRY alımı için 50.8 üstü + 15dk RSI>60; altın/silver için hacim>1x + 15dk RSI>60. Şu an GARAN hacmi 0.4x, THYAO 0.5x, kripto 0.2-0.6x; teyit yok.",
+ "plan": "17:45'te ABD açılışı ve BIST kapanışını kontrol et; GARAN'da 15dk RSI>60 + hacim>1x olursa %50 al, THYAO'da 15dk RSI<35 dönüş + hacim artarsa bak; kriptoda SOL/ADA hacim>1x + 15dk RSI>60 olursa %25 deneme; USDTRY 50.8 üstü hızlanırsa dolar al; altın GC=F hacim>1x + 15dk RSI>60 olursa %25 al.",
+ "sonraki_tura_mesaj": "17:45: GARAN/THYAO 15dk RSI+hacim; kripto hacim>1x mi; USDTRY 50.8 üstü mü?",
  "izleme_listesi": [
   "ADA-USD",
   "THYAO.IS",
+  "GARAN.IS",
   "GC=F",
   "USDTRY=X",
   "BTC-USD",
   "SOL-USD",
-  "GARAN.IS"
+  "YKBNK.IS"
  ],
- "son_yorum": "BIST 100 gün %+1.22 toparlanıyor ancak THYAO RSI 75 aşırı alım, kriptoda hacimler hâlâ düşük, USDTRY 50.8 altı ve RSI 97, altın toparlanması hacimsiz. Net alım sinyali yok, nakitte kalmak doğru.",
+ "son_yorum": "BIST haftalık sert düşüş sonrası zayıf tepki veriyor; GARAN pozitif ayrışsa da hacim normalin %40'ında. Kriptoda BTC/ADA/SOL 15dk RSI toparlansa da hacim 0.2-0.6x ile teyit zayıf. USDTRY 50.8 altında ve geri çekiliyor. Altın günlük +%2.9 ancak hacim 0.7x. Tetikleyici yok.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-23 13:00"
+  "Sonraki kontrol: 2026-11-23 17:45"
  ]
 }
