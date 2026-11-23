@@ -182,16 +182,16 @@
 }
 },
 "GOOGL": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "Alphabet Inc.",
-"fk": 14.3,
+"fk": 14.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 5.12,
-"piyasa_degeri": 3374334083072,
+"pddd": 5.27,
+"piyasa_degeri": 3476742995968,
 "sektor": "Communication Services",
-"temettu_%": 0.32,
+"temettu_%": 0.33,
 "tur": "EQUITY"
 }
 },
@@ -251,17 +251,31 @@
 "tur": "EQUITY"
 }
 },
-"NVDA": {
-"tarih": "2026-11-20",
+"MSFT": {
+"tarih": "2026-11-23",
 "v": {
-"ad": "NVIDIA Corporation",
-"fk": 15.3,
+"ad": "Microsoft Corporation",
+"fk": 26.4,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 12.84,
-"piyasa_degeri": 3429598232576,
+"pddd": 7.99,
+"piyasa_degeri": 3759733735424,
 "sektor": "Technology",
-"temettu_%": 0.69,
+"temettu_%": 0.81,
+"tur": "EQUITY"
+}
+},
+"NVDA": {
+"tarih": "2026-11-23",
+"v": {
+"ad": "NVIDIA Corporation",
+"fk": 17.6,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 14.8,
+"piyasa_degeri": 3954433327104,
+"sektor": "Technology",
+"temettu_%": 0.8,
 "tur": "EQUITY"
 }
 },
@@ -280,13 +294,13 @@
 }
 },
 "QQQ": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "Invesco QQQ Trust, Series 1",
-"fk": 26.2,
+"fk": 26.9,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.78,
+"pddd": 1.82,
 "piyasa_degeri": 463833595904,
 "sektor": null,
 "temettu_%": 0.45,
@@ -336,10 +350,10 @@
 }
 },
 "SMH": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "VanEck Semiconductor ETF",
-"fk": 23.4,
+"fk": 25.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
 "pddd": null,
@@ -350,13 +364,13 @@
 }
 },
 "SPY": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "State Street SPDR S&P 500 ETF T",
-"fk": 22.7,
+"fk": 23.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.66,
+"pddd": 1.68,
 "piyasa_degeri": 796865200128,
 "sektor": null,
 "temettu_%": 1.0,
@@ -490,13 +504,13 @@
 }
 },
 "XLP": {
-"tarih": "2026-11-21",
+"tarih": "2026-11-23",
 "v": {
 "ad": "State Street Consumer Staples S",
-"fk": 24.3,
+"fk": 24.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.33,
+"pddd": 1.32,
 "piyasa_degeri": 15027510272,
 "sektor": null,
 "temettu_%": 2.46,
