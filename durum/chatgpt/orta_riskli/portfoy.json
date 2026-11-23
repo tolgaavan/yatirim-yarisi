@@ -5,32 +5,32 @@
   "GOOGL": {
    "adet": 0.08298103960003905,
    "maliyet_tl": 1252.5,
-   "son_fiyat_tl": 13443.748203103663
+   "son_fiyat_tl": 13442.417508894112
   },
   "BTC-USD": {
    "adet": 0.0002788162406925585,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 3100554.528860688
+   "son_fiyat_tl": 3098624.97016567
   },
   "USDTRY=X": {
    "adet": 29.78445626718388,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 50.60190963745117
+   "son_fiyat_tl": 50.596900939941406
   },
   "THYAO.IS": {
    "adet": 6.240249609984399,
    "maliyet_tl": 2004.0,
-   "son_fiyat_tl": 322.75
+   "son_fiyat_tl": 321.75
   },
   "AVGO": {
    "adet": 0.10759632632132127,
    "maliyet_tl": 1903.8,
-   "son_fiyat_tl": 15391.583533892524
+   "son_fiyat_tl": 15390.060038303724
   },
   "XLP": {
    "adet": 0.45756790097264766,
    "maliyet_tl": 2114.22,
-   "son_fiyat_tl": 4579.21995162344
+   "son_fiyat_tl": 4578.7666895285365
   }
  },
  "odenen_komisyon_tl": 40.13315034185622
