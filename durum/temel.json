@@ -14,14 +14,14 @@
 }
 },
 "AKBNK.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "AKBANK",
 "fk": 5.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.04,
-"piyasa_degeri": 343720001536,
+"pddd": 1.03,
+"piyasa_degeri": 339039977472,
 "sektor": "Financial Services",
 "temettu_%": 3.38,
 "tur": "EQUITY"
@@ -56,14 +56,14 @@
 }
 },
 "ASELS.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "ASELSAN",
-"fk": 33.9,
+"fk": 33.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 4.53,
-"piyasa_degeri": 1516200001536,
+"pddd": 4.43,
+"piyasa_degeri": 1484280037376,
 "sektor": "Industrials",
 "temettu_%": 0.13,
 "tur": "EQUITY"
@@ -112,14 +112,14 @@
 }
 },
 "BIMAS.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "BIM MAGAZALAR",
-"fk": 13.5,
+"fk": 13.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 2.02,
-"piyasa_degeri": 447279824896,
+"pddd": 1.98,
+"piyasa_degeri": 438109405184,
 "sektor": "Consumer Defensive",
 "temettu_%": 1.87,
 "tur": "EQUITY"
@@ -154,14 +154,14 @@
 }
 },
 "GARAN.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "GARANTI BANKASI",
-"fk": 5.1,
+"fk": 5.0,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.19,
-"piyasa_degeri": 619500011520,
+"pddd": 1.18,
+"piyasa_degeri": 611939975168,
 "sektor": "Financial Services",
 "temettu_%": 3.65,
 "tur": "EQUITY"
@@ -182,14 +182,14 @@
 }
 },
 "GOOGL": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "Alphabet Inc.",
-"fk": 14.8,
+"fk": 14.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 5.27,
-"piyasa_degeri": 3476742995968,
+"pddd": 5.26,
+"piyasa_degeri": 3468383223808,
 "sektor": "Communication Services",
 "temettu_%": 0.33,
 "tur": "EQUITY"
@@ -252,52 +252,52 @@
 }
 },
 "MSFT": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "Microsoft Corporation",
-"fk": 26.4,
+"fk": 25.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 7.99,
-"piyasa_degeri": 3759733735424,
+"pddd": 7.77,
+"piyasa_degeri": 3657475031040,
 "sektor": "Technology",
 "temettu_%": 0.81,
 "tur": "EQUITY"
 }
 },
 "NVDA": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "NVIDIA Corporation",
-"fk": 17.6,
+"fk": 17.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 14.8,
-"piyasa_degeri": 3954433327104,
+"pddd": 14.9,
+"piyasa_degeri": 3979183915008,
 "sektor": "Technology",
 "temettu_%": 0.8,
 "tur": "EQUITY"
 }
 },
 "PGSUS.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "PEGASUS",
-"fk": 458.5,
+"fk": 448.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.59,
-"piyasa_degeri": 77949992960,
+"pddd": 0.58,
+"piyasa_degeri": 76199993344,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
 }
 },
 "QQQ": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "Invesco QQQ Trust, Series 1",
-"fk": 26.9,
+"fk": 26.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
 "pddd": 1.82,
@@ -350,10 +350,10 @@
 }
 },
 "SMH": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "VanEck Semiconductor ETF",
-"fk": 25.0,
+"fk": 24.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
 "pddd": null,
@@ -364,7 +364,7 @@
 }
 },
 "SPY": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "State Street SPDR S&P 500 ETF T",
 "fk": 23.0,
@@ -378,14 +378,14 @@
 }
 },
 "TAVHL.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "TAV HAVALIMANLARI",
 "fk": 13.5,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 1.09,
-"piyasa_degeri": 105079103488,
+"piyasa_degeri": 104624996352,
 "sektor": "Industrials",
 "temettu_%": 1.27,
 "tur": "EQUITY"
@@ -406,14 +406,14 @@
 }
 },
 "THYAO.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "TURK HAVA YOLLARI",
-"fk": 4.6,
+"fk": 4.5,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 19.53,
-"piyasa_degeri": 451481239552,
+"pddd": 19.05,
+"piyasa_degeri": 440502976512,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -434,14 +434,14 @@
 }
 },
 "TOASO.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "TOFAS OTO. FAB.",
-"fk": 7.6,
+"fk": 7.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.72,
-"piyasa_degeri": 125250002944,
+"pddd": 1.73,
+"piyasa_degeri": 125875003392,
 "sektor": "Consumer Cyclical",
 "temettu_%": 8.11,
 "tur": "EQUITY"
@@ -462,14 +462,14 @@
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "TUPRAS",
-"fk": 4.9,
+"fk": 4.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.2,
-"piyasa_degeri": 625726914560,
+"pddd": 1.19,
+"piyasa_degeri": 624281780224,
 "sektor": "Energy",
 "temettu_%": 4.18,
 "tur": "EQUITY"
@@ -504,13 +504,13 @@
 }
 },
 "XLP": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "State Street Consumer Staples S",
-"fk": 24.2,
+"fk": 24.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.32,
+"pddd": 1.33,
 "piyasa_degeri": 15027510272,
 "sektor": null,
 "temettu_%": 2.46,
@@ -546,7 +546,7 @@
 }
 },
 "XU030.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "BIST 30",
 "fk": null,
@@ -560,7 +560,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "BIST 100",
 "fk": null,
@@ -574,14 +574,14 @@
 }
 },
 "YKBNK.IS": {
-"tarih": "2026-11-23",
+"tarih": "2026-11-24",
 "v": {
 "ad": "YAPI VE KREDI BANK.",
-"fk": 615.0,
+"fk": 613.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
 "pddd": 1.05,
-"piyasa_degeri": 311696195584,
+"piyasa_degeri": 310851469312,
 "sektor": "Financial Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"
