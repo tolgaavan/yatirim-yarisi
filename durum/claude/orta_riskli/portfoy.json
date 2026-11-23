@@ -5,27 +5,27 @@
   "QQQ": {
    "adet": 0.05818766303547596,
    "maliyet_tl": 2014.02,
-   "son_fiyat_tl": 30869.547184424475
+   "son_fiyat_tl": 30867.357357557863
   },
   "USDTRY=X": {
    "adet": 68.96109008953563,
    "maliyet_tl": 3481.95,
-   "son_fiyat_tl": 50.602291107177734
+   "son_fiyat_tl": 50.59870147705078
   },
   "XU030.IS": {
    "adet": 0.16799924190342092,
    "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 13825.419921875
+   "son_fiyat_tl": 13803.2099609375
   },
   "AKBNK.IS": {
    "adet": 14.255167188144563,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 65.1500015258789
+   "son_fiyat_tl": 65.05000305175781
   },
   "SPY": {
    "adet": 0.025531459577483116,
    "maliyet_tl": 921.84,
-   "son_fiyat_tl": 34961.62758991192
+   "son_fiyat_tl": 34959.14747865731
   }
  },
  "odenen_komisyon_tl": 23.63676277102596
