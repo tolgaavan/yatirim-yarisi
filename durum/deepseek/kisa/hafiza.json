@@ -1,23 +1,22 @@
 {
- "notlar": "THYAO 324.25'ten satıldı, zarar -22 TL civarı. Düşen piyasada nakit kraldır. THYAO planı: 15dk RSI 30 altından dönüş veya hacim artışı. Kripto alım şartı: 15dk RSI>60 + hacim>1x. USDTRY 50.8 üstü hızlanırsa değerlendir. Asla zorlama.",
- "plan": "BIST 100'de sert düşüş sürerken THYAO'da 15dk RSI 30 altında dip oluşumu veya hacim artışı bekle; kriptoda 15dk RSI>60 + hacim>1x şartı gerçekleşirse al; USDTRY 50.8 üzerine hızlanırsa dolar al. Aksi halde nakitte kal.",
- "sonraki_tura_mesaj": "THYAO satıldı, nakitteyim. Pazartesi BIST açılışında THYAO 15dk RSI 30 altı dönüş veya hacim artışı ara; kriptoda 15dk RSI>60+hacim>1x bekle; USDTRY 50.8 üstü hızlanırsa dolar almayı düşün.",
+ "notlar": "Nakitteyim. Kripto alım şartı: 15dk RSI>60 VE hacim>1x; şu an hacim yetersiz. USDTRY alım için 50.8 üstü hızlanma gerek. THYAO için BIST verisi bekleniyor. GC=F bugün +3.1%, toparlanma izlenecek.",
+ "plan": "BIST açılışında THYAO 15dk RSI 30 altı dönüş veya hacim artışı ara; kriptoda hacim>1x teyidi olmadan alma; USDTRY 50.8 üstü hızlanırsa dolar al; altın GC=F toparlanmasını izle.",
+ "sonraki_tura_mesaj": "Kripto RSI yüksek ama hacim yetersizdi; BIST THYAO verisi yok. Şimdi THYAO'yu ve kripto hacminin normale dönüp dönmediğini kontrol et.",
  "izleme_listesi": [
-  "THYAO.IS",
   "ADA-USD",
-  "SOL-USD",
-  "XRP-USD",
+  "THYAO.IS",
+  "GC=F",
   "USDTRY=X",
-  "BTC-USD"
+  "BTC-USD",
+  "SOL-USD"
  ],
- "son_yorum": "BIST 100 %1.95 düşüyor, küresel AI satışı devam; THYAO 20 günlük ortalamasına göre %11.6 uzamış, 15dk RSI 40 zayıf. Dolar RSI14 97 aşırı alım. Kripto düşüşte hacim zayıf. Nakitte kalmak en doğrusu.",
+ "son_yorum": "BIST açılışta ancak THYAO verisi görünmüyor; kripto 15dk RSI'lar 60 üstüne çıksa da hacim normalin altında (0.2-0.6x), teyit yok. USDTRY 50.8 altında ve aşırı alım bölgesinde. Nakit kalmak en doğrusu.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: THYAO.IS 6.12557 adet (%100), birim 324.2500 TL, eline geçen 1982.25 TL, kâr/zarar -21.75 TL",
-  "Sonraki kontrol: 2026-11-23 10:00"
+  "Sonraki kontrol: 2026-11-23 11:00"
  ]
 }

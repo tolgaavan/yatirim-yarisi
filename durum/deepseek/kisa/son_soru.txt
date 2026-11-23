@@ -80,115 +80,109 @@ Satışlar alışlardan önce yapılır. Türkçe yaz.
 
 -----
 
-ŞU AN: 20.11.2026 Cuma 12:01 (İstanbul saati). Portföyün başlangıcından bu yana 7 gün geçti.
+ŞU AN: 23.11.2026 Pazartesi 10:01 (İstanbul saati). Portföyün başlangıcından bu yana 10 gün geçti.
 
 === GEÇEN TURDAN KENDİNE MESAJ ===
-ADA satıldı; THYAO hâlâ 326.5 maliyetle duruyor. THYAO açılırsa 335 hedef, 320 stop izle. ADA'da yeniden alım için RSI>60+hacim>1x bekle; USDTRY 50.8 üstüne hızlanırsa değerlendir.
+THYAO satıldı, nakitteyim. Pazartesi BIST açılışında THYAO 15dk RSI 30 altı dönüş veya hacim artışı ara; kriptoda 15dk RSI>60+hacim>1x bekle; USDTRY 50.8 üstü hızlanırsa dolar almayı düşün.
 
 === BAŞLANGIÇ KURGUN ===
 Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.
 
-=== GEÇEN HAFTAKİ DEĞERLENDİRMEN (12.11 23:38 - 14.11 00:15) ===
-Portföy 10,000 TL -> 10,000 TL (+0.00%).
-Bu hafta nakitte kalarak %0.00 getiri ile sermayeyi korudum. BIST 100 +%0.36 ve dolar +%0.22 getirirken ben kaçırdım; altın %-0.04 ile yatay kalırken S&P 500 %-0.19 ve Bitcoin %-3.84 düştü. Açılışlarda ve kriptoda net sinyal görmediğim için işlem yapmadım; doğru taraf, zorlama alım yapıp komisyon ödememekti, ancak BIST’teki sınırlı yükselişi değerlendirememek fırsat maliyeti oldu. Gelecek hafta THYAO hacim şartını, kriptoda 15 dakikalık RSI/hacim teyidini ve ABD açılışını izleyip yalnızca yüksek olasılıklı kurulumda en fazla iki varlığa gireceğim.
+=== GEÇEN HAFTAKİ DEĞERLENDİRMEN (14.11 00:15 - 21.11 00:15) ===
+Portföy 10,000 TL -> 9,903 TL (-0.97%).
+Bu hafta piyasa genelinde sert düşüş yaşanırken nakitte kalma disiplini sayesinde ana sermayeyi büyük ölçüde korudum. 17.11'de THYAO'da plan şartları oluşunca %20 pozisyon aldım, ancak BIST 100'ün zayıflaması ve hissenin aşırı uzaması nedeniyle 20.11'de 324.25'ten satarak 21.75 TL zarar ettim. ADA'da kısa vadeli momentum sinyaliyle 2000 TL'lik deneme yaptım, fakat stop altına sarkınca 75.54 TL zararla çıktım. Toplamda dönemi %-0.97 (97.30 TL) kayıpla kapattım. Aynı dönemde BIST 100 %-6.10, S&P 500 %-8.12, altın %-8.76, Bitcoin %-14.67 değer kaybederken dolar yalnızca %+0.42 getirdi; yani göreceli olarak sermayeyi korumak doğruydu. Yanlış taraf, ADA'daki momentumun piyasa genel düşüşü karşısında tutunamayacağını yeterince hızlı değerlendirememekti. Gelecek hafta aynı disiplinle yalnızca yüksek olasılıklı, hacim ve RSI teyidi net olan kurulumlarda işlem yapacağım; özellikle BIST ve kriptoda zayıf sinyallerde pozisyon açmayıp stopları dar tutacağım.
 
 === NOTLARIN ===
-THYAO.IS 6.12557 adet maliyet 326.5, hedef 335-340, stop 320. ADA 0.1520 stop altına sarkınca satıldı. Kriptoda yeni alım için 15dk RSI>60 + hacim>1x şartı devam. USDTRY 50.8 üstüne hızlanırsa alım değerlendir. Komisyon %0.2. Stop disiplini kesin.
+THYAO 324.25'ten satıldı, zarar -22 TL civarı. Düşen piyasada nakit kraldır. THYAO planı: 15dk RSI 30 altından dönüş veya hacim artışı. Kripto alım şartı: 15dk RSI>60 + hacim>1x. USDTRY 50.8 üstü hızlanırsa değerlendir. Asla zorlama.
 
 === PLANIN ===
-THYAO 335 üstü hacim artarsa yarı sat, 340 üstü yarı sat; 330 altına 15dk RSI 70 üzeri dönerse yarı sat; 320 altı full sat. Kriptoda yeni alım için RSI>60+hacim>1x; USDTRY 50.8 üstü değerlendir. Aksi halde nakitte kal, zorlama alım yapma.
+BIST 100'de sert düşüş sürerken THYAO'da 15dk RSI 30 altında dip oluşumu veya hacim artışı bekle; kriptoda 15dk RSI>60 + hacim>1x şartı gerçekleşirse al; USDTRY 50.8 üzerine hızlanırsa dolar al. Aksi halde nakitte kal.
 
 === GEÇEN TURUN SONUÇLARI ===
-SATILDI: ADA-USD 254.834 adet (%100), birim 7.5827 TL, eline geçen 1928.46 TL, kâr/zarar -75.54 TL
-Sonraki kontrol: 2026-11-20 12:00
+SATILDI: THYAO.IS 6.12557 adet (%100), birim 324.2500 TL, eline geçen 1982.25 TL, kâr/zarar -21.75 TL
+Sonraki kontrol: 2026-11-23 10:00
 
 === PORTFÖY ===
-Toplam değer: 9,906.68 TL (başlangıç 10,000 TL, -0.93%)
-Nakit: 7,920.46 TL | Ödenen toplam komisyon: 11.86 TL
-- THYAO.IS: 6.12557 adet, değer 1,986.22 TL, maliyet 2,004.00 TL, kâr/zarar -17.78 TL (-0.89%) | piyasası AÇIK
+Toplam değer: 9,902.70 TL (başlangıç 10,000 TL, -0.97%)
+Nakit: 9,902.70 TL | Ödenen toplam komisyon: 15.84 TL
 
 === PORTFÖY DEĞERİ GEÇMİŞİ ===
-17.11 13:01=9,993, 17.11 17:45=9,968, 18.11 10:01=9,970, 18.11 10:30=9,994, 18.11 13:01=9,994, 18.11 17:45=9,975, 19.11 10:01=9,981, 19.11 10:31=10,016, 19.11 11:01=10,014, 19.11 13:31=10,005, 19.11 16:30=10,000, 20.11 10:01=9,933
+17.11 17:45=9,968, 18.11 10:01=9,970, 18.11 10:30=9,994, 18.11 13:01=9,994, 18.11 17:45=9,975, 19.11 10:01=9,981, 19.11 10:31=10,016, 19.11 11:01=10,014, 19.11 13:31=10,005, 19.11 16:30=10,000, 20.11 10:01=9,933, 20.11 12:01=9,903
 
 === SON İŞLEMLERİN ===
 17.11 11:01 ALINDI: THYAO.IS 6.12557 adet, birim 326.5000 TL, tutar 2000.00 TL + komisyon 4.00 TL
 19.11 16:30 ALINDI: ADA-USD 254.834 adet, birim 7.8482 TL, tutar 2000.00 TL + komisyon 4.00 TL
 20.11 10:01 SATILDI: ADA-USD 254.834 adet (%100), birim 7.5827 TL, eline geçen 1928.46 TL, kâr/zarar -75.54 TL
-
-=== ENDEKSLER (açık piyasalar) ===
-XU100.IS: 11177.8896 TRY | gün -1.95% hafta -5.61% ay -3.45% 3ay -22.92%
-XU030.IS: 14019.8496 TRY | gün -1.96% hafta -5.56% ay -3.07% 3ay -16.38%
+20.11 12:01 SATILDI: THYAO.IS 6.12557 adet (%100), birim 324.2500 TL, eline geçen 1982.25 TL, kâr/zarar -21.75 TL
 
 === EMTIA (açık piyasalar) ===
-GC=F: 3584.6001 USD (= 181290.0724 TL) | gün -2.74% hafta -7.76% ay -11.72% 3ay -23.70%
-SI=F: 42.4400 USD (= 2146.3902 TL) | gün -4.24% hafta -13.44% ay -22.50% 3ay -38.08%
-CL=F: 81.4900 USD (= 4121.3321 TL) | gün -2.07% hafta -7.98% ay -18.08% 3ay -4.14%
-HG=F: 5.5690 USD (= 281.6505 TL) | gün -1.00% hafta -8.40% ay -12.47% 3ay -15.61%
+GC=F: 3624.7000 USD (= 183405.8298 TL) | gün +3.11% hafta -5.93% ay -9.56% 3ay -22.79%
+SI=F: 42.5100 USD (= 2150.9591 TL) | gün +3.59% hafta -9.14% ay -20.85% 3ay -38.06%
+CL=F: 83.1900 USD (= 4209.3226 TL) | gün -0.94% hafta -2.95% ay -19.44% 3ay +1.01%
+HG=F: 5.5315 USD (= 279.8878 TL) | gün +1.00% hafta -7.77% ay -14.58% 3ay -17.56%
 
 === DÖVIZ (açık piyasalar) ===
-USDTRY=X: 50.5747 TRY | gün +0.22% hafta +0.58% ay +1.92% 3ay +5.20%
-EURTRY=X: 55.4955 TRY | gün +0.01% hafta -0.20% ay -0.45% 3ay -1.05%
-EURUSD=X: 1.0970 USD (= 55.4790 TL) | gün -0.02% hafta -0.73% ay -2.36% 3ay -5.99%
+USDTRY=X: 50.5989 TRY | gün +0.07% hafta +0.51% ay +1.75% 3ay +5.17%
+EURTRY=X: 55.6885 TRY | gün +0.35% hafta +0.27% ay -0.29% 3ay -0.88%
+EURUSD=X: 1.1002 USD (= 55.6705 TL) | gün +0.30% hafta -0.20% ay -1.95% 3ay -5.76%
 
 === KRIPTO (açık piyasalar) ===
-BTC-USD: 61757.3594 USD (= 3123359.8862 TL) | gün -0.23% hafta -5.43% ay -20.00% 3ay -23.66%
-ETH-USD: 1748.4900 USD (= 88429.3557 TL) | gün -0.38% hafta -4.74% ay -21.98% 3ay -33.04%
-SOL-USD: 72.4200 USD (= 3662.6196 TL) | gün -0.88% hafta -0.36% ay -24.73% 3ay -35.68%
-BNB-USD: 571.1100 USD (= 28883.7158 TL) | gün -1.46% hafta -4.17% ay -18.80% 3ay -24.95%
-XRP-USD: 0.9585 USD (= 48.4759 TL) | gün -0.14% hafta -1.65% ay -23.59% 3ay -31.35%
+BTC-USD: 61394.0117 USD (= 3106469.4498 TL) | gün +2.16% hafta -5.39% ay -21.54% 3ay -24.34%
+ETH-USD: 1721.7800 USD (= 87120.1753 TL) | gün +2.35% hafta -5.55% ay -24.25% 3ay -34.86%
+SOL-USD: 71.9400 USD (= 3640.0850 TL) | gün +2.46% hafta -4.21% ay -23.84% 3ay -35.27%
+BNB-USD: 556.8600 USD (= 28176.5026 TL) | gün +1.71% hafta -6.57% ay -21.78% 3ay -27.90%
+XRP-USD: 0.9387 USD (= 47.4972 TL) | gün +0.79% hafta -4.50% ay -24.90% 3ay -33.42%
 
 === PORTFÖYÜN VE İZLEME LİSTEN (açık piyasalar) ===
-THYAO.IS: 324.2500 TRY | gün -1.22% hafta +1.25% ay +22.36% 3ay +7.90%
-ADA-USD: 0.1489 USD (= 7.5311 TL) | gün -1.81% hafta -4.08% ay -23.68% 3ay -33.68%
+ADA-USD: 0.1459 USD (= 7.3809 TL) | gün +1.12% hafta -6.01% ay -24.36% 3ay -36.01%
 
 === ANALİZ: PORTFÖYÜN VE İZLEME LİSTEN ===
-THYAO.IS (TURK HAVA YOLLARI, Industrials)
-  teknik: RSI14 69 | 20 günlük ortalamaya göre +11.60% | 50 günlük ortalamaya göre +12.60% | 6 ay zirvesine -6.90%, dibine +33.90% | yıllık oynaklık %50
-  temel: F/K 4.6 (ileriye dönük) | PD/DD 19.48 | piyasa değeri 450.5 mlr TRY
-  15dk son 4 saat: 328.0 327.5 327.75 329.25 329.25 328.75 328.5 325.75 324.5 323.5 324.5 324.0 325.25 325.5 324.25 324.25 | bugün açılış 325.75, yüksek 327.5, düşük 322.75 | RSI(15dk) 40 | 15dk 20 çubuk ortalamasına göre -0.70% | son 1 saat hacmi normalin 0.9 katı
-  haber: [20.11 08:46] BIST 30'da negatif seyir hakim (RHA Ajans)
-  haber: [20.11 01:52] Denizcilik Ve Havacılıkta Kritik Gümrük Muafiyeti Değişimi (Finans Hattı)
 ADA-USD
-  teknik: RSI14 27 | 20 günlük ortalamaya göre -14.00% | 50 günlük ortalamaya göre -27.90% | 6 ay zirvesine -45.00%, dibine +3.80% | yıllık oynaklık %62
-  15dk son 4 saat: 0.1483 0.14879 0.14979 0.14975 0.1498 0.1496 0.15027 0.15004 0.14933 0.14947 0.14975 0.1498 0.15024 0.14988 0.14899 0.14891 | bugün açılış 0.14765, yüksek 0.15047, düşük 0.14718 | RSI(15dk) 44 | 15dk 20 çubuk ortalamasına göre -0.20% | son 1 saat hacmi normalin 0.3 katı
-  haber: [18.11 12:20] Can Cardano Reach $1 in the Next 12 Months? (Motley Fool)
+  teknik: RSI14 28 | 20 günlük ortalamaya göre -13.30% | 50 günlük ortalamaya göre -27.90% | 6 ay zirvesine -46.10%, dibine +2.10% | yıllık oynaklık %65
+  15dk son 4 saat: 0.14423 0.14418 0.14419 0.1443 0.1445 0.14451 0.14452 0.1446 0.1451 0.14585 0.14568 0.14589 0.14568 0.14626 0.14598 0.14587 | bugün açılış 0.14449, yüksek 0.14645, düşük 0.1443 | RSI(15dk) 65 | 15dk 20 çubuk ortalamasına göre +0.87% | son 1 saat hacmi normalin 0.4 katı
+  haber: [21.11 18:01] Bitcoin Crashes Below $56,000 as $2.7 Billion Crypto Liquidation Wipes Out Traders (24/7 Wall St.)
+  haber: [21.11 00:03] Mark Zuckerberg’s Meta AI Predicts the Flippening: How Does ADA Flip XRP? (Cryptonews)
 SOL-USD
-  teknik: RSI14 27 | 20 günlük ortalamaya göre -13.50% | 50 günlük ortalamaya göre -26.20% | 6 ay zirvesine -40.70%, dibine +16.40% | yıllık oynaklık %55
-  15dk son 4 saat: 72.19 72.31 72.64 72.56 72.58 72.49 72.83 72.71 72.41 72.41 72.61 72.49 72.63 72.61 72.46 72.42 | bugün açılış 72.05, yüksek 72.84, düşük 71.82 | RSI(15dk) 47 | 15dk 20 çubuk ortalamasına göre -0.02% | son 1 saat hacmi normalin 0.2 katı
-  haber: [20.11 09:46] Ondo, Securitize, Robinhood, xStocks Rush to Tokenize Anthropic IPO on Day 1 (CoinGape)
-  haber: [20.11 02:25] Solana Announces 2027 Roadmap With On-Chain AI and Faster Blocks (BeInCrypto)
+  teknik: RSI14 31 | 20 günlük ortalamaya göre -11.40% | 50 günlük ortalamaya göre -25.20% | 6 ay zirvesine -41.10%, dibine +15.70% | yıllık oynaklık %59
+  15dk son 4 saat: 71.24 71.22 71.3 71.23 71.39 71.23 71.23 71.31 71.57 71.9 71.76 71.93 71.68 71.78 71.91 71.94 | bugün açılış 71.25, yüksek 72.14, düşük 71.1 | RSI(15dk) 68 | 15dk 20 çubuk ortalamasına göre +0.91% | son 1 saat hacmi normalin 0.2 katı
+  haber: [23.11 01:40] Crypto Market Today, Nov. 22: Bitcoin Reclaims $60,000 After $1.8 Billion Liquidation Wipeout. Is the Worst Over? (Motley Fool)
+  haber: [22.11 18:47] Elon Musk’s Grok AI Predicts Best and Worst Crypto in 2027: Who Are They? (99bitcoins)
 XRP-USD
-  teknik: RSI14 29 | 20 günlük ortalamaya göre -12.80% | 50 günlük ortalamaya göre -23.80% | 6 ay zirvesine -39.00%, dibine +5.00% | yıllık oynaklık %56
-  15dk son 4 saat: 0.9651 0.9647 0.9697 0.9674 0.9637 0.9653 0.9714 0.9672 0.9624 0.9643 0.9649 0.9636 0.9658 0.9631 0.959 0.9585 | bugün açılış 0.9605, yüksek 0.9722, düşük 0.9585 | RSI(15dk) 44 | 15dk 20 çubuk ortalamasına göre -0.55% | son 1 saat hacmi normalin 0.1 katı
-  haber: [20.11 02:17] XRP treasury's $505M loss is permanent on paper (TheStreet)
-  haber: [20.11 01:30] Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel (TheStreet)
+  teknik: RSI14 31 | 20 günlük ortalamaya göre -12.00% | 50 günlük ortalamaya göre -24.00% | 6 ay zirvesine -40.30%, dibine +3.20% | yıllık oynaklık %59
+  15dk son 4 saat: 0.9313 0.9315 0.9313 0.9305 0.9344 0.9323 0.9319 0.9319 0.9342 0.939 0.9406 0.9439 0.9375 0.94 0.939 0.9387 | bugün açılış 0.9312, yüksek 0.945, düşük 0.9301 | RSI(15dk) 62 | 15dk 20 çubuk ortalamasına göre +0.73% | son 1 saat hacmi normalin 0.6 katı
+  haber: [23.11 02:02] XRP’s Next 10 Years: Is It One to Buy, Hold or Avoid? (24/7 Wall St.)
+  haber: [23.11 00:39] Canada's largest bank doubles down on crypto stocks (TheStreet)
 USDTRY=X
-  teknik: RSI14 97 | 20 günlük ortalamaya göre +1.00% | 50 günlük ortalamaya göre +2.20% | 6 ay zirvesine +0.00%, dibine +10.90% | yıllık oynaklık %1
-  15dk son 4 saat: 50.518 50.519 50.57 50.567 50.552 50.548 50.529 50.574 50.571 50.574 50.572 50.571 50.541 50.541 50.573 50.575 | bugün açılış 50.534, yüksek 50.577, düşük 50.403 | RSI(15dk) 55 | 15dk 20 çubuk ortalamasına göre +0.04%
+  teknik: RSI14 97 | 20 günlük ortalamaya göre +0.90% | 50 günlük ortalamaya göre +2.20% | 6 ay zirvesine +0.00%, dibine +10.70% | yıllık oynaklık %1
+  15dk son 4 saat: 50.585 50.583 50.586 50.584 50.591 50.593 50.584 50.586 50.586 50.591 50.586 50.596 50.602 50.587 50.589 50.599 | bugün açılış 50.583, yüksek 50.611, düşük 50.498 | RSI(15dk) 57 | 15dk 20 çubuk ortalamasına göre +0.02%
+BTC-USD
+  teknik: RSI14 28 | 20 günlük ortalamaya göre -12.40% | 50 günlük ortalamaya göre -20.40% | 6 ay zirvesine -29.10%, dibine +4.80% | yıllık oynaklık %43
+  15dk son 4 saat: 61347.0 61199.0 61189.0 61295.0 61225.0 61069.0 61155.0 61101.0 61392.0 61639.0 61596.0 61679.0 61474.0 61416.0 61375.0 61394.0 | bugün açılış 61135.0, yüksek 61727.0, düşük 61024.0 | RSI(15dk) 56 | 15dk 20 çubuk ortalamasına göre +0.30% | son 1 saat hacmi normalin 0.6 katı
+  haber: [23.11 08:06] Strategy's Bitcoin Stack Is 22% Underwater. Peter Schiff Says It's ‘About to Blow Up' (BeInCrypto)
+  haber: [23.11 07:26] Bitcoin Heads For Worst November Since 2018 As ETF Outflows Top $4 Billion (Stocktwits)
+
+Şu an piyasası kapalı veya verisi olmadığı için gösterilmeyenler: THYAO.IS
 
 === FIRSAT TABLOSU: günün öne çıkanları (açık piyasalar) ===
-Borsa İstanbul büyük hisseler:
-  günün en iyileri: GARAN.IS gün -0.14% hafta -2.73% ay +10.26% RSI 59; ISCTR.IS gün -0.31% hafta -6.27% ay -1.32% RSI 45; PGSUS.IS gün -0.38% hafta +0.45% ay +20.65% RSI 65; KRDMD.IS gün -0.58% hafta -3.55% ay -10.75% RSI 43
-  günün en kötüleri: ASTOR.IS gün -5.76% hafta -12.03% ay -7.98% RSI 38; TUPRS.IS gün -3.58% hafta -10.10% ay -10.16% RSI 34; PETKM.IS gün -2.99% hafta -10.38% ay -21.63% RSI 28; SISE.IS gün -2.70% hafta -9.59% ay -8.05% RSI 35
 Kripto:
-  günün en iyileri: XRP-USD gün -0.14% hafta -1.65% ay -23.59% RSI 29; BTC-USD gün -0.23% hafta -5.43% ay -20.00% RSI 20; ETH-USD gün -0.38% hafta -4.74% ay -21.98% RSI 24; SOL-USD gün -0.88% hafta -0.36% ay -24.73% RSI 27
-  günün en kötüleri: DOT-USD gün -1.90% hafta -4.96% ay -28.20% RSI 24; ADA-USD gün -1.81% hafta -4.08% ay -23.68% RSI 27; LINK-USD gün -1.62% hafta -4.73% ay -22.67% RSI 31; DOGE-USD gün -1.56% hafta -4.42% ay -24.61% RSI 26
+  günün en iyileri: LINK-USD gün +3.33% hafta -4.57% ay -21.97% RSI 35; DOT-USD gün +3.10% hafta -9.32% ay -29.29% RSI 26; SOL-USD gün +2.46% hafta -4.21% ay -23.84% RSI 31; ETH-USD gün +2.35% hafta -5.55% ay -24.25% RSI 30
+  günün en kötüleri: DOGE-USD gün +0.70% hafta -7.43% ay -26.36% RSI 27; XRP-USD gün +0.79% hafta -4.50% ay -24.90% RSI 31; ADA-USD gün +1.12% hafta -6.01% ay -24.36% RSI 28; BNB-USD gün +1.71% hafta -6.57% ay -21.78% RSI 28
 
 === HABER BAŞLIKLARI ===
 ABD ve dünya piyasaları:
-  [20.11 11:36] European shares near 1-month lows as Anthropic’s debut fails to halt tech rout (Investing.com)
-  [20.11 10:33] Taiwan Stock Market Falls 6.2% to Cap Its Worst Week Since 1991 as KOSPI Closes Down 5.2% and Nikkei 225 Drops 5.1% in AI Chip Selloff (24/7 Wall St.)
-  [20.11 09:57] Asian shares head for worst week since 2020 as AI rout deepens (Reuters)
-  [20.11 09:09] Dollar near 19-month high, set for 4th weekly gain as AI jitters spur haven bid (Reuters)
+  [23.11 09:16] Stock Market: Will S&P 500 Open Up or Down Today? (Benzinga Prediction Markets)
+  [23.11 09:05] US futures bounce as Asia scrambles to slow AI stocks rout (Reuters)
+  [23.11 09:00] Green Week Ahead? Nvidia Futures Rip 6%, Nasdaq and S&P 500 Futures Snap Back 2% (BeInCrypto)
+  [23.11 08:02] Jim Cramer Says AI Selloff Is Not 2000 as S&P 500 Enters Correction, Not Crash (BeInCrypto)
 Borsa İstanbul:
-  [20.11 11:36] Borsada düşüş sürüyor: BIST 100'de sert gerileme haberi (Borsanın Gündemi)
-  [20.11 11:35] Borsa İstanbul’da Haftanın Son Gününde Kayıplar Yüzde 2’yi Aştı (Ticari Hayat)
-  [20.11 11:06] Borsa İstanbul güne sert düşüşle başladı (İlkses Gazetesi)
-  [20.11 11:00] Borsa İstanbul 20 Kasım gününe düşüşle başladı (https://www.vanhaber.tr/)
+  [23.11 09:56] Borsada yüzde 6’lık kayıp sonrası kritik uyarı: Bu seviyenin altına dikkat! (ParaMedya)
+  [23.11 09:54] Borsa İstanbul haftaya yükselişle başladı (borsagundem.com.tr)
+  [23.11 09:19] SABAH Raporu: Küresel borsalardaki sert satışlar Borsa İstanbul'u da vurdu (Para Analiz)
+  [23.11 09:15] BIST 100 yeni haftaya temkinli acilisla basliyor (Borsatek)
 Türkiye ekonomisi:
-  [20.11 10:34] FED faiz kararı ne zaman açıklanacak? Gözler Aralık ayı FED faiz kararı toplantısında! (Bigpara)
-  [20.11 10:31] Dolar 20 Kasım’da kaç TL oldu? Euro kaç TL? (Bursa'ya Dair Her Şey)
-  [20.11 10:27] Japonya'da enflasyon yılın zirvesinde: Merkez Bankası aralık ayında faiz artırabilir (Para Analiz)
-  [20.11 10:04] Altın fiyatları çakıldı! İşte gram, çeyrek ve cumhuriyet ve tam altın fiyatları… (Şehrivan)
+  [23.11 09:43] TGSD’den asgari ücrete ikili zam formülü (Ekonomi Gazetesi)
+  [23.11 09:04] Günler sonra bir ilk: Piyasalarda sürpriz! İbre tersine döndü (Bursada Bugün)
+  [23.11 08:55] Altın fiyatları yeniden yükselişe geçti: 23 Kasım 2026 gram ve çeyrek altın fiyatları (12punto)
+  [23.11 08:42] Döviz kurlarında hafif yükseliş: Dolar 50,60 TL (Haberhergün)
 
 Kararını JSON olarak ver.
