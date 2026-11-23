@@ -1,22 +1,23 @@
 {
- "notlar": "Nakitteyim. Kripto alım şartı: 15dk RSI>60 VE hacim>1x; şu an hacim yetersiz. USDTRY alım için 50.8 üstü hızlanma gerek. THYAO için BIST verisi bekleniyor. GC=F bugün +3.1%, toparlanma izlenecek.",
- "plan": "BIST açılışında THYAO 15dk RSI 30 altı dönüş veya hacim artışı ara; kriptoda hacim>1x teyidi olmadan alma; USDTRY 50.8 üstü hızlanırsa dolar al; altın GC=F toparlanmasını izle.",
- "sonraki_tura_mesaj": "Kripto RSI yüksek ama hacim yetersizdi; BIST THYAO verisi yok. Şimdi THYAO'yu ve kripto hacminin normale dönüp dönmediğini kontrol et.",
+ "notlar": "Nakitteyim. Kripto alım şartı: 15dk RSI>60 VE hacim>1x; şu an hacim yetersiz. USDTRY alım için 50.8 üstü hızlanma gerek. THYAO için 15dk RSI 30 altı dönüş veya hacim artışı beklenir. GARAN izlemede: RSI 60, ay +14.86%, BIST toparlanmasında öncü olabilir.",
+ "plan": "13:00'da GARAN ve THYAO 15dk RSI/hacim kontrol; kriptoda hacim>1x teyidi olmadan alma; USDTRY 50.8 üstü hızlanırsa dolar al; altın GC=F toparlanmasını hacimle izle.",
+ "sonraki_tura_mesaj": "GARAN ve THYAO 15dk RSI/hacim; kripto hacim>1x mi; USDTRY 50.8 üstü mü?",
  "izleme_listesi": [
   "ADA-USD",
   "THYAO.IS",
   "GC=F",
   "USDTRY=X",
   "BTC-USD",
-  "SOL-USD"
+  "SOL-USD",
+  "GARAN.IS"
  ],
- "son_yorum": "BIST açılışta ancak THYAO verisi görünmüyor; kripto 15dk RSI'lar 60 üstüne çıksa da hacim normalin altında (0.2-0.6x), teyit yok. USDTRY 50.8 altında ve aşırı alım bölgesinde. Nakit kalmak en doğrusu.",
+ "son_yorum": "BIST 100 gün %+1.22 toparlanıyor ancak THYAO RSI 75 aşırı alım, kriptoda hacimler hâlâ düşük, USDTRY 50.8 altı ve RSI 97, altın toparlanması hacimsiz. Net alım sinyali yok, nakitte kalmak doğru.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-23 11:00"
+  "Sonraki kontrol: 2026-11-23 13:00"
  ]
 }

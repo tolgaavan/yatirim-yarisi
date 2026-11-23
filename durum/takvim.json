@@ -16,8 +16,8 @@
   "neden": "Hafta başında piyasalar açıkken BIL ve USDTRY gelişmelerini kontrol edip gereksiz işlemden kaçınmak."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-23T11:00:00+03:00",
-  "neden": "BIST THYAO verisinin gelmesi ve kripto hacminin normale dönüp dönmediğini görmek için."
+  "sonraki": "2026-11-23T13:00:00+03:00",
+  "neden": "BIST gün ortasında GARAN ve THYAO momentumunu, kripto hacmini değerlendirmek için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-27T17:35:00+03:00",
