@@ -1,15 +1,15 @@
 {
 "AAPL": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "Apple Inc.",
-"fk": 39.0,
+"fk": 38.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 45.43,
-"piyasa_degeri": 5092222173184,
+"pddd": 44.93,
+"piyasa_degeri": 5036127551488,
 "sektor": "Technology",
-"temettu_%": 0.31,
+"temettu_%": 0.32,
 "tur": "EQUITY"
 }
 },
@@ -98,7 +98,7 @@
 }
 },
 "BIL": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "State Street SPDR Bloomberg 1-3",
 "fk": null,
@@ -168,13 +168,13 @@
 }
 },
 "GLD": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "SPDR Gold Shares",
 "fk": null,
 "fk_tur": "ileriye dönük",
 "para_birimi": "USD",
-"pddd": 1.93,
+"pddd": 1.98,
 "piyasa_degeri": 131009642496,
 "sektor": null,
 "temettu_%": 0.0,
@@ -308,7 +308,7 @@
 }
 },
 "SGOV": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "iShares 0-3 Month Treasury Bond",
 "fk": null,
@@ -336,13 +336,13 @@
 }
 },
 "SHY": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "iShares 1-3 Year Treasury Bond ",
-"fk": 3705.7,
-"fk_tur": "son 12 ay",
+"fk": null,
+"fk_tur": "ileriye dönük",
 "para_birimi": "USD",
-"pddd": 0.95,
+"pddd": null,
 "piyasa_degeri": 27439355904,
 "sektor": null,
 "temettu_%": 3.61,
@@ -420,13 +420,13 @@
 }
 },
 "TLT": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "iShares 20+ Year Treasury Bond ",
-"fk": -4039.8,
+"fk": -4065.0,
 "fk_tur": "ileriye dönük",
 "para_birimi": "USD",
-"pddd": 0.54,
+"pddd": 0.55,
 "piyasa_degeri": 47518568448,
 "sektor": null,
 "temettu_%": 4.76,
@@ -518,13 +518,13 @@
 }
 },
 "XLU": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "State Street Utilities Select S",
 "fk": 17.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 0.68,
+"pddd": 0.67,
 "piyasa_degeri": 24252790784,
 "sektor": null,
 "temettu_%": 2.79,
@@ -532,7 +532,7 @@
 }
 },
 "XLV": {
-"tarih": "2026-11-20",
+"tarih": "2026-11-23",
 "v": {
 "ad": "State Street Health Care Select",
 "fk": 29.2,

@@ -1,25 +1,26 @@
 {
- "notlar": "Strateji: riskli 1 ay; zorunlu çeşitlilik tam. QQQ risk azaltıldı, kalan maliyet 3758, 6 ay dibinde; daha fazla satmak için günlük -8% veya RSI<20. THYAO RSI 72 güçlü, F/K 4.6; RSI 80+ ve hacim düşerse %50 azalt. USDTRY artırıldı, RSI 97 aşırı alım; 51 üzeri tut. BTC RSI 20, ETH 23; yalnızca günlük yeşil/higher low ile 200 TL al. Altın RSI 23, düşüş trendi; günlük yeşil dönmezse alma. Komisyon ~24 TL.",
- "plan": "Pazartesi 17:45'te: QQQ günlük -5% üzerinde toparlanma veya RSI 35 üstü olursa kalanı tut; BTC günlük yeşil/higher low olursa 200 TL al; THYAO RSI 80 üstü ise %30 azalt; USDTRY 51 üzerinde kalırsa tut. Yeni düşüşte altın RSI<20 ve günlük yeşil dönerse küçük al.",
- "sonraki_tura_mesaj": "QQQ satışı yapıldı; pazartesi BTC yeşil teyit, QQQ -5% panik veya THYAO RSI 80 durumuna göre planı uygula.",
+ "notlar": "Strateji: riskli 1 ay; zorunlu çeşitlilik tam (QQQ, THYAO, USDTRY). QQQ kalan maliyet 3758, bugün +6.1% toparlandı; tut, acil satış yok. THYAO RSI 66, F/K 4.6; RSI 80+ olursa %30 azalt. USDTRY RSI 97 aşırı, 51 üzeri tut, altında da TL değer kaybı nedeniyle dövizde kal. BTC 200 TL alındı, RSI 34, 6 ay dibine yakın; günlük yeşil devam ederse ekleme. Altın RSI 35, RSI<20 ve günlük yeşil dönerse al. Komisyonlar düşük tutulmalı.",
+ "plan": "Çarşamba 17:45'te: BTC günlük yeşil/higher low devam ederse 200 TL daha ekle; QQQ günlük -5% veya RSI 20 altı olursa sat; THYAO RSI 80 üstü ise %30 azalt; USDTRY 51 üzeri ise tut, altında da dövizde kal; altın RSI<20 ve günlük yeşil dönerse küçük al.",
+ "sonraki_tura_mesaj": "Bugün 200 TL BTC alındı; çarşamba BTC yeşil teyit, QQQ -5%, THYAO RSI 80 ve USDTRY 51 durumuna göre hareket et.",
  "izleme_listesi": [
+  "AAPL",
+  "SPY",
   "BTC-USD",
   "ETH-USD",
   "GC=F",
   "SI=F",
   "XU030.IS",
-  "AAPL",
-  "SPY"
+  "SOL-USD",
+  "NVDA"
  ],
- "son_yorum": "ABD'de AI satışı sürüyor: Nasdaq -1.2, VIX 29.7. BIST -2.55, dolar 50.57 güçlü. QQQ 20 gün altında ve 6 ay dibinde; THYAO göreli güçlü.",
+ "son_yorum": "ABD'de Nvidia kaynaklı sert toparlanma var (Nasdaq +5.86%, QQQ +6.12%); VIX 26.8'e geriliyor. BTC 63 bin üzeri günlük yeşil, RSI 34 ile dip toparlanması sinyali. BIST zayıf, THYAO -2.2% ama RSI 66 ile momentum korunuyor. USDTRY aşırı alım (RSI 97) ancak TCMB'nin Aralık faiz indirimi beklentisi TL'yi baskılıyor; döviz tutmaya devam.",
  "kurgu": {
   "metin": "Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: QQQ 0.0361864 adet (%25), birim 32161.6542 TL, eline geçen 1161.49 TL, kâr/zarar -91.01 TL",
-  "ALINDI: USDTRY=X 22.9377 adet, birim 50.5717 TL, tutar 1160.00 TL + komisyon 2.32 TL",
-  "Sonraki kontrol: 2026-11-23 17:45"
+  "ALINDI: BTC-USD 6.25609e-05 adet, birim 3196886.3349 TL, tutar 200.00 TL + komisyon 0.40 TL",
+  "Sonraki kontrol: 2026-11-25 17:45"
  ]
 }

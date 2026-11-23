@@ -8,16 +8,16 @@
   "neden": "ABD piyasası açıkken ve Türkiye döviz kurları açıkken USDTRY ile SGOV'u birlikte değerlendirmek için uygun saat."
  },
  "deepseek/orta_riskli": {
-  "sonraki": "2026-11-23T17:45:00+03:00",
-  "neden": "Pazartesi 17:45'te BIST, ABD ve TL kurları birlikte açık; QQQ kapanış sonrası toparlanma ve BTC/altın teyidi değerlendirilecek."
+  "sonraki": "2026-11-25T17:45:00+03:00",
+  "neden": "ABD teknoloji toparlanmasını, BTC'nin devamını ve THYAO RSI'sını görmek için piyasaların birlikte açık olduğu saat."
  },
  "deepseek/orta_risksiz": {
-  "sonraki": "2026-11-23T17:45:00+03:00",
-  "neden": "Hafta başında piyasalar açıkken BIL ve USDTRY gelişmelerini kontrol edip gereksiz işlemden kaçınmak."
+  "sonraki": "2026-11-25T17:45:00+03:00",
+  "neden": "Çarşamba günü piyasa açıkken USDTRY, BIL ve VIX'i kontrol edip hafta ortası riskini değerlendirmek."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-23T17:45:00+03:00",
-  "neden": "ABD açılışını ve BIST kapanışını görüp hacimli kurulum aramak."
+  "sonraki": "2026-11-23T19:00:00+03:00",
+  "neden": "Açılan pozisyonların kısa vadeli tepki sinyalinin devamını ve stop seviyelerini kontrol etmek için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-27T17:35:00+03:00",
@@ -52,8 +52,8 @@
   "neden": "hata, yeniden denenecek"
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-23T17:45:00+03:00",
-  "neden": "Pazartesi ABD açılışından sonra hafta sonu birikmiş riskten kaçışın VIX'e ve altına etkisini görmek ve BIST kapanmadan kura bakmak için."
+  "sonraki": "2026-11-23T15:15:52+00:00",
+  "neden": "hata, yeniden denenecek"
  },
  "claude/kisa": {
   "sonraki": "2026-11-23T15:01:08+00:00",

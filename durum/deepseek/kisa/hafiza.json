@@ -1,24 +1,26 @@
 {
- "notlar": "Nakitteyim. Kısa vade alım şartlarım: BIST/ABD hissesi için 15dk RSI>60 + hacim>1x; kripto için 15dk RSI>60 + hacim>1x ve günlük RSI<35; USDTRY alımı için 50.8 üstü + 15dk RSI>60; altın/silver için hacim>1x + 15dk RSI>60. Şu an GARAN hacmi 0.4x, THYAO 0.5x, kripto 0.2-0.6x; teyit yok.",
- "plan": "17:45'te ABD açılışı ve BIST kapanışını kontrol et; GARAN'da 15dk RSI>60 + hacim>1x olursa %50 al, THYAO'da 15dk RSI<35 dönüş + hacim artarsa bak; kriptoda SOL/ADA hacim>1x + 15dk RSI>60 olursa %25 deneme; USDTRY 50.8 üstü hızlanırsa dolar al; altın GC=F hacim>1x + 15dk RSI>60 olursa %25 al.",
- "sonraki_tura_mesaj": "17:45: GARAN/THYAO 15dk RSI+hacim; kripto hacim>1x mi; USDTRY 50.8 üstü mü?",
+ "notlar": "17:45 BTC-USD 2500 TL ve GC=F 2500 TL alındı. BTC: günlük RSI 34, 15dk RSI 64, hacim 7.3x. Altın: 15dk RSI 67, hacim 3.4x, günlük RSI 35. Mental stop: BTC 61000 altı, altın 3600 altı. Diğer kurallar: BIST/ABD hisse için 15dk RSI>60 + hacim>1x; kripto için günlük RSI<35 + 15dk RSI>60 + hacim>1x; USDTRY için 50.8 üstü + 15dk RSI>60.",
+ "plan": "19:00'da BTC ve altın 15dk RSI ve hacmini kontrol et. BTC 61000 altına sarkar veya 15dk RSI 40 altına inerse sat; altın 3600 altına veya 15dk RSI 40 altına inerse sat. Yeni alım yapma, nakiti koru.",
+ "sonraki_tura_mesaj": "19:00: BTC/GC=F 15dk RSI ve hacim; 61000/3600 altı stop.",
  "izleme_listesi": [
   "ADA-USD",
   "THYAO.IS",
   "GARAN.IS",
+  "YKBNK.IS",
   "GC=F",
   "USDTRY=X",
   "BTC-USD",
-  "SOL-USD",
-  "YKBNK.IS"
+  "SOL-USD"
  ],
- "son_yorum": "BIST haftalık sert düşüş sonrası zayıf tepki veriyor; GARAN pozitif ayrışsa da hacim normalin %40'ında. Kriptoda BTC/ADA/SOL 15dk RSI toparlansa da hacim 0.2-0.6x ile teyit zayıf. USDTRY 50.8 altında ve geri çekiliyor. Altın günlük +%2.9 ancak hacim 0.7x. Tetikleyici yok.",
+ "son_yorum": "ABD'de Nvidia kaynaklı güçlü tepki var ama Fed'in Aralık'ta faiz artırabileceği endişesi sürüyor. BIST zayıf, TL kuru sakin. Kripto ve altında aşırı satım sonrası hacimli dönüş sinyalleri öne çıkıyor; kısa vadeli işlem için uygun kurulumlar bunlar.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-23 17:45"
+  "ALINDI: BTC-USD 0.000782011 adet, birim 3196886.3349 TL, tutar 2500.00 TL + komisyon 5.00 TL",
+  "ALINDI: GC=F 0.0134595 adet, birim 185742.6937 TL, tutar 2500.00 TL + komisyon 5.00 TL",
+  "Sonraki kontrol: 2026-11-23 19:00"
  ]
 }
