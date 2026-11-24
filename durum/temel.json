@@ -14,14 +14,14 @@
 }
 },
 "AKBNK.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "AKBANK",
-"fk": 5.3,
+"fk": 5.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.03,
-"piyasa_degeri": 339039977472,
+"pddd": 1.01,
+"piyasa_degeri": 332540018688,
 "sektor": "Financial Services",
 "temettu_%": 3.38,
 "tur": "EQUITY"
@@ -70,14 +70,14 @@
 }
 },
 "ASELS.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "ASELSAN",
-"fk": 33.1,
+"fk": 32.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 4.43,
-"piyasa_degeri": 1484280037376,
+"pddd": 4.39,
+"piyasa_degeri": 1470600052736,
 "sektor": "Industrials",
 "temettu_%": 0.13,
 "tur": "EQUITY"
@@ -126,16 +126,16 @@
 }
 },
 "BIMAS.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "BIM MAGAZALAR",
-"fk": 13.3,
+"fk": 13.2,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.98,
-"piyasa_degeri": 438109405184,
+"pddd": 1.96,
+"piyasa_degeri": 435447037952,
 "sektor": "Consumer Defensive",
-"temettu_%": 1.87,
+"temettu_%": 1.89,
 "tur": "EQUITY"
 }
 },
@@ -168,16 +168,16 @@
 }
 },
 "GARAN.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "GARANTI BANKASI",
-"fk": 5.0,
+"fk": 4.9,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.18,
-"piyasa_degeri": 611939975168,
+"pddd": 1.16,
+"piyasa_degeri": 601860014080,
 "sektor": "Financial Services",
-"temettu_%": 3.65,
+"temettu_%": 3.61,
 "tur": "EQUITY"
 }
 },
@@ -196,16 +196,16 @@
 }
 },
 "GOOGL": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "Alphabet Inc.",
-"fk": 14.7,
+"fk": 14.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 5.26,
-"piyasa_degeri": 3468383223808,
+"pddd": 5.2,
+"piyasa_degeri": 3430394626048,
 "sektor": "Communication Services",
-"temettu_%": 0.33,
+"temettu_%": 0.31,
 "tur": "EQUITY"
 }
 },
@@ -266,55 +266,55 @@
 }
 },
 "MSFT": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "Microsoft Corporation",
-"fk": 25.7,
+"fk": 25.9,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 7.77,
-"piyasa_degeri": 3657475031040,
-"sektor": "Technology",
-"temettu_%": 0.81,
-"tur": "EQUITY"
-}
-},
-"NVDA": {
-"tarih": "2026-11-24",
-"v": {
-"ad": "NVIDIA Corporation",
-"fk": 17.7,
-"fk_tur": "son 12 ay",
-"para_birimi": "USD",
-"pddd": 14.9,
-"piyasa_degeri": 3979183915008,
+"pddd": 7.83,
+"piyasa_degeri": 3684357898240,
 "sektor": "Technology",
 "temettu_%": 0.8,
 "tur": "EQUITY"
 }
 },
+"NVDA": {
+"tarih": "2026-11-25",
+"v": {
+"ad": "NVIDIA Corporation",
+"fk": 16.7,
+"fk_tur": "son 12 ay",
+"para_birimi": "USD",
+"pddd": 14.05,
+"piyasa_degeri": 3751960903680,
+"sektor": "Technology",
+"temettu_%": 0.61,
+"tur": "EQUITY"
+}
+},
 "PGSUS.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "PEGASUS",
-"fk": 448.2,
+"fk": 453.5,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 0.58,
-"piyasa_degeri": 76199993344,
+"pddd": 0.59,
+"piyasa_degeri": 77099999232,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
 }
 },
 "QQQ": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "Invesco QQQ Trust, Series 1",
-"fk": 26.8,
+"fk": 26.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.82,
+"pddd": 1.78,
 "piyasa_degeri": 463833595904,
 "sektor": null,
 "temettu_%": 0.45,
@@ -378,10 +378,10 @@
 }
 },
 "SMH": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "VanEck Semiconductor ETF",
-"fk": 24.8,
+"fk": 23.1,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
 "pddd": null,
@@ -392,13 +392,13 @@
 }
 },
 "SPY": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "State Street SPDR S&P 500 ETF T",
-"fk": 23.0,
+"fk": 22.9,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.68,
+"pddd": 1.67,
 "piyasa_degeri": 796865200128,
 "sektor": null,
 "temettu_%": 1.0,
@@ -406,7 +406,7 @@
 }
 },
 "TAVHL.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "TAV HAVALIMANLARI",
 "fk": 13.5,
@@ -415,7 +415,7 @@
 "pddd": 1.09,
 "piyasa_degeri": 104624996352,
 "sektor": "Industrials",
-"temettu_%": 1.27,
+"temettu_%": 1.25,
 "tur": "EQUITY"
 }
 },
@@ -434,14 +434,14 @@
 }
 },
 "THYAO.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "TURK HAVA YOLLARI",
 "fk": 4.5,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 19.05,
-"piyasa_degeri": 440502976512,
+"pddd": 19.02,
+"piyasa_degeri": 439816814592,
 "sektor": "Industrials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -462,16 +462,16 @@
 }
 },
 "TOASO.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "TOFAS OTO. FAB.",
-"fk": 7.7,
+"fk": 7.6,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.73,
-"piyasa_degeri": 125875003392,
+"pddd": 1.71,
+"piyasa_degeri": 124199993344,
 "sektor": "Consumer Cyclical",
-"temettu_%": 8.11,
+"temettu_%": 7.94,
 "tur": "EQUITY"
 }
 },
@@ -490,16 +490,16 @@
 }
 },
 "TUPRS.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "TUPRAS",
 "fk": 4.8,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.19,
-"piyasa_degeri": 624281780224,
+"pddd": 1.18,
+"piyasa_degeri": 616574615552,
 "sektor": "Energy",
-"temettu_%": 4.18,
+"temettu_%": 4.16,
 "tur": "EQUITY"
 }
 },
@@ -532,13 +532,13 @@
 }
 },
 "XLP": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "State Street Consumer Staples S",
-"fk": 24.3,
+"fk": 24.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 1.33,
+"pddd": 1.35,
 "piyasa_degeri": 15027510272,
 "sektor": null,
 "temettu_%": 2.46,
@@ -574,7 +574,7 @@
 }
 },
 "XU030.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "BIST 30",
 "fk": null,
@@ -588,7 +588,7 @@
 }
 },
 "XU100.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "BIST 100",
 "fk": null,
@@ -602,14 +602,14 @@
 }
 },
 "YKBNK.IS": {
-"tarih": "2026-11-24",
+"tarih": "2026-11-25",
 "v": {
 "ad": "YAPI VE KREDI BANK.",
-"fk": 613.3,
+"fk": 595.3,
 "fk_tur": "son 12 ay",
 "para_birimi": "TRY",
-"pddd": 1.05,
-"piyasa_degeri": 310851469312,
+"pddd": 1.02,
+"piyasa_degeri": 301728661504,
 "sektor": "Financial Services",
 "temettu_%": 0.0,
 "tur": "EQUITY"
