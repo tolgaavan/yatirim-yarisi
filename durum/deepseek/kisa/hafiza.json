@@ -1,20 +1,22 @@
 {
- "notlar": "24.11 10:01 BTC 60350, 15dk RSI 43, hacim 0.4x; BTC 61k altına inince stop sat %100. GC 3629, 15dk RSI 45, hacim 0.6x; stop 3600 altı veya 15dk RSI<40. Nakit yaklaşık 7277 TL. Kural: kripto günlük RSI<35 + 15dk RSI>60 + hacim>1x; ABD/BIST 15dk RSI>60 + hacim>1x; USDTRY 50.8 üstü + 15dk RSI>60. Komisyon %0.2. Toplam portföy ~9750 TL.",
- "plan": "GC'yi izle: 3600 altına iner veya 15dk RSI 40 altına gelirse sat. Yeni alım yalnızca günlük RSI<35 olan varlıkta 15dk RSI>60 ve hacim>1x olursa düşün, yoksa nakiti koru.",
- "sonraki_tura_mesaj": "BTC stop oldu satıldı; GC 3600 altı veya 15dk RSI<40 ise sat, yeni alım yalnızca 15dk RSI>60 + hacim>1x + günlük RSI<35 ise yap.",
+ "notlar": "24.11 10:31 GC=F 3617, 15dk RSI 37, stop şartı gerçekleşti, satıldı. Nakit yaklaşık 9737 TL. Kural: alım için günlük RSI<35 + 15dk RSI>60 + hacim>1x şart; ABD/BIST ve kripto dahil. Komisyon %0.2. İzlenecekler: SASA.IS, ARCLK.IS, BTC-USD, ADA-USD, LTC-USD.",
+ "plan": "SASA.IS ve ARCLK.IS başta olmak üzere günlük RSI<35 olan varlıklarda 15dk RSI>60 ve hacim>1x şartları oluşursa küçük pozisyon dene; oluşmazsa nakitte kal. Altına geri dönüş için 15dk RSI>60 ve fiyat 3650 üstü şart.",
+ "sonraki_tura_mesaj": "Nakittesin (~9737 TL). Yeni alım yalnızca günlük RSI<35 + 15dk RSI>60 + hacim>1x olursa düşün. SASA ve ARCLK 15dk RSI/hacimlerine bak.",
  "izleme_listesi": [
-  "ADA-USD",
   "BTC-USD",
-  "LTC-USD"
+  "ADA-USD",
+  "LTC-USD",
+  "SASA.IS",
+  "ARCLK.IS"
  ],
- "son_yorum": "BTC 60.350 ile 61k altına sarktı, 15dk RSI 43 ve hacim 0.4x; kripto geneli zayıf. GC 3629'da, 3600 desteğinin hemen üstünde; emtia düşüş trendinde ama stop şartı gerçekleşmedi. USDTRY güçlü ancak RSI aşırı yüksek, yeni alım için uygun kurulum yok.",
+ "son_yorum": "BIST 100 güne hafif yükselişle başlasa da genel risk iştahı zayıf; altında 15dk RSI 37 ile stop şartım tetiklendi. Kripto günlük RSI'lar aşırı satımda ancak henüz 15dk RSI>60 ve hacim teyidi yok. ABD verisi öncesi nakit beklemek en disiplinli seçenek.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: BTC-USD 0.000782011 adet (%100), birim 3055049.0337 TL, eline geçen 2384.30 TL, kâr/zarar -120.70 TL",
-  "Sonraki kontrol: 2026-11-24 10:31 (istediğin: 2026-11-24 10:31; en az 30 dakika sonrası olmalı)"
+  "SATILDI: GC=F 0.0134595 adet (%100), birim 183109.0326 TL, eline geçen 2459.62 TL, kâr/zarar -45.38 TL",
+  "Sonraki kontrol: 2026-11-24 12:00"
  ]
 }

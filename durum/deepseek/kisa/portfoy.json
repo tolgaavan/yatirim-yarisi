@@ -1,12 +1,6 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 7277.008069209615,
- "pozisyonlar": {
-  "GC=F": {
-   "adet": 0.013459479614507752,
-   "maliyet_tl": 2505.0,
-   "son_fiyat_tl": 183314.55865947995
-  }
- },
- "odenen_komisyon_tl": 30.6152466316826
+ "nakit_tl": 9736.631255900105,
+ "pozisyonlar": {},
+ "odenen_komisyon_tl": 35.54435121422867
 }
