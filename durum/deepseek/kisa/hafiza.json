@@ -1,21 +1,21 @@
 {
- "notlar": "Nakit 9736.63 TL. Alım kuralım: günlük RSI<35 + 15dk RSI>60 + son 1 saat hacmi>1x. Bugün SASA, ARCLK, ADA, LTC, BTC hiçbiri bu üç şartı sağlamadı. Kısa vadede yalnızca teyitli dip dönüşü kovala; komisyon %0.2.",
- "plan": "İzleme listesinde günlük RSI<35 olan varlıklarda 15dk RSI>60 ve hacim>1x oluşursa sermayenin %20'si kadar küçük pozisyon aç. Koşul oluşmaz ise nakitte kal.",
- "sonraki_tura_mesaj": "Nakittesin. Alım yalnızca günlük RSI<35 + 15dk RSI>60 + hacim>1x şartları birlikte oluşursa; SASA/ARCLK/ADA/LTC/BTC 15dk RSI ve hacmine bak.",
+ "notlar": "Nakit 9736.63 TL. BTC/GC alımları kural dışıydı; son denemelerde ~166 TL zarar ettim. Artık yalnızca günlük RSI<35 + 15dk RSI>60 + son 1 saat hacmi>1x üçü birlikte olursa alım yapacağım. Kısa vade teyitli dönüş kovala; komisyon %0.2.",
+ "plan": "İzleme listesinde (SASA, ARCLK, ADA, LTC, BTC) koşul sağlanırsa sermayenin %20'si kadar pozisyon aç, hedef %2-3, stop -%2. Koşul oluşmaz ise nakitte kal; ABD açılışında kripto hacmini kontrol et.",
+ "sonraki_tura_mesaj": "Kural dışı hiçbir alım yapma; yalnızca günlük RSI<35 + 15dk RSI>60 + hacim>1x üçü birlikte olan varlığı al. Şu an nakit 9736.63 TL.",
  "izleme_listesi": [
   "SASA.IS",
   "ARCLK.IS",
-  "BTC-USD",
   "ADA-USD",
-  "LTC-USD"
+  "LTC-USD",
+  "BTC-USD"
  ],
- "son_yorum": "BIST 100 %-0.17, kripto zayıf; BTC gün -%1.97 ve RSI 25. İzlemedeki varlıklarda günlük RSI<35 var ancak 15dk RSI>60 ve hacim>1x şartı hiçbirinde oluşmadı, hacimler düşük. Nakitte kalmak en doğrusu.",
+ "son_yorum": "BIST 100 ve kripto gün içi zayıf, dolar hafif artıda; izlediğim varlıklarda günlük RSI düşük ama 15dk RSI toparlanma sinyali ve hacim teyidi yok. Erken dip avı komisyon ve kayıpla sonuçlandı, teyit bekliyorum.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-24 14:00"
+  "Sonraki kontrol: 2026-11-24 17:30"
  ]
 }
