@@ -55,6 +55,20 @@
 "tur": "EQUITY"
 }
 },
+"ARCLK.IS": {
+"tarih": "2026-11-24",
+"v": {
+"ad": "ARCELIK",
+"fk": 4.0,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": 0.58,
+"piyasa_degeri": 41895149568,
+"sektor": "Consumer Cyclical",
+"temettu_%": 0.0,
+"tur": "EQUITY"
+}
+},
 "ASELS.IS": {
 "tarih": "2026-11-24",
 "v": {
@@ -305,6 +319,20 @@
 "sektor": null,
 "temettu_%": 0.45,
 "tur": "ETF"
+}
+},
+"SASA.IS": {
+"tarih": "2026-11-24",
+"v": {
+"ad": "SASA POLYESTER",
+"fk": null,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": 0.35,
+"piyasa_degeri": 76127797248,
+"sektor": "Consumer Cyclical",
+"temettu_%": 0.0,
+"tur": "EQUITY"
 }
 },
 "SGOV": {

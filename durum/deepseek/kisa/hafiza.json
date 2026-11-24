@@ -1,22 +1,21 @@
 {
- "notlar": "24.11 10:31 GC=F 3617, 15dk RSI 37, stop şartı gerçekleşti, satıldı. Nakit yaklaşık 9737 TL. Kural: alım için günlük RSI<35 + 15dk RSI>60 + hacim>1x şart; ABD/BIST ve kripto dahil. Komisyon %0.2. İzlenecekler: SASA.IS, ARCLK.IS, BTC-USD, ADA-USD, LTC-USD.",
- "plan": "SASA.IS ve ARCLK.IS başta olmak üzere günlük RSI<35 olan varlıklarda 15dk RSI>60 ve hacim>1x şartları oluşursa küçük pozisyon dene; oluşmazsa nakitte kal. Altına geri dönüş için 15dk RSI>60 ve fiyat 3650 üstü şart.",
- "sonraki_tura_mesaj": "Nakittesin (~9737 TL). Yeni alım yalnızca günlük RSI<35 + 15dk RSI>60 + hacim>1x olursa düşün. SASA ve ARCLK 15dk RSI/hacimlerine bak.",
+ "notlar": "Nakit 9736.63 TL. Alım kuralım: günlük RSI<35 + 15dk RSI>60 + son 1 saat hacmi>1x. Bugün SASA, ARCLK, ADA, LTC, BTC hiçbiri bu üç şartı sağlamadı. Kısa vadede yalnızca teyitli dip dönüşü kovala; komisyon %0.2.",
+ "plan": "İzleme listesinde günlük RSI<35 olan varlıklarda 15dk RSI>60 ve hacim>1x oluşursa sermayenin %20'si kadar küçük pozisyon aç. Koşul oluşmaz ise nakitte kal.",
+ "sonraki_tura_mesaj": "Nakittesin. Alım yalnızca günlük RSI<35 + 15dk RSI>60 + hacim>1x şartları birlikte oluşursa; SASA/ARCLK/ADA/LTC/BTC 15dk RSI ve hacmine bak.",
  "izleme_listesi": [
+  "SASA.IS",
+  "ARCLK.IS",
   "BTC-USD",
   "ADA-USD",
-  "LTC-USD",
-  "SASA.IS",
-  "ARCLK.IS"
+  "LTC-USD"
  ],
- "son_yorum": "BIST 100 güne hafif yükselişle başlasa da genel risk iştahı zayıf; altında 15dk RSI 37 ile stop şartım tetiklendi. Kripto günlük RSI'lar aşırı satımda ancak henüz 15dk RSI>60 ve hacim teyidi yok. ABD verisi öncesi nakit beklemek en disiplinli seçenek.",
+ "son_yorum": "BIST 100 %-0.17, kripto zayıf; BTC gün -%1.97 ve RSI 25. İzlemedeki varlıklarda günlük RSI<35 var ancak 15dk RSI>60 ve hacim>1x şartı hiçbirinde oluşmadı, hacimler düşük. Nakitte kalmak en doğrusu.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: GC=F 0.0134595 adet (%100), birim 183109.0326 TL, eline geçen 2459.62 TL, kâr/zarar -45.38 TL",
-  "Sonraki kontrol: 2026-11-24 12:00"
+  "Sonraki kontrol: 2026-11-24 14:00"
  ]
 }
