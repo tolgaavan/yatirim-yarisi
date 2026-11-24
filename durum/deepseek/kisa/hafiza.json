@@ -1,20 +1,20 @@
 {
- "notlar": "23.11 19:01 BTC 62.700 USD, 15dk RSI 55, hacim 1.6x; GC 3670 USD, 15dk RSI 62, hacim 1.8x. Stoplara: BTC 61k altı veya 15dk RSI<40; GC 3600 altı veya 15dk RSI<40. Nakit 4.893 TL. Kural: kripto günlük RSI<35 + 15dk RSI>60 + hacim>1x; ABD/BIST 15dk RSI>60 + hacim>1x; USDTRY 50.8 üstü + 15dk RSI>60. Komisyon %0.2.",
- "plan": "Yarın 10:00'da BTC ve GC 15dk RSI/hacim kontrol et. BTC 61k altına iner veya 15dk RSI 40 altına gelirse sat; GC 3600 altına iner veya 15dk RSI 40 altına gelirse sat. Yeni alım yapma, nakiti koru.",
- "sonraki_tura_mesaj": "10:00: BTC 61k/GC 3600 altı veya 15dk RSI<40 ise sat; yeni alım yok.",
+ "notlar": "24.11 10:01 BTC 60350, 15dk RSI 43, hacim 0.4x; BTC 61k altına inince stop sat %100. GC 3629, 15dk RSI 45, hacim 0.6x; stop 3600 altı veya 15dk RSI<40. Nakit yaklaşık 7277 TL. Kural: kripto günlük RSI<35 + 15dk RSI>60 + hacim>1x; ABD/BIST 15dk RSI>60 + hacim>1x; USDTRY 50.8 üstü + 15dk RSI>60. Komisyon %0.2. Toplam portföy ~9750 TL.",
+ "plan": "GC'yi izle: 3600 altına iner veya 15dk RSI 40 altına gelirse sat. Yeni alım yalnızca günlük RSI<35 olan varlıkta 15dk RSI>60 ve hacim>1x olursa düşün, yoksa nakiti koru.",
+ "sonraki_tura_mesaj": "BTC stop oldu satıldı; GC 3600 altı veya 15dk RSI<40 ise sat, yeni alım yalnızca 15dk RSI>60 + hacim>1x + günlük RSI<35 ise yap.",
  "izleme_listesi": [
   "ADA-USD",
-  "SOL-USD",
-  "USDTRY=X",
-  "THYAO.IS"
+  "BTC-USD",
+  "LTC-USD"
  ],
- "son_yorum": "ABD borsaları sert toparlıyor, VIX düşüyor; kripto ve altın da tepki alımında. BTC ve altın 15dk RSI'ları 55/62 ile stop seviyelerinin üzerinde, bu yüzden pozisyonları koruyorum. Günlük kontrol limiti dolduğu için yeni işlem yok.",
+ "son_yorum": "BTC 60.350 ile 61k altına sarktı, 15dk RSI 43 ve hacim 0.4x; kripto geneli zayıf. GC 3629'da, 3600 desteğinin hemen üstünde; emtia düşüş trendinde ama stop şartı gerçekleşmedi. USDTRY güçlü ancak RSI aşırı yüksek, yeni alım için uygun kurulum yok.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-24 10:00"
+  "SATILDI: BTC-USD 0.000782011 adet (%100), birim 3055049.0337 TL, eline geçen 2384.30 TL, kâr/zarar -120.70 TL",
+  "Sonraki kontrol: 2026-11-24 10:31 (istediğin: 2026-11-24 10:31; en az 30 dakika sonrası olmalı)"
  ]
 }
