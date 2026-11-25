@@ -16,8 +16,8 @@
   "neden": "Çarşamba günü piyasa açıkken USDTRY, BIL ve VIX'i kontrol edip hafta ortası riskini değerlendirmek."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-25T17:30:00+03:00",
-  "neden": "BIST kapanışına yakın ve ABD açılışında hacim/RSI teyidi aramak; oluşmazsa nakitte kalınacak."
+  "sonraki": "2026-11-26T10:00:00+03:00",
+  "neden": "BIST açılışı ve gece kripto hareketlerini görmek, kurulum oluşup oluşmadığını kontrol etmek için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-27T17:35:00+03:00",
@@ -48,15 +48,15 @@
   "neden": "Haftalık cuma kontrolü. Şükran Günü'nün ertesi günü ABD piyasası yarım gün açık (İstanbul saatiyle ~21:00'e kadar), bu yüzden 17:45 hem ABD hem BIST verisi için uygun."
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-25T14:31:17+00:00",
+  "sonraki": "2026-11-25T15:01:07+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-25T14:31:17+00:00",
+  "sonraki": "2026-11-25T15:01:07+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/kisa": {
-  "sonraki": "2026-11-25T14:31:17+00:00",
+  "sonraki": "2026-11-25T15:01:07+00:00",
   "neden": "hata, yeniden denenecek"
  }
 }
