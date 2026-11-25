@@ -8,12 +8,12 @@
   "neden": "ABD piyasası açıkken ve Türkiye döviz kurları açıkken USDTRY ile SGOV'u birlikte değerlendirmek için uygun saat."
  },
  "deepseek/orta_riskli": {
-  "sonraki": "2026-11-25T17:45:00+03:00",
-  "neden": "ABD teknoloji toparlanmasını, BTC'nin devamını ve THYAO RSI'sını görmek için piyasaların birlikte açık olduğu saat."
+  "sonraki": "2026-11-27T17:45:00+03:00",
+  "neden": "ABD piyasası yarım gün açık; QQQ/XLP geçişinin etkisini ve BTC/THYAO sinyallerini izlemek için uygun."
  },
  "deepseek/orta_risksiz": {
-  "sonraki": "2026-11-25T17:45:00+03:00",
-  "neden": "Çarşamba günü piyasa açıkken USDTRY, BIL ve VIX'i kontrol edip hafta ortası riskini değerlendirmek."
+  "sonraki": "2026-11-27T17:45:00+03:00",
+  "neden": "Cuma kapanışı öncesi VIX ve ABD borsalarını kontrol edip hafta sonu riskini değerlendirmek."
  },
  "deepseek/kisa": {
   "sonraki": "2026-11-26T10:00:00+03:00",

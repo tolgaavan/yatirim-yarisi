@@ -1,19 +1,19 @@
 {
- "notlar": "BIL: dolar cinsi kısa vadeli Hazine ETF'i; kur koruması ve nakit getirisi. Düşük riskli portföyde hisse, kripto, emtiaya girmiyorum. 23.11: VIX 26.76 (gün -25% ama hâlâ yüksek), S&P gün +4.13%, Nasdaq +5.86%; BIST gün -0.33%, hafta -6.31%. USDTRY RSI 97 aşırı alım, 3ay +5.17%; düzeltme riski var ama BIL'de kalmak yeterli. BIL +0.60% portföyde. TCMB Aralık'ta 100bp indirim sinyali var; TL'de oynaklık olabilir. BIL'de anormal düşüş (günlük >%0.5) veya USDTRY'de >%1 düşüş olursa değerlendir.",
- "plan": "Çarşamba günü BIL, USDTRY ve VIX'i kontrol et. BIL günlük %0.5'ten fazla düşer veya USDTRY %1'den fazla değer kaybederse pozisyonu gözden geçir; aksi halde bekle. VIX 24'ün üzerindeyken riskli varlığa (hisse, kripto, emtia) girme. BIL'in dolar getirisi cazip, komisyon ödememek için işlem yapma.",
- "sonraki_tura_mesaj": "BIL'de kal; USDTRY RSI 97 ile aşırı alım, sert düşüş olursa değerlendir. BIL'de %0.5'ten fazla günlük düşüş veya USDTRY'de %1'den fazla düşüş yoksa işlem yapma.",
+ "notlar": "25.11: VIX 31.72 (gün +%20), ABD satış dalgası sürüyor; S&P -%3, Nasdaq -%4.4, BIST -%2.1. USDTRY RSI 97 aşırı alım, gün +%0.15. BIL +%0.02 stabil. BIL'de kal. BIL günlük >%0.5 düşme veya USDTRY >%1 düşme olursa değerlendir. VIX 24 üzerindeyken riskli varlığa girme. Portföy +%0.78.",
+ "plan": "Cuma 27.11'de BIL, USDTRY, VIX'i kontrol et. BIL günlük %0.5 düşer veya USDTRY %1 değer kaybederse pozisyonu gözden geçir; aksi halde bekle. VIX 24'ün üzerindeyken riskli varlığa girme. Komisyon ödememek için işlem yapma.",
+ "sonraki_tura_mesaj": "BIL'de kal; VIX 31 yüksek. BIL günlük %0.5'ten fazla düşer veya USDTRY %1'den fazla düşerse değerlendir. Yoksa işlem yapma.",
  "izleme_listesi": [
   "BIL",
   "SGOV",
   "USDTRY=X"
  ],
- "son_yorum": "VIX 26.76 ile yüksek sayılır; ABD borsaları sert tepki alsa da risk iştahı kırılgan. BIST zayıf, USDTRY 50.60 ile günlük +0.07% yatay ama RSI 97 aşırı alım. BIL günlük +0.02% ile istikrarlı; düşük riskli duruş korunmalı.",
+ "son_yorum": "ABD'de satış derinleşti, VIX 31.7, S&P -%3, Nasdaq -%4.4; BIST de düşüyor. USDTRY 50.68 ile aşırı alım (RSI 97) ama BIL +%0.02 stabil. Dolar getirisi ve kur koruması cazip; riskli varlıktan uzak duruyorum.",
  "kurgu": {
   "metin": "TL nakitin faiz getirmediği ve enflasyon karşısında eridiği bir ortamda, düşük riskli portföy için sermayenin büyük kısmını ABD kısa vadeli Hazine ETF'i BIL'de tutarak dolar cinsi nakit getirisi ve kur koruması hedefliyorum. Oynak varlıklardan (hisse, kripto, emtia) kaçınıyorum; komisyon maliyetlerini ve oynaklığı minimize eden tek bir likit enstrüman seçiyorum.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-25 17:45"
+  "Sonraki kontrol: 2026-11-27 17:45"
  ]
 }

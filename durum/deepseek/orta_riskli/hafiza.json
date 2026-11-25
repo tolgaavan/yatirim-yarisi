@@ -1,26 +1,26 @@
 {
- "notlar": "Strateji: riskli 1 ay; zorunlu çeşitlilik tam (QQQ, THYAO, USDTRY). QQQ kalan maliyet 3758, bugün +6.1% toparlandı; tut, acil satış yok. THYAO RSI 66, F/K 4.6; RSI 80+ olursa %30 azalt. USDTRY RSI 97 aşırı, 51 üzeri tut, altında da TL değer kaybı nedeniyle dövizde kal. BTC 200 TL alındı, RSI 34, 6 ay dibine yakın; günlük yeşil devam ederse ekleme. Altın RSI 35, RSI<20 ve günlük yeşil dönerse al. Komisyonlar düşük tutulmalı.",
- "plan": "Çarşamba 17:45'te: BTC günlük yeşil/higher low devam ederse 200 TL daha ekle; QQQ günlük -5% veya RSI 20 altı olursa sat; THYAO RSI 80 üstü ise %30 azalt; USDTRY 51 üzeri ise tut, altında da dövizde kal; altın RSI<20 ve günlük yeşil dönerse küçük al.",
- "sonraki_tura_mesaj": "Bugün 200 TL BTC alındı; çarşamba BTC yeşil teyit, QQQ -5%, THYAO RSI 80 ve USDTRY 51 durumuna göre hareket et.",
+ "notlar": "Strateji: riskli 1 ay; zorunlu çeşitlilik tam. QQQ %30 azaltıldı, XLP alındı; QQQ kalan ~2.35K TL. XLP savunmacı ABD hissesi, RSI 61, ay +5.7. THYAO RSI 59, F/K 4.5, BofA alıyor, tut. USDTRY RSI 97, dolar güçlü, 51 üstü tut. BTC RSI 22, yeşil teyit olmadan ekleme. Komisyonlar düşük tutulmalı.",
+ "plan": "Cuma 17:45'te: QQQ günlük -5% veya RSI<20 olursa kalanı da azalt; XLP günlük %2+ düşerse durdur; THYAO RSI 80+ ise %30 sat; USDTRY 51 üstü ise tut; BTC yeşil gün ve RSI<30 olursa 200 TL ekle.",
+ "sonraki_tura_mesaj": "QQQ %30 satılıp XLP alındı; Cuma XLP/QQQ tepkisi, BTC yeşil teyit, THYAO RSI 80 ve USDTRY 51 durumuna göre hareket et.",
  "izleme_listesi": [
-  "AAPL",
+  "XLP",
   "SPY",
-  "BTC-USD",
-  "ETH-USD",
+  "NVDA",
+  "AAPL",
   "GC=F",
-  "SI=F",
+  "ETH-USD",
   "XU030.IS",
-  "SOL-USD",
-  "NVDA"
+  "SOL-USD"
  ],
- "son_yorum": "ABD'de Nvidia kaynaklı sert toparlanma var (Nasdaq +5.86%, QQQ +6.12%); VIX 26.8'e geriliyor. BTC 63 bin üzeri günlük yeşil, RSI 34 ile dip toparlanması sinyali. BIST zayıf, THYAO -2.2% ama RSI 66 ile momentum korunuyor. USDTRY aşırı alım (RSI 97) ancak TCMB'nin Aralık faiz indirimi beklentisi TL'yi baskılıyor; döviz tutmaya devam.",
+ "son_yorum": "ABD'de PCE sıcak, VIX 31.7 ile risk iştahı bozuk; teknoloji öncülüğünde sert satış var. BIST'te bankacılık zayıf, THYAO nispeten dirençli. Dolar/TL 50.68 ile zirve bölgesinde, enflasyon baskısı sürüyor.",
  "kurgu": {
   "metin": "Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "ALINDI: BTC-USD 6.25609e-05 adet, birim 3196886.3349 TL, tutar 200.00 TL + komisyon 0.40 TL",
-  "Sonraki kontrol: 2026-11-25 17:45"
+  "SATILDI: QQQ 0.0325677 adet (%30), birim 30903.5705 TL, eline geçen 1004.45 TL, kâr/zarar -122.80 TL",
+  "ALINDI: XLP 0.214231 adet, birim 4667.8498 TL, tutar 1000.00 TL + komisyon 2.00 TL",
+  "Sonraki kontrol: 2026-11-27 17:45"
  ]
 }
