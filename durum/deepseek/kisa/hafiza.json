@@ -1,5 +1,5 @@
 {
- "notlar": "Nakit 9736.63 TL. Kural aynı: günlük RSI<35 + 15dk RSI>60 + son 1 saat hacim>1x üçü birlikte olmadan alım yok. 25.11 12:01 itibarıyla ADA RSI15 42/hacim 0.1x, LTC 53/0.5x, BTC 51/0.7x, SASA 42/0.7x, ARCLK 40/0.4x; koşul yok. Disiplin korunuyor.",
+ "notlar": "Nakit 9736.63 TL. 25.11 14:01 itibarıyla ADA 15dk RSI 38/hacim 0.0x, LTC 52/0.1x, BTC 43/0.1x, SASA 46/0.1x, ARCLK 32/0.4x; koşul yok. Kural: günlük RSI<35 + 15dk RSI>60 + son 1 saat hacim>1x üçü birlikte olmadan alım yok.",
  "plan": "ADA, LTC, BTC, SASA, ARCLK için 15dk RSI 60 üstü ve hacim 1x üstü teyidini bekle; oluşursa %20 al, hedef %2-3, stop -%2. Koşul yoksa nakitte kal.",
  "sonraki_tura_mesaj": "Üç koşuldan biri oluştu mu? 15dk RSI>60 ve hacim>1x teyidi olmadan alma.",
  "izleme_listesi": [
@@ -9,13 +9,13 @@
   "SASA.IS",
   "ARCLK.IS"
  ],
- "son_yorum": "BIST 100 gün -%0.64, kripto zayıf; ADA, LTC, BTC günlük RSI aşırı satımda ama 15 dakikalık RSI ve hacim teyidi yok. Alım için acele etmiyorum, sermaye koruma önceliğim.",
+ "son_yorum": "Küresel risk iştahı zayıf: ABD çip hisseleri geriliyor, yatırımcılar Fed öncesi temkinli. BIST 100 satış baskısı altında, kripto ve altın düşüyor. İzlediğim varlıkların hiçbirinde 15dk RSI 60 üzeri ve hacim 1x teyidi yok; bu nedenle işlem yapmıyorum.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-25 14:01"
+  "Sonraki kontrol: 2026-11-25 17:30"
  ]
 }
