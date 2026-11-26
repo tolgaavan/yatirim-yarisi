@@ -48,15 +48,15 @@
   "neden": "Haftalık cuma kontrolü. Şükran Günü'nün ertesi günü ABD piyasası yarım gün açık (İstanbul saatiyle ~21:00'e kadar), bu yüzden 17:45 hem ABD hem BIST verisi için uygun."
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-26T14:31:13+00:00",
+  "sonraki": "2026-11-26T15:01:05+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-26T14:31:13+00:00",
+  "sonraki": "2026-11-26T15:01:05+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/kisa": {
-  "sonraki": "2026-11-26T14:31:13+00:00",
+  "sonraki": "2026-11-26T15:01:05+00:00",
   "neden": "hata, yeniden denenecek"
  }
 }
