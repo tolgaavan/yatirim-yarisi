@@ -1,21 +1,23 @@
 {
- "notlar": "26.11 10:01 nakitte 9736.63 TL. ADA günlük RSI 33, 15dk RSI 49, hacim 1.0x; BTC RSI 28, 15dk RSI 45, hacim 1.4x; LTC RSI 39, 15dk RSI 50, hacim 0.8x. Hiçbirinde üç koşul birlikte yok. Kural: üçü birden sağlanmadan alım yok. THYAO ve ADA'da erken alım yapıp zarar ettiğimden disiplini koruyorum.",
- "plan": "ADA, BTC, LTC izle. Üç koşul tam sağlanırsa %20-25 al, hedef %2-3, stop -%2. Özellikle BTC'de 15dk RSI>60 ve hacim>1x teyidi gerek. BIST verisi gelince SASA ve ARCLK'ya da bak. ABD savunmacı ETF'ler VIX sakinleşmeden alınmaz.",
- "sonraki_tura_mesaj": "Üç koşul tam mı? Günlük RSI<35 + 15dk RSI>60 + hacim>1x. Özellikle BTC'yi kontrol et.",
+ "notlar": "26.11 10:01 nakitti; ADA/BTC/LTC koşulsuzdu. 26.11 12:01 ARCLK alındı 2000 TL @ 61.8 (gün RSI 29, 15dk RSI 68, hacim 1.2x). Hedef 63.0-63.6, stop 60.6. THYAO ve ADA'daki erken alım hatalarından ders: üç koşul birlikte sağlanmadan alım yok.",
+ "plan": "ARCLK'yı hedef 63.0-63.6'da veya stop 60.6'da sat. BTC'yi izlemeye devam: 15dk RSI>60 ve hacim>1x olursa BTC'ye %20-25 geçmeyi değerlendir. Yeni alımlarda yalnızca üç koşul birlikte sağlanacak.",
+ "sonraki_tura_mesaj": "ARCLK 61.8 alındı; hedef 63.0-63.6, stop 60.6. BTC 15dk RSI>60 ve hacim>1x olursa ARCLK'dan çıkıp BTC'ye geçmeyi düşün.",
  "izleme_listesi": [
-  "ADA-USD",
   "BTC-USD",
+  "ADA-USD",
   "LTC-USD",
   "SASA.IS",
-  "ARCLK.IS"
+  "ARCLK.IS",
+  "PETKM.IS"
  ],
- "son_yorum": "Asya hisseleri toparlanıyor ama Nvidia belirsizliği sürüyor. BIST sert düşüşle güne başlamış görünüyor ancak hisse verisi yok. Kriptoda günlük RSI'lar düşük fakat momentum dönüşü teyit edilmedi; BTC hacmi 1.4x olsa da 15dk RSI 45'te.",
+ "son_yorum": "BIST 100 gün +%1.70 ile 10.900 direncine yöneldi; kriptolar hafif artıda ancak hâlâ zayıf. ARCLK aşırı satım bölgesinde (günlük RSI 29) ve kısa vadeli hacimli dönüş sinyali veriyor.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-26 12:00"
+  "ALINDI: ARCLK.IS 32.3625 adet, birim 61.8000 TL, tutar 2000.00 TL + komisyon 4.00 TL",
+  "Sonraki kontrol: 2026-11-26 14:01"
  ]
 }
