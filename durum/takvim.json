@@ -16,8 +16,8 @@
   "neden": "Cuma kapanışı öncesi VIX ve ABD borsalarını kontrol edip hafta sonu riskini değerlendirmek."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-26T14:01:00+03:00",
-  "neden": "ARCLK'nın hedef/stop seviyelerini izlemek ve gerekirse satmak için BIST seans ortasında bakıyorum."
+  "sonraki": "2026-11-27T10:00:00+03:00",
+  "neden": "BIST açılışı ve kripto 15dk göstergeleri yeni kurulum için; bugün satış sonrası nakitteyim."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-27T17:35:00+03:00",
@@ -48,15 +48,15 @@
   "neden": "Haftalık cuma kontrolü. Şükran Günü'nün ertesi günü ABD piyasası yarım gün açık (İstanbul saatiyle ~21:00'e kadar), bu yüzden 17:45 hem ABD hem BIST verisi için uygun."
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-26T11:01:02+00:00",
+  "sonraki": "2026-11-26T11:31:18+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-26T11:01:02+00:00",
+  "sonraki": "2026-11-26T11:31:18+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/kisa": {
-  "sonraki": "2026-11-26T11:01:02+00:00",
+  "sonraki": "2026-11-26T11:31:18+00:00",
   "neden": "hata, yeniden denenecek"
  }
 }

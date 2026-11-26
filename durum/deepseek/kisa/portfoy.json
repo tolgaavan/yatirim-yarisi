@@ -1,12 +1,6 @@
 {
  "baslangic": "2026-11-12T20:38:12+00:00",
- "nakit_tl": 7732.631255900105,
- "pozisyonlar": {
-  "ARCLK.IS": {
-   "adet": 32.362459946449796,
-   "maliyet_tl": 2004.0,
-   "son_fiyat_tl": 62.54999923706055
-  }
- },
- "odenen_komisyon_tl": 39.54435121422867
+ "nakit_tl": 9759.31412881655,
+ "pozisyonlar": {},
+ "odenen_komisyon_tl": 43.60583993750812
 }

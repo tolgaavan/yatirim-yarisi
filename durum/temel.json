@@ -293,6 +293,20 @@
 "tur": "EQUITY"
 }
 },
+"PETKM.IS": {
+"tarih": "2026-11-26",
+"v": {
+"ad": "PETKIM",
+"fk": 3.7,
+"fk_tur": "ileriye dönük",
+"para_birimi": "TRY",
+"pddd": 0.51,
+"piyasa_degeri": 39460605952,
+"sektor": "Basic Materials",
+"temettu_%": 0.0,
+"tur": "EQUITY"
+}
+},
 "PGSUS.IS": {
 "tarih": "2026-11-26",
 "v": {
