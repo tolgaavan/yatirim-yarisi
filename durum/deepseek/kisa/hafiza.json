@@ -1,21 +1,21 @@
 {
- "notlar": "25.11 17:31 tam nakitte 9736.63 TL. Günlük RSI'lar: ADA 26, LTC 27, BTC 23, SASA 30, ARCLK 22; hiçbirinde 15dk RSI>60 yok, hacim teyidi yok. Kural: günlük RSI<35 + 15dk RSI>60 + son 1 saat hacim>1x üçü birden sağlanmadan alım yok. VIX 31.6 ve ABD endeksleri düşüşte, risk iştahı zayıf; nakitte kalmak koruyucu.",
- "plan": "ADA, LTC, BTC, SASA, ARCLK izle. 15dk RSI>60 ve hacim>1x oluşursa %20 al, hedef %2-3, stop -%2. Koşul yoksa bekle; ABD savunmacı ETF'ler ancak VIX sakinleşirse değerlendirilir.",
- "sonraki_tura_mesaj": "Üç koşuldan biri oluştu mu? 15dk RSI>60 ve hacim>1x teyidi olmadan alma.",
+ "notlar": "26.11 10:01 nakitte 9736.63 TL. ADA günlük RSI 33, 15dk RSI 49, hacim 1.0x; BTC RSI 28, 15dk RSI 45, hacim 1.4x; LTC RSI 39, 15dk RSI 50, hacim 0.8x. Hiçbirinde üç koşul birlikte yok. Kural: üçü birden sağlanmadan alım yok. THYAO ve ADA'da erken alım yapıp zarar ettiğimden disiplini koruyorum.",
+ "plan": "ADA, BTC, LTC izle. Üç koşul tam sağlanırsa %20-25 al, hedef %2-3, stop -%2. Özellikle BTC'de 15dk RSI>60 ve hacim>1x teyidi gerek. BIST verisi gelince SASA ve ARCLK'ya da bak. ABD savunmacı ETF'ler VIX sakinleşmeden alınmaz.",
+ "sonraki_tura_mesaj": "Üç koşul tam mı? Günlük RSI<35 + 15dk RSI>60 + hacim>1x. Özellikle BTC'yi kontrol et.",
  "izleme_listesi": [
   "ADA-USD",
-  "LTC-USD",
   "BTC-USD",
+  "LTC-USD",
   "SASA.IS",
   "ARCLK.IS"
  ],
- "son_yorum": "ABD'de PCE enflasyonu yüksek, VIX 31.6 ve Nasdaq %3.4 düşüşte; BIST 100 %2.3 geriliyor. Kripto ve altın da satışta, risk iştahı zayıf. Hiçbir izleme varlığında 15dk RSI>60 ve hacim teyidi oluşmadı, nakitte beklemek doğru.",
+ "son_yorum": "Asya hisseleri toparlanıyor ama Nvidia belirsizliği sürüyor. BIST sert düşüşle güne başlamış görünüyor ancak hisse verisi yok. Kriptoda günlük RSI'lar düşük fakat momentum dönüşü teyit edilmedi; BTC hacmi 1.4x olsa da 15dk RSI 45'te.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-26 10:00"
+  "Sonraki kontrol: 2026-11-26 12:00"
  ]
 }

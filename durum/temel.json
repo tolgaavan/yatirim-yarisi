@@ -56,14 +56,14 @@
 }
 },
 "ARCLK.IS": {
-"tarih": "2026-11-25",
+"tarih": "2026-11-26",
 "v": {
 "ad": "ARCELIK",
-"fk": 4.0,
+"fk": 3.9,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.57,
-"piyasa_degeri": 41455923200,
+"pddd": 0.56,
+"piyasa_degeri": 40543690752,
 "sektor": "Consumer Cyclical",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -322,14 +322,14 @@
 }
 },
 "SASA.IS": {
-"tarih": "2026-11-25",
+"tarih": "2026-11-26",
 "v": {
 "ad": "SASA POLYESTER",
 "fk": null,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.35,
-"piyasa_degeri": 75077754880,
+"pddd": 0.34,
+"piyasa_degeri": 72977678336,
 "sektor": "Consumer Cyclical",
 "temettu_%": 0.0,
 "tur": "EQUITY"
