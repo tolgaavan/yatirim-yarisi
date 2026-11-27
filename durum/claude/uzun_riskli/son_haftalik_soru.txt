@@ -22,26 +22,23 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Uzun vade · riskli
-DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 9,948.05 TL
-Dönem sonu değer: 9,422.21 TL
-Değişim: -525.84 TL (-5.29%)
-Başlangıçtan bu yana: -5.78%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Dönem başı değer: 9,422.21 TL
+Dönem sonu değer: 9,573.61 TL
+Değişim: +151.40 TL (+1.61%)
+Başlangıçtan bu yana: -4.26%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
 Şu anki varlıklar: QQQ, SPY, THYAO.IS, USDTRY=X, XU030.IS
 
 === BAŞLANGIÇ KURGUN ===
 Portföyü üç ana ayak üzerine kuruyorum. Birincisi Borsa İstanbul'dur; TCMB'nin faiz indirim döngüsü sürerken endeks fonu ve bankalar ağırlıkta olacak. İkincisi ABD hisseleridir; dolar bazlı getiri sağlarken TL'nin değer kaybına karşı da koruma sağlar. Üçüncüsü dolar nakittir. Riskli ve 3 aylık bir portföy olduğu için çok az TL nakit tutacağım. Altın ve kriptoya ancak düşüş trendi dönüş sinyali verirse küçük paylarla gireceğim.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-İlk haftamda portföyü planladığım üç ayağa oturttum: ABD büyüme hisseleri için QQQ, döviz payı için dolar, Borsa İstanbul için XU030 ve ucuz değerlemeli Akbank. Sonuç zayıf: portföy 51,95 TL kayıpla %0,52 geriledi. Aynı dönemde BIST 100 %0,36, dolar %0,22 kazandırdı; S&P 500 %0,19, altın %0,04 düştü. Yalnızca Bitcoin'in %3,84'lük düşüşünü geride bıraktım; altın ve kriptoya dönüş sinyali gelmeden girmemem doğru oldu. Yanlışım, QQQ'yu ABD piyasası zayıflarken tek seferde alıp girişi kademelendirmemek ve dört ayrı alımla komisyon yükünü artırmaktı. Tezim değişmedi: faiz indirimleri bankaları, dolar ise TL'nin değer kaybına karşı portföyü destekler. Gelecek hafta Nasdaq düzeltmesinin derinleşip derinleşmediğini, bankaların trendini ve kuru izleyeceğim; gereksiz işlemle komisyon harcamayacağım.
+Zor bir hafta oldu: portföyüm 525,84 TL kayıpla %5,29 geriledi, başlangıçtan bu yana kaybım %5,78. Riskli varlıkların hepsi sert düştü: BIST 100 %6,10, S&P 500 %8,12, altın %8,76, Bitcoin %14,67 kaybetti. Bunların hepsinden az kaybettim ama yalnızca %0,42 kazandıran doları tutmak benden iyi olurdu. Enflasyon beklentisi %30'u aşınca faiz indirimi tezim zayıfladı. Bu yüzden Akbank'ı 66,34 TL zararla satıp dolar geliri olan THYAO'ya geçtim, düşen ABD piyasasına da QQQ yerine daha dengeli SPY ile kademeli ekleme yaptım. Doğrum, dolar payımın kaybı yumuşatması ve alımları kademelendirmekti. Yanlışım, banka tezini geç bırakmak ve Nasdaq zayıflığı belirginken riski erken azaltmamaktı. Gelecek hafta ABD'deki satışın dip yapıp yapmadığını, kuru ve TCMB beklentilerini izleyeceğim. Dip teyidi gelmeden yeni alım yapmayacağım.
 
-=== BU DÖNEMDEKİ TURLARIN (1 tur) ===
-20.11 17:31 — AKBNK'yi satıp parayı dolar geliri olan ve petrol düşüşünden kazanan THYAO'ya aktardım, nakdin bir kısmıyla da düşüşteki ABD piyasasına SPY üzerinden kademeli ekleme yaptım; QQQ, XU030 ve dolar pozisyonlarını koruyorum.
-    SATILDI: AKBNK.IS 12.8297 adet (%100), birim 65.2500 TL, eline geçen 835.46 TL, kâr/zarar -66.34 TL | neden: Enflasyon beklentisi %30'u aşınca faiz indirimi tezi zayıfladı ve banka endeksten kötü gidiyor; bu yüzden XU030 kalırken tek banka riskini taşımaya gerek görmedim.
-    ALINDI: THYAO.IS 2.53435 adet, birim 327.5000 TL, tutar 830.00 TL + komisyon 1.66 TL | neden: THYAO dolar geliri sayesinde TL'deki değer kaybına karşı korur, petrolün aylık %17 düşüşü maliyetini azaltır ve endeks çökerken güçlü kalıyor; benzer tezdeki PGSUS daha küçük ve daha oynak olduğu için onu seçmedim.
-    ALINDI: SPY 0.0124882 adet, birim 36033.9759 TL, tutar 450.00 TL + komisyon 0.90 TL | neden: VIX 30 ve RSI 30 seviyelerinde 3 aylık vade için ABD'ye kademeli ekleme yapıyorum ve yapay zekâ satışından en çok etkilenen QQQ yerine daha dengeli olan SPY'ı seçiyorum.
+=== BU DÖNEMDEKİ TURLARIN (0 tur) ===
+(bu dönemde tur yok)
 
 Haftalık değerlendirmeni JSON olarak ver.

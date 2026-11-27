@@ -22,25 +22,23 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Uzun vade · riskli
-DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 9,913.61 TL
-Dönem sonu değer: 9,382.98 TL
-Değişim: -530.63 TL (-5.35%)
-Başlangıçtan bu yana: -6.17%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Dönem başı değer: 9,382.98 TL
+Dönem sonu değer: 9,531.86 TL
+Değişim: +148.88 TL (+1.59%)
+Başlangıçtan bu yana: -4.68%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
 Şu anki varlıklar: QQQ, USDTRY=X, XU030.IS
 
 === BAŞLANGIÇ KURGUN ===
 Portföyü TL değer kaybına karşı ABD hissesi, döviz ve BIST endeksiyle dengeli kurup kriptoyla riski artırıyorum. Enflasyon ve faiz indirimi beklentisi nedeniyle TL'de kalmak yerine USD cinsi varlıkları ağırlıklandırıyorum. BIST'te endeks fonu, ABD'de QQQ ile büyüme, BTC ile küçük oynaklık alıyorum. Disiplinli haftalık kontrolle komisyonu düşük tutacağım.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-Bu ilk hafta riskli profili kurarken TL'de kalmayıp döviz, ABD büyüme hissesi, BIST endeksi ve küçük Bitcoin pozisyonu aldım. Sonuç: 10,000 TL başlangıçtan 9,913.61 TL'ye geriledim; -86.39 TL, yani -0.86. BIST %0.36 ve dolar %0.22 getirirken, Bitcoin %3.84 düşüşle portföyü aşağı çekti; QQQ'daki sınırlı eksinin de etkisi oldu. Doğru yaptığım şey Bitcoin riskini %10 ile sınırlı tutmak ve BIST/doları zamanında eklemekti. Yanlışım ise aşırı satım sinyaline güvenip Bitcoin'i erken yakalamaya çalışmaktı; komisyonlar da 16 TL ile dönem kaybının bir kısmını oluşturdu. Gelecek hafta ABD borsasındaki teknoloji zayıflığını ve Bitcoin'in tepki verip vermediğini izleyeceğim; kaybedeni inatla tutmayıp, gerekirse QQQ/BTC ağırlığını azaltıp BIST ve dolar tarafını güçlendireceğim.
+Bu hafta portföy 9,913.61 TL'den 9,382.98 TL'ye geriledi; -530.63 TL yani -%5.35. Başlangıçtan bu yana kaybım -%6.17. Aynı dönemde BIST 100 -%6.10, S&P 500 -%8.12, altın -%8.76, Bitcoin -%14.67 oldu; dolar +%0.42 ile sınırlı korudu. BTC'yi satıp XU030'a geçmem kısmen doğruydu çünkü Bitcoin'deki düşüş çok daha sertti; ama XU030 da BIST ile birlikte değer kaybetti, QQQ da kaybettirdi. Yanlışım, riskli varlıklarda fazla kalmak ve BTC zararını bu haftaya taşımaktı. Gelecek hafta ABD teknoloji hisselerindeki zayıflık, BIST'te dip teyidi ve doların gücünü izleyip, kaybedenleri tutmayıp nakit/döviz ağırlığını artıracağım.
 
 === BU DÖNEMDEKİ TURLARIN (1 tur) ===
-20.11 17:31 — BTC'deki zayıf trendi sonlandırıp plana uygun olarak XU030'a 1000 TL ekledim; QQQ ve döviz pozisyonlarını koruyorum.
-    SATILDI: BTC-USD 0.000278816 adet (%100), birim 3138058.1077 TL, eline geçen 873.19 TL, kâr/zarar -128.81 TL | neden: BTC RSI 21 ile düşüş trendinde ve dip teyidi yok, XU030'un aksine daha yüksek risk taşıyor.
-    ALINDI: XU030.IS 0.0716564 adet, birim 13955.4805 TL, tutar 1000.00 TL + komisyon 2.00 TL | neden: XU030 20 günlük ortalama altında ve 6 ay dibine yakın, THYAO'nun aksine daha geniş tabanlı toparlanma sunuyor.
+27.11 17:31 — Pozisyonları koruyarak piyasa toparlanmasının teyidini bekliyorum; USDTRY aşırı alım, QQQ ve XU030 ise henüz net dönüş sinyali vermedi.
 
 Haftalık değerlendirmeni JSON olarak ver.

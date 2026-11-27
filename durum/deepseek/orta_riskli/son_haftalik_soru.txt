@@ -22,27 +22,28 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · riskli
-DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 9,923.13 TL
-Dönem sonu değer: 9,543.70 TL
-Değişim: -379.43 TL (-3.82%)
-Başlangıçtan bu yana: -4.56%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
-Şu anki varlıklar: QQQ, THYAO.IS, USDTRY=X
+Dönem başı değer: 9,543.70 TL
+Dönem sonu değer: 9,601.93 TL
+Değişim: +58.23 TL (+0.61%)
+Başlangıçtan bu yana: -3.98%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
+Şu anki varlıklar: BTC-USD, QQQ, THYAO.IS, USDTRY=X, XLP
 
 === BAŞLANGIÇ KURGUN ===
 Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-Bu hafta portföyü kurarken amacım TL'deki erimeye karşı korunmak ve yüksek betalı varlıklarla sınırlı risk alarak büyümekti. Zorunlu üç ayağı tamamlamak için QQQ, USDTRY ve THYAO aldım; komisyonu yalnızca 19 TL'de tuttum. Ancak sonuç istediğim gibi olmadı: portföy %0.77 düşerek 9,923.13 TL'ye geriledi. Aynı dönemde BIST 100 %0.36, dolar %0.22 yükseldi; S&P 500 ve altın yataya yakın kaldı. Yalnızca Bitcoin %3.84 düştüğü için ona karşı iyi görünüyorum. Yanlışım, QQQ'nun aşırı satım toparlanmasını erken almak ve THYAO'nun endeksten daha iyi performans göstereceğini varsaymaktı. Döviz pozisyonu da henüz TL'deki kaybı telafi edecek kadar prim yapmadı. Gelecek hafta QQQ'da toparlanma teyidi arayacağım; THYAO momentumunu ve doların yönünü izleyip, teyit gelmezse pozisyonları küçültmeyi değerlendireceğim. Disiplinli ve az işlemle kalmaya devam edeceğim.
+Bu hafta piyasalarda sert satış vardı; QQQ'da toparlanma teyidi gelmeyince 20 Kasım'da %25'ini satıp (satıştan -91 TL zararla) fonu USDTRY'ye kaydırarak dolar korumasını güçlendirdim. Sonuçta portföy %3.82 düşüp 9,543.70 TL'ye geriledi ama bu, tüm ana kıyaslardan iyi: BIST %6.10, S&P %8.12, altın %8.76, Bitcoin %14.67 kaybetti; dolar yalnızca %0.42 arttı. Doğrum, panik satmamak ve QQQ riskini azaltıp dövize dönmekti; yanlışım QQQ'daki zayıflığı daha erken teşhis edip pozisyonu daha hızlı küçültmemekti. Gelecek hafta THYAO momentumunu, doların gücünü ve QQQ'daki kalan bölümü izleyeceğim; BTC'ye düşen bıçak teyidi olmadan girmem, disiplini koruyacağım.
 
 === BU DÖNEMDEKİ TURLARIN (3 tur) ===
-16.11 17:31 — İşlem yapmadım; BTC aşırı satımda ancak düşen bıçak teyidi yok, QQQ için panik satışı uygun değil.
-18.11 17:45 — Teyit gelmediği için işlem yapmadım; BTC aşırı satımda ama kırmızı kapanış, QQQ panik satılmayacak seviyede ve zorunlu çeşitlilik tam.
-20.11 17:45 — QQQ'da planlı %25 satışla ABD hisse riskini azaltıp fonu USDTRY'ye ekleyerek döviz korumasını güçlendirdim.
-    SATILDI: QQQ 0.0361864 adet (%25), birim 32161.6542 TL, eline geçen 1161.49 TL, kâr/zarar -91.01 TL | neden: QQQ 20 gün ortalamasının altında ve VIX yüksek olduğundan ABD yoğunluğunu azaltıyorum; SPY'ye geçmek yerine döviz korumasına dönüyorum.
-    ALINDI: USDTRY=X 22.9377 adet, birim 50.5717 TL, tutar 1160.00 TL + komisyon 2.32 TL | neden: Dolar endeksi 19 ay zirvesinde ve TL değer kaybı sürdüğü için QQQ'dan gelen fonu USDTRY'ye aktarıyorum; EURTRY'ye göre dolar tarafı daha güçlü.
+23.11 17:45 — BTC günlük yeşil toparlanma teyidiyle plana sadık 200 TL alım yaptım; QQQ, THYAO ve USDTRY mevcut tezlere uygun, satış yok.
+    ALINDI: BTC-USD 6.25609e-05 adet, birim 3196886.3349 TL, tutar 200.00 TL + komisyon 0.40 TL | neden: BTC günlük yeşil toparlanma ve RSI 34 ile plan gereği lider kriptoya küçük giriş; ETH yerine BTC daha likit ve güvenli liman.
+25.11 17:45 — QQQ'daki teknoloji riskini azaltıp savunmacı XLP'ye geçerek portföyü piyasa satışına karşı dengeledim.
+    SATILDI: QQQ 0.0325677 adet (%30), birim 30903.5705 TL, eline geçen 1004.45 TL, kâr/zarar -122.80 TL | neden: QQQ teknoloji yoğunluğunu azaltıp yüksek betalı riski düşürmek için satıyorum; SPY yerine XLP savunmacı çünkü SPY da büyümeye duyarlı ve düşüşte.
+    ALINDI: XLP 0.214231 adet, birim 4667.8498 TL, tutar 1000.00 TL + komisyon 2.00 TL | neden: ABD hissesi zorunluluğunu koruyup savunmacı tüketiciye geçmek için XLP alıyorum; QQQ'nun teknoloji betasına karşı XLP'nin düşük oynaklığı daha uygun.
+27.11 17:46 — Plan tetiklenmedi; piyasalarda sınırlı toparlanma var ama komisyon ödememek için mevcut pozisyonları koruyup bekliyorum.
 
 Haftalık değerlendirmeni JSON olarak ver.

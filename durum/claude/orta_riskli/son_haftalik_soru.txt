@@ -22,28 +22,23 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · riskli
-DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 9,948.21 TL
-Dönem sonu değer: 9,451.56 TL
-Değişim: -496.65 TL (-4.99%)
-Başlangıçtan bu yana: -5.48%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Dönem başı değer: 9,451.56 TL
+Dönem sonu değer: 9,530.83 TL
+Değişim: +79.27 TL (+0.84%)
+Başlangıçtan bu yana: -4.69%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
 Şu anki varlıklar: AKBNK.IS, QQQ, SPY, USDTRY=X, XU030.IS
 
 === BAŞLANGIÇ KURGUN ===
 Portföyü üç ayak üzerine kuruyorum. Dolar bazlı ABD büyüme hisseleri hem şirket kazancı hem de TL'nin değer kaybına karşı koruma sağlıyor. BIST tarafında aralıkta beklenen faiz indirimine duyarlı bir endeks ve banka ağırlığı tutuyorum. Bunlara küçük bir döviz nakit tamponu ekliyorum. Riskli profilde aşırı satılmış ama tezi bozulmamış varlıklara kademeli giriyorum ve tezi bozulanı hızla kesiyorum.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-İlk haftayı -%0,52 ile kapattım; 10.000 TL'lik portföy 9.948,21 TL'ye indi. Bitcoin'in (-%3,84) önündeyim ama BIST 100 (+%0,36), dolar (+%0,22), altın (-%0,04) ve S&P 500'ün (-%0,19) gerisinde kaldım. Bu zayıf bir başlangıç. Tezim üç ayaklı: düzeltme yemiş Nasdaq'a QQQ ile dolar bazlı giriş, faiz indirimine duyarlı BIST 30 ve Akbank, TL erimesine karşı dolar tamponu. Kaybın bir kısmı kuruluş komisyonlarından, bir kısmı ABD piyasasındaki geri çekilmeden geldi. Tek hisse yerine sepet seçmem ve dolar tamponu doğru kararlardı. Yanlışım, düşüş sürerken QQQ'ya tek seferde büyük girmek oldu; kademeli girmeliydim. Gelecek hafta Nasdaq'ın toparlanıp toparlanmadığını, TCMB'nin aralık sinyallerini ve bankaların tepkisini izleyeceğim. Gereksiz al-sat yapmayacağım ama tez bozulursa pozisyonu keserim.
+Haftayı -%4,99 ile kapattım. Portföy 9.948,21 TL'den 9.451,56 TL'ye indi, başlangıçtan beri -%5,48'deyim. Sert bir küresel satış haftasında BIST 100 (-%6,10), S&P 500 (-%8,12), altın (-%8,76) ve Bitcoin'in (-%14,67) önünde kaldım ama doların (+%0,42) gerisindeyim. Kayıp gerçek ve bunu küçümsemiyorum. NVIDIA bilançosunu ve ABD faizini izleyip acele etmedim. QQQ 650$ altına inince planıma uyup üçte birini SPY'a çevirdim ve bu satışta -70,45 TL zarar realize ettim. Bekleyen nakdi de dolara geçirdim. Doğrum, dağıtılmış yapı ve panik yapmamaktı; bu sayede düşüşü piyasadan hafif atlattım. Yanlışım, teknoloji yoğunluğunu düşüşten önce azaltmamak ve nakdi geç dolara çevirmekti. Gelecek hafta ABD 10 yıllık faizinde %5,3 alarmını, Nasdaq'ın toparlanıp toparlanmadığını, TCMB'nin aralık sinyallerini ve BIST stop seviyelerimi izleyeceğim.
 
-=== BU DÖNEMDEKİ TURLARIN (3 tur) ===
-16.11 17:31 — İşlem yapmadım: ABD 10 yıllık faizi %5,13 ile kesme eşiğimin (%5,3) altında, Bitcoin'in RSI'ı henüz toparlanmadı, NVIDIA bilançosu bu hafta yazı-tura gibi; 481 TL nakdi bilanço sonrası fırsat için yedekte tutuyorum.
-18.11 17:31 — İşlem yapmadım: ABD 10 yıllık faizi %5,09 ile %5,3 alarmının altında, NVDA bilanço sonrası henüz 20 günlük ortalamasını geri almadı, BTC aşırı satımdan dönmedi, BIST zarar sınırına uzak; 481 TL nakdi akşamki Fed tutanaklarını görene kadar Cuma'ya bekletiyorum, çünkü iki günlük TL erimesi komisyondan ucuz.
-20.11 17:31 — QQQ 650$ altına indiği için plana uyup QQQ'nun üçte birini daha dengeli SPY'a çevirdim, bekleyen 481 TL nakdi dolara geçirdim; BIST pozisyonları stop seviyesinin üstünde olduğu için tutuluyor.
-    SATILDI: QQQ 0.0286596 adet (%33), birim 32218.9263 TL, eline geçen 921.53 TL, kâr/zarar -70.45 TL | neden: Satışın merkezi teknoloji ve yarı iletkenler olduğu için QQQ'daki yoğunlaşmayı azaltıyorum; tamamen çıkmak ise olası bir toparlanmayı kaçırtır.
-    ALINDI: SPY 0.0255315 adet, birim 36033.9759 TL, tutar 920.00 TL + komisyon 1.84 TL | neden: Dolar bazlı ABD hisse payını korurken defansif sektörleri de (temel tüketim, sağlık) içeren SPY'a geçiyorum; NVDA gibi tek bir yarı iletken hissesi ise düşen bıçak ve riski fazla yoğunlaştırır.
-    ALINDI: USDTRY=X 9.39218 adet, birim 50.5740 TL, tutar 475.00 TL + komisyon 0.95 TL | neden: Nakit faiz getirmezken TL ayda yaklaşık %2 eriyor ve dolar endeksi güçlü; euroyu seçmedim çünkü EURUSD düşüş trendinde.
+=== BU DÖNEMDEKİ TURLARIN (0 tur) ===
+(bu dönemde tur yok)
 
 Haftalık değerlendirmeni JSON olarak ver.

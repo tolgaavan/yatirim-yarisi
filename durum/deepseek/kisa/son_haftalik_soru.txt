@@ -22,47 +22,50 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Kısa vade · al-sat
-DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,000.00 TL
-Dönem sonu değer: 9,902.70 TL
-Değişim: -97.30 TL (-0.97%)
-Başlangıçtan bu yana: -0.97%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Dönem başı değer: 9,902.70 TL
+Dönem sonu değer: 9,759.31 TL
+Değişim: -143.39 TL (-1.45%)
+Başlangıçtan bu yana: -2.41%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
 Şu anki varlıklar: yok (tamamı nakit)
 
 === BAŞLANGIÇ KURGUN ===
 Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-Bu hafta nakitte kalarak %0.00 getiri ile sermayeyi korudum. BIST 100 +%0.36 ve dolar +%0.22 getirirken ben kaçırdım; altın %-0.04 ile yatay kalırken S&P 500 %-0.19 ve Bitcoin %-3.84 düştü. Açılışlarda ve kriptoda net sinyal görmediğim için işlem yapmadım; doğru taraf, zorlama alım yapıp komisyon ödememekti, ancak BIST’teki sınırlı yükselişi değerlendirememek fırsat maliyeti oldu. Gelecek hafta THYAO hacim şartını, kriptoda 15 dakikalık RSI/hacim teyidini ve ABD açılışını izleyip yalnızca yüksek olasılıklı kurulumda en fazla iki varlığa gireceğim.
+Bu hafta piyasa genelinde sert düşüş yaşanırken nakitte kalma disiplini sayesinde ana sermayeyi büyük ölçüde korudum. 17.11'de THYAO'da plan şartları oluşunca %20 pozisyon aldım, ancak BIST 100'ün zayıflaması ve hissenin aşırı uzaması nedeniyle 20.11'de 324.25'ten satarak 21.75 TL zarar ettim. ADA'da kısa vadeli momentum sinyaliyle 2000 TL'lik deneme yaptım, fakat stop altına sarkınca 75.54 TL zararla çıktım. Toplamda dönemi %-0.97 (97.30 TL) kayıpla kapattım. Aynı dönemde BIST 100 %-6.10, S&P 500 %-8.12, altın %-8.76, Bitcoin %-14.67 değer kaybederken dolar yalnızca %+0.42 getirdi; yani göreceli olarak sermayeyi korumak doğruydu. Yanlış taraf, ADA'daki momentumun piyasa genel düşüşü karşısında tutunamayacağını yeterince hızlı değerlendirememekti. Gelecek hafta aynı disiplinle yalnızca yüksek olasılıklı, hacim ve RSI teyidi net olan kurulumlarda işlem yapacağım; özellikle BIST ve kriptoda zayıf sinyallerde pozisyon açmayıp stopları dar tutacağım.
 
-=== BU DÖNEMDEKİ TURLARIN (21 tur) ===
-16.11 10:01 — Şartlar oluşmadığı için işlem yapmadım, 12:00'da BIST ve kripto teyidini bekliyorum.
-16.11 12:01 — 12:00 kontrolünde ETH/SOL ve THYAO için belirlediğim RSI/hacim teyit şartları oluşmadığı için nakitte kaldım.
-16.11 15:01 — Kurulum şartları oluşmadığı için nakitte kalıp komisyon ödemedim.
-16.11 17:45 — ETH/SOL'de hacim teyidi sağlanmadığı, THYAO'da hacim çok zayıf kaldığı için işlem yapmayıp nakitte kalmaya devam ettim.
-16.11 18:15 — Plandaki alım şartları oluşmadı; QQQ/SPY 15dk RSI 24-26 ve kriptoda RSI 60 üzeri yok, nakitte kalıyorum.
-17.11 10:01 — Nakitte kaldım; THYAO verisi henüz oluşmadı, kriptoda düşüş trendi ve düşük RSI nedeniyle yüksek olasılıklı kurulum yok.
-17.11 11:01 — THYAO'da planlanan hacim/RSI koşulu oluştuğu için %20 alım yaptım.
-    ALINDI: THYAO.IS 6.12557 adet, birim 326.5000 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: THYAO 15 dakikalık hacmi 2.0 katı ve RSI 65 ile plan şartını sağladı; PGSUS daha hızlı yükselse de günlük RSI'si 73 ile daha riskli olduğundan THYAO alıyorum.
-17.11 12:01 — THYAO plan şartlarını sağlamadığı için pozisyonu koruyorum; PGSUS'a geçiş iki yönlü komisyon ve aşırı alım riski nedeniyle cazip değil.
-17.11 13:01 — THYAO'da planlanan satış koşulu oluşmadı ve PGSUS henüz alım bölgesinde değil; komisyon ödememek için bekliyorum.
-17.11 17:45 — THYAO stop 320 üzerinde olduğu için bekledim; 320 altına inerse satacağım.
-18.11 10:01 — BIST verisi henüz gelmediği için THYAO'ya dokunmuyor, kriptoda SOL/XRP'yi teyit için izlemeye alıyorum.
-18.11 10:30 — THYAO 320 stop ve 340 hedef aralığında kaldı; kriptoda hacim teyidi oluşmadığı için yeni alım yapmadan bekliyorum.
-18.11 13:01 — THYAO stop ve hedef tetiklenmedi, kriptoda hacim teyidi yok; pozisyonu koruyup bekliyorum.
-18.11 17:45 — THYAO 320 stop veya 340 hedef tetiklenmedi; endeks zayıf ama pozisyonu taşımak disiplinli, işlem yok.
-19.11 10:01 — THYAO verisi gecikmeli/kapalı olduğundan işlem yapmadım; kriptoda düşük hacim sinyali yok, nakitte bekliyorum.
-19.11 10:31 — THYAO hedefe ulaşmadığı ve kriptoda hacim teyidi oluşmadığı için işlem yapmadan bekledim.
-19.11 11:01 — THYAO hedefe yaklaşmadığı ve kriptoda hacim teyidi olmadığı için işlem yapmadan bekliyorum.
-19.11 13:31 — THYAO 328.0 ile 330 altında ve saatlik hacim normalin 0.4 katı; planımdaki satış veya alış koşulları oluşmadı, bekliyorum.
-19.11 16:30 — PLAN gereği ADA'da 15dk RSI 69 + hacim 1.2x sinyali oluştuğu için 2000 TL ile kısa vadeli momentum denemesi açtım.
-    ALINDI: ADA-USD 254.834 adet, birim 7.8482 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: ADA'da 15dk RSI 69 ve saatlik hacim 1.2x ile kısa vadeli momentum teyidi var; XRP'de hacim 0.9x kaldığı için ADA'yı seçiyorum.
-20.11 10:01 — ADA stop altına sarktığı için tamamını satıp nakde geçiyorum; THYAO kapalı olduğundan bekliyorum.
-    SATILDI: ADA-USD 254.834 adet (%100), birim 7.5827 TL, eline geçen 1928.46 TL, kâr/zarar -75.54 TL | neden: ADA 0.1520 stop altına sarktı ve hacim/RSI teyidi bozuldu; THYAO kapalı olduğu için alternatiften zayıf, stop disiplinini uyguluyorum.
-20.11 12:01 — THYAO'yu satıp tamamen nakite geçtim; piyasa riski yüksek, yeni alım için sinyal bekliyorum.
-    SATILDI: THYAO.IS 6.12557 adet (%100), birim 324.2500 TL, eline geçen 1982.25 TL, kâr/zarar -21.75 TL | neden: BIST 100 sert düşerken THYAO'nun 20 günlük ortalamaya göre +%11.6 uzamış olması ve 15dk RSI'ın 40'ta zayıf kalması nedeniyle; alternatifi USDTRY aşırı alım (RSI 97) olduğu için TL nakitte beklemek.
+=== BU DÖNEMDEKİ TURLARIN (22 tur) ===
+23.11 10:01 — Nakitte kaldım çünkü kriptoda 15dk RSI yükselse de hacim teyidi yok, USDTRY 50.8 altında ve THYAO verisi henüz yok.
+23.11 11:01 — Net kurulum olmadığı için nakitte bekliyorum; GARAN'ı izleme listesine ekledim.
+23.11 13:01 — Tetikleyici kurulum oluşmadı; hacim düşüklüğü nedeniyle nakitte kalmayı sürdürüyorum.
+23.11 17:45 — BTC ve altında aşırı satım sonrası yüksek hacimli tepki sinyali nedeniyle iki küçük pozisyon açıyorum.
+    ALINDI: BTC-USD 0.000782011 adet, birim 3196886.3349 TL, tutar 2500.00 TL + komisyon 5.00 TL | neden: BTC günlük RSI 34 ile aşırı satımda, 15dk RSI 64 ve 7.3 kat hacim teyidi var; SOL'dan daha derin düzeltme nedeniyle tercih ettim.
+    ALINDI: GC=F 0.0134595 adet, birim 185742.6937 TL, tutar 2500.00 TL + komisyon 5.00 TL | neden: Altında 15dk RSI 67 ve 3.4 kat hacimle aşırı satım dönüş sinyali var; gümüşten daha yüksek likidite ve daha az volatilite sunduğu için seçtim.
+23.11 19:01 — İki pozisyon da stop seviyelerinin üzerinde kaldığı için işlem yapmadan bekliyorum; günlük kontrol limiti dolduğu için sıradaki kontrol yarın sabaha kaldı.
+24.11 10:01 — BTC 61k altına indiği için stop satışı yaptım; GC 3600 üstünde olduğu için bekliyorum.
+    SATILDI: BTC-USD 0.000782011 adet (%100), birim 3055049.0337 TL, eline geçen 2384.30 TL, kâr/zarar -120.70 TL | neden: BTC 61k altına inerek stop şartımı tetikledi; alternatifi ETH'ye göre toparlanma sinyali daha zayıf ve 15dk RSI 40 üzerinde olmasına rağmen hacim düşük.
+24.11 10:31 — GC=F pozisyonunu 15dk RSI 40 altına indiği için stopla sattım; yeni alım şartları oluşmadığından nakitte bekliyorum.
+    SATILDI: GC=F 0.0134595 adet (%100), birim 183109.0326 TL, eline geçen 2459.62 TL, kâr/zarar -45.38 TL | neden: 15dk RSI 40 altına inerek stop şartımı tetikledi; altını tutmaya devam etmek yerine stop disiplinini uygulayıp nakitte kalıyorum.
+24.11 12:01 — Alım şartları oluşmadığı için nakitte kalmayı sürdürüyorum.
+24.11 14:01 — Kurulum şartları oluşmadığı için nakitte kaldım; BTC/GC zararlarını çıkardım, teyitsiz dip avına girmeyeceğim.
+24.11 17:31 — İzleme listesindeki hiçbir varlıkta üç koşul birlikte sağlanmadığı için işlem yapmadım, nakitte kalmaya devam ediyorum.
+25.11 10:01 — Üç koşulun hiçbiri oluşmadı; nakitte kalıyorum.
+25.11 12:01 — Üç alım koşulu (günlük RSI<35, 15dk RSI>60, hacim>1x) hiçbir izleme varlığında oluşmadığı için nakitte kalıyorum.
+25.11 14:01 — Teyit koşulları (15dk RSI>60 ve hacim>1x) oluşmadığı için nakitte kalmayı sürdürüyorum.
+25.11 17:31 — Alım için üç koşul da oluşmadığından nakitte kalıyorum; piyasa genel satış dalgasında sermayeyi korumak öncelik.
+26.11 10:01 — Üç koşuldan hiçbiri tam sağlanmadığı için (günlük RSI<35 + 15dk RSI>60 + hacim>1x) nakitte kalmaya devam ediyorum.
+26.11 12:01 — ARCLK'da günlük RSI 29, 15dk RSI 68 ve hacim 1.2x ile üç koşul sağlandığı için %20 pozisyon aldım.
+    ALINDI: ARCLK.IS 32.3625 adet, birim 61.8000 TL, tutar 2000.00 TL + komisyon 4.00 TL | neden: ARCLK'da günlük RSI 29, 15dk RSI 68 ve hacim 1.2x üç koşulu birden sağladığı için BTC'nin 15dk RSI 60'ı aşmaması nedeniyle alternatif olarak ARCLK'yı seçiyorum.
+26.11 14:01 — ARCLK'yı hedefe yaklaşırken 15dk RSI 79 aşırı alımda olduğu için satıp nakite dönüyorum.
+    SATILDI: ARCLK.IS 32.3625 adet (%100), birim 62.7500 TL, eline geçen 2026.68 TL, kâr/zarar +22.68 TL | neden: ARCLK hedef bölgeye yaklaştı, 15dk RSI 79 aşırı alımda ve hacim teyidi zayıf; SASA/PETKM gibi alternatiflerde de gün içi aşırı uzama var, bu yüzden nakite geçiyorum.
+27.11 10:01 — BTC alım koşulu hacim düşük olduğu için oluşmadı; nakitte kalıp teyit bekliyorum.
+27.11 14:01 — BTC alım koşulları oluşmadığı için işlem yapmadım; BIST banka hisselerini izlemeye alıp 16:00'da tekrar bakacağım.
+27.11 16:01 — Koşullar oluşmadığı için nakitte kalmaya devam ediyorum; AKBNK/YKBNK ve BTC'de alım sinyali bekliyorum.
+27.11 17:01 — Plana uygun teyitli alım sinyali oluşmadığı için nakitte kalmaya devam ediyorum.
+27.11 17:31 — Plan şartları (BTC 15dk RSI>60/hacim>1x; bankalarda günlük RSI<35+15dk RSI>60+hacim>1x) oluşmadığı için nakitte kalmaya devam ettim.
 
 Haftalık değerlendirmeni JSON olarak ver.

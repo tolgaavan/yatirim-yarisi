@@ -22,24 +22,23 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Uzun vade · risksiz
-DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,001.77 TL
-Dönem sonu değer: 10,047.45 TL
-Değişim: +45.68 TL (+0.46%)
-Başlangıçtan bu yana: +0.47%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Dönem başı değer: 10,047.45 TL
+Dönem sonu değer: 10,092.90 TL
+Değişim: +45.45 TL (+0.45%)
+Başlangıçtan bu yana: +0.93%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
 Şu anki varlıklar: SGOV
 
 === BAŞLANGIÇ KURGUN ===
 Önceliğim sermayeyi korumak ve TL'nin değer kaybına karşı istikrarlı getiri sağlamak. Kuralda TL nakit faiz getirmiyor. Bu yüzden portföyün çekirdeğini %5 civarı faiz ödeyen ABD kısa vadeli hazine bonosu fonuna (SGOV) koydum; böylece hem dolar faizi hem kur getirisi alıyorum. Hisse, kripto ve gümüş gibi oynak varlıklara ya hiç girmiyorum ya da çok sınırlı ve yalnızca net bir fırsat olduğunda giriyorum.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-Bu ilk haftada önceliğim sermayeyi korumaktı. Paranın büyük kısmını kısa vadeli ABD hazine bonosu fonu SGOV'a koydum: önce 8.500 TL, sonra 1.000 TL. Faiz getirmeyen TL yerine dolar faizi ile kur getirisini birlikte almak istedim. Faiz riski taşıyan TLT ve SHY'yi bu yüzden seçmedim. Sonuç: portföy +1,77 TL (+%0,02). Bitcoin (-%3,84), S&P 500 (-%0,19) ve altının (-%0,04) önündeyim. Ancak sadece dolar tutmanın (+%0,22) ve BIST 100'ün (+%0,36) gerisinde kaldım. Dolardan geri kalmamın ana nedeni toplam 19 TL komisyon ve faizsiz bekleyen ~480 TL nakit. Bu kısa sürede komisyon getiriyi yedi; uzun vadede faizin bunu telafi etmesini bekliyorum. Gelecek hafta gereksiz işlem yapmayacağım. Altında belirlediğim giriş koşulu (RSI<35 ve toparlanma) oluşmazsa kalan nakdi de SGOV'a aktaracağım. Dolar/TL'yi ve ABD faiz beklentilerini izleyeceğim.
+Tezim aynıydı: sermayeyi korumak ve TL'ye karşı dolar faizi almak. Altında beklediğim dönüş sinyali gelmedi, düşüş sürdü. Plana uyup 20.11'de bekleyen 479 TL nakdi 0,96 TL komisyonla SGOV'a ekledim. Artık portföyün neredeyse tamamı kısa vadeli ABD hazine bonosunda. Sonuç: +45,68 TL (+%0,46), başlangıçtan bu yana +%0,47. Sert satış haftasında BIST 100 (-%6,10), S&P 500 (-%8,12), altın (-%8,76) ve Bitcoin'in (-%14,67) çok önündeyim. Dolar tutmayı (+%0,42) ise ancak az farkla geçtim. Doğrum, düşen altına erken girmemek ve oynak varlıklardan uzak durmaktı. Yanlışım, kalan nakdi haftanın sonuna kadar faizsiz bekletmekti. Getirinin çoğu kurdan geliyor, yani kazanç hâlâ mütevazı. Gelecek hafta gereksiz işlem yapmayacağım. Dolar/TL'yi, Fed faiz beklentilerini ve altında RSI<35 ile toparlanma koşulunu izleyeceğim.
 
-=== BU DÖNEMDEKİ TURLARIN (1 tur) ===
-20.11 17:45 — Altın dönüş sinyali vermeden düşmeye devam ettiği için plana uyup faizsiz bekleyen 481 TL nakdi SGOV'a ekledim ve portföyün neredeyse tamamını dolar bazlı hazine bonosunda topladım.
-    ALINDI: SGOV 0.0941239 adet, birim 5089.0352 TL, tutar 479.00 TL + komisyon 0.96 TL | neden: Faiz getirmeyen TL nakdi, dolar faizi ve kur artışı sağlayan SGOV'a aktardım; altın düşüşü durmadığı için GLD'yi, faiz oynaklığı nedeniyle de TLT'yi seçmedim.
+=== BU DÖNEMDEKİ TURLARIN (0 tur) ===
+(bu dönemde tur yok)
 
 Haftalık değerlendirmeni JSON olarak ver.

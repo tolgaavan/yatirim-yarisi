@@ -22,25 +22,25 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · risksiz
-DÖNEM: 14.11 00:15 - 21.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
-Dönem başı değer: 10,004.21 TL
-Dönem sonu değer: 10,051.95 TL
-Değişim: +47.74 TL (+0.48%)
-Başlangıçtan bu yana: +0.52%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -6.10%, S&P 500 -8.12%, Altın -8.76%, Bitcoin -14.67%, Dolar +0.42%
+Dönem başı değer: 10,051.95 TL
+Dönem sonu değer: 10,097.30 TL
+Değişim: +45.35 TL (+0.45%)
+Başlangıçtan bu yana: +0.97%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
 Şu anki varlıklar: BIL
 
 === BAŞLANGIÇ KURGUN ===
 TL nakitin faiz getirmediği ve enflasyon karşısında eridiği bir ortamda, düşük riskli portföy için sermayenin büyük kısmını ABD kısa vadeli Hazine ETF'i BIL'de tutarak dolar cinsi nakit getirisi ve kur koruması hedefliyorum. Oynak varlıklardan (hisse, kripto, emtia) kaçınıyorum; komisyon maliyetlerini ve oynaklığı minimize eden tek bir likit enstrüman seçiyorum.
 
 === GEÇEN HAFTAKİ DEĞERLENDİRMEN ===
-Bu hafta portföyü neredeyse tamamen ABD kısa vadeli Hazine ETF'i BIL'e taşıdım; TL nakit yerine dolar cinsi getiri ve kur koruması hedefledim. Dönem başındaki 10,000 TL, 4.21 TL artışla 10,004.21 TL'ye çıktı ve getiri +0.04% oldu. Bu kıyaslara göre zayıf: BIST 100 +0.36%, Dolar +0.22% yaptı; altın -0.04%, S&P 500 -0.19%, Bitcoin -3.84%. Doğru yaptığım, oynak varlıklardan uzak durup likit ve düşük riskli bir nakit vekiline bağlı kalmaktı; böylece sert düşüşlerden korundum. Yanlışım ise 19.80 TL komisyon ödeyerek BIL almak, dönem getirisinin büyük kısmını sildi; doların +0.22%'lik kazancının altında kaldım. Gelecek hafta işlem yaparken komisyon maliyetine daha fazla dikkat edeceğim; BIST'in güçlenmesi halinde kaçan fırsat maliyetini izleyeceğim ancak risksiz portföy disiplinini bozmayacağım.
+Bu hafta üç turda da işlem yapmayıp BIL pozisyonunu korudum; dönem sonu değer 10,051.95 TL'ye ulaştı, getiri +0.48% oldu. Aynı dönemde BIST 100 -6.10%, S&P 500 -8.12%, altın -8.76%, Bitcoin -14.67% kaybederken, risksiz duruşum sayesinde portföyü bu satış dalgasından korudum ve doların +0.42% üzerinde getiri elde ettim. Geçen hafta 19.80 TL komisyon ödeyerek getiriyi aşındırma hatamı bu hafta tekrarlamadım; bekleme kararı doğruydu, yanlış bir işlemim olmadı. Gelecek hafta VIX yüksek seyrederse BIL ve dolar kuru korumasını sürdüreceğim, yalnızca komisyonu karşılayacak net bir fırsat görürsem işlem yapacağım.
 
 === BU DÖNEMDEKİ TURLARIN (3 tur) ===
-16.11 17:45 — BIL ve USDTRY istikrarlı seyrettiği için komisyon maliyeti getiriyi aşındırmasın diye işlem yapmadan bekliyorum.
-18.11 17:45 — Piyasalarda oynaklık yüksek, BIL sabit ve dolar kur koruması çalışıyor; komisyon ödemek için neden yok, bekliyorum.
-20.11 17:45 — Risksiz portföyde BIL pozisyonunu koruyorum; piyasalardaki sert satış ve yüksek VIX nedeniyle oynak varlıklara girmiyor, komisyon ödemiyorum.
+23.11 17:45 — BIL'de kalmaya devam; USDTRY ve BIL'de planı bozacak anormal hareket yok, komisyon ödemeden bekliyorum.
+25.11 17:45 — BIL günlük %0.5 düşmediği ve USDTRY %1 değer kaybetmediği için işlem yapmadan bekledim; VIX 31.7 ile yüksek, riskli varlığa girmemeye devam ediyorum.
+27.11 17:46 — BIL ve dolar korumasını sürdürüyorum; tetiklenen bir çıkış koşulu yok, komisyon ödememek için işlem yapmıyorum.
 
 Haftalık değerlendirmeni JSON olarak ver.
