@@ -56,14 +56,14 @@
 }
 },
 "ARCLK.IS": {
-"tarih": "2026-11-26",
+"tarih": "2026-11-27",
 "v": {
 "ad": "ARCELIK",
-"fk": 3.9,
+"fk": 4.0,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.56,
-"piyasa_degeri": 40543690752,
+"pddd": 0.58,
+"piyasa_degeri": 42199224320,
 "sektor": "Consumer Cyclical",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -294,14 +294,14 @@
 }
 },
 "PETKM.IS": {
-"tarih": "2026-11-26",
+"tarih": "2026-11-27",
 "v": {
 "ad": "PETKIM",
 "fk": 3.7,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.51,
-"piyasa_degeri": 39460605952,
+"pddd": 0.5,
+"piyasa_degeri": 39080448000,
 "sektor": "Basic Materials",
 "temettu_%": 0.0,
 "tur": "EQUITY"
@@ -336,14 +336,14 @@
 }
 },
 "SASA.IS": {
-"tarih": "2026-11-26",
+"tarih": "2026-11-27",
 "v": {
 "ad": "SASA POLYESTER",
 "fk": null,
 "fk_tur": "ileriye dönük",
 "para_birimi": "TRY",
-"pddd": 0.34,
-"piyasa_degeri": 72977678336,
+"pddd": 0.35,
+"piyasa_degeri": 75602780160,
 "sektor": "Consumer Cyclical",
 "temettu_%": 0.0,
 "tur": "EQUITY"
