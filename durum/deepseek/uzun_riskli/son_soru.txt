@@ -84,145 +84,123 @@ Satışlar alışlardan önce yapılır. Türkçe yaz.
 
 -----
 
-ŞU AN: 20.11.2026 Cuma 17:31 (İstanbul saati). Portföyün başlangıcından bu yana 7 gün geçti.
+ŞU AN: 27.11.2026 Cuma 17:31 (İstanbul saati). Portföyün başlangıcından bu yana 14 gün geçti.
 
 === GEÇEN TURDAN KENDİNE MESAJ ===
-Zorunlu çeşitlilik tamamlandı: QQQ, BTC, USDTRY, XU030 mevcut. BTC RSI 26 aşırı satım; toparlanma yoksa azalt/değiştir. ABD 10y faizi %5.15, QQQ için baskı unsuru. Nakit yaklaşık 1984 TL.
+BTC tamamen satıldı, XU030'a 1000 TL eklendi. QQQ RSI 32 ve 6 ay dibinde, kırılırsa azalt. USDTRY RSI 97 ile aşırı alım, geri çekilme bekle. Nakit ~1855 TL.
 
 === BAŞLANGIÇ KURGUN ===
 Portföyü TL değer kaybına karşı ABD hissesi, döviz ve BIST endeksiyle dengeli kurup kriptoyla riski artırıyorum. Enflasyon ve faiz indirimi beklentisi nedeniyle TL'de kalmak yerine USD cinsi varlıkları ağırlıklandırıyorum. BIST'te endeks fonu, ABD'de QQQ ile büyüme, BTC ile küçük oynaklık alıyorum. Disiplinli haftalık kontrolle komisyonu düşük tutacağım.
 
-=== GEÇEN HAFTAKİ DEĞERLENDİRMEN (12.11 23:38 - 14.11 00:15) ===
-Portföy 10,000 TL -> 9,914 TL (-0.86%).
-Bu ilk hafta riskli profili kurarken TL'de kalmayıp döviz, ABD büyüme hissesi, BIST endeksi ve küçük Bitcoin pozisyonu aldım. Sonuç: 10,000 TL başlangıçtan 9,913.61 TL'ye geriledim; -86.39 TL, yani -0.86. BIST %0.36 ve dolar %0.22 getirirken, Bitcoin %3.84 düşüşle portföyü aşağı çekti; QQQ'daki sınırlı eksinin de etkisi oldu. Doğru yaptığım şey Bitcoin riskini %10 ile sınırlı tutmak ve BIST/doları zamanında eklemekti. Yanlışım ise aşırı satım sinyaline güvenip Bitcoin'i erken yakalamaya çalışmaktı; komisyonlar da 16 TL ile dönem kaybının bir kısmını oluşturdu. Gelecek hafta ABD borsasındaki teknoloji zayıflığını ve Bitcoin'in tepki verip vermediğini izleyeceğim; kaybedeni inatla tutmayıp, gerekirse QQQ/BTC ağırlığını azaltıp BIST ve dolar tarafını güçlendireceğim.
+=== GEÇEN HAFTAKİ DEĞERLENDİRMEN (14.11 00:15 - 21.11 00:15) ===
+Portföy 9,914 TL -> 9,383 TL (-5.35%).
+Bu hafta portföy 9,913.61 TL'den 9,382.98 TL'ye geriledi; -530.63 TL yani -%5.35. Başlangıçtan bu yana kaybım -%6.17. Aynı dönemde BIST 100 -%6.10, S&P 500 -%8.12, altın -%8.76, Bitcoin -%14.67 oldu; dolar +%0.42 ile sınırlı korudu. BTC'yi satıp XU030'a geçmem kısmen doğruydu çünkü Bitcoin'deki düşüş çok daha sertti; ama XU030 da BIST ile birlikte değer kaybetti, QQQ da kaybettirdi. Yanlışım, riskli varlıklarda fazla kalmak ve BTC zararını bu haftaya taşımaktı. Gelecek hafta ABD teknoloji hisselerindeki zayıflık, BIST'te dip teyidi ve doların gücünü izleyip, kaybedenleri tutmayıp nakit/döviz ağırlığını artıracağım.
 
 === NOTLARIN ===
-Pozisyonlar: QQQ 3000 TL, BTC 1000 TL, USDTRY 1500 TL, XU030 2500 TL, nakit ~1984 TL. Strateji: 3 aylık riskli portföy; TL'yi döviz ve BIST/ABD hissesine yayarak enflasyondan korunma. BTC RSI 26 aşırı satım, pozisyon küçük; 69 bin dolar altına sarkarsa stop değerlendir. ABD 10y faiz %5.15, QQQ üzerinde baskı. Komisyon %0.2, sık işlemden kaçın.
+Pozisyonlar sonrası: QQQ 2798 TL, USDTRY 1506 TL, XU030 3344 TL, nakit ~1855 TL, BTC 0. Strateji: 3 aylık riskli; TL riskini USD ve BIST/ABD hissesiyle dengele. Ders: BTC aşırı satım sinyaline rağmen düşüş trendinde, stop uygulandı; XU030 20g altına inince plana uygun 1000 TL eklendi. ABD 10y faiz %4.99, QQQ'da baskı. Komisyon %0.2, sık işlem yapma.
 
 === PLANIN ===
-20 Kasım'da piyasalar açıkken dengeyi kontrol et. USDTRY geri çekilirse döviz payını koru ya da artır; BTC RSI 26'dan toparlanamazsa %50 sat, QQQ faiz baskısıyla %10 düşerse satmayı düşün. BIST tarafında XU030 20 günlük ortalamanın altına inerse 1000 TL daha ekle.
+27 Kasım'da kontrol: QQQ 6 ay dibini kırarsa yarısını satmayı değerlendir; XU030 20g altına düşerse ekleme yapma; USDTRY geri çekilirse 50.0 altına sarkınca alım yap; BTC 66 bin üzerine toparlanırsa küçük alım düşün ama acele etme.
 
 === GEÇEN TURUN SONUÇLARI ===
-ALINDI: USDTRY=X 29.7845 adet, birim 50.3618 TL, tutar 1500.00 TL + komisyon 3.00 TL
-ALINDI: XU030.IS 0.167999 adet, birim 14881.0195 TL, tutar 2500.00 TL + komisyon 5.00 TL
-Sonraki kontrol: 2026-11-20 17:30
+SATILDI: BTC-USD 0.000278816 adet (%100), birim 3138058.1077 TL, eline geçen 873.19 TL, kâr/zarar -128.81 TL
+ALINDI: XU030.IS 0.0716564 adet, birim 13955.4805 TL, tutar 1000.00 TL + komisyon 2.00 TL
+Sonraki kontrol: 2026-11-27 17:30
 
 === PORTFÖY ===
-Toplam değer: 9,507.90 TL (başlangıç 10,000 TL, -4.92%)
-Nakit: 1,984.00 TL | Ödenen toplam komisyon: 16.00 TL
-- QQQ: 0.0868473 adet, değer 2,798.13 TL, maliyet 3,006.00 TL, kâr/zarar -207.87 TL (-6.92%) | piyasası AÇIK
-- BTC-USD: 0.000278816 adet, değer 874.94 TL, maliyet 1,002.00 TL, kâr/zarar -127.06 TL (-12.68%) | piyasası AÇIK
-- USDTRY=X: 29.7845 adet, değer 1,506.32 TL, maliyet 1,503.00 TL, kâr/zarar +3.32 TL (+0.22%) | piyasası AÇIK
-- XU030.IS: 0.167999 adet, değer 2,344.51 TL, maliyet 2,505.00 TL, kâr/zarar -160.49 TL (-6.41%) | piyasası AÇIK
+Toplam değer: 9,503.00 TL (başlangıç 10,000 TL, -4.97%)
+Nakit: 1,855.19 TL | Ödenen toplam komisyon: 19.75 TL
+- QQQ: 0.0868473 adet, değer 2,841.72 TL, maliyet 3,006.00 TL, kâr/zarar -164.28 TL (-5.47%) | piyasası AÇIK
+- USDTRY=X: 29.7845 adet, değer 1,512.57 TL, maliyet 1,503.00 TL, kâr/zarar +9.57 TL (+0.64%) | piyasası AÇIK
+- XU030.IS: 0.239656 adet, değer 3,293.51 TL, maliyet 3,507.00 TL, kâr/zarar -213.49 TL (-6.09%) | piyasası AÇIK
 
 === ZORUNLU ÇEŞİTLİLİK ===
 Tamam: üç grup da var.
 
 === PORTFÖY DEĞERİ GEÇMİŞİ ===
-12.11 23:38=9,992, 13.11 17:31=9,957
+12.11 23:38=9,992, 13.11 17:31=9,957, 20.11 17:31=9,504
 
 === SON İŞLEMLERİN ===
 12.11 23:38 ALINDI: QQQ 0.0868473 adet, birim 34543.4048 TL, tutar 3000.00 TL + komisyon 6.00 TL
 12.11 23:38 ALINDI: BTC-USD 0.000278816 adet, birim 3586591.6473 TL, tutar 1000.00 TL + komisyon 2.00 TL
 13.11 17:31 ALINDI: USDTRY=X 29.7845 adet, birim 50.3618 TL, tutar 1500.00 TL + komisyon 3.00 TL
 13.11 17:31 ALINDI: XU030.IS 0.167999 adet, birim 14881.0195 TL, tutar 2500.00 TL + komisyon 5.00 TL
+20.11 17:31 SATILDI: BTC-USD 0.000278816 adet (%100), birim 3138058.1077 TL, eline geçen 873.19 TL, kâr/zarar -128.81 TL
+20.11 17:31 ALINDI: XU030.IS 0.0716564 adet, birim 13955.4805 TL, tutar 1000.00 TL + komisyon 2.00 TL
 
 === ENDEKSLER (açık piyasalar) ===
-XU100.IS: 11130.7100 TRY | gün -2.36% hafta -6.01% ay -3.86% 3ay -23.24%
-XU030.IS: 13955.4805 TRY | gün -2.41% hafta -5.99% ay -3.51% 3ay -16.77%
-^GSPC: 7137.1802 puan | gün -0.54% hafta -5.61% ay -6.87% 3ay -6.74% | yalnızca bilgi, alınamaz
-^IXIC: 23554.6152 puan | gün -1.36% hafta -6.29% ay -9.44% 3ay -9.34% | yalnızca bilgi, alınamaz
-^DJI: 49100.7695 puan | gün +0.01% hafta -6.20% ay -7.13% 3ay -8.08% | yalnızca bilgi, alınamaz
-^VIX: 29.7500 puan (oynaklık endeksi) | gün +4.61% hafta +54.15% ay +56.33% 3ay +92.56% | yalnızca bilgi, alınamaz
-^TNX: 4.9860 % (ABD 10 yıllık tahvil faizi) | gün -1.31% hafta -3.26% ay +0.67% 3ay +5.99% | yalnızca bilgi, alınamaz
-
-=== EMTIA (açık piyasalar) ===
-GC=F: 3581.3000 USD (= 181120.6734 TL) | gün -2.83% hafta -7.85% ay -11.80% 3ay -23.77%
-SI=F: 42.0100 USD (= 2124.6137 TL) | gün -5.21% hafta -14.32% ay -23.29% 3ay -38.71%
-CL=F: 81.9800 USD (= 4146.0568 TL) | gün -1.48% hafta -7.43% ay -17.58% 3ay -3.56%
-HG=F: 5.5525 USD (= 280.8121 TL) | gün -1.29% hafta -8.67% ay -12.73% 3ay -15.86%
+XU100.IS: 10962.2803 TRY | gün +2.04% hafta -1.52% ay -1.82% 3ay -23.52%
+XU030.IS: 13742.6797 TRY | gün +2.15% hafta -1.54% ay -1.56% 3ay -16.55%
+^GSPC: 7265.4302 puan | gün +1.15% hafta +1.25% ay -6.18% 3ay -5.79% | yalnızca bilgi, alınamaz
+^IXIC: 23939.4453 puan | gün +1.50% hafta +0.25% ay -9.83% 3ay -9.33% | yalnızca bilgi, alınamaz
+^DJI: 50658.4297 puan | gün +0.95% hafta +3.18% ay -3.46% 3ay -5.42% | yalnızca bilgi, alınamaz
+^VIX: 25.5600 puan (oynaklık endeksi) | gün -4.63% hafta -28.78% ay +48.60% 3ay +56.43% | yalnızca bilgi, alınamaz
 
 === DÖVIZ (açık piyasalar) ===
-USDTRY=X: 50.5740 TRY | gün +0.22% hafta +0.58% ay +1.92% 3ay +5.19%
-EURTRY=X: 55.6127 TRY | gün +0.22% hafta +0.02% ay -0.24% 3ay -0.84%
-EURUSD=X: 1.0990 USD (= 55.5819 TL) | gün +0.17% hafta -0.54% ay -2.18% 3ay -5.81%
+USDTRY=X: 50.7840 TRY | gün +0.21% hafta +0.44% ay +1.92% 3ay +5.21%
+EURTRY=X: 55.6565 TRY | gün -0.18% hafta +0.30% ay -0.06% 3ay -0.77%
+EURUSD=X: 1.0952 USD (= 55.6171 TL) | gün -0.17% hafta -0.16% ay -1.83% 3ay -5.73%
 
 === KRIPTO (açık piyasalar) ===
-BTC-USD: 62048.8398 USD (= 3138058.1077 TL) | gün +0.24% hafta -4.99% ay -19.62% 3ay -23.30%
-ETH-USD: 1755.7900 USD (= 88797.3277 TL) | gün +0.03% hafta -4.34% ay -21.65% 3ay -32.76%
-SOL-USD: 71.4900 USD (= 3615.5352 TL) | gün -2.16% hafta -1.64% ay -25.70% 3ay -36.51%
-BNB-USD: 570.5900 USD (= 28857.0208 TL) | gün -1.55% hafta -4.26% ay -18.88% 3ay -25.02%
-XRP-USD: 0.9496 USD (= 48.0251 TL) | gün -1.06% hafta -2.57% ay -24.30% 3ay -31.98%
+BTC-USD: 61007.9883 USD (= 3098229.7011 TL) | gün +0.85% hafta -0.25% ay -19.46% 3ay -27.40%
+ETH-USD: 1710.3500 USD (= 86858.4138 TL) | gün +1.34% hafta -0.62% ay -23.48% 3ay -36.43%
+SOL-USD: 72.5400 USD (= 3683.8714 TL) | gün +2.27% hafta +2.79% ay -19.45% 3ay -40.55%
+BNB-USD: 559.1400 USD (= 28395.3667 TL) | gün +1.08% hafta +0.11% ay -19.33% 3ay -28.02%
+XRP-USD: 0.9580 USD (= 48.6511 TL) | gün +1.60% hafta +3.30% ay -18.68% 3ay -38.92%
 
 === PORTFÖYÜN VE İZLEME LİSTEN (açık piyasalar) ===
-QQQ: 637.0650 USD (= 32218.9263 TL) | gün -1.24% hafta -6.30% ay -9.57% 3ay -9.81%
-THYAO.IS: 327.5000 TRY | gün -0.23% hafta +2.26% ay +23.58% 3ay +8.99%
-SPY: 712.5000 USD (= 36033.9759 TL) | gün -0.47% hafta -5.55% ay -6.74% 3ay -6.68%
+QQQ: 644.3150 USD (= 32720.8933 TL) | gün +1.64% hafta -0.11% ay -11.20% 3ay -10.07%
+THYAO.IS: 310.7500 TRY | gün +0.32% hafta -5.55% ay +23.07% 3ay +2.81%
+SPY: 725.2300 USD (= 36830.0796 TL) | gün +1.19% hafta +1.31% ay -6.10% 3ay -5.73%
 
 === ANALİZ: PORTFÖYÜN VE İZLEME LİSTEN ===
 QQQ (Invesco QQQ Trust, Series 1)
-  teknik: RSI14 32 | 20 günlük ortalamaya göre -6.80% | 50 günlük ortalamaya göre -10.70% | 6 ay zirvesine -16.10%, dibine +0.00% | yıllık oynaklık %35
-  temel: F/K 26.2 (son 12 ay) | PD/DD 1.78 | fon büyüklüğü 463.8 mlr USD | temettü verimi %0.45
-  haber: [20.11 17:05] Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage) (Investor's Business Daily)
-  haber: [20.11 17:00] Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff (MT Newswires)
-BTC-USD
-  teknik: RSI14 21 | 20 günlük ortalamaya göre -13.70% | 50 günlük ortalamaya göre -20.60% | 6 ay zirvesine -28.40%, dibine +6.00% | yıllık oynaklık %40
-  haber: [20.11 17:05] Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage) (Investor's Business Daily)
-  haber: [20.11 17:00] Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff (MT Newswires)
+  teknik: RSI14 42 | 20 günlük ortalamaya göre -3.40% | 50 günlük ortalamaya göre -8.90% | 6 ay zirvesine -15.20%, dibine +5.90% | yıllık oynaklık %48
+  temel: F/K 26.1 (son 12 ay) | PD/DD 1.77 | fon büyüklüğü 463.8 mlr USD | temettü verimi %0.45
+  haber: [27.11 17:06] Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Technology Stock Rebound (MT Newswires)
+  haber: [27.11 17:00] Stock Market Today: Dow Futures Jump 650 Points As Nvidia Rebounds; Anthropic, SpaceX, Tesla Rally (Live Coverage) (Investor's Business Daily)
 USDTRY=X
-  teknik: RSI14 97 | 20 günlük ortalamaya göre +1.00% | 50 günlük ortalamaya göre +2.20% | 6 ay zirvesine +0.00%, dibine +10.90% | yıllık oynaklık %1
+  teknik: RSI14 98 | 20 günlük ortalamaya göre +1.00% | 50 günlük ortalamaya göre +2.20% | 6 ay zirvesine +0.00%, dibine +10.70% | yıllık oynaklık %1
 XU030.IS (BIST 30)
-  teknik: RSI14 38 | 20 günlük ortalamaya göre -2.10% | 50 günlük ortalamaya göre -7.30% | 6 ay zirvesine -19.10%, dibine +4.00% | yıllık oynaklık %29
-  haber: [20.11 14:33] BIST-30 - XU030 Endeksi - 20 Kasım 2026 BIST-30 Endeksi (Mynet Finans)
-  haber: [19.11 09:34] Borsa İstanbul CANLI: BIST100, hisseler ve VİOP'ta canlı takip (19 Kasım 2026) (CNBC-e)
+  teknik: RSI14 40 | 20 günlük ortalamaya göre -3.10% | 50 günlük ortalamaya göre -6.80% | 6 ay zirvesine -20.30%, dibine +2.80% | yıllık oynaklık %30
+  haber: [27.11 13:10] BIST-30 - XU030 Endeksi - 27 Kasım 2026 BIST-30 Endeksi (Mynet Finans)
+  haber: [26.11 18:12] Borsa günü yükselişle kapadı (26 Kasım 2026) (CNBC-e)
 THYAO.IS (TURK HAVA YOLLARI, Industrials)
-  teknik: RSI14 73 | 20 günlük ortalamaya göre +12.70% | 50 günlük ortalamaya göre +13.70% | 6 ay zirvesine -6.00%, dibine +35.20% | yıllık oynaklık %50
-  temel: F/K 4.6 (ileriye dönük) | PD/DD 19.48 | piyasa değeri 450.5 mlr TRY
-  haber: [20.11 14:45] THYAO Paylarında İşlem Hacmi %7 Yükseldi (Para Ajansı)
-  haber: [20.11 13:39] BofA'nın bugünkü gözdesi THYAO oldu: TUPRS ve KCHOL sattı (YatırımX)
+  teknik: RSI14 56 | 20 günlük ortalamaya göre +1.50% | 50 günlük ortalamaya göre +6.90% | 6 ay zirvesine -10.80%, dibine +28.30% | yıllık oynaklık %51
+  temel: F/K 4.3 (ileriye dönük) | PD/DD 18.38 | piyasa değeri 425.1 mlr TRY
+  haber: [27.11 10:53] THYAO Avrupa Uçuşlarında Büyük Kampanya Başlattı (Finans Hattı)
+  haber: [27.11 09:45] Bugün hareketli olması beklenen hisseler (Rota Borsa)
 SPY (State Street SPDR S&P 500 ETF T)
-  teknik: RSI14 30 | 20 günlük ortalamaya göre -5.20% | 50 günlük ortalamaya göre -6.50% | 6 ay zirvesine -8.50%, dibine +0.00% | yıllık oynaklık %23
-  temel: F/K 22.7 (son 12 ay) | PD/DD 1.66 | fon büyüklüğü 796.9 mlr USD | temettü verimi %1.0
-  haber: [20.11 17:00] Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff (MT Newswires)
-  haber: [20.11 15:57] The S&P 500 Just Had Its Biggest Reversal Since March 2020 (24/7 Wall St.)
-GC=F
-  teknik: RSI14 23 | 20 günlük ortalamaya göre -9.70% | 50 günlük ortalamaya göre -13.30% | 6 ay zirvesine -23.80%, dibine +0.00% | yıllık oynaklık %27
-  haber: [20.11 16:30] NSA’s highly classified network goes down — ex-official warns of threat to America’s banks, water systems (Moneywise)
-  haber: [20.11 16:15] Kylie Jenner made $3.25M on her $12M mansion — stocks could’ve made her $30M. How good an investment is your home? (Moneywise)
-ETH-USD
-  teknik: RSI14 24 | 20 günlük ortalamaya göre -14.90% | 50 günlük ortalamaya göre -23.90% | 6 ay zirvesine -36.80%, dibine +12.20% | yıllık oynaklık %56
-  haber: [20.11 14:10] Perpetual Futures Are Surging in Popularity, But They Are Also Facing Mounting Controversy. Here's What Crypto Investors Need to Know. (Motley Fool)
-  haber: [20.11 13:15] Gemini Will Stop Holding Coins for VanEck’s HODL, ETHV and VSOL in February (Unchained)
+  teknik: RSI14 44 | 20 günlük ortalamaya göre -2.00% | 50 günlük ortalamaya göre -4.30% | 6 ay zirvesine -6.90%, dibine +5.10% | yıllık oynaklık %32
+  temel: F/K 22.8 (son 12 ay) | PD/DD 1.67 | fon büyüklüğü 796.9 mlr USD | temettü verimi %1.0
+  haber: [27.11 17:06] Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Technology Stock Rebound (MT Newswires)
+  haber: [27.11 16:03] JEPI Gets the Attention. JPMorgan’s 0.12% Quality ETF Has Quietly Grown Past $9 Billion (24/7 Wall St.)
+BTC-USD
+  teknik: RSI14 30 | 20 günlük ortalamaya göre -7.50% | 50 günlük ortalamaya göre -18.30% | 6 ay zirvesine -29.60%, dibine +4.20% | yıllık oynaklık %38
+  haber: [27.11 17:07] Analyst Warns of $38,000 Bitcoin Crash as Trump Proposes Tariffs on 14 Trading Partners (CCN)
+  haber: [27.11 17:06] Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Technology Stock Rebound (MT Newswires)
+
+Şu an piyasası kapalı veya verisi olmadığı için gösterilmeyenler: GC=F
 
 === FIRSAT TABLOSU: günün öne çıkanları (açık piyasalar) ===
 Borsa İstanbul büyük hisseler:
-  günün en iyileri: THYAO.IS gün -0.23% hafta +2.26% ay +23.58% RSI 73; PGSUS.IS gün -0.45% hafta +0.39% ay +20.57% RSI 65; ALARK.IS gün -0.78% hafta -6.23% ay -1.92% RSI 48; KRDMD.IS gün -1.11% hafta -4.06% ay -11.23% RSI 42
-  günün en kötüleri: ASTOR.IS gün -5.76% hafta -12.03% ay -7.98% RSI 38; HEKTS.IS gün -3.80% hafta -9.52% ay -19.58% RSI 30; TUPRS.IS gün -3.36% hafta -9.89% ay -9.95% RSI 35; KCHOL.IS gün -3.36% hafta -9.78% ay -7.92% RSI 34
+  günün en iyileri: ASTOR.IS gün +9.98% hafta +10.51% ay -8.84% RSI 48; ASELS.IS gün +5.79% hafta +1.91% ay -7.04% RSI 48; TOASO.IS gün +4.17% hafta +3.45% ay +10.87% RSI 56; BIMAS.IS gün +3.26% hafta -0.67% ay +1.92% RSI 46
+  günün en kötüleri: AKBNK.IS gün -2.23% hafta -8.98% ay -5.87% RSI 28; YKBNK.IS gün -2.21% hafta -9.35% ay -4.93% RSI 33; GARAN.IS gün -1.64% hafta -4.44% ay +8.76% RSI 45; EKGYO.IS gün -1.02% hafta -5.34% ay -3.45% RSI 36
 ABD büyük şirketler:
-  günün en iyileri: UNH gün +3.46% hafta -16.08% ay -19.54% RSI 31; WMT gün +2.20% hafta +0.57% ay +6.35% RSI 66; PEP gün +1.48% hafta -3.01% ay +1.61% RSI 54; COST gün +1.23% hafta +0.10% ay +8.75% RSI 71
-  günün en kötüleri: MU gün -4.77% hafta -15.52% ay -23.23% RSI 33; AMD gün -4.58% hafta -12.60% ay -8.10% RSI 43; META gün -3.28% hafta -10.13% ay -11.12% RSI 33; INTC gün -3.23% hafta -9.62% ay -36.93% RSI 30
+  günün en iyileri: PLTR gün +3.95% hafta +10.66% ay -13.59% RSI 50; MU gün +3.78% hafta -9.63% ay -36.54% RSI 38; TSLA gün +3.56% hafta +5.15% ay -2.61% RSI 55; AMD gün +2.89% hafta -14.60% ay -27.77% RSI 40
+  günün en kötüleri: KO gün -0.60% hafta +0.95% ay +5.75% RSI 56; WMT gün +0.17% hafta +4.86% ay +11.28% RSI 71; PEP gün +0.19% hafta +3.74% ay +8.73% RSI 60; COST gün +0.20% hafta -0.44% ay +10.81% RSI 63
 ABD sektör fonları:
-  günün en iyileri: XLP gün +1.47% hafta -1.27% ay +1.32% RSI 57; XLV gün +0.96% hafta -5.13% ay -1.18% RSI 45; XLRE gün +0.58% hafta -2.79% ay +1.43% RSI 47; XLU gün +0.56% hafta -1.79% ay +0.89% RSI 52
-  günün en kötüleri: SMH gün -2.96% hafta -10.79% ay -17.03% RSI 31; XLK gün -1.77% hafta -7.30% ay -13.43% RSI 30; XLY gün -0.55% hafta -3.95% ay +0.20% RSI 45; XLE gün -0.49% hafta -6.73% ay -10.33% RSI 35
+  günün en iyileri: SMH gün +2.46% hafta -3.27% ay -23.75% RSI 40; XLK gün +1.71% hafta -1.39% ay -17.04% RSI 40; XLC gün +1.66% hafta +4.25% ay +3.87% RSI 53; XLE gün +1.56% hafta +1.58% ay -9.64% RSI 44
+  günün en kötüleri: XLP gün +0.08% hafta +2.79% ay +6.37% RSI 62; XLV gün +0.12% hafta +3.63% ay +2.33% RSI 54; XLU gün +0.14% hafta +1.53% ay +2.78% RSI 57; XLRE gün +0.54% hafta +2.83% ay +4.66% RSI 57
 Kripto:
-  günün en iyileri: BTC-USD gün +0.24% hafta -4.99% ay -19.62% RSI 21; ETH-USD gün +0.03% hafta -4.34% ay -21.65% RSI 24; XRP-USD gün -1.06% hafta -2.57% ay -24.30% RSI 28; LTC-USD gün -1.32% hafta -8.34% ay -25.40% RSI 25
-  günün en kötüleri: ADA-USD gün -3.18% hafta -5.42% ay -24.74% RSI 27; DOT-USD gün -2.90% hafta -5.93% ay -28.93% RSI 24; DOGE-USD gün -2.42% hafta -5.26% ay -25.27% RSI 26; SOL-USD gün -2.16% hafta -1.64% ay -25.70% RSI 26
+  günün en iyileri: DOGE-USD gün +3.09% hafta +5.18% ay -19.64% RSI 38; SOL-USD gün +2.27% hafta +2.79% ay -19.45% RSI 37; AVAX-USD gün +1.90% hafta +0.50% ay -19.45% RSI 36; XRP-USD gün +1.60% hafta +3.30% ay -18.68% RSI 37
+  günün en kötüleri: DOT-USD gün +0.49% hafta +2.22% ay -26.00% RSI 30; LTC-USD gün +0.50% hafta +9.74% ay -16.17% RSI 41; BTC-USD gün +0.85% hafta -0.25% ay -19.46% RSI 30; BNB-USD gün +1.08% hafta +0.11% ay -19.33% RSI 32
 
 === HABER BAŞLIKLARI ===
 ABD ve dünya piyasaları:
-  [20.11 14:00] Anthropic's IPO ties the fate of the US economy closer to AI (Yahoo Finance)
-  [20.11 12:28] Stock market today: Dow, S&P 500, Nasdaq futures continue to sell-off after Anthropic IPO fails to quell AI worries (Yahoo Finance)
-  [20.11 17:17] Would Warren Buffett Buy Anthropic? This Is the One Question He'd Have (Motley Fool)
-  [20.11 17:12] Rare Citi signal seen just 3 times since 2000 is days from triggering (Investing.com)
-Borsa İstanbul:
-  [20.11 16:12] TİP'ten Borsa İstanbul Para Piyasası için Meclis'e soru önergesi (Dosya Haber)
-  [20.11 15:49] BIST 100 endeksi satış baskısı yaşadı (hibya.com)
-  [20.11 15:05] Borsada düşüş sürüyor: BIST 100'de sert gerileme haberi (Borsanın Gündemi)
-  [20.11 14:00] Son Dakika Bugün Borsa Neden Düşüyor? BIST 100 Endeksi Ne Kadar Oldu ve Düşüş Sürecek mi? (20 Kasım 2026 Cuma) (Batman Pusula Gazetesi)
-Türkiye ekonomisi:
-  [20.11 15:14] Deutsche Bank’tan 2027 dolar tahmini: İlk yarıda yükseliş, ikinci yarıda geri çekilme! (ABC Haber)
-  [20.11 13:43] Fed faiz kararı ne zaman açıklanacak, toplantı hangi gün? 2026 Aralık yılın son ABD Merkez Bankası Fed faiz kararı beklentisi (Uzmanpara)
-  [20.11 13:04] Ons altın 14 ayın en düşük seviyesine geriledi, FED faiz beklentisi izleniyor (Yorumla)
-  [20.11 11:18] DÖVİZ KURU 20 KASIM 2026: Dolar ve euro bugün kaç TL? Dolar endeksi 19 ayın zirvesinde: İşte güncel döviz kurları (İstanbul Ticaret Gazetesi)
+  [27.11 17:23] 10 Best Strong Buy Stocks to Buy and Hold For the Next 5 Years (Insider Monkey)
+  [27.11 17:23] 5 Strong Buy Stocks to Buy and Hold For the Next 5 Years (Insider Monkey)
+  [27.11 17:06] Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Technology Stock Rebound (MT Newswires)
+  [27.11 17:00] PagSeguro (PAGS) Stock Jumps 12.4% Premarket Without Company News (GuruFocus.com)
 
 Kararını JSON olarak ver.

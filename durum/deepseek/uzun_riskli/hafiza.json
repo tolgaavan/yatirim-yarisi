@@ -1,25 +1,19 @@
 {
- "notlar": "Pozisyonlar sonrası: QQQ 2798 TL, USDTRY 1506 TL, XU030 3344 TL, nakit ~1855 TL, BTC 0. Strateji: 3 aylık riskli; TL riskini USD ve BIST/ABD hissesiyle dengele. Ders: BTC aşırı satım sinyaline rağmen düşüş trendinde, stop uygulandı; XU030 20g altına inince plana uygun 1000 TL eklendi. ABD 10y faiz %4.99, QQQ'da baskı. Komisyon %0.2, sık işlem yapma.",
- "plan": "27 Kasım'da kontrol: QQQ 6 ay dibini kırarsa yarısını satmayı değerlendir; XU030 20g altına düşerse ekleme yapma; USDTRY geri çekilirse 50.0 altına sarkınca alım yap; BTC 66 bin üzerine toparlanırsa küçük alım düşün ama acele etme.",
- "sonraki_tura_mesaj": "BTC tamamen satıldı, XU030'a 1000 TL eklendi. QQQ RSI 32 ve 6 ay dibinde, kırılırsa azalt. USDTRY RSI 97 ile aşırı alım, geri çekilme bekle. Nakit ~1855 TL.",
+ "notlar": "Pozisyonlar: QQQ 2842 TL, USDTRY 1513 TL, XU030 3294 TL, nakit 1855 TL; toplam 9503 TL (-4.97%). Strateji: TL riskini USD, ABD ve BIST hissesiyle dengele. Ders: aşırı satım tek başına alım sebebi değil; önce trendin dönüşünü bekle. USDTRY RSI 98 üzeri yeni alım yapma; 50.0 altına geri çekilirse ekle. QQQ 6 ay dibine yaklaşırsa azaltmayı değerlendir. XU030 20g altındayken ekleme yapma.",
+ "plan": "4 Aralık kontrolüne kadar: QQQ 20g üzerinde günlük kapanış yaparsa küçük ekleme değerlendir; XU030 6 ay dibini korursa tut, kırılırsa yarısını sat; THYAO 20g üzerinde kaldıkça XU030'un alternatifi olarak izle; USDTRY 50.0 altına sarkmadıkça yeni alım yapma; BTC 66 bin üzerine toparlanırsa ancak o zaman küçük alım düşün.",
+ "sonraki_tura_mesaj": "ABD toparlanması teyit bekliyor; QQQ 20g üzerinde kapanışta ekleme, XU030 6ay dibini kırarsa azalt, USD 50 altına sarkmadan ekleme, BTC 66k üzeri değilse uzak dur.",
  "izleme_listesi": [
   "THYAO.IS",
   "SPY",
-  "GC=F",
-  "QQQ",
-  "XU030.IS",
-  "USDTRY=X",
   "BTC-USD"
  ],
- "son_yorum": "Küresel risk iştahı zayıf: VIX %54 haftalık artışla 29.75'te, teknoloji satışı ve BIST'te sert düşüş sürüyor. USD güçlü, BTC RSI 21 ile aşırı satımda ama düşüş trendi teyit edilmedi. Kısa vadede nakit/döviz, uzun vadede dibe yakın XU030 fırsatı öne çıkıyor.",
+ "son_yorum": "ABD borsaları açılışta teknoloji öncülüğünde toparlanıyor; QQQ +%1.6 ile 20 günlük ortalamasına yaklaşıyor fakat henüz trend dönüş sinyali yok. BIST günü +%2 yükseliyor, XU030 6 ay dibine yakın destek arıyor. USDTRY RSI 98 ile aşırı alım bölgesinde; TL'de kısa vadeli düzeltme olabilir, bu yüzden yeni döviz alımı için erken. Nakit ve pozisyonları koruyarak teyit beklemek uygun.",
  "kurgu": {
   "metin": "Portföyü TL değer kaybına karşı ABD hissesi, döviz ve BIST endeksiyle dengeli kurup kriptoyla riski artırıyorum. Enflasyon ve faiz indirimi beklentisi nedeniyle TL'de kalmak yerine USD cinsi varlıkları ağırlıklandırıyorum. BIST'te endeks fonu, ABD'de QQQ ile büyüme, BTC ile küçük oynaklık alıyorum. Disiplinli haftalık kontrolle komisyonu düşük tutacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: BTC-USD 0.000278816 adet (%100), birim 3138058.1077 TL, eline geçen 873.19 TL, kâr/zarar -128.81 TL",
-  "ALINDI: XU030.IS 0.0716564 adet, birim 13955.4805 TL, tutar 1000.00 TL + komisyon 2.00 TL",
-  "Sonraki kontrol: 2026-11-27 17:30"
+  "Sonraki kontrol: 2026-12-04 17:30"
  ]
 }

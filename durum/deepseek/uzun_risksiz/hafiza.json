@@ -1,21 +1,21 @@
 {
- "notlar": "Düşük riskli uzun vade stratejisi: %100 SGOV (ABD 0-3 ay Hazine ETF). Amaç TL'de değer kaybına karşı dolar koruması ve istikrarlı faiz getirisi; SGOV faiz dağıtımı + kısa vade düşük oynaklık sağlar. 20.11.2026'da ABD borsaları sert düşüşte, VIX yüksek; riskli varlıklardan (BTC, altın, hisse, TLT) uzak dur. Komisyon %0.2, sık al-sat yapma. 3 aylık sonuçta dolar tutmaya yakın kalmak ana referans.",
- "plan": "Her cuma USDTRY, SGOV fiyatı ve ABD kısa vadeli faizlerini izle. USDTRY verisi açık olduğunda TL değer kaybının portföye etkisini değerlendir. Piyasa oynaklığı yüksekken SGOV'da kal; ABD kısa vadeli faizlerinde sert düşüş veya TL'de beklenmedik güçlenme sinyali olmadıkça pozisyonu değiştirme. Portföy değeri %2'den fazla düşerse riski gözden geçir.",
- "sonraki_tura_mesaj": "Düşük riskli portföy: %100 SGOV. Piyasa sert düştü, VIX yüksek; işlem yapma. USDTRY verisini kontrol et, SGOV'da kalmaya devam et. Komisyon %0.2.",
+ "notlar": "Düşük riskli uzun vade strateji: %100 SGOV (ABD 0-3 ay Hazine ETF). Amaç TL değer kaybına karşı dolar koruması ve istikrarlı faiz getirisi. Portföy +1.04%, komisyon 19.96 TL. USDTRY 50.78 yeni zirve, RSI 98. VIX 25.6, riskli varlıklardan uzak dur. SGOV yıllık oynaklık %1, temettü verimi %3.64. Sık al-sat yapma; komisyon %0.2.",
+ "plan": "Haftalık USDTRY, SGOV fiyatı, VIX ve ABD kısa vadeli faizlerini izle. USDTRY'de sert düşüş veya ABD kısa vadeli faizlerinde ani değişim olmadıkça SGOV'da kal. Portföy değeri başlangıçtan %2'den fazla düşerse riski yeniden değerlendir. Oynaklık azalıp risk iştahı kalıcı toparlanırsa alternatiflere bak.",
+ "sonraki_tura_mesaj": "SGOV'da kal. USDTRY 50.78 yeni zirve, VIX 25.6. Komisyon yok; düşük risk korunuyor. Haftalık verileri kontrol et.",
  "izleme_listesi": [
   "SGOV",
   "BIL",
+  "USDTRY=X",
   "GLD",
-  "TLT",
-  "USDTRY=X"
+  "TLT"
  ],
- "son_yorum": "VIX %35'e sıçradı; S&P 500 günlük -%3.45, Nasdaq -%5.10. Teknoloji hisseleri ağır satış yiyor, tahviller güvenli liman olarak yükseliyor. Kısa vadeli Hazine ETF'i SGOV +%0.03 ile istikrarlı. USDTRY verisi kapalı olduğu için TL tarafını tam göremiyoruz; bu ortamda düşük riskli stratejiye sadık kalmak doğru.",
+ "son_yorum": "VIX 25.6 ile hâlâ yüksek fakat haftalık bazda geriliyor; risk varlıkları toparlanma çabasında. USDTRY 50.78 ile yeni zirvesinde, RSI 98 aşırı alım bölgesinde. TL'deki değer kaybı sürerken SGOV hem dolar koruması hem kısa vadeli faiz getirisi sağlıyor. Düşük riskli portföy için mevcut pozisyon en uygun duruş.",
  "kurgu": {
   "metin": "Sermayeyi korumak önceliğim olduğu için 10 bin TL’nin tamamını düşük riskli, dolar cinsi ve kısa vadeli ABD Hazine bonosu taşıyan SGOV ETF’ine yatırdım. BIST hisseleri, altın, kripto ve uzun vadeli tahvillere göre çok daha düşük oynaklık sunar; TL nakit ise enflasyon karşısında faiz getirisi olmadan erir. Bu seçim, üç aylık vadede TL’nin olası değer kaybına karşı pasif bir korunma ve istikrarlı getiri hedefler.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-27 17:30"
+  "Sonraki kontrol: 2026-12-04 17:30"
  ]
 }

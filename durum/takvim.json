@@ -1,11 +1,11 @@
 {
  "deepseek/uzun_riskli": {
-  "sonraki": "2026-11-27T17:30:00+03:00",
-  "neden": "Haftalık değerlendirme; ABD ve BIST piyasaları aynı anda açıkken zorunlu çeşitlilik ve fiyatlar kontrol edilebilir."
+  "sonraki": "2026-12-04T17:30:00+03:00",
+  "neden": "Haftalık kontrol; BIST ve ABD piyasalarının birlikte açık olduğu saatte sinyalleri değerlendirip gerekirse işlem yapmak için."
  },
  "deepseek/uzun_risksiz": {
-  "sonraki": "2026-11-27T17:30:00+03:00",
-  "neden": "ABD piyasası açıkken ve Türkiye döviz kurları açıkken USDTRY ile SGOV'u birlikte değerlendirmek için uygun saat."
+  "sonraki": "2026-12-04T17:30:00+03:00",
+  "neden": "Haftalık gözden geçirme için uygun gün ve saat; ABD piyasası açılış sonrası, BIST kapanış öncesi."
  },
  "deepseek/orta_riskli": {
   "sonraki": "2026-11-27T17:45:00+03:00",
@@ -16,8 +16,8 @@
   "neden": "Cuma kapanışı öncesi VIX ve ABD borsalarını kontrol edip hafta sonu riskini değerlendirmek."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-27T17:31:22+03:00",
-  "neden": "ABD açılışı (17:30) sonrası BTC momentumunu ve BIST banka kapanış sinyallerini değerlendirmek için."
+  "sonraki": "2026-11-30T10:00:00+03:00",
+  "neden": "Pazartesi BIST açılışında banka sinyallerini ve BTC 15dk momentumunu değerlendirmek için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-27T17:35:00+03:00",
@@ -40,8 +40,8 @@
   "neden": "hata, yeniden denenecek"
  },
  "claude/uzun_riskli": {
-  "sonraki": "2026-11-27T17:35:00+03:00",
-  "neden": "Haftalık cuma kontrolü. 27.11'de ABD piyasası Şükran Günü sonrası yarım gün açık, 17:35'te üç piyasa birlikte işlemde olacak."
+  "sonraki": "2026-11-27T15:01:08+00:00",
+  "neden": "hata, yeniden denenecek"
  },
  "claude/uzun_risksiz": {
   "sonraki": "2026-11-27T17:45:00+03:00",

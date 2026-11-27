@@ -1,19 +1,19 @@
 {
- "notlar": "27.11 17:01 kontrol: BTC 15dk RSI42 hacim0.6x; AKBNK 15dkRSI48 hacim0.5x; YKBNK 15dkRSI50 hacim0.3x. Şart yok, nakitte kal. Strateji: BTC alım için 15dk RSI>60 ve hacim>1x; BIST banka için günlük RSI<35 + 15dk RSI>60 + hacim>1x. Alım sonrası %2 ters fiyatta stop veya 15dk RSI>75'te çık. Ders: ADA momentumu piyasa düşüşünde tutunamadı; hedefe yaklaşınca realize et.",
- "plan": "BTC 15dk RSI>60 ve hacim>1x olursa %20-25 al. BIST'te AKBNK/YKBNK günlük RSI<35, 15dk RSI>60 ve hacim>1x üçü birden oluşursa %20-25 al. Alım sonrası %2 ters fiyatta veya 15dk RSI>75'te çık.",
- "sonraki_tura_mesaj": "17:31'de bak: BTC 15dk RSI>60 ve hacim>1x mi? AKBNK/YKBNK için günlük RSI<35 + 15dk RSI>60 + hacim>1x mi? Değilse piyasa kapanmadan işlem yok.",
+ "notlar": "27.11 17:31 kontrol: BTC 15dk RSI28 hacim0.8x; AKBNK 15dkRSI47 hacim0.6x; YKBNK 15dkRSI48 hacim0.3x. Şart yok, nakitte kal. Strateji: BTC alım için 15dk RSI>60 ve hacim>1x; BIST banka için günlük RSI<35 + 15dk RSI>60 + hacim>1x. Alım sonrası %2 ters fiyatta stop veya 15dk RSI>75'te çık. Ders: momentum yoksa zorlama; ARCLK küçük kâr realization gösterdi.",
+ "plan": "Pazartesi 10:00'da BTC ve banka şartlarını kontrol et; uygun kurulumda %20-25 pozisyon, değilse bekle. Stop %2 veya 15dk RSI>75.",
+ "sonraki_tura_mesaj": "Pazartesi 10:00 kontrol: BTC 15dk RSI>60 ve hacim>1x mi? AKBNK/YKBNK günlük RSI<35 + 15dk RSI>60 + hacim>1x mi? Değilse işlem yok.",
  "izleme_listesi": [
   "AKBNK.IS",
   "YKBNK.IS",
   "BTC-USD"
  ],
- "son_yorum": "BIST 100 %2.2 yükselse de bankacılık negatif ayrışıyor; AKBNK/YKBNK günlük RSI aşırı satımda ancak 15dk RSI ve hacim teyidi yok. BTC'de toparlanma girişimi zayıf hacimle sınırlı. ABD açılışı öncesi temkinliyim.",
+ "son_yorum": "BIST %2.04 ile toparlansa da bankalar zayıf; BTC 15dk RSI 28 ve hacim 0.8x ile plan şartımı karşılamıyor. ABD'de teknoloji öncülüğünde tepki var ancak VIX hâlâ yüksek; nakitte kalmak en uygun.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-27 17:31 (istediğin: 2026-11-27 17:31; en az 30 dakika sonrası olmalı)"
+  "Sonraki kontrol: 2026-11-30 10:00"
  ]
 }
