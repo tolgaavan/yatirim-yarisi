@@ -22,14 +22,14 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Orta vade · risksiz
-DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:31 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
 Dönem başı değer: 10,053.12 TL
-Dönem sonu değer: 10,098.23 TL
-Değişim: +45.11 TL (+0.45%)
+Dönem sonu değer: 10,097.66 TL
+Değişim: +44.54 TL (+0.44%)
 Başlangıçtan bu yana: +0.98%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.96%, Altın +4.64%, Bitcoin +3.04%, Dolar +0.37%
 Şu anki varlıklar: SGOV
 
 === BAŞLANGIÇ KURGUN ===

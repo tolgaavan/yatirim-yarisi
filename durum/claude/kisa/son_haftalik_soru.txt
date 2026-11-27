@@ -22,14 +22,14 @@ Cevabını SADECE şu biçimde, geçerli tek bir JSON nesnesi olarak ver:
 -----
 
 PORTFÖY: Kısa vade · al-sat
-DÖNEM: 21.11 00:15 - 28.11 00:15 (İstanbul saati)
+DÖNEM: 21.11 00:15 - 28.11 00:31 (İstanbul saati)
 
 === GERÇEK SONUÇ (program hesapladı) ===
 Dönem başı değer: 9,797.95 TL
-Dönem sonu değer: 9,827.81 TL
-Değişim: +29.86 TL (+0.30%)
-Başlangıçtan bu yana: -1.72%
-Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.97%, Altın +4.64%, Bitcoin +3.11%, Dolar +0.37%
+Dönem sonu değer: 9,827.35 TL
+Değişim: +29.40 TL (+0.30%)
+Başlangıçtan bu yana: -1.73%
+Aynı dönemde kıyaslar (al ve bekle): BIST 100 -1.36%, S&P 500 +5.96%, Altın +4.64%, Bitcoin +3.04%, Dolar +0.37%
 Şu anki varlıklar: USDTRY=X
 
 === BAŞLANGIÇ KURGUN ===
