@@ -1,26 +1,22 @@
 {
- "notlar": "Strateji: riskli 1 ay; zorunlu çeşitlilik tam. QQQ %30 azaltıldı, XLP alındı; QQQ kalan ~2.35K TL. XLP savunmacı ABD hissesi, RSI 61, ay +5.7. THYAO RSI 59, F/K 4.5, BofA alıyor, tut. USDTRY RSI 97, dolar güçlü, 51 üstü tut. BTC RSI 22, yeşil teyit olmadan ekleme. Komisyonlar düşük tutulmalı.",
- "plan": "Cuma 17:45'te: QQQ günlük -5% veya RSI<20 olursa kalanı da azalt; XLP günlük %2+ düşerse durdur; THYAO RSI 80+ ise %30 sat; USDTRY 51 üstü ise tut; BTC yeşil gün ve RSI<30 olursa 200 TL ekle.",
- "sonraki_tura_mesaj": "QQQ %30 satılıp XLP alındı; Cuma XLP/QQQ tepkisi, BTC yeşil teyit, THYAO RSI 80 ve USDTRY 51 durumuna göre hareket et.",
+ "notlar": "Strateji: riskli 1 ay, zorunlu çeşitlilik tam. QQQ kalan 2.47K TL (bugün +0.86 RSI40 hâlâ zayıf); THYAO RSI56 F/K4.3 güçlü, tut; USDTRY RSI98 aşırı alım ama trend yukarı, 50.75 tut; XLP savunmacı RSI62; BTC RSI27 zayıf, yeşil teyit yok. Komisyonu düşük tut, plan tetiklenmedikçe bekle.",
+ "plan": "Pazartesi 17:45: QQQ günlük -5% veya RSI<20 olursa kalanını azalt; XLP günlük -2% veya RSI>75 olursa sat; THYAO RSI 80+ ise %30 sat; USDTRY 51 üstü tut, 49 altı azalt; BTC yeşil gün+RSI<30 ise 200 TL ekle.",
+ "sonraki_tura_mesaj": "Pazartesi 17:45 kontrol: QQQ -5%/RSI<20 ise azalt, XLP -2%/RSI>75 ise sat, THYAO RSI80+ ise %30 sat, USDTRY 51 üstü tut 49 altı azalt, BTC yeşil+RSI<30 ise 200 TL ekle.",
  "izleme_listesi": [
+  "QQQ",
+  "THYAO.IS",
   "XLP",
   "SPY",
   "NVDA",
-  "AAPL",
-  "GC=F",
-  "ETH-USD",
-  "XU030.IS",
-  "SOL-USD"
+  "AAPL"
  ],
- "son_yorum": "ABD'de PCE sıcak, VIX 31.7 ile risk iştahı bozuk; teknoloji öncülüğünde sert satış var. BIST'te bankacılık zayıf, THYAO nispeten dirençli. Dolar/TL 50.68 ile zirve bölgesinde, enflasyon baskısı sürüyor.",
+ "son_yorum": "ABD'de teknoloji hisseleri hafif toparlanıyor, VIX geriliyor; BIST 100 banka baskısına rağmen günü artıda geçiyor. USDTRY aşırı alım bölgesinde, BTC hâlâ zayıf. Net bir teyit olmadığı için bekleme taraftarıyım.",
  "kurgu": {
   "metin": "Portföyü riskli orta vade için TL değerini korumak ve büyütmek amacıyla kuruyorum. Zorunlu üç piyasayı tamamladıktan sonra ağırlığı ABD büyüme hisseleri ile dövizde tutup, BIST'i seçici fırsatlar için kullanacağım. Kaldıraçsız yüksek betalı varlıklarla sınırlı risk alıp komisyonu düşük tutmak için az ve net tezli işlem yapacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "SATILDI: QQQ 0.0325677 adet (%30), birim 30903.5705 TL, eline geçen 1004.45 TL, kâr/zarar -122.80 TL",
-  "ALINDI: XLP 0.214231 adet, birim 4667.8498 TL, tutar 1000.00 TL + komisyon 2.00 TL",
-  "Sonraki kontrol: 2026-11-27 17:45"
+  "Sonraki kontrol: 2026-11-30 17:45"
  ]
 }

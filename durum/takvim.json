@@ -8,12 +8,12 @@
   "neden": "Haftalık gözden geçirme için uygun gün ve saat; ABD piyasası açılış sonrası, BIST kapanış öncesi."
  },
  "deepseek/orta_riskli": {
-  "sonraki": "2026-11-27T17:45:00+03:00",
-  "neden": "ABD piyasası yarım gün açık; QQQ/XLP geçişinin etkisini ve BTC/THYAO sinyallerini izlemek için uygun."
+  "sonraki": "2026-11-30T17:45:00+03:00",
+  "neden": "ABD ve BIST aynı anda açıkken plan koşullarını değerlendirmek için."
  },
  "deepseek/orta_risksiz": {
-  "sonraki": "2026-11-27T17:45:00+03:00",
-  "neden": "Cuma kapanışı öncesi VIX ve ABD borsalarını kontrol edip hafta sonu riskini değerlendirmek."
+  "sonraki": "2026-11-30T17:45:00+03:00",
+  "neden": "Hafta sonu aradan çıkıp yeni haftada BIL, USDTRY ve VIX'i kontrol etmek; ABD piyasası açılışı sonrası."
  },
  "deepseek/kisa": {
   "sonraki": "2026-11-30T10:00:00+03:00",
@@ -44,19 +44,19 @@
   "neden": "hata, yeniden denenecek"
  },
  "claude/uzun_risksiz": {
-  "sonraki": "2026-11-27T17:45:00+03:00",
-  "neden": "Haftalık cuma kontrolü. Şükran Günü'nün ertesi günü ABD piyasası yarım gün açık (İstanbul saatiyle ~21:00'e kadar), bu yüzden 17:45 hem ABD hem BIST verisi için uygun."
+  "sonraki": "2026-11-27T15:16:00+00:00",
+  "neden": "hata, yeniden denenecek"
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-27T14:45:48+00:00",
+  "sonraki": "2026-11-27T15:16:00+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-27T14:45:48+00:00",
+  "sonraki": "2026-11-27T15:16:00+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/kisa": {
-  "sonraki": "2026-11-27T14:45:48+00:00",
+  "sonraki": "2026-11-27T15:16:00+00:00",
   "neden": "hata, yeniden denenecek"
  }
 }

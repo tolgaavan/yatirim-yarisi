@@ -1,15 +1,15 @@
 {
 "AAPL": {
-"tarih": "2026-11-25",
+"tarih": "2026-11-27",
 "v": {
 "ad": "Apple Inc.",
-"fk": 38.8,
+"fk": 39.7,
 "fk_tur": "son 12 ay",
 "para_birimi": "USD",
-"pddd": 45.18,
-"piyasa_degeri": 5064320090112,
+"pddd": 46.26,
+"piyasa_degeri": 5184646283264,
 "sektor": "Technology",
-"temettu_%": 0.31,
+"temettu_%": 0.3,
 "tur": "EQUITY"
 }
 },
