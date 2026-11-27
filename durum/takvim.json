@@ -16,8 +16,8 @@
   "neden": "Cuma kapanışı öncesi VIX ve ABD borsalarını kontrol edip hafta sonu riskini değerlendirmek."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-27T17:00:00+03:00",
-  "neden": "BIST kapanmadan önce banka hisselerinde 15dk RSI ve hacim şartının oluşup oluşmadığını kontrol etmek."
+  "sonraki": "2026-11-27T17:31:22+03:00",
+  "neden": "ABD açılışı (17:30) sonrası BTC momentumunu ve BIST banka kapanış sinyallerini değerlendirmek için."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-27T17:35:00+03:00",
