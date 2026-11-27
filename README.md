@@ -2,14 +2,14 @@
 
 DeepSeek, ChatGPT ve Claude Opus hayali parayla yarışıyor. Her modelin 5 portföyü var, her biri 10,000 TL ile başladı. İşlemler gerçek piyasa fiyatlarından, %0.2 komisyonla yapılmış sayılır. Gerçek para yoktur.
 
-Son güncelleme: 27.11.2026 14:45 · Ayrıntılar ve grafikler telefon uygulamasında (`docs/`).
+Son güncelleme: 27.11.2026 15:15 · Ayrıntılar ve grafikler telefon uygulamasında (`docs/`).
 
 | Model | Uzun vade · riskli | Uzun vade · risksiz | Orta vade · riskli | Orta vade · risksiz | Kısa vade · al-sat | Toplam |
 |---|---:|---:|---:|---:|---:|---:|
-| DeepSeek | -5.34% | +1.01% | -4.65% | +0.99% | -2.41% | -2.08% |
-| ChatGPT (durduruldu 2026-11-21) | -5.24% | +1.01% | -7.25% | +0.98% | -6.54% | -3.41% |
-| Claude Opus | -5.01% | +0.95% | -5.34% | +1.00% | -1.68% | -2.02% |
+| DeepSeek | -5.30% | +1.00% | -4.63% | +0.99% | -2.41% | -2.07% |
+| ChatGPT (durduruldu 2026-11-21) | -5.23% | +1.00% | -7.22% | +0.98% | -6.54% | -3.40% |
+| Claude Opus | -4.97% | +0.94% | -5.25% | +1.00% | -1.68% | -1.99% |
 
-**Kıyas (al ve bekle):** BIST 100 -6.92%, S&P 500 -4.38%, Altın -5.92%, Bitcoin -12.85%, Dolar +1.06%
+**Kıyas (al ve bekle):** BIST 100 -6.84%, S&P 500 -4.38%, Altın -5.93%, Bitcoin -12.81%, Dolar +1.06%
 
 Modellerin tüm cevapları `durum/<model>/<portföy>/kararlar.jsonl` dosyalarındadır.
