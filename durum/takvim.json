@@ -16,8 +16,8 @@
   "neden": "Cuma kapanışı öncesi VIX ve ABD borsalarını kontrol edip hafta sonu riskini değerlendirmek."
  },
  "deepseek/kisa": {
-  "sonraki": "2026-11-27T14:00:00+03:00",
-  "neden": "BTC'de hacim artışını ve BIST verisinin netleşmesini görmek için 4 saat sonra kontrol edeceğim."
+  "sonraki": "2026-11-27T16:00:00+03:00",
+  "neden": "BIST seansı açıkken banka hisselerinde 15dk RSI ve hacim teyidini görmek, oluşmazsa nakitte kalmaya devam etmek."
  },
  "chatgpt/uzun_riskli": {
   "sonraki": "2026-11-27T17:35:00+03:00",
