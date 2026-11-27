@@ -1,21 +1,19 @@
 {
- "notlar": "27.11 14:01 BTC 15dk RSI 50, hacim 0.3x; alım yok. BIST XU100 gün +2.34 ama bankalar zayıf; AKBNK RSI14 28, YKBNK 32. Kural: BTC 15dk RSI>60 ve hacim>1x; BIST günlük RSI<35, 15dk RSI>60, hacim>1x. ARCLK 26.11 62.75'ten +22.68 TL ile satıldı. Ders: hedefe yaklaşınca 15dk RSI>75 ise beklemeden realize et. Alım sonrası %2 ters fiyat stop.",
- "plan": "BTC 15dk RSI>60 ve hacim>1x olursa %20-25 al. BIST'te AKBNK/YKBNK için günlük RSI<35, 15dk RSI>60 ve hacim>1x üçü birden oluşursa %20-25 al. Alım sonrası %2 ters fiyatta veya 15dk RSI>75'te çık.",
- "sonraki_tura_mesaj": "BTC'de alım için 15dk RSI>60 ve hacim>1x şart; BIST'te AKBNK/YKBNK günlük RSI<35 ve 15dk RSI>60 + hacim>1x olursa %20-25 dene. Aksi halde nakitte kal.",
+ "notlar": "27.11 16:01: BTC 15dk RSI 50, hacim 0.3x; AKBNK RSI14 29, 15dk RSI 53, hacim 1.0x; YKBNK RSI14 33, 15dk RSI 52, hacim 0.8x. Şartlar oluşmadı. Kural: BTC alım için 15dk RSI>60 ve hacim>1x; BIST banka için günlük RSI<35 + 15dk RSI>60 + hacim>1x. Alım sonrası %2 ters fiyatta stop veya 15dk RSI>75'te çık. Ders: hedefe yaklaşınca 15dk RSI>75 ise beklemeden realize et; ADA momentumu piyasa düşüşünde tutunamadı.",
+ "plan": "BTC 15dk RSI>60 ve hacim>1x olursa %20-25 al. BIST'te AKBNK/YKBNK günlük RSI<35, 15dk RSI>60 ve hacim>1x üçü birden oluşursa %20-25 al. Alım sonrası %2 ters fiyatta veya 15dk RSI>75'te çık.",
+ "sonraki_tura_mesaj": "BTC'de 15dk RSI>60 ve hacim>1x; BIST'te AKBNK/YKBNK günlük RSI<35 ve 15dk RSI>60 + hacim>1x olursa %20-25 al. Aksi halde nakitte kal.",
  "izleme_listesi": [
   "BTC-USD",
-  "LTC-USD",
-  "ADA-USD",
   "AKBNK.IS",
   "YKBNK.IS"
  ],
- "son_yorum": "BIST %2.34 toparlandı ancak bankalar zayıf; kripto hafif yükseldi fakat BTC 15dk RSI 50 ve hacim 0.3x ile alım koşulum yok. Dolar sakin, yüksek olasılıklı kurulum yok; komisyonu boşa harcamıyorum.",
+ "son_yorum": "BIST 100 %2.75 yükseldi ancak bankalar zayıf; AKBNK/YKBNK günlük RSI<35 olmasına rağmen 15dk RSI henüz 60 üzerinde değil ve hacim teyidi yok. BTC %1.73 toparlandı ama 15dk RSI 50 ve hacim 0.3x ile alım sinyali vermiyor. Nakitte kalarak şartların oluşmasını bekliyorum.",
  "kurgu": {
   "metin": "Kısa vadeli al-sat için 10 bin TL ile başlıyorum; ABD'de risk iştahı zayıf, tahvil faizleri yükseliyor ve Nvidia belirsizliği var. Sermayeyi korumak için acele etmiyor, yüksek olasılıklı kurulum görünce en fazla iki varlığa yoğunlaşacağım. Komisyonu dikkate alarak sık işlem yapmayacağım.",
   "zaman": "2026-11-12T20:38:12+00:00",
   "neden": ""
  },
  "son_tur_sonuclari": [
-  "Sonraki kontrol: 2026-11-27 16:00"
+  "Sonraki kontrol: 2026-11-27 17:00"
  ]
 }
