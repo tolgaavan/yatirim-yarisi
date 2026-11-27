@@ -5,32 +5,32 @@
   "QQQ": {
    "adet": 0.07599135097916637,
    "maliyet_tl": 2630.25,
-   "son_fiyat_tl": 32185.453590508318
+   "son_fiyat_tl": 32188.040629301453
   },
   "BTC-USD": {
    "adet": 0.00041822436103883774,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 3125062.2635352463
+   "son_fiyat_tl": 3117199.95446223
   },
   "GC=F": {
    "adet": 0.005116911306908809,
    "maliyet_tl": 1002.0,
-   "son_fiyat_tl": 183847.23100741766
+   "son_fiyat_tl": 183862.00848809816
   },
   "THYAO.IS": {
    "adet": 4.6801872074882995,
    "maliyet_tl": 1503.0,
-   "son_fiyat_tl": 312.75
+   "son_fiyat_tl": 312.0
   },
   "USDTRY=X": {
    "adet": 39.54601075860157,
    "maliyet_tl": 2004.0,
-   "son_fiyat_tl": 50.78091812133789
+   "son_fiyat_tl": 50.78499984741211
   },
   "TLT": {
    "adet": 0.2936221652272235,
    "maliyet_tl": 1202.4,
-   "son_fiyat_tl": 4176.476750363392
+   "son_fiyat_tl": 4176.812451935577
   }
  },
  "odenen_komisyon_tl": 31.033190599098464
