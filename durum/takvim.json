@@ -40,23 +40,23 @@
   "neden": "hata, yeniden denenecek"
  },
  "claude/uzun_riskli": {
-  "sonraki": "2026-11-28T14:15:59+00:00",
+  "sonraki": "2026-11-28T14:45:49+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/uzun_risksiz": {
-  "sonraki": "2026-11-28T14:15:59+00:00",
+  "sonraki": "2026-11-28T14:45:49+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/orta_riskli": {
-  "sonraki": "2026-11-28T14:15:59+00:00",
+  "sonraki": "2026-11-28T14:45:49+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/orta_risksiz": {
-  "sonraki": "2026-11-28T14:15:59+00:00",
+  "sonraki": "2026-11-28T14:45:49+00:00",
   "neden": "hata, yeniden denenecek"
  },
  "claude/kisa": {
-  "sonraki": "2026-11-28T14:15:59+00:00",
+  "sonraki": "2026-11-28T14:45:49+00:00",
   "neden": "hata, yeniden denenecek"
  }
 }
